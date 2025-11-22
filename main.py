@@ -1,10 +1,10 @@
 import os
 import requests
 import nltk
-from fpdf import FPDF
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
+from datetime import datetime
 
-# Download NLTK lexicon
+# Download NLTK lexicon (required for sentiment analysis)
 nltk.download('vader_lexicon', quiet=True)
 
 class NewsReport:
@@ -12,120 +12,78 @@ class NewsReport:
         self.api_key = os.environ.get("NEWS_API_KEY")
         self.sia = SentimentIntensityAnalyzer()
         
-        # DOMAINS LIST: Using specific website domains is more accurate than "source names"
-        # This forces the API to look at these high-quality financial sites.
+        # TARGET: High-impact global sources for Macro/Geopolitical risk
         self.target_domains = [
-            "bloomberg.com",
-            "reuters.com",
-            "cnbc.com",
-            "wsj.com",             # Wall Street Journal (US)
-            "ft.com",              # Financial Times (UK/Global)
-            "bbc.com",             # UK/Global Policy
-            "aljazeera.com",       # Middle East (Oil/Energy news)
-            "scmp.com",            # South China Morning Post (Asia/China Tech)
-            "marketwatch.com"
+            "bloomberg.com", "reuters.com", "wsj.com", "ft.com", 
+            "scmp.com", "aljazeera.com", "politico.com", "foxnews.com", "cnn.com"
         ]
         
     def fetch_news(self):
-        # Join domains with commas
-        domains_str = ",".join(self.target_domains)
+        domains = ",".join(self.target_domains)
+        # Query: Focus on Catalysts (Policy, Trade, Conflict)
+        keywords = '(tariff OR sanctions OR "trade war" OR "central bank" OR "interest rate" OR legislation OR election OR geopolitical OR "supply chain")'
+        context = '(market OR economy OR trade)'
+        noise = 'NOT (sport OR cricket OR movie OR review)'
         
-        # QUERY: We search for strict financial terms and explicitly EXCLUDE noise
-        # "AND NOT" removes common non-financial noise like movies, sports, and gossip
-        query = '(stock OR "central bank" OR earnings OR "fed rate" OR "oil price" OR economy) AND NOT (movie OR cricket OR sport OR review OR "box office")'
-        
-        url = f"https://newsapi.org/v2/everything?q={query}&domains={domains_str}&language=en&sortBy=publishedAt&apiKey={self.api_key}"
+        # Get up to 30 articles to filter for the best 20
+        url = f"https://newsapi.org/v2/everything?q={keywords} AND {context} AND {noise}&domains={domains}&language=en&sortBy=publishedAt&pageSize=30&apiKey={self.api_key}"
         
         try:
             response = requests.get(url)
-            data = response.json()
-            if data.get("status") == "error":
-                print(f"API Error: {data.get('message')}")
+            # Check for API errors before returning articles
+            if response.json().get("status") == "error":
+                print(f"API Error: {response.json().get('message')}")
                 return []
-            return data.get('articles', [])
+            return response.json().get('articles', [])
         except Exception as e:
             print(f"Connection Error: {e}")
             return []
 
-    def analyze_sentiment(self, text):
-        if not text: 
-            return 0, "Neutral"
-        score = self.sia.polarity_scores(text)['compound']
-        
-        if score >= 0.05:
-            label = "Positive"
-        elif score <= -0.05:
-            label = "Negative"
-        else:
-            label = "Neutral"
-        return score, label
+    def analyze(self, text):
+        # Returns the Compound Sentiment Score (-1.0 to 1.0)
+        if not text: return 0.0
+        return self.sia.polarity_scores(text)['compound']
 
-    def generate_pdf(self, articles):
-        pdf = FPDF()
-        pdf.add_page()
-        pdf.set_auto_page_break(auto=True, margin=15)
-        
-        # Title
-        pdf.set_font("Arial", "B", 16)
-        pdf.cell(0, 10, txt="Global Market & Sentiment Report", ln=1, align="C")
-        pdf.ln(5)
-        
-        count = 0
-        for article in articles:
-            # Skip articles that have been removed or have no content
-            if article['title'] == "[Removed]" or not article['description']:
-                continue
+    def save_report(self, articles):
+        # Writes the content into a Markdown file for AI to read
+        with open("report.md", "w", encoding="utf-8") as f:
+            # Main Header
+            f.write(f"# 🌍 Daily Geopolitical & Macro Risk Report\n")
+            f.write(f"**Date:** {datetime.now().strftime('%Y-%m-%d')} | **Status:** Automated\n\n")
+            f.write("> **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).\n\n")
+            f.write("---\n\n")
+            
+            count = 0
+            for article in articles:
+                if article['title'] == "[Removed]" or not article['description']: continue
+                if count > 19: break # Limit to top 20
                 
-            if count > 19: break # Limit to top 20 relevant articles
-            
-            title = article.get('title', 'No Title')
-            source = article['source']['name']
-            desc = article.get('description', 'No description available.')
-            link = article.get('url', '')
-            
-            # Analyze Sentiment
-            score, label = self.analyze_sentiment(desc)
-            
-            # --- PDF ENTRY ---
-            
-            # 1. Title (Bold)
-            pdf.set_font("Arial", "B", 12)
-            clean_title = title.encode('latin-1', 'replace').decode('latin-1')
-            pdf.multi_cell(0, 6, f"{clean_title} ({source})")
-            
-            # 2. Sentiment (Small, Grayish)
-            pdf.set_font("Arial", size=9)
-            pdf.set_text_color(100, 100, 100) # Gray
-            pdf.cell(0, 5, txt=f"Sentiment: {label} ({score})", ln=1)
-            pdf.set_text_color(0, 0, 0) # Reset to Black
-            
-            # 3. Description (Italic, wrapped text)
-            pdf.set_font("Arial", "", 10)
-            clean_desc = desc.encode('latin-1', 'replace').decode('latin-1')
-            pdf.multi_cell(0, 5, clean_desc)
-            
-            # 4. Link (Blue, Clickable)
-            pdf.set_font("Arial", "U", 9)
-            pdf.set_text_color(0, 0, 255)
-            pdf.cell(0, 5, txt="Read Full Article", link=link, ln=1)
-            pdf.set_text_color(0, 0, 0) # Reset
-            
-            # Separator Line
-            pdf.ln(3)
-            pdf.line(10, pdf.get_y(), 200, pdf.get_y())
-            pdf.ln(5)
-            
-            count += 1
-            
-        pdf.output("finance_report.pdf")
-        print("PDF Generated successfully.")
+                # Data Extraction & Cleanup
+                title = article.get('title', 'No Title')
+                source = article['source']['name']
+                link = article.get('url', '#')
+                desc = article.get('description', '')
+                content = article.get('content', '').split("[+")[0] # Removes the "\[+123 chars]" tag
+                
+                # Combine Description and Content to get the longest possible article summary
+                full_text = f"{desc.strip()} {content.strip()}".replace("\n", " ")
+                score = self.analyze(full_text)
+                
+                # Writing the Entry in Markdown for easy AI parsing
+                f.write(f"## Article {count+1}: {title}\n")
+                f.write(f"**Source:** {source} | **Sentiment Score:** `{score:.4f}`\n\n")
+                f.write(f"{full_text}\n\n")
+                f.write(f"[Read Original Article Here]({link})\n")
+                f.write("---\n\n")
+                count += 1
+                
+        print("Report saved to report.md")
 
 if __name__ == "__main__":
-    if not os.environ.get("NEWS_API_KEY"):
-        print("Error: API Key not found.")
-    else:
+    if os.environ.get("NEWS_API_KEY"):
         bot = NewsReport()
-        print("Fetching focused financial news...")
         articles = bot.fetch_news()
-        print(f"Found {len(articles)} articles. Analyzing...")
-        bot.generate_pdf(articles)
+        print(f"Found {len(articles)} articles.")
+        bot.save_report(articles)
+    else:
+        print("Error: NEWS_API_KEY environment variable not set.")
