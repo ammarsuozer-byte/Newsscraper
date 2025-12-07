@@ -1,11 +1,115 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2025-12-06 | **Status:** Automated
+**Date:** 2025-12-07 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: Putin, Modi kick off India summit as trade, US sanctions loom large
+## Article 1: Russia’s vital oil trade with India is down, but not out
+**Source:** Bloomberg | **Sentiment Score:** `-0.8316`
+
+India has until now been one of the great beneficiaries of restrictions on Russia’s crude industry, becoming the biggest buyer of seaborne Russian crude as curbs resulted in deep price discounts Indias imports of Russian crude are expected to plunge to a near four-year low early next year, after months of US pressure. As workarounds emerge and the Kremlin cranks up its own charm offensive, h…
+
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2025-12-06/russia-s-vital-oil-trade-with-india-is-down-but-not-out)
+---
+
+## Article 2: Australia sanctions Afghan Taliban officials over women’s rights abuses
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.1531`
+
+Canberra said the Taliban officials are guilty of oppressing women and girls, as well as 'undermining good governance'. The Australian government has imposed financial sanctions and travel bans on four officials in Afghanistans Taliban government, citing the deteriorating human rights situation in the country, particu…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2025/12/6/australia-sanctions-afghan-taliban-officials-over-womens-rights-abuses)
+---
+
+## Article 3: Flavio Bolsonaro enters Brazil’s 2026 presidential race with father’s nod
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.4019`
+
+Imprisoned ex-President Jair Bolsonaro has endorsed his eldest son's presidential bid, teeing up a race against Lula. Brazilian Senator Flavio Bolsonaro, the eldest son of imprisoned former President Jair Bolsonaro, has announced he received his fathers endorsement to run for the presidency in 2026. In a social med…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2025/12/6/flavio-bolsonaro-enters-brazils-2026-presidential-race-with-fathers-nod)
+---
+
+## Article 4: Dem-backed ‘dignity’ bill could strip ICE of detention powers, erase immigration enforcement, critics warn
+**Source:** Fox News | **Sentiment Score:** `-0.7845`
+
+Critics warn new immigration bill would "end federal enforcement entirely" as progressives push to phase out private detention facilities by 2029. After more than 120 House Democrats signed onto a bill from a top progressive lawmaker to seek what they define as "dignity" for federal immigration detainees, critics sounded the alarm that the legi…
+
+[Read Original Article Here](https://www.foxnews.com/politics/dem-backed-dignity-bill-could-strip-ice-detention-powers-erase-immigration-enforcement-critics-warn)
+---
+
+## Article 5: DeSantis warns GOP faces 'issue' keeping Trump voters engaged in future elections
+**Source:** Fox News | **Sentiment Score:** `0.2960`
+
+Florida governor urges Republicans to be bolder and draw sharper contrasts with Democrats to keep Trump-aligned voters engaged in future elections. Florida Gov. Ron DeSantis is warning Republicans that the Tennessee special election exposed a turnout problem that could affectthe 2026 midterms.  He said President Donald Trump expanded the Republ…
+
+[Read Original Article Here](https://www.foxnews.com/media/desantis-warns-gop-faces-issue-keeping-trump-voters-engaged-future-elections)
+---
+
+## Article 6: EU hits Musk’s X with $140m fine for ‘deceptive’ blue tick, ad transparency
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.8555`
+
+Landmark penalty triggers US fury as Brussels enforces first digital transparency sanction. The European Union has slapped a 120 million euro ($140m) penalty on Elon Musks social media platform X for breaching digital transparency rules, igniting a transatlantic clash over tech regulation.…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2025/12/5/eu-hits-musks-x-with-140m-fine-for-deceptive-blue-tick-ad-transparency)
+---
+
+## Article 7: Trump rewrites national security playbook as mass migration overtakes terrorism as top US threat
+**Source:** Fox News | **Sentiment Score:** `-0.5574`
+
+Trump administration releases new national security strategy shifting focus from Middle East terrorism to Western Hemisphere threats and border security. The Trump administrations new National Security Strategy marks a sweeping shift in Americas defense priorities, downplaying Islamic terrorism and decades of Middle Eastcentric policymaking in favor o…
+
+[Read Original Article Here](https://www.foxnews.com/politics/trump-rewrites-national-security-playbook-mass-migration-overtakes-terrorism-top-us-threat)
+---
+
+## Article 8: Trump admin warned to take front seat as UN chief race shifts left, boosting anti-US contenders
+**Source:** Fox News | **Sentiment Score:** `0.7096`
+
+Few U.N. Secretary-General candidates would be acceptable to the U.S., experts say, as the selection process begins for 2026 replacement. The Trump administration is being urged to go on offense and make sure the next United Nations chief is aligned with U.S. and Western values and doesn't kowtow to what critics say is an ever increasi…
+
+[Read Original Article Here](https://www.foxnews.com/world/trump-admin-warned-take-front-seat-un-chief-race-shifts-left-boosting-anti-us-contenders)
+---
+
+## Article 9: Scalise announces GOP healthcare overhaul coming in 'next few weeks' amid battle over expiring subsidies
+**Source:** Fox News | **Sentiment Score:** `-0.2960`
+
+House Majority Leader Steve Scalise announces Republicans will bring healthcare legislation to the floor within weeks, targeting lower costs and expanded access. House Majority Leader Steve Scalise announced that Republicans will bring healthcare legislation to the floor in the coming weeks. The plan comes as debate over the countrys healthcare system intensi…
+
+[Read Original Article Here](https://www.foxnews.com/media/scalise-announces-gop-healthcare-overhaul-coming-next-few-weeks-amid-battle-over-expiring-subsidies)
+---
+
+## Article 10: Trump national security blueprint declares ‘era of mass migration is over,' targets China’s rise
+**Source:** Fox News | **Sentiment Score:** `-0.4588`
+
+President Donald Trump unveiled a national security plan declaring the "era of mass migration is over" while targeting China as central threat. President Donald Trump unveiled a new national security blueprint in which he declares "the era of mass migration is over" and paints China as a central threat to the U.S.  In the 33-page document r…
+
+[Read Original Article Here](https://www.foxnews.com/politics/trump-national-security-blueprint-declares-era-mass-migration-over-targets-chinas-rise)
+---
+
+## Article 11: ‘Uninterrupted oil shipments’: Key takeaways from Putin-Modi talks in Delhi
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.8622`
+
+More than deals, analysts say, Putin-Modi's bonhomie sends a message that Western efforts to isolate Russia have failed. New Delhi, India Under a thick blanket of smog in the worlds most polluted city, the leaders of Russia and India put on a display of diplomatic resilience, projecting a message that their bilateral p…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2025/12/5/uninterrupted-oil-shipments-key-takeaways-from-putin-modi-talks-in-delhi)
+---
+
+## Article 12: Speaker Johnson under attack from his own as mood darkens in House GOP | CNN Politics
+**Source:** CNN | **Sentiment Score:** `-0.8857`
+
+Speaker Mike Johnson is a political survivor, weathering crisis after crisis since his unlikely ascent two years ago. Speaker Mike Johnson is a political survivor, weathering crisis after crisis since his unlikely ascent two years ago. But now, the battered House leader is entering what could be the most difficult …
+
+[Read Original Article Here](https://www.cnn.com/2025/12/05/politics/speaker-johnson-house-gop-frustration-attacks)
+---
+
+## Article 13: Pakistan seeks new South Asian bloc to cut India out: Will it work?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.0000`
+
+Pakistan says an emerging three-way cooperation with Bangladesh and China could be 'expanded and duplicated'. Pakistan Deputy Prime Minister Ishaq Dar has said that a recent trilateral initiative between Bangladesh, China and Islamabad could be expanded to include other regional nations and beyond. We have …
+
+[Read Original Article Here](https://www.aljazeera.com/news/2025/12/5/pakistan-seeks-new-south-asian-bloc-to-cut-india-out-will-it-work)
+---
+
+## Article 14: Putin, Modi kick off India summit as trade, US sanctions loom large
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.7269`
 
 Meeting to boost ties comes as India seeks reprieve from US oil sanctions related to war in Ukraine. Russian President Vladimir Putin and Indian Prime Minister Narendra Modi have kicked off a daylong summit in the capital of India, where trade and Western sanctions over the war in Ukraine were set t…
@@ -13,7 +117,7 @@ Meeting to boost ties comes as India seeks reprieve from US oil sanctions relate
 [Read Original Article Here](https://www.aljazeera.com/news/2025/12/5/putin-modi-kick-off-india-summit-as-trade-us-sanctions-loom-large)
 ---
 
-## Article 2: India may seek bids for $7 billion IDBI Bank stake this month
+## Article 15: India may seek bids for $7 billion IDBI Bank stake this month
 **Source:** Bloomberg | **Sentiment Score:** `-0.3400`
 
 The bank, once burdened by heavy bad loans, has emerged from a major cleanup, and returned to profitability in recent years after capital support and aggressive recoveries helped it cut non-performing assets sharply India is poised to seek bids for its $7.1 billion majority stake in IDBI Bank Ltd., a key step in its long-running effort to privatize the previously-distressed lender and accelerate a divestment pus…
@@ -21,7 +125,7 @@ The bank, once burdened by heavy bad loans, has emerged from a major cleanup, an
 [Read Original Article Here](https://www.bloomberg.com/news/articles/2025-12-05/india-may-seek-bids-for-7-billion-idbi-bank-stake-this-month)
 ---
 
-## Article 3: Largest public-sector unions spent eye-popping amount on left-wing politics — 86 percent funded by member dues
+## Article 16: Largest public-sector unions spent eye-popping amount on left-wing politics — 86 percent funded by member dues
 **Source:** Fox News | **Sentiment Score:** `0.0258`
 
 The Commonwealth Foundation says major unions funneled nearly $1B into politics during the 2024 cycle, raising questions about how member dues are being used. The country's four largest public-sector unions spent a combined $915 million on elections and progressive political activism during the 2024 election cycle, 86% of which came from member dues.  The…
@@ -29,7 +133,7 @@ The Commonwealth Foundation says major unions funneled nearly $1B into politics 
 [Read Original Article Here](https://www.foxnews.com/politics/largest-public-sector-unions-spent-eye-popping-amount-left-wing-politics-86-funded-member-dues)
 ---
 
-## Article 4: Putin challenges US pressure on India over Russian oil during state visit
+## Article 17: Putin challenges US pressure on India over Russian oil during state visit
 **Source:** Al Jazeera English | **Sentiment Score:** `0.3182`
 
 Putin questions US pressure on India's Russian oil purchases as Modi gives the Russian president a warm welcome. Russian President Vladimir Putin has questioned Washingtons stance on Indias oil purchases from Moscow, pointing to US imports of Russian nuclear fuel as he began a state visit aimed at strengthening…
@@ -37,7 +141,7 @@ Putin questions US pressure on India's Russian oil purchases as Modi gives the R
 [Read Original Article Here](https://www.aljazeera.com/news/2025/12/4/putin-challenges-us-pressure-on-india-over-russian-oil-during-state-visit)
 ---
 
-## Article 5: Why 2026 should terrify Republicans after Tennessee special election
+## Article 18: Why 2026 should terrify Republicans after Tennessee special election
 **Source:** Fox News | **Sentiment Score:** `0.8625`
 
 This week's Tennessee special election shows Republican Matt Van Epps narrowly defeated Democrat Aftyn Behn in a Trump +20 district. That is a red alert that the GOP is in trouble. As the old saying goes, "close only counts in horseshoes and hand grenades," and the GOP is certainly breathing a sigh of relief coming out of Tuesday nights special election for Tennessees 7th Congr…
@@ -45,7 +149,7 @@ This week's Tennessee special election shows Republican Matt Van Epps narrowly d
 [Read Original Article Here](https://www.foxnews.com/opinion/why-2026-should-terrify-republicans-after-tennessee-special-election)
 ---
 
-## Article 6: Netanyahu will win again, because in Israel, ‘there is none like him’
+## Article 19: Netanyahu will win again, because in Israel, ‘there is none like him’
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.0516`
 
 His supporters defend him, his opponents cannot look past him and the centre keeps trying to bargain with him. Israel hasnt talked about the war in Gaza for many weeks. After all, theres a ceasefire in place, is there not? The fact that more than 350 Palestinians, including more than 130 children, have been k…
@@ -53,115 +157,11 @@ His supporters defend him, his opponents cannot look past him and the centre kee
 [Read Original Article Here](https://www.aljazeera.com/opinions/2025/12/4/netanyahu-will-win-again-because-in-israel-there-is-none-like-him)
 ---
 
-## Article 7: Dell founder says $6.25B 'Trump Accounts' donation is 'smartest investment’ in children’s futures
+## Article 20: Dell founder says $6.25B 'Trump Accounts' donation is 'smartest investment’ in children’s futures
 **Source:** Fox News | **Sentiment Score:** `0.6249`
 
 Michael Dell donates $6.25 billion to 'Trump Accounts' program helping American children build long-term financial security through savings accounts. Michael Dell, the CEO of Dell Technologies, is making a major investment in the future of American children. Dell and his wife, Susan, are contributing $6.25 billion to the newly launched "Trump Acco…
 
 [Read Original Article Here](https://www.foxnews.com/media/dell-founder-says-6-25b-trump-accounts-donation-smartest-investment-childrens-futures)
----
-
-## Article 8: What do Russian nationals, analysts make of US-led Ukraine peace talks?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.4939`
-
-While some in Russia believe Ukraine is standing in the way of peace, other analysts say Putin has maximalist ambitions. From Russias perspective, Ukraines refusal to accept its terms to end the war is the main obstacle to peace. According to Kyiv and many of its European allies, it is Russian President Vladimir Putin…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2025/12/4/what-do-russian-nationals-analysts-make-of-us-led-ukraine-peace-talks)
----
-
-## Article 9: MIKE DAVIS: Congress must stop Big Tech's AI amnesty scam before it's too late
-**Source:** Fox News | **Sentiment Score:** `-0.2960`
-
-Big Tech pushes AI amnesty through NDAA after 99-1 Senate defeat. Federal preemption without rules means corporate immunity at Americans' expense. Here we go again. After a resounding 991 defeat in the Senate earlier this year, the Big Tech oligarchs are hard at work doing what they do best: trying to sneak a massive corporate giveaway into mu…
-
-[Read Original Article Here](https://www.foxnews.com/opinion/mike-davis-congress-must-stop-big-techs-ai-amnesty-scam-before-its-too-late)
----
-
-## Article 10: $2-billion India–Russia submarine deal sealed ahead of Putin’s India visit
-**Source:** Bloomberg | **Sentiment Score:** `0.2732`
-
-India finalises a $2-billion deal to lease a Russian nuclear submarine for 10 years, boosting naval capability as Putin visits New Delhi. Delivery likely in two years. India will pay about $2 billion to lease a nuclear-powered submarine from Russia, according to people familiar with the matter, finalizing delivery of the vessel after roughly a decade of talks just …
-
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2025-12-04/india-clinches-2-billion-russia-submarine-deal-as-putin-visits)
----
-
-## Article 11: Macron tells Xi that China, France must overcome ‘differences’
-**Source:** Al Jazeera English | **Sentiment Score:** `0.1027`
-
-Macron's three-day visit aims at getting China to exert pressure on Russia for ceasefire deal with Ukraine. French President Emmanuel Macron told Xi Jinping that their two countries must overcome their differences during a trip to Beijing focused on economic and geopolitical cooperation. The two leaders m…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2025/12/4/macron-tells-xi-that-china-france-must-overcome-differences)
----
-
-## Article 12: ‘What’s our fault?’: India’s expulsion of Pakistanis still splits families
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.8074`
-
-After Pahalgam attack in April, India deported 800 Pakistanis. Children separated from parents still can't meet them. Srinagar, Indian-administered Kashmir The silence of a narrow alley in Srinagar, the main city of Indian-administered Kashmir, is broken by the rehearsed beckoning of street vendors and the restless …
-
-[Read Original Article Here](https://www.aljazeera.com/features/2025/12/4/whats-our-fault-indias-expulsion-of-pakistanis-still-splits-families)
----
-
-## Article 13: Putin visits India amid Ukraine peace push: What’s on the agenda?
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.8779`
-
-President Putin visits India as Russia faces pressure to end war in Ukraine, looking to boost bilateral trade deals. New Delhi, India Russian President Vladimir Putin is visiting India starting Thursday for the first time since Moscows war on Ukraine broke out more than four years ago, even as a renewed push by the…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2025/12/4/putin-visits-india-amid-ukraine-peace-push-whats-on-the-agenda)
----
-
-## Article 14: Who is Kevin Hassett, Trump’s expected pick to lead the Federal Reserve?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.5574`
-
-Trump's top economic adviser is odds-on favourite to lead the Fed amid concerns over the central bank's independence. United States President Donald Trump has said he has decided on his pick for the next chair of the Federal Reserve. While Trump has yet to confirm his nominee, one name stands out as the overwhelmin…
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2025/12/4/who-is-kevin-hassett-trumps-expected-pick-to-lead-the-federal-reserve)
----
-
-## Article 15: With Trump’s focus abroad, Republicans push for midterms pivot to economy | CNN Politics
-**Source:** CNN | **Sentiment Score:** `-0.7906`
-
-Some of President Donald Trump’s closest allies in Congress are warning that the party needs to sharpen its affordability message to voters heading into the 2026 elections — or risk big losses that would shackle him for the rest of his second term. Some of President Donald Trumps closest allies in Congress are warning that the party needs to sharpen its affordability message to voters heading into the 2026 elections or risk big losses that woul…
-
-[Read Original Article Here](https://www.cnn.com/2025/12/03/politics/republicans-midterm-message-economy-trump)
----
-
-## Article 16: Scott Bessent calls out NY Times' Trump reporting during paper's summit, says it's not paper of record
-**Source:** Fox News | **Sentiment Score:** `-0.5106`
-
-Treasury Secretary Scott Bessent predicted The New York Times will lose credibility over decades after criticizing its Trump health coverage at the 202 DealBook Summit. U.S. Treasury Secretary Scott Bessent called out The New York Times at its own summit on Wednesday, accusing it of publishing inaccurate stories about President Donald Trump. At the 2025 DealBook Su…
-
-[Read Original Article Here](https://www.foxnews.com/media/scott-bessent-calls-out-ny-times-trump-reporting-during-papers-summit-says-its-not-paper-record)
----
-
-## Article 17: Bessent to push residency requirement for regional US Fed bank presidents
-**Source:** Al Jazeera English | **Sentiment Score:** `0.5574`
-
-The move is another effort by the Trump administration to have more control over the US Federal Reserve. United States Treasury Secretary Scott Bessent has said he would push a new requirement that the Federal Reserves regional bank presidents live in their districts for at least three years before taki…
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2025/12/3/bessent-to-push-residency-requirement-for-regional-us-fed-bank-presidents)
----
-
-## Article 18: Western Cuba faces blackout as government seeks to update energy grid
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.8316`
-
-Electrical failures due to ageing infrastructure, hurricanes and a struggling economy have prompted widespread protests. Cuba has suffered another blackout that temporarily knocked out power to the western side of the Caribbean island, a region that includes the capital Havana. The countrys Ministry of Energy and Mine…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2025/12/3/western-cuba-faces-blackout-as-government-seeks-to-update-energy-grid)
----
-
-## Article 19: What if…. we abolished billionaires?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.9313`
-
-Experts tell Al Jazeera what would happen if the world decided to downgrade its richest residents. Calls to abolish billionaires, or at least curb their growth, have gained traction across many capitals in the West, where extreme wealth has risen to unprecedented levels. Elon Musks pay award of a…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2025/12/3/what-if-we-abolished-billionaires)
----
-
-## Article 20: Bangladesh’s economy is not collapsing but undergoing a necessary reset
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.7845`
-
-Long-ignored problems are finally being fixed, pointing to recovery rather than decline. The recent wave of pessimism surrounding Bangladeshs economy under its interim administration, much of it amplified by selectively framed local commentary, offers an incomplete and often misleading p…
-
-[Read Original Article Here](https://www.aljazeera.com/opinions/2025/12/3/bangladeshs-economy-is-not-collapsing-but-undergoing-a-necessary-reset)
 ---
 
