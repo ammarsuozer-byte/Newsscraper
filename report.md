@@ -1,5 +1,5 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2025-12-07 | **Status:** Automated
+**Date:** 2025-12-08 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
