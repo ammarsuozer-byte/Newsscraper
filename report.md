@@ -1,11 +1,139 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2025-12-09 | **Status:** Automated
+**Date:** 2025-12-10 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: China’s exports grow 5.9% in November despite major drop in US shipments | CNN Business
+## Article 1: Blinkit CEO warns India’s quick commerce bubble may be close to bursting
+**Source:** Bloomberg | **Sentiment Score:** `-0.4767`
+
+A model that has so far relied on relentless fundraising is nearing its limits and companies will soon have to decide how long they can keep absorbing steep losses, says Blinkit Chief Executive Officer Albinder Dhindsa The head of Indias biggest quick commerce player says the sector is hurtling toward a shakeout as rivals cash dries up, but that his startup will thrive and continue its expansion. A model that has …
+
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2025-12-09/blinkit-ceo-warns-india-s-quick-commerce-bubble-may-be-close-to-bursting)
+---
+
+## Article 2: Trump threatens 5% tariff on Mexico over water treaty violations affecting Texas farmers
+**Source:** Fox News | **Sentiment Score:** `-0.9360`
+
+President Trump threatens 5% tariff on Mexico over water treaty dispute, demanding 200,000 acre-feet release before Dec. 31 to help struggling Texas farmers and crops. President Donald Trump warned Monday that Mexicos failure to deliver water owed under a decades-old treaty is harming Texas farmers and could trigger a new tariff if the country does not immediately …
+
+[Read Original Article Here](https://www.foxnews.com/politics/trump-threatens-5-tariff-mexico-over-water-treaty-violations-affecting-texas-farmers)
+---
+
+## Article 3: Trump slaps Mexico with 5 percent tariff over violations of water treaty
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.2500`
+
+Leaders on both sides of the border have faced pressure from farmers and ranchers to secure more water for their farms. United States President Donald Trump has raised tariffs by 5 percent on imports from Mexico, accusing the country of failing to uphold a cross-border water treaty. The tariff hike was revealed in a …
+
+[Read Original Article Here](https://www.aljazeera.com/news/2025/12/9/trump-slaps-mexico-with-5-percent-tariff-over-violations-of-water-treaty)
+---
+
+## Article 4: Top Mamdani appointee faces heat amid promise to make NYC more affordable: 'Embodiment of inflation'
+**Source:** Fox News | **Sentiment Score:** `0.7184`
+
+Former RNC chair Ronna McDaniel blasts NYC mayor-elect Zohran Mamdani for making ex-Biden FTC chief Lina Khan a top adviser, saying the selection undercuts his promises to make NYC more affordable. FIRST ON FOX: Four-term chairperson of the Republican National Committee (RNC), Ronna McDaniel, is calling out mayor-elect Zohran Mamdani for hypocritically running a campaign focused on making New Y…
+
+[Read Original Article Here](https://www.foxnews.com/politics/top-mamdani-appointee-faces-heat-amid-promise-make-nyc-more-affordable)
+---
+
+## Article 5: US tariffs ruin education dreams for children in India’s diamond hub
+**Source:** Al Jazeera English | **Sentiment Score:** `0.7184`
+
+For decades, India's diamond industry offered workers a way to a better income and life for their families. Not anymore. Surat, India  In 2018, Alpesh Bhai enrolled his three-year-old daughter in an English-language private school in Surat. This was something he never imagined possible while growing up in his village i…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2025/12/9/us-tariffs-ruin-education-dreams-for-children-in-indias-diamond-hub)
+---
+
+## Article 6: Trump greenlights exports of Nvidia H200 chips to China | CNN Business
+**Source:** CNN | **Sentiment Score:** `-0.6369`
+
+President Donald Trump announced on Monday in a Truth Social post that he’s removing export controls on Nvidia’s H200 chips to China, a key reversal in what’s become part of a broader trade war between the world’s two biggest economies. President Donald Trump announced on Monday in a Truth Social post that hes removing export controls on Nvidias H200 chips to China, a key reversal in whats become part of a broader trade war between …
+
+[Read Original Article Here](https://www.cnn.com/2025/12/08/tech/nvidia-h200-chips-china-trump-export)
+---
+
+## Article 7: Trump announces $12bn package to aid farmers hurt by his tariffs
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.0258`
+
+Farmers have been dogged by trade wars that have seen reduced purchases and increased prices on seeds and fertiliser. United States President Donald Trump has announced a $12bn aid package to help farmers harmed by his hardline tariff policies. Trump announced the package at a White House event on Monday, saying th…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2025/12/8/trump-announces-12bn-package-to-aid-farmers-hurt-by-his-tariffs)
+---
+
+## Article 8: White House turns up heat on Biden’s economic record as voters sour on ‘affordability’
+**Source:** Fox News | **Sentiment Score:** `0.0772`
+
+Trump tours battleground states promoting affordability messaging as Democrats sweep 2025 elections using economic concerns as winning strategy. The White House is turning up the heat on former President Joe Biden's economic record as voters voice their discontent with current cost-of-living woes that President Donald Trump campaigned to brin…
+
+[Read Original Article Here](https://www.foxnews.com/politics/white-house-turns-up-heat-bidens-economic-record-voters-sour-affordability)
+---
+
+## Article 9: Trump team scrambles to fix sputtering economic pitch as Dems lean in to 'affordability' attacks
+**Source:** Fox News | **Sentiment Score:** `0.2500`
+
+Trump tours battleground states promoting affordability messaging as Democrats sweep 2025 elections using economic concerns as winning strategy. The Trump administration is facing a crisis over its economic messaging as Democrats increasingly, and effectively, lean into their message of "affordability" that helped deliver a series of election…
+
+[Read Original Article Here](https://www.foxnews.com/politics/trump-team-scrambles-fix-sputtering-economic-pitch-dems-lean-affordability-attacks)
+---
+
+## Article 10: Trump to unleash $12B farm rescue as China trade reset hits US growers
+**Source:** Fox News | **Sentiment Score:** `0.7506`
+
+President Donald Trump will announce a $12 billion farm aid package to support U.S. farmers amid ongoing trade negotiations with China and tariff concerns. President Donald Trump is poised to roll out a $12 billion farm aid package to support farmers, according to the White House.  The aid package will provide up to $11 billion toward the U.S. Departme…
+
+[Read Original Article Here](https://www.foxnews.com/politics/trump-unleash-12b-farm-rescue-china-trade-reset-hits-us-growers)
+---
+
+## Article 11: Trump to announce $12 billion farm aid package at roundtable | CNN Politics
+**Source:** CNN | **Sentiment Score:** `0.0000`
+
+Trump to announce $12 billion farm aid package at roundtable | CNN Politicscnn.com President Donald Trump on Monday announced a $12 billion farm aid package. Most of the aid $11 billion will be directed toward crop farmers through one-time payments under the Farmer Bridge Assistan…
+
+[Read Original Article Here](https://www.cnn.com/2025/12/08/politics/farm-aid-package-trump-tariffs)
+---
+
+## Article 12: Trump says he’ll sign executive order blocking state AI regulations, despite safety fears | CNN Business
+**Source:** CNN | **Sentiment Score:** `0.7351`
+
+President Donald Trump confirmed on Monday he plans to sign an executive order preempting artificial intelligence regulations at the state level with his more hands-off federal policy. President Donald Trump confirmed on Monday he plans to sign an executive order preempting artificial intelligence regulations at the state levelwith his more hands-off federal policy. There must be …
+
+[Read Original Article Here](https://www.cnn.com/2025/12/08/tech/trump-eo-blocking-ai-state-laws)
+---
+
+## Article 13: With flags and fireworks, Syrians celebrate one year since fall of al-Assad
+**Source:** Al Jazeera English | **Sentiment Score:** `0.9300`
+
+Syrians have taken to the streets to celebrate the first anniversary of the removal of longtime ruler Bashar al-Assad. Syrians have taken to the streets to celebrate the first anniversary of the removal of longtime ruler Bashar al-Assad amid renewed optimism that conditions will continue to improve as the country rec…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2025/12/8/with-flags-and-fireworks-syrians-celebrate-one-year-since-fall-of-al-assad)
+---
+
+## Article 14: One year since the fall of Bashar al-Assad: A timeline
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.4019`
+
+As Syria celebrates one year since the fall of its longtime ruler, we look back at the events that followed. Syrians are marking the first anniversary of the overthrow of Bashar al-Assad, as the fractured nation struggles to overcome sectarianism and rebuild its economy following 14 years of civil war. The…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2025/12/8/one-year-since-the-fall-of-bashar-al-assad-a-timeline)
+---
+
+## Article 15: China trade surplus tops $1tn for first time amid pivot to counter US lull
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.2732`
+
+Chinese exports climb as exporters reroute shipments to other markets amid slump in shipments to the US. Chinas annual trade surplus in goods has topped $1 trillion for the first time, with plunging exports to the United States amid a tariff war more than compensated for by shipments to other markets, n…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2025/12/8/china-trade-surplus-tops-1tn-for-first-time-amid-pivot-to-counter-us-lull)
+---
+
+## Article 16: America has to respond with a united front to China’s massive economic warfare
+**Source:** Fox News | **Sentiment Score:** `0.6486`
+
+China's systematic intellectual property theft campaign poses unprecedented threats to American national security and technological leadership. Chinas systematic and orchestrated campaign of intellectual property theft and technological advancement poses an unprecedented threat to Americas national security, demanding a comprehensive and urg…
+
+[Read Original Article Here](https://www.foxnews.com/opinion/america-has-respond-united-front-chinas-massive-economic-warfare)
+---
+
+## Article 17: China’s exports grow 5.9% in November despite major drop in US shipments | CNN Business
 **Source:** CNN | **Sentiment Score:** `0.8934`
 
 China’s exports returned to growth in November following an unexpected contraction the month before, although shipments to the United States dropped nearly 29% from a year earlier in an eighth straight month of double-digit declines. Chinas exports returned to growth in November following an unexpected contraction the month before, although shipments to the United States dropped nearly 29% from a year earlier in an eighth straigh…
@@ -13,7 +141,7 @@ China’s exports returned to growth in November following an unexpected contrac
 [Read Original Article Here](https://www.cnn.com/2025/12/08/business/china-exports-growth-november-intl-hnk)
 ---
 
-## Article 2: Analysis: Trump’s first problem on the economy and health care: admitting he’s got a problem | CNN Politics
+## Article 18: Analysis: Trump’s first problem on the economy and health care: admitting he’s got a problem | CNN Politics
 **Source:** CNN | **Sentiment Score:** `0.9100`
 
 President Donald Trump has a fresh chance this week to act on a priority voters continually say they want fixed — but over which he’s in denial. President Donald Trump has a fresh chance this week to act on a priority voters continually say they want fixed but over which hes in denial. The high and rising prices of health care, groceries and…
@@ -21,7 +149,7 @@ President Donald Trump has a fresh chance this week to act on a priority voters 
 [Read Original Article Here](https://www.cnn.com/2025/12/08/politics/trump-economy-health-care-problem-analysis)
 ---
 
-## Article 3: Nigeria says it deployed troops to Benin to ‘dislodge coup plotters’
+## Article 19: Nigeria says it deployed troops to Benin to ‘dislodge coup plotters’
 **Source:** Al Jazeera English | **Sentiment Score:** `0.7650`
 
 Nigeria's president says he sent fighter jets, troops to Benin to help quell a coup attempt by mutinous soldiers. Nigerian President Bola Tinubu has confirmed deploying fighter jets and ground troops to neighbouring Benin to help foil a coup attempt by a group of Beninese soldiers. In a statement on Sunday, Tin…
@@ -29,139 +157,11 @@ Nigeria's president says he sent fighter jets, troops to Benin to help quell a c
 [Read Original Article Here](https://www.aljazeera.com/news/2025/12/8/nigeria-says-it-deployed-troops-to-benin-to-dislodge-coup-plotters)
 ---
 
-## Article 4: In Texas cattle country, one rancher welcomes Trump’s focus on decades of thin margins
+## Article 20: In Texas cattle country, one rancher welcomes Trump’s focus on decades of thin margins
 **Source:** Fox News | **Sentiment Score:** `0.4019`
 
 Texas cattle rancher welcomes federal scrutiny of big four meatpacking companies amid America's smallest cattle herd in 70 years and record beef prices. LA GRANGE, TEXAS Along the bends of Highway 71, a string of steady Texas towns dot the wind-swept pastures. Its here where most folks earn a living with their hands, wear dust on their boots, sun on …
 
 [Read Original Article Here](https://www.foxnews.com/politics/texas-cattle-country-one-rancher-welcomes-trumps-focus-decades-thin-margins)
----
-
-## Article 5: Democrats escalate war-crime accusations as White House calls ‘innocent fisherman’ the new ‘Maryland Man’ hoax
-**Source:** Fox News | **Sentiment Score:** `-0.8934`
-
-Trump administration defends 22 military strikes against suspected drug traffickers in Caribbean as Democrats claim potential war crimes occurred. Democrat lawmakers are increasingly turning up the heat on the Trump administration over its series of military strikes on suspected drug-trafficking boats in the Caribbean since September, most rece…
-
-[Read Original Article Here](https://www.foxnews.com/politics/democrats-escalate-war-crime-accusations-white-house-calls-innocent-fisherman-new-maryland-man-hoax)
----
-
-## Article 6: Trump blames Maduro for migrants, but a war in Venezuela could create millions of refugees | CNN Politics
-**Source:** CNN | **Sentiment Score:** `-0.9231`
-
-When President Donald Trump has been asked about the reason he’s pressuring President Nicolás Maduro to step down and threatening military action, he consistently blames the leader of Venezuela for two things: drugs and migrants. When President Donald Trump has been asked about the reason hes pressuring Venezuelan President Nicolás Maduro to step down and threatening military action against the country, he consistently blames…
-
-[Read Original Article Here](https://www.cnn.com/2025/12/07/politics/venezuela-war-migrants-trump)
----
-
-## Article 7: Republicans divided over whether to salvage Obamacare — or replace it — ahead of subsidy deadline
-**Source:** Fox News | **Sentiment Score:** `0.3400`
-
-GOP lawmakers debate whether to extend COVID-era Obamacare subsidies that could cost $30 billion annually as Republicans explore healthcare reform options. Republicans across the board harbor deep frustrations with the rising costs of the Affordable Care Act, better known as Obamacare. But while some lawmakers believe its time to scrap the system, other…
-
-[Read Original Article Here](https://www.foxnews.com/politics/republicans-remain-deeply-divided-whether-replace-reform-obamacare-policies-ahead-subsidy-deadline)
----
-
-## Article 8: Russia’s vital oil trade with India is down, but not out
-**Source:** Bloomberg | **Sentiment Score:** `-0.8316`
-
-India has until now been one of the great beneficiaries of restrictions on Russia’s crude industry, becoming the biggest buyer of seaborne Russian crude as curbs resulted in deep price discounts Indias imports of Russian crude are expected to plunge to a near four-year low early next year, after months of US pressure. As workarounds emerge and the Kremlin cranks up its own charm offensive, h…
-
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2025-12-06/russia-s-vital-oil-trade-with-india-is-down-but-not-out)
----
-
-## Article 9: Australia sanctions Afghan Taliban officials over women’s rights abuses
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.1531`
-
-Canberra said the Taliban officials are guilty of oppressing women and girls, as well as 'undermining good governance'. The Australian government has imposed financial sanctions and travel bans on four officials in Afghanistans Taliban government, citing the deteriorating human rights situation in the country, particu…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2025/12/6/australia-sanctions-afghan-taliban-officials-over-womens-rights-abuses)
----
-
-## Article 10: Flavio Bolsonaro enters Brazil’s 2026 presidential race with father’s nod
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.4019`
-
-Imprisoned ex-President Jair Bolsonaro has endorsed his eldest son's presidential bid, teeing up a race against Lula. Brazilian Senator Flavio Bolsonaro, the eldest son of imprisoned former President Jair Bolsonaro, has announced he received his fathers endorsement to run for the presidency in 2026. In a social med…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2025/12/6/flavio-bolsonaro-enters-brazils-2026-presidential-race-with-fathers-nod)
----
-
-## Article 11: Dem-backed ‘dignity’ bill could strip ICE of detention powers, erase immigration enforcement, critics warn
-**Source:** Fox News | **Sentiment Score:** `-0.7845`
-
-Critics warn new immigration bill would "end federal enforcement entirely" as progressives push to phase out private detention facilities by 2029. After more than 120 House Democrats signed onto a bill from a top progressive lawmaker to seek what they define as "dignity" for federal immigration detainees, critics sounded the alarm that the legi…
-
-[Read Original Article Here](https://www.foxnews.com/politics/dem-backed-dignity-bill-could-strip-ice-detention-powers-erase-immigration-enforcement-critics-warn)
----
-
-## Article 12: DeSantis warns GOP faces 'issue' keeping Trump voters engaged in future elections
-**Source:** Fox News | **Sentiment Score:** `0.2960`
-
-Florida governor urges Republicans to be bolder and draw sharper contrasts with Democrats to keep Trump-aligned voters engaged in future elections. Florida Gov. Ron DeSantis is warning Republicans that the Tennessee special election exposed a turnout problem that could affectthe 2026 midterms.  He said President Donald Trump expanded the Republ…
-
-[Read Original Article Here](https://www.foxnews.com/media/desantis-warns-gop-faces-issue-keeping-trump-voters-engaged-future-elections)
----
-
-## Article 13: EU hits Musk’s X with $140m fine for ‘deceptive’ blue tick, ad transparency
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.8555`
-
-Landmark penalty triggers US fury as Brussels enforces first digital transparency sanction. The European Union has slapped a 120 million euro ($140m) penalty on Elon Musks social media platform X for breaching digital transparency rules, igniting a transatlantic clash over tech regulation.…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2025/12/5/eu-hits-musks-x-with-140m-fine-for-deceptive-blue-tick-ad-transparency)
----
-
-## Article 14: Trump rewrites national security playbook as mass migration overtakes terrorism as top US threat
-**Source:** Fox News | **Sentiment Score:** `-0.5574`
-
-Trump administration releases new national security strategy shifting focus from Middle East terrorism to Western Hemisphere threats and border security. The Trump administrations new National Security Strategy marks a sweeping shift in Americas defense priorities, downplaying Islamic terrorism and decades of Middle Eastcentric policymaking in favor o…
-
-[Read Original Article Here](https://www.foxnews.com/politics/trump-rewrites-national-security-playbook-mass-migration-overtakes-terrorism-top-us-threat)
----
-
-## Article 15: Trump admin warned to take front seat as UN chief race shifts left, boosting anti-US contenders
-**Source:** Fox News | **Sentiment Score:** `0.7096`
-
-Few U.N. Secretary-General candidates would be acceptable to the U.S., experts say, as the selection process begins for 2026 replacement. The Trump administration is being urged to go on offense and make sure the next United Nations chief is aligned with U.S. and Western values and doesn't kowtow to what critics say is an ever increasi…
-
-[Read Original Article Here](https://www.foxnews.com/world/trump-admin-warned-take-front-seat-un-chief-race-shifts-left-boosting-anti-us-contenders)
----
-
-## Article 16: Scalise announces GOP healthcare overhaul coming in 'next few weeks' amid battle over expiring subsidies
-**Source:** Fox News | **Sentiment Score:** `-0.2960`
-
-House Majority Leader Steve Scalise announces Republicans will bring healthcare legislation to the floor within weeks, targeting lower costs and expanded access. House Majority Leader Steve Scalise announced that Republicans will bring healthcare legislation to the floor in the coming weeks. The plan comes as debate over the countrys healthcare system intensi…
-
-[Read Original Article Here](https://www.foxnews.com/media/scalise-announces-gop-healthcare-overhaul-coming-next-few-weeks-amid-battle-over-expiring-subsidies)
----
-
-## Article 17: Trump national security blueprint declares ‘era of mass migration is over,' targets China’s rise
-**Source:** Fox News | **Sentiment Score:** `-0.4588`
-
-President Donald Trump unveiled a national security plan declaring the "era of mass migration is over" while targeting China as central threat. President Donald Trump unveiled a new national security blueprint in which he declares "the era of mass migration is over" and paints China as a central threat to the U.S.  In the 33-page document r…
-
-[Read Original Article Here](https://www.foxnews.com/politics/trump-national-security-blueprint-declares-era-mass-migration-over-targets-chinas-rise)
----
-
-## Article 18: ‘Uninterrupted oil shipments’: Key takeaways from Putin-Modi talks in Delhi
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.8622`
-
-More than deals, analysts say, Putin-Modi's bonhomie sends a message that Western efforts to isolate Russia have failed. New Delhi, India Under a thick blanket of smog in the worlds most polluted city, the leaders of Russia and India put on a display of diplomatic resilience, projecting a message that their bilateral p…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2025/12/5/uninterrupted-oil-shipments-key-takeaways-from-putin-modi-talks-in-delhi)
----
-
-## Article 19: Speaker Johnson under attack from his own as mood darkens in House GOP | CNN Politics
-**Source:** CNN | **Sentiment Score:** `-0.8857`
-
-Speaker Mike Johnson is a political survivor, weathering crisis after crisis since his unlikely ascent two years ago. Speaker Mike Johnson is a political survivor, weathering crisis after crisis since his unlikely ascent two years ago. But now, the battered House leader is entering what could be the most difficult …
-
-[Read Original Article Here](https://www.cnn.com/2025/12/05/politics/speaker-johnson-house-gop-frustration-attacks)
----
-
-## Article 20: Pakistan seeks new South Asian bloc to cut India out: Will it work?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.0000`
-
-Pakistan says an emerging three-way cooperation with Bangladesh and China could be 'expanded and duplicated'. Pakistan Deputy Prime Minister Ishaq Dar has said that a recent trilateral initiative between Bangladesh, China and Islamabad could be expanded to include other regional nations and beyond. We have …
-
-[Read Original Article Here](https://www.aljazeera.com/news/2025/12/5/pakistan-seeks-new-south-asian-bloc-to-cut-india-out-will-it-work)
 ---
 
