@@ -1,11 +1,155 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2025-12-11 | **Status:** Automated
+**Date:** 2025-12-12 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: Trump's approval climbs as Republicans rally behind president's affordability agenda: poll
+## Article 1: India–US trade deal likely by March, says CEA Nageswaran
+**Source:** Bloomberg | **Sentiment Score:** `0.7056`
+
+India’s CEA says the long-pending US trade deal could be signed by March, with most issues resolved as both sides push to close talks and ease punitive tariffs. Indias chief economic adviser said he would be surprised if an elusive trade deal with the US isnt signed by March, as most trade-related issues have been resolved. I was hoping something would be d…
+
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2025-12-11/india-s-adviser-nageswaran-sees-us-trade-deal-signed-by-march)
+---
+
+## Article 2: ‘A gesture of love’: Italy’s cuisine joins UNESCO’s cultural heritage list
+**Source:** Al Jazeera English | **Sentiment Score:** `0.7351`
+
+A UNESCO panel backed Italy’s bid, recognising Italian cuisine as a social ritual that binds families, communities. Italian cuisine, long cherished for its deep regional traditions, has been officially recognised by UNESCO as an intangible cultural heritage a designation the country hopes will elevate its global p…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2025/12/11/a-gesture-of-love-italys-cuisine-joins-unescos-cultural-heritage-list)
+---
+
+## Article 3: Bondi shares heart-pounding footage of US seizing Venezuelan oil tanker in rare action last seen in 2014
+**Source:** Fox News | **Sentiment Score:** `-0.6705`
+
+The U.S. military seized an Venezuelan oil tanker in a rare operation targeting sanctions violations. Armed agents rappelled from helicopters in the dramatic takedown. Attorney General Pam Bondi on Wednesday released video footage of U.S. forces seizing a Venezuelan crude oil tanker a bold move last ordered more than a decade ago. Video footage showed FBI and Home…
+
+[Read Original Article Here](https://www.foxnews.com/politics/bondi-shares-heart-pounding-footage-us-seizing-venezuelan-oil-tanker-rare-action-last-seen-2014)
+---
+
+## Article 4: Trump’s prescription for America’s affordability ills: Just think positive | CNN Business
+**Source:** CNN | **Sentiment Score:** `-0.4939`
+
+President Donald Trump has a few tried-and-true rhetorical strategies. He invokes what “many people are saying” when he needs to make an unsubstantiated claim. He riffs on nicknames for his political enemies. And he repeats a talking point relentlessly, hopin… President Donald Trump has a few tried-and-true rhetorical strategies. He invokes what many people are saying when he needs to make an unsubstantiated claim. He riffs on nicknames for his political e…
+
+[Read Original Article Here](https://www.cnn.com/2025/12/10/business/trump-affordability-quits-rate-nightcap)
+---
+
+## Article 5: Trump says 'any deal' to buy Warner Bros should include CNN
+**Source:** Fox News | **Sentiment Score:** `-0.5994`
+
+Speaking with reporters, President Donald Trump insisted CNN should be included in any sale of Warner Bros. as Netflix and Paramount ramp up their bidding war. President Donald Trump insisted Wednesday that CNN be part of any sale of the Warner Bros. Studios. "I think the people that have run CNN for the last long period of time are a disgrace," Trump told…
+
+[Read Original Article Here](https://www.foxnews.com/media/trump-says-any-deal-buy-warner-bros-should-include-cnn)
+---
+
+## Article 6: US Federal Reserve cuts interest rates in final decision of the year
+**Source:** Al Jazeera English | **Sentiment Score:** `0.1280`
+
+The central bank cut rates for the third time in 2025 as limited government data clouds economic outlook. The United States Federal Reserve has cut interest rates by a quarter of a percentage point, marking the last rate cut of the year. On Wednesday, the Federal Reserve cut its benchmark interest rate …
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2025/12/10/us-federal-reserve-cuts-interest-rates-in-final-decision-of-the-year)
+---
+
+## Article 7: More big warning signs for the GOP after Trump ‘weaves’ on affordability | CNN Politics
+**Source:** CNN | **Sentiment Score:** `0.5106`
+
+At some point, Republicans might want to ask themselves what happens if President Donald Trump simply refuses to help himself – and them – on affordability ahead of next year’s midterms. At 7:24 p.m. ET Tuesday in the Poconos, President Donald Trump signaled that he didnt really want to talk about what his speech was supposed to be about: affordability. By the way, if I read whats o…
+
+[Read Original Article Here](https://www.cnn.com/2025/12/10/politics/republicans-special-elections-trump-affordability)
+---
+
+## Article 8: Mayor Tim Keller defeats law-and-order challenger to secure third term as Albuquerque mayor
+**Source:** Fox News | **Sentiment Score:** `0.8225`
+
+Albuquerque Mayor Tim Keller won re-election in a runoff against former sheriff Darren White, securing a third term to lead New Mexico's largest city. Albuquerque Mayor Tim Keller has been re-elected to lead New Mexicos largest city, the Associated Press projects. While officially nonpartisan, Tuesdays runoff carried a clear ideological split as K…
+
+[Read Original Article Here](https://www.foxnews.com/politics/mayor-tim-keller-defeats-law-and-order-challenger-secure-third-term-albuquerque-mayor)
+---
+
+## Article 9: Bessent blasts Democrat-led states for blocking Trump tax relief in OBBBA
+**Source:** Fox News | **Sentiment Score:** `0.5859`
+
+Treasury Secretary Scott Bessent slams Democrat-led states for blocking Trump's tax relief legislation, calling it "political obstructionism." FIRST ON FOX: Treasury Secretary Scott Bessent on Wednesday criticized several Democrat-led states for refusing to adopt key provisions of President Donald Trump 's landmark One Big Beautiful Bill A…
+
+[Read Original Article Here](https://www.foxnews.com/politics/bessent-slams-democrat-led-states-refusing-adopt-key-provisions-trumps-obbba)
+---
+
+## Article 10: Zelenskyy warns Russia, China stepping up military-industrial cooperation
+**Source:** Al Jazeera English | **Sentiment Score:** `0.2500`
+
+A new report by Ukraine's foreign intelligence has warned of intensifying ties between the strategic partners. Ukrainian President Volodymyr Zelenskyy has said that China is moving to intensify cooperation with Russia, particularly in the military-industrial sphere, amid deepening ties between the strategic p…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2025/12/10/zelenskyy-warns-russia-china-stepping-up-military-industrial-cooperation)
+---
+
+## Article 11: US Chamber of Commerce accused of leading ‘woke corporate America’ as Trump dismantles DEI agenda
+**Source:** Fox News | **Sentiment Score:** `-0.4215`
+
+Conservative group Consumers' Research publishes "Woke Alert" targeting the U.S. Chamber of Commerce for pushing diversity initiatives and climate agenda. FIRST ON FOX: The U.S. Chamber of Commerce is coming under fire for allegedly becoming "one of the biggest engines driving woke corporate America" amid the Trump administration's battle to strip dive…
+
+[Read Original Article Here](https://www.foxnews.com/politics/us-chamber-commerce-accused-leading-woke-corporate-america-trump-dismantles-dei-agenda)
+---
+
+## Article 12: Trump’s $12bn aid package: Are tariffs bleeding US farmers?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.1531`
+
+Trump says funds will be made available from tariff revenues and promises trade policies will make US farmers 'strong’. US President Donald Trump has announced a $12bn aid package for farmers, offering financial assistance to a core part of his political base that has been hit hard by falling crop prices and the impac…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2025/12/10/trumps-12bn-aid-package-are-tariffs-bleeding-us-farmers)
+---
+
+## Article 13: One year after the fall of al-Assad, a reporter returns to Damascus
+**Source:** Al Jazeera English | **Sentiment Score:** `0.0000`
+
+Al Jazeera's Justin Salhani compares Damascus on the day after al-Assad's fall with one year later. Damascus, Syria On the morning of December 5, 2025, a taxi drove me across the Lebanon-Syria border. This time was different from my first trip across, in the early hours of December 9, 2024, just a …
+
+[Read Original Article Here](https://www.aljazeera.com/features/2025/12/10/one-year-after-the-fall-of-al-assad-a-reporter-returns-to-damascus)
+---
+
+## Article 14: Cotton moves to loosen egg rules in bid to boost supply, ease affordability crunch
+**Source:** Fox News | **Sentiment Score:** `-0.1027`
+
+The Lowering Egg Prices Act would require FDA and USDA to rewrite egg-handling rules, potentially increasing egg supply and reducing consumer prices. FIRST ON FOX: A Senate Republican wants to lower the costs of eggs by loosening certain regulations as the nation deals with growing affordability concerns. Sen. Tom Cotton, R-Ark., plans to introdu…
+
+[Read Original Article Here](https://www.foxnews.com/politics/cotton-moves-loosen-egg-rules-bid-boost-supply-ease-affordability-crunch)
+---
+
+## Article 15: Live updates: The Fed is expected to cut rates today. But the outlook for 2026 is less certain
+**Source:** CNN | **Sentiment Score:** `0.6249`
+
+The Fed is expected to cut interest rates Wednesday by a quarter point, lowering borrowing costs for the third time this year to support a weakening labor market. Follow for live news updates. Small businesses ramped up price hikes in November at a historic pace, raising questions about the wisdom of the Federal Reserves looming interest rate cut. The net percent of small business owners …
+
+[Read Original Article Here](https://www.cnn.com/business/live-news/federal-reserve-interest-rate-12-10-2025)
+---
+
+## Article 16: Fact-checking Trump’s Pennsylvania speech and his Politico interview
+**Source:** Al Jazeera English | **Sentiment Score:** `0.7269`
+
+Here's a closer look at what Trump said about the economy and migration during the Politico interview and the rally. United States President Donald Trump spoke to US news outlet Politico in an interview at the White House on Monday, during which he made several strong claims about the state of the economy, the thre…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2025/12/10/fact-checking-trumps-pennsylvania-speech-and-his-politico-interview)
+---
+
+## Article 17: What is Gracie Mansion and why is Zohran Mamdani moving in?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.8225`
+
+Gracie Mansion’s significance grows as Zohran Mamdani, elected on a housing justice agenda, prepares to move in. When New York mayor-elect Zohran Mamdani moves into Gracie Mansion, the elegant 18th-century house long associated with New Yorks political elite on Manhattans Upper East Side in January, he will lea…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2025/12/10/what-is-gracie-mansion-and-why-is-zohran-mamdani-moving-in)
+---
+
+## Article 18: CNN staffers fear for 'utter s--- show' in network's future if Paramount buys Warner Bros Discovery: insiders
+**Source:** Fox News | **Sentiment Score:** `0.2960`
+
+CNN staffers tell Fox News Digital the mood in the newsroom is "grim" over the prospects of Paramount owner David Ellison buying its parent company Warner Bros. Discovery. CNN is on the brink of having yet another new owner and, as of this moment, it's anyone's guess as to who it'll be. In October, CNN's parent company, Warner Bros. Discovery announced it was putting …
+
+[Read Original Article Here](https://www.foxnews.com/media/cnn-staffers-fear-utter-s-show-networks-future-paramount-buys-warner-bros-discovery-insiders)
+---
+
+## Article 19: Trump's approval climbs as Republicans rally behind president's affordability agenda: poll
 **Source:** Fox News | **Sentiment Score:** `0.9201`
 
 Trump's approval rating climbs to 41% ahead of major economy speech in Pennsylvania, with Republican support driving the increase in new Reuters poll. Hours before President Donald Trump was set to deliver a highly anticipated speech on the economy and affordability, a new national poll indicated the president's approval is on the rise, thanks in p…
@@ -13,155 +157,11 @@ Trump's approval rating climbs to 41% ahead of major economy speech in Pennsylva
 [Read Original Article Here](https://www.foxnews.com/politics/trump-approval-climbs-republicans-rally-behind-presidents-affordability-agenda-poll)
 ---
 
-## Article 2: Syrians mark first year since Assad's fall as US signals new era in relations
+## Article 20: Syrians mark first year since Assad's fall as US signals new era in relations
 **Source:** Fox News | **Sentiment Score:** `-0.1027`
 
 As Syria celebrates liberation anniversary, the nation faces massive rebuilding challenges with over 170,000 people still missing from Assad's prisons. Tens of thousands of Syrians flooded the streets of Damascus on Monday to mark the first anniversary of the Assad regimes collapse.  The celebrations came a year after former Syrian dictator Bashar …
 
 [Read Original Article Here](https://www.foxnews.com/world/syrians-mark-first-year-since-assads-fall-us-signals-new-era-relations)
----
-
-## Article 3: Mamdani will introduce British antisemitism, taxes to US: Former UK prime minister
-**Source:** Fox News | **Sentiment Score:** `-0.3400`
-
-Former Prime Minister of the United Kingdom Liz Truss warned Americans about New York City Mayor-elect's socialist agenda in an exclusive interview with Fox News Digital. Liz Truss, the former British prime minister who staked her brief tenure on tax cuts and deregulation, is warning Americans about New York City Mayor-elect Zohran Mamdani's socialist agenda will mirr…
-
-[Read Original Article Here](https://www.foxnews.com/politics/former-uk-pm-truss-warns-nyc-could-face-uk-style-antisemitism-taxes-regulation-under-mamdani-agenda)
----
-
-## Article 4: Trump insists prices are ‘coming down,’ blames Biden — but voters say they’re still getting squeezed
-**Source:** Fox News | **Sentiment Score:** `0.4404`
-
-Trump faces economic messaging crisis after Democrats won November elections campaigning on affordability as 76% of voters view economy negatively. President Donald Trump declared the U.S. economy is strong and holds an "A-plus-plus-plus-plus-plus" grade under his leadership despite inheriting a "mess" from the Biden administration.  "The word …
-
-[Read Original Article Here](https://www.foxnews.com/politics/trump-insists-prices-coming-down-blames-biden-voters-say-theyre-still-getting-squeezed)
----
-
-## Article 5: 'Prices are coming down': Trump hails his economy, blames Biden as voters say costs still sting
-**Source:** Fox News | **Sentiment Score:** `0.4404`
-
-Trump faces economic messaging crisis after Democrats won November elections campaigning on affordability as 76% of voters view economy negatively. President Donald Trump declared the U.S. economy is strong and holds an "A plus plus plus plus" grade under his leadership despite inheriting a "mess" from the Biden administration.  "The word affor…
-
-[Read Original Article Here](https://www.foxnews.com/politics/prices-coming-down-trump-hails-his-economy-blames-biden-voters-say-costs-still-sting)
----
-
-## Article 6: France’s prime minister faces crunch vote in parliament
-**Source:** Al Jazeera English | **Sentiment Score:** `0.5719`
-
-Sébastien Lecornu faces a vital test to his premiership over the social security budget bill. Frances National Assembly is set to vote on a major social security budget bill, in a critical test for the embattled Prime Minister Sebastien Lecornu, who has pledged to deliver the countrys 2026 bu…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2025/12/9/frances-prime-minister-faces-crunch-vote-in-parliament)
----
-
-## Article 7: How India plans to continue buying Russian oil despite sanctions
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.6786`
-
-Indian imports of Russian oil have soared since the start of the war in Ukraine. India plans to continue buying cheap crude oil from Russia, despite sanctions imposed on major Russian oil companies by the United States and Europe. Indian Prime Minister Narendra Modi met with Rus…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2025/12/9/how-india-plans-to-continue-buying-russian-oil-despite-sanctions)
----
-
-## Article 8: How did China’s trade surplus hit $1 trillion?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.1779`
-
-Donald Trump’s trade tariffs have failed to hold back China's export dominance, which scaled new heights in November. Chinas trade surplus the difference between the value of goods it imports and exports has hit $1 trillion for the first time, a significant yardstick in the countrys role as factory of the world, mak…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2025/12/9/how-did-chinas-trade-surplus-hit-1-trillion)
----
-
-## Article 9: Quietly builds plans for what would happen if Maduro ousted...
-**Source:** CNN | **Sentiment Score:** `-0.8750`
-
-Months into a pressure campaign that has seen the US military move thousands of troops and a carrier strike group into the Caribbean and President Donald Trump issue repeated threats against Venezuelan leader Nicolas Maduro, the Trump administration is workin… Months into a pressure campaign that has seen the US military move thousands of troops and a carrier strike group into the Caribbean and President Donald Trump issue repeated threats against Venezuel…
-
-[Read Original Article Here](https://www.cnn.com/2025/12/09/politics/trump-plans-after-maduro)
----
-
-## Article 10: ‘I belong in my own country’: Syrians celebrate a year after al-Assad
-**Source:** Al Jazeera English | **Sentiment Score:** `0.9042`
-
-Al Jazeera speaks to Syrians as they celebrate one year since the fall of longtime ruler Bashar al-Assad. Damascus, Syria  Syrians have marked the first anniversary of the fall of longtime ruler Bashar al-Assad with fireworks and jubilant celebrations in major cities, amid renewed optimism for long-lasti…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2025/12/9/i-belong-in-my-own-country-syrians-celebrate-a-year-after-al-assad)
----
-
-## Article 11: Albuquerque voters to decide mayoral runoff as law-and-order challenger takes on incumbent in blue city
-**Source:** Fox News | **Sentiment Score:** `-0.4588`
-
-Crime and homelessness take center stage as Albuquerque voters choose between incumbent Mayor Tim Keller and challenger former Sheriff Darren White in a runoff election. Voters in Albuquerque, New Mexico, are returning to the polls Tuesday as Mayor Tim Keller faces former Sheriff Darren White in a runoff election. According to results released by the New Mexico Secr…
-
-[Read Original Article Here](https://www.foxnews.com/politics/albuquerque-voters-decide-mayoral-runoff-law-and-order-challenger-takes-incumbent-blue-city)
----
-
-## Article 12: Why does the stock market care so much about a rate cut? | CNN Business
-**Source:** CNN | **Sentiment Score:** `0.5106`
-
-Just a few weeks ago, the stock market stumbled over fears that artificial intelligence stocks might be in a bubble. Now stocks are back within reach of a record high. Just a few weeks ago, the stock market stumbled over fears that artificial intelligence stocks might be in a bubble. Now stocks are back within reach of a record high. Thank the Federal Reserve. Th…
-
-[Read Original Article Here](https://www.cnn.com/2025/12/09/business/us-stock-market-federal-reserve-rate-decision)
----
-
-## Article 13: Blinkit CEO warns India’s quick commerce bubble may be close to bursting
-**Source:** Bloomberg | **Sentiment Score:** `-0.4767`
-
-A model that has so far relied on relentless fundraising is nearing its limits and companies will soon have to decide how long they can keep absorbing steep losses, says Blinkit Chief Executive Officer Albinder Dhindsa The head of Indias biggest quick commerce player says the sector is hurtling toward a shakeout as rivals cash dries up, but that his startup will thrive and continue its expansion. A model that has …
-
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2025-12-09/blinkit-ceo-warns-india-s-quick-commerce-bubble-may-be-close-to-bursting)
----
-
-## Article 14: Trump threatens 5% tariff on Mexico over water treaty violations affecting Texas farmers
-**Source:** Fox News | **Sentiment Score:** `-0.9360`
-
-President Trump threatens 5% tariff on Mexico over water treaty dispute, demanding 200,000 acre-feet release before Dec. 31 to help struggling Texas farmers and crops. President Donald Trump warned Monday that Mexicos failure to deliver water owed under a decades-old treaty is harming Texas farmers and could trigger a new tariff if the country does not immediately …
-
-[Read Original Article Here](https://www.foxnews.com/politics/trump-threatens-5-tariff-mexico-over-water-treaty-violations-affecting-texas-farmers)
----
-
-## Article 15: Trump slaps Mexico with 5 percent tariff over violations of water treaty
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.2500`
-
-Leaders on both sides of the border have faced pressure from farmers and ranchers to secure more water for their farms. United States President Donald Trump has raised tariffs by 5 percent on imports from Mexico, accusing the country of failing to uphold a cross-border water treaty. The tariff hike was revealed in a …
-
-[Read Original Article Here](https://www.aljazeera.com/news/2025/12/9/trump-slaps-mexico-with-5-percent-tariff-over-violations-of-water-treaty)
----
-
-## Article 16: Top Mamdani appointee faces heat amid promise to make NYC more affordable: 'Embodiment of inflation'
-**Source:** Fox News | **Sentiment Score:** `0.7184`
-
-Former RNC chair Ronna McDaniel blasts NYC mayor-elect Zohran Mamdani for making ex-Biden FTC chief Lina Khan a top adviser, saying the selection undercuts his promises to make NYC more affordable. FIRST ON FOX: Four-term chairperson of the Republican National Committee (RNC), Ronna McDaniel, is calling out mayor-elect Zohran Mamdani for hypocritically running a campaign focused on making New Y…
-
-[Read Original Article Here](https://www.foxnews.com/politics/top-mamdani-appointee-faces-heat-amid-promise-make-nyc-more-affordable)
----
-
-## Article 17: US tariffs ruin education dreams for children in India’s diamond hub
-**Source:** Al Jazeera English | **Sentiment Score:** `0.7184`
-
-For decades, India's diamond industry offered workers a way to a better income and life for their families. Not anymore. Surat, India  In 2018, Alpesh Bhai enrolled his three-year-old daughter in an English-language private school in Surat. This was something he never imagined possible while growing up in his village i…
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2025/12/9/us-tariffs-ruin-education-dreams-for-children-in-indias-diamond-hub)
----
-
-## Article 18: Trump greenlights exports of Nvidia H200 chips to China | CNN Business
-**Source:** CNN | **Sentiment Score:** `-0.6369`
-
-President Donald Trump announced on Monday in a Truth Social post that he’s removing export controls on Nvidia’s H200 chips to China, a key reversal in what’s become part of a broader trade war between the world’s two biggest economies. President Donald Trump announced on Monday in a Truth Social post that hes removing export controls on Nvidias H200 chips to China, a key reversal in whats become part of a broader trade war between …
-
-[Read Original Article Here](https://www.cnn.com/2025/12/08/tech/nvidia-h200-chips-china-trump-export)
----
-
-## Article 19: Trump announces $12bn package to aid farmers hurt by his tariffs
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.0258`
-
-Farmers have been dogged by trade wars that have seen reduced purchases and increased prices on seeds and fertiliser. United States President Donald Trump has announced a $12bn aid package to help farmers harmed by his hardline tariff policies. Trump announced the package at a White House event on Monday, saying th…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2025/12/8/trump-announces-12bn-package-to-aid-farmers-hurt-by-his-tariffs)
----
-
-## Article 20: White House turns up heat on Biden’s economic record as voters sour on ‘affordability’
-**Source:** Fox News | **Sentiment Score:** `0.0772`
-
-Trump tours battleground states promoting affordability messaging as Democrats sweep 2025 elections using economic concerns as winning strategy. The White House is turning up the heat on former President Joe Biden's economic record as voters voice their discontent with current cost-of-living woes that President Donald Trump campaigned to brin…
-
-[Read Original Article Here](https://www.foxnews.com/politics/white-house-turns-up-heat-bidens-economic-record-voters-sour-affordability)
 ---
 
