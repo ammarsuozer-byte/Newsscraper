@@ -1,11 +1,123 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2025-12-18 | **Status:** Automated
+**Date:** 2025-12-19 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: Trump orders ‘total and complete blockade’ of sanctioned oil tankers coming to and leaving Venezuela | CNN Politics
+## Article 1: Five key takeaways from Trump’s state-of-the-nation address
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.0258`
+
+The US president blamed immigrants for the country's woes and promised an 'economic boom' in 2026. In a 19-minute address to the nation on Wednesday night, United States President Donald Trump made no major announcements, as presidents are usually wont to do. Instead, he took the opportunity to fu…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2025/12/18/five-key-takeaways-from-trumps-state-of-the-nation-address)
+---
+
+## Article 2: The Arab Spring hasn’t ended, and Arab regimes know it
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.1280`
+
+Fifteen years on, repression is deeper, dissent is criminalised, but democracy is still the public demand. Exactly 15 years ago, the self-immolation of Mohammed Bouazizi in Tunisia prompted an unprecedented pan-Arab protest movement that demonstrated the overwhelming Arab desire for more democratic forms …
+
+[Read Original Article Here](https://www.aljazeera.com/opinions/2025/12/18/the-arab-spring-hasnt-ended-and-arab-regimes-know-it)
+---
+
+## Article 3: From A for algebra to T for tariffs: Arabic words used in English speech
+**Source:** Al Jazeera English | **Sentiment Score:** `0.0000`
+
+Arabic is spoken by more than 400 million people. Can you recognise these Arabic words that made their way into English? Arabic is one of the worlds most widely spoken languages with at least 400 million speakers, including 200 million native speakers and 200 million to 250 million non-native speakers. Modern Standard…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2025/12/18/from-a-for-algebra-to-t-for-tariffs-arabic-words-used-in-english-speech)
+---
+
+## Article 4: Trump touts bringing country back from 'brink of ruin'
+**Source:** Fox News | **Sentiment Score:** `0.1027`
+
+President Donald Trump addressed the nation Wednesday night, touting economic improvements and announcing a $1,776 'Warrior Dividend' for military service members. President Donald Trump touted the work his administration has done since January in an address to the nation on Wednesday night as he labeled the U.S. the "hottest country in the world."  Trump blam…
+
+[Read Original Article Here](https://www.foxnews.com/politics/trump-touts-bringing-country-back-from-brink-ruin)
+---
+
+## Article 5: Can India catch up with the US, Taiwan and China in the global chip race?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.3182`
+
+India aims to be an additional manufacturing hub for companies wanting to expand production beyond China. In October, a small electronics manufacturer in the western Indian state of Gujarat shipped its first batch of chip modules to a client in California. Kaynes Semicon, together with Japanese and Mala…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2025/12/18/can-india-catch-up-with-the-us-taiwan-and-china-in-the-global-chip-race)
+---
+
+## Article 6: Russia-Ukraine war: List of key events, day 1,393
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.8885`
+
+These are the key developments from day 1,393 of Russia’s war on Ukraine. Here is where things stand on Thursday, December 18: Fighting <ul><li>Ukrainian drones have hit a tanker vessel in the southern Russian port of Rostov-on-Don, killing and injuring a number of peopl…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2025/12/18/russia-ukraine-war-list-of-key-events-day-1393)
+---
+
+## Article 7: Speaker Johnson ekes out healthcare bill victory after House GOP Obamacare rebellion
+**Source:** Fox News | **Sentiment Score:** `-0.3716`
+
+House Republicans pass healthcare bill promising to lower healthcare costs by 11% for Americans, but enhanced Obamacare subsidies remain unresolved. House Republicans passed a bill they say will lower healthcare costs for a broad swath of Americans by roughly 11%. It's a victory for Speaker Mike Johnson, R-La., who has been managing deep divisio…
+
+[Read Original Article Here](https://www.foxnews.com/politics/speaker-johnson-ekes-out-healthcare-bill-victory-after-house-gop-obamacare-rebellion)
+---
+
+## Article 8: Trump set to address the nation in primetime White House speech as Americans report economic squeeze
+**Source:** Fox News | **Sentiment Score:** `-0.0772`
+
+President Donald Trump will deliver a White House speech Wednesday night that is expect to reflect on achievements and potentially teasing new policy initiatives. President Donald Trump is set to deliver a primetime speech from the White House Wednesday that's anticipated to reflect on his administration's accomplishments in the past year, while simultaneously…
+
+[Read Original Article Here](https://www.foxnews.com/politics/trump-set-address-nation-primetime-white-house-speech-americans-report-economic-squeeze)
+---
+
+## Article 9: Fox News Poll: As prices pinch, voters see Trump focused elsewhere
+**Source:** Fox News | **Sentiment Score:** `0.4522`
+
+A New Fox News poll shows Trump's job approval at 44%, while 72% rate the economy negatively and 90% express serious concern about inflation. Even as more voters are happy with how things are going in the country, theyre worried.  An overwhelming majority expresses concern about high prices. Four times as many say theyre losing financial …
+
+[Read Original Article Here](https://www.foxnews.com/politics/fox-news-poll-prices-pinch-voters-see-trump-focused-elsewhere)
+---
+
+## Article 10: ‘I am concerned’: Regional leaders urge calm amid US-Venezuela tensions
+**Source:** Al Jazeera English | **Sentiment Score:** `0.7506`
+
+Mexico's Claudia Sheinbaum called on the UN to intervene for peace, while Brazil's Lula volunteered to mediate talks. Leaders in Latin America and the United Nations have voiced concerns about the spiralling tensions between the United States and Venezuela over the future of oil exports from the South American count…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2025/12/17/i-am-concerned-regional-leaders-urge-calm-amid-us-venezuela-tensions)
+---
+
+## Article 11: WATCH: Doctor-lawmaker blames Obamacare for driving health costs higher
+**Source:** Fox News | **Sentiment Score:** `0.1531`
+
+House Republicans unveil healthcare bill promising to cut premiums by 11-12% through association health plans and transparency measures for all Americans, among other initiatives. A doctor-turned-House Republican is arguing that there is a direct link between the Affordable Care Act (ACA), colloquially known as Obamacare, and the increasing cost of healthcare putting a strain …
+
+[Read Original Article Here](https://www.foxnews.com/politics/watch-doctor-lawmaker-blames-obamacare-driving-health-costs-higher)
+---
+
+## Article 12: Trump targets Maduro as Western Hemisphere becomes ‘first line of defense’ in new strategy
+**Source:** Fox News | **Sentiment Score:** `0.2732`
+
+Trump administration's new National Security Strategy elevates Western Hemisphere as security priority, targeting Venezuela crisis and instability. The Trump administration has moved its hemispheric security doctrine into full force in Venezuela, ordering a sweeping naval blockade on sanctioned oil tankers and labeling Nicolás Maduros government…
+
+[Read Original Article Here](https://www.foxnews.com/world/trump-targets-maduro-western-hemisphere-becomes-first-line-defense-new-strategy)
+---
+
+## Article 13: False spring: The end of Tunisia’s revolutionary hopes?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.7906`
+
+Fifteen years after revolution took hold, little remains of the hopes that ignited a region. Fifteen years ago, a Tunisian fruit seller, Mohamed Bouazizi, despairing at official corruption and police violence, walked to the centre of his hometown of Sidi Bouzid, set himself on fire, and chan…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2025/12/17/false-spring-the-end-of-tunisias-revolutionary-hopes)
+---
+
+## Article 14: How have India’s exports jumped 20 percent, despite Trump’s trade war?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.7579`
+
+Despite a 50 percent tariff, India’s exports to the US grew by more than one-fifth in November. Indias exports increased by nearly 20 percent in November year-on-year, the countrys fastest growth in three years, driven primarily by exports to the United States and China. The rise comes at a ti…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2025/12/17/how-have-indias-exports-jumped-20-percent-despite-trumps-trade-war)
+---
+
+## Article 15: Trump orders ‘total and complete blockade’ of sanctioned oil tankers coming to and leaving Venezuela | CNN Politics
 **Source:** CNN | **Sentiment Score:** `-0.5267`
 
 President Donald Trump said Tuesday he was ordering a “total and complete blockade” of sanctioned oil tankers coming to and leaving from Venezuela, ratcheting up pressure against leader Nicolás Maduro’s regime and suggesting an economic motive to the US’ mili… President Donald Trump said Tuesday he was ordering a total and complete blockade of sanctioned oil tankers coming to and leaving from Venezuela, ratcheting up pressure against leader Nicolás Maduros…
@@ -13,7 +125,7 @@ President Donald Trump said Tuesday he was ordering a “total and complete bloc
 [Read Original Article Here](https://www.cnn.com/2025/12/16/politics/blockade-venezuela-sanctioned-oil-tankers)
 ---
 
-## Article 2: Pelosi perceived as 'on the wrong side' over congressional stock trading as career nears end: NY Times
+## Article 16: Pelosi perceived as 'on the wrong side' over congressional stock trading as career nears end: NY Times
 **Source:** Fox News | **Sentiment Score:** `-0.2500`
 
 Nancy Pelosi's opposition to stock trading restrictions has created controversy that may overshadow her historic legacy as the first female House Speaker, the New York Times wrote. The New York Times called out former House Speaker Nancy Pelosi, D-Calif., in a Monday piece, arguing she's ending her career with an "asterisk" due to her stance on congressional stock trading. Whi…
@@ -21,7 +133,7 @@ Nancy Pelosi's opposition to stock trading restrictions has created controversy 
 [Read Original Article Here](https://www.foxnews.com/media/pelosi-perceived-on-wrong-side-over-congressional-stock-trading-career-nears-end-ny-times)
 ---
 
-## Article 3: CBP announces record-breaking $200 billion in tariff revenue amid Trump administration enforcement push
+## Article 17: CBP announces record-breaking $200 billion in tariff revenue amid Trump administration enforcement push
 **Source:** Fox News | **Sentiment Score:** `0.1531`
 
 U.S. Customs and Border Protection said it collected over $200 billion in tariffs revenue under the Trump administration through enhanced enforcement. U.S. Customs and Border Protection (CBP) announced on Tuesday it has collected more than $200 billion in tariffs revenue since President Donald Trump  took office, crediting dozens of executive orde…
@@ -29,7 +141,7 @@ U.S. Customs and Border Protection said it collected over $200 billion in tariff
 [Read Original Article Here](https://www.foxnews.com/politics/cbp-announces-record-breaking-200-billion-tariff-revenue-amid-trump-administration-enforcement-push)
 ---
 
-## Article 4: US unemployment hits highest level since 2021 as labour market cools
+## Article 18: US unemployment hits highest level since 2021 as labour market cools
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.8519`
 
 Unemployment rate rises to 4.6 percent as job cuts hit federal workers and manufacturing sector. The United States economy lost 41,000 jobs in October and November, and the unemployment rate has ticked up to its highest level since 2021 as the labour market cools amid ongoing economic uncertaint…
@@ -37,7 +149,7 @@ Unemployment rate rises to 4.6 percent as job cuts hit federal workers and manuf
 [Read Original Article Here](https://www.aljazeera.com/economy/2025/12/16/us-unemployment-hits-highest-level-since-2021-as-labour-market-cools)
 ---
 
-## Article 5: Trump announces Donald Trump Jr.’s engagement at White House holiday party | CNN Politics
+## Article 19: Trump announces Donald Trump Jr.’s engagement at White House holiday party | CNN Politics
 **Source:** CNN | **Sentiment Score:** `0.8126`
 
 The president’s eldest son, Donald Trump Jr., is engaged to Palm Beach socialite Bettina Anderson, a spokesperson for Trump Jr. confirmed to CNN. The presidents eldest son, Donald Trump Jr., is engaged to Palm Beach socialite Bettina Anderson, a spokesperson for Trump Jr. confirmed to CNN. President Donald Trump announced the engagement on Mo…
@@ -45,123 +157,11 @@ The president’s eldest son, Donald Trump Jr., is engaged to Palm Beach sociali
 [Read Original Article Here](https://www.cnn.com/2025/12/16/politics/donald-trump-jr-bettina-anderson)
 ---
 
-## Article 6: Why are French farmers objecting to EU-Mercosur trade deal?
+## Article 20: Why are French farmers objecting to EU-Mercosur trade deal?
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.5423`
 
 France wants stronger safeguards for farmers and is urging the EU to delay a vote on Mercosur, threatening imports. France is pushing to postpone a European Union vote to ratify a trade deal with the Mercosur bloc of four South American countries, citing concerns about its effects on farmers and ongoing protests a…
 
 [Read Original Article Here](https://www.aljazeera.com/economy/2025/12/16/why-are-french-farmers-objecting-to-eu-mercosur-trade-deal)
----
-
-## Article 7: ‘Ghost ships’ ferrying illicit oil have sailed into Trump’s crosshairs
-**Source:** Fox News | **Sentiment Score:** `-0.9371`
-
-Secret fleet of oil tankers uses fake flags, shell companies and disabled tracking to smuggle crude from Russia, Iran and Venezuela despite sanctions. After the U.S. seized a tanker carrying Venezuelan crude oil, the shadowy fleet of "ghost ships" used to evade sanctions drifted squarely into President Donald Trump's  crosshairs. On Dec. 10, Trum…
-
-[Read Original Article Here](https://www.foxnews.com/politics/ghost-ships-moving-illicit-oil-has-entered-trumps-crosshairs-escalating-quiet-war-sea)
----
-
-## Article 8: It Will Be Messy if the Supreme Court Strikes Down Trump’s Tariffs
-**Source:** Politico | **Sentiment Score:** `-0.1531`
-
-Reviving the tariffs will not be as simple as administration officials suggest. The fate of the Trump administrations tariff regime hangs in the balance before the Supreme Court, and no one seems more concerned about the likelihood of a major defeat than President Donald Trump h…
-
-[Read Original Article Here](https://www.politico.com/news/magazine/2025/12/16/trump-tariffs-supreme-court-defeat-messy-column-00691102)
----
-
-## Article 9: Has Benin’s foiled coup made ECOWAS a West African heavyweight once more?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.1280`
-
-The regional bloc seemed resigned to the coup crises rocking the region until the Benin attempt this month. When armed soldiers in the small West African nation of Benin appeared on national television on December 7 to announce they had seized power in a coup, it felt to many across the region like another…
-
-[Read Original Article Here](https://www.aljazeera.com/features/2025/12/16/has-benins-foiled-coup-made-ecowas-a-west-african-heavyweight-once-more)
----
-
-## Article 10: Bitcoin drops below $86,000 while sinking toward year’s lows
-**Source:** Bloomberg | **Sentiment Score:** `-0.3182`
-
-Bitcoin dropped below $86,000 for the first time in two weeks with investor sentiment weakening as the largest cryptocurrency slips deeper into bear market territory. Bitcoin dropped below $86,000 for the first time in two weeks with investor sentiment weakening as the largest cryptocurrency slips deeper into bear market territory.  The original cryptocurrency ha…
-
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2025-12-15/bitcoin-breaches-86-000-while-sinking-toward-year-s-lows)
----
-
-## Article 11: Trump sues BBC for $10bn over edited 2021 US Capitol riot speech
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.6369`
-
-Lawyers for US President Donald Trump say the BBC caused him overwhelming reputational and financial harm. United States President Donald Trump has filed a lawsuit seeking at least $10bn from the BBC over a documentary that edited his speech to supporters before the US Capitol riot in 2021. The lawsuit, …
-
-[Read Original Article Here](https://www.aljazeera.com/news/2025/12/16/trump-sues-bbc-for-10bn-over-edited-2021-capitol-riot-speech)
----
-
-## Article 12: FDA sends warning letters to major retailers for selling recalled formula linked to infant botulism outbreak | CNN
-**Source:** CNN | **Sentiment Score:** `-0.8860`
-
-The US Food and Drug Administration sent warning letters to Target, Walmart, Kroger and Albertsons after some of the stores failed to remove recalled baby formula linked to a large infant botulism outbreak. The US Food and Drug Administration sent warning letters to Target, Walmart, Kroger and Albertsons after some of the stores failed to remove recalledbaby formula linked to a large infant botulism out…
-
-[Read Original Article Here](https://www.cnn.com/2025/12/15/health/fda-letters-retailers-byheart-formula)
----
-
-## Article 13: Korea Zinc plans $7.4bn US minerals refinery with Washington’s backing
-**Source:** Al Jazeera English | **Sentiment Score:** `0.1779`
-
-Korea Zinc will start by acquiring two mining complexes and the only US zinc smelter, which is in Tennessee. Korea Zinc, the worlds largest zinc smelter, has announced a $7.4bn smelter project that will be funded largely by the United States government as Washington pushes to cut its reliance on China for a…
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2025/12/15/korea-zinc-plans-7-4bn-us-minerals-refinery-with-washingtons-backing)
----
-
-## Article 14: Europe’s efforts to undermine Trump’s plan on Ukraine may backfire
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.3818`
-
-The European political elite still holds onto the belief that Ukraine can somehow prevail on the battlefield if funded. This week is shaping up to be crucial for the European Unions policy on Ukraine. EU foreign ministers met in Brussels on Monday; EU heads of state will gather on Thursday. Ukrainian President Volodym…
-
-[Read Original Article Here](https://www.aljazeera.com/opinions/2025/12/15/europes-efforts-to-undermine-trumps-plan-on-ukraine-may-backfire)
----
-
-## Article 15: Trump-style law-and-order conservative clinches Chile’s presidency as violent crime crisis reshapes nation
-**Source:** Fox News | **Sentiment Score:** `0.8074`
-
-Chile elects hard-right José Antonio Kast as president, marking sharp political shift with focus on security and immigration reform. Chile delivered its sharpest political shift in decades as José Antonio Kast, a hard-right former lawmaker who campaigned on restoring public order and tightening the countrys borders, won the presid…
-
-[Read Original Article Here](https://www.foxnews.com/world/trump-style-law-and-order-conservative-clinches-chiles-presidency-violent-crime-crisis-reshapes-nation)
----
-
-## Article 16: Pelosi reveals she and Biden still haven't spoken, rejects premise that she told him to drop out
-**Source:** Fox News | **Sentiment Score:** `0.5719`
-
-Former House Speaker Nancy Pelosi revealed she still hasn't spoken to former President Joe Biden since his 2024 election exit and said she's "saddened" by the silence. Former House Speaker Nancy Pelosi revealed in an interview released Saturday that she and former President Joe Biden still have not spoken after she played a role in encouraging him to drop out of th…
-
-[Read Original Article Here](https://www.foxnews.com/media/pelosi-admits-shes-saddened-ongoing-silence-from-biden-after-pushing-him-out-race)
----
-
-## Article 17: Who is Jose Antonio Kast, Chile’s newly elected far-right leader?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.7269`
-
-The president-elect has vowed to tackle crime and tighten immigration policies. Far-right candidate Jose Antonio Kast of the Republican Party who claims to be inspired by US President Donald Trump has won Chiles presidential run-off election, marking a major shift in the Latin A…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2025/12/15/who-is-jose-antonio-kast-chiles-newly-elected-far-right-leader)
----
-
-## Article 18: The solution to America’s affordability problem might be broken, too | CNN Business
-**Source:** CNN | **Sentiment Score:** `0.1280`
-
-The best way to fix Americans’ cost-of-living problem is to give workers bigger raises, Federal Reserve Chair Jerome Powell said last week. The best way to fix Americans cost-of-living problem is to give workers bigger raises, Federal Reserve Chair Jerome Powell said last week. The problem: That solution looks broken, too. The US job ma…
-
-[Read Original Article Here](https://www.cnn.com/2025/12/15/economy/affordability-jobs-inflation)
----
-
-## Article 19: Gen Z is struggling to survive — and Republicans can't afford to look away
-**Source:** Fox News | **Sentiment Score:** `-0.5499`
-
-Young Americans are rejecting the Republican Party not over ideology but economics, facing 10.4% youth unemployment and 47% housing cost increases since 2020. Young Americans apathy toward the Republican Party is not ideological; it comes from the simple fact that they can no longer afford to dream. They were raised on a basic American covenant: work hard,…
-
-[Read Original Article Here](https://www.foxnews.com/opinion/gen-z-struggling-survive-and-republicans-cant-afford-look-away)
----
-
-## Article 20: Global funds view Indian stocks as a top hedge against AI risks
-**Source:** Bloomberg | **Sentiment Score:** `-0.1779`
-
-With the AI frenzy fading and India’s stock valuations falling back near their five-year average after sharply trailing peers this year, the consumption-driven economy is back in favor India is drawing fresh attention from global fund managers looking to diversify equity investments in the coming year as worries over an AI bubble mount.  Aberdeen Group Plc sees Indian stocks stagi…
-
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2025-12-14/global-funds-view-indian-stocks-as-a-top-hedge-against-ai-risks)
 ---
 
