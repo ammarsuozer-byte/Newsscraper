@@ -1,167 +1,167 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2025-12-19 | **Status:** Automated
+**Date:** 2025-12-20 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: Five key takeaways from Trump’s state-of-the-nation address
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.0258`
+## Article 1: How much is US support for Israel costing Donald Trump?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.2500`
 
-The US president blamed immigrants for the country's woes and promised an 'economic boom' in 2026. In a 19-minute address to the nation on Wednesday night, United States President Donald Trump made no major announcements, as presidents are usually wont to do. Instead, he took the opportunity to fu…
+US aid to Israel continues under Trump, drawing MAGA criticism over fiscal strain and foreign policy implications. Few expected United States President Donald Trump to abandon Israel during his second term in office, considering how supportive he had been of the Middle Eastern country in his first term. And yet,…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2025/12/18/five-key-takeaways-from-trumps-state-of-the-nation-address)
+[Read Original Article Here](https://www.aljazeera.com/news/2025/12/19/how-much-is-us-support-for-israel-costing-donald-trump)
 ---
 
-## Article 2: The Arab Spring hasn’t ended, and Arab regimes know it
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.1280`
+## Article 2: Europe salvages credibility with last-minute $105 billion funding deal on Ukraine
+**Source:** CNN | **Sentiment Score:** `0.0000`
 
-Fifteen years on, repression is deeper, dissent is criminalised, but democracy is still the public demand. Exactly 15 years ago, the self-immolation of Mohammed Bouazizi in Tunisia prompted an unprecedented pan-Arab protest movement that demonstrated the overwhelming Arab desire for more democratic forms …
+Europe’s 90-billion-euro interest-free loan to keep Ukraine’s economy and military from a budgetary blackhole through 2027 didn’t come about in the way some ... Europes 90-billion-euro ($105 billion) interest-free loan to keep Ukraines economy and military from a budgetary blackhole through 2027 didnt come about in the way some leaders wanted, but the fact i…
 
-[Read Original Article Here](https://www.aljazeera.com/opinions/2025/12/18/the-arab-spring-hasnt-ended-and-arab-regimes-know-it)
+[Read Original Article Here](https://www.cnn.com/2025/12/18/europe/eu-ukraine-russia-funding-deal-hnk-intl)
 ---
 
-## Article 3: From A for algebra to T for tariffs: Arabic words used in English speech
-**Source:** Al Jazeera English | **Sentiment Score:** `0.0000`
+## Article 3: Which countries, besides Russia, have assets frozen by the EU?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.4767`
 
-Arabic is spoken by more than 400 million people. Can you recognise these Arabic words that made their way into English? Arabic is one of the worlds most widely spoken languages with at least 400 million speakers, including 200 million native speakers and 200 million to 250 million non-native speakers. Modern Standard…
+The European Union has imposed asset freezes totalling hundreds of billions of dollars on at least 31 countries. European Union leaders agreed not to use frozen Russian assets to help fund Ukraines defence in the ongoing war with Russia early on Friday. Instead, 90 billion euros ($106bn) will come from an inte…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2025/12/18/from-a-for-algebra-to-t-for-tariffs-arabic-words-used-in-english-speech)
+[Read Original Article Here](https://www.aljazeera.com/news/2025/12/19/which-countries-besides-russia-have-assets-frozen-by-the-eu)
 ---
 
-## Article 4: Trump touts bringing country back from 'brink of ruin'
-**Source:** Fox News | **Sentiment Score:** `0.1027`
+## Article 4: India’s big-bang financial reforms target wave of foreign money
+**Source:** Bloomberg | **Sentiment Score:** `0.7430`
 
-President Donald Trump addressed the nation Wednesday night, touting economic improvements and announcing a $1,776 'Warrior Dividend' for military service members. President Donald Trump touted the work his administration has done since January in an address to the nation on Wednesday night as he labeled the U.S. the "hottest country in the world."  Trump blam…
+As India opens its financial services sector to 100% FDI in insurance and pensions, the government aims to attract significant foreign investment—critical for its ambitious economic growth targets amidst rising global trade tensions Indias long-awaited package of financial services reforms is setting the stage for a surge of foreign capital into the worlds fastest-growing major economy. In the latest step, lawmakers passed a bi…
 
-[Read Original Article Here](https://www.foxnews.com/politics/trump-touts-bringing-country-back-from-brink-ruin)
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2025-12-19/india-s-big-bang-financial-reforms-target-wave-of-foreign-money)
 ---
 
-## Article 5: Can India catch up with the US, Taiwan and China in the global chip race?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.3182`
+## Article 5: Five killed as US military destroys two more vessels in Pacific Ocean
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.9274`
 
-India aims to be an additional manufacturing hub for companies wanting to expand production beyond China. In October, a small electronics manufacturer in the western Indian state of Gujarat shipped its first batch of chip modules to a client in California. Kaynes Semicon, together with Japanese and Mala…
+US military says 'lethal kinetic strikes on two vessels' killed three people in one craft and two in another. United States forces have killed five more people on board vessels in the Pacific Ocean, bringing the death toll from the Trump administrations military campaign against alleged seaborne drug traffic…
 
-[Read Original Article Here](https://www.aljazeera.com/economy/2025/12/18/can-india-catch-up-with-the-us-taiwan-and-china-in-the-global-chip-race)
+[Read Original Article Here](https://www.aljazeera.com/news/2025/12/19/five-killed-as-us-military-destroys-two-more-vessels-in-pacific-ocean)
 ---
 
-## Article 6: Russia-Ukraine war: List of key events, day 1,393
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.8885`
+## Article 6: EU delays trade deal with South America’s Mercosur bloc as farmers protest
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.8360`
 
-These are the key developments from day 1,393 of Russia’s war on Ukraine. Here is where things stand on Thursday, December 18: Fighting <ul><li>Ukrainian drones have hit a tanker vessel in the southern Russian port of Rostov-on-Don, killing and injuring a number of peopl…
+EU delays Mercosur trade deal until January amid farmer protests and opposition from France and Italy. The European Union has delayed a massive free-trade deal with South American countries amid protests by EU farmers and as last-minute opposition by France and Italy threatened to derail the agreement…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2025/12/18/russia-ukraine-war-list-of-key-events-day-1393)
+[Read Original Article Here](https://www.aljazeera.com/news/2025/12/19/eu-delays-trade-deal-with-south-americas-mercosur-bloc-as-farmers-protest)
 ---
 
-## Article 7: Speaker Johnson ekes out healthcare bill victory after House GOP Obamacare rebellion
-**Source:** Fox News | **Sentiment Score:** `-0.3716`
+## Article 7: Russia-Ukraine war: List of key events, day 1,394
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.9300`
 
-House Republicans pass healthcare bill promising to lower healthcare costs by 11% for Americans, but enhanced Obamacare subsidies remain unresolved. House Republicans passed a bill they say will lower healthcare costs for a broad swath of Americans by roughly 11%. It's a victory for Speaker Mike Johnson, R-La., who has been managing deep divisio…
+These are the key developments from day 1,394 of Russia’s war on Ukraine. Here is where things stand on Friday, December 19: Fighting <ul><li>Three people, including two crew members of a cargo vessel, were killed in overnight Ukrainian drone attacks on the Russian port …
 
-[Read Original Article Here](https://www.foxnews.com/politics/speaker-johnson-ekes-out-healthcare-bill-victory-after-house-gop-obamacare-rebellion)
+[Read Original Article Here](https://www.aljazeera.com/news/2025/12/19/russia-ukraine-war-list-of-key-events-day-1394)
 ---
 
-## Article 8: Trump set to address the nation in primetime White House speech as Americans report economic squeeze
-**Source:** Fox News | **Sentiment Score:** `-0.0772`
+## Article 8: Commerce secretary predicts 'extraordinary year' ahead as inflation drops to 2.7% in November
+**Source:** Fox News | **Sentiment Score:** `-0.4767`
 
-President Donald Trump will deliver a White House speech Wednesday night that is expect to reflect on achievements and potentially teasing new policy initiatives. President Donald Trump is set to deliver a primetime speech from the White House Wednesday that's anticipated to reflect on his administration's accomplishments in the past year, while simultaneously…
+Commerce Secretary Howard Lutnick says the drop in inflation to 2.7% shows White House policies are working, even as consumer confidence remains low. Members of the Trump administration are highlighting an unexpectedly low inflation report. Commerce Secretary Howard Lutnick said the drop is proof the White Houses policies are finally pushing down …
 
-[Read Original Article Here](https://www.foxnews.com/politics/trump-set-address-nation-primetime-white-house-speech-americans-report-economic-squeeze)
+[Read Original Article Here](https://www.foxnews.com/media/commerce-secretary-predicts-extraordinary-year-ahead-inflation-drops-2-7-november)
 ---
 
-## Article 9: Fox News Poll: As prices pinch, voters see Trump focused elsewhere
-**Source:** Fox News | **Sentiment Score:** `0.4522`
+## Article 9: Trump to hand out $2.6B in ‘warrior dividends’ — and the surprising pot he’s pulling the money from
+**Source:** Fox News | **Sentiment Score:** `0.6705`
 
-A New Fox News poll shows Trump's job approval at 44%, while 72% rate the economy negatively and 90% express serious concern about inflation. Even as more voters are happy with how things are going in the country, theyre worried.  An overwhelming majority expresses concern about high prices. Four times as many say theyre losing financial …
+President Donald Trump announces housing supplement for 1.4 million military members funded by the "big beautiful bill," crediting tariffs for generating revenue. President Donald Trump told Americans this week that 1.45 million U.S. service members would receive a one-time $1,776 "warrior dividend," a $2.6 billion initiative he said would hit service members …
 
-[Read Original Article Here](https://www.foxnews.com/politics/fox-news-poll-prices-pinch-voters-see-trump-focused-elsewhere)
+[Read Original Article Here](https://www.foxnews.com/politics/trump-hand-out-2-6b-warrior-dividends-surprising-pot-hes-pulling-money-from)
 ---
 
-## Article 10: ‘I am concerned’: Regional leaders urge calm amid US-Venezuela tensions
-**Source:** Al Jazeera English | **Sentiment Score:** `0.7506`
+## Article 10: National security expert predicts Venezuelan leader Maduro is 'going to be gone' under Trump pressure
+**Source:** Fox News | **Sentiment Score:** `-0.6908`
 
-Mexico's Claudia Sheinbaum called on the UN to intervene for peace, while Brazil's Lula volunteered to mediate talks. Leaders in Latin America and the United Nations have voiced concerns about the spiralling tensions between the United States and Venezuela over the future of oil exports from the South American count…
+Expert predicts Maduro's downfall as Trump intensifies pressure through comprehensive oil sanctions and strict maritime enforcement measures. National security expert Rebeccah Heinrichs says the Trump administrations escalating pressure campaign against Venezuela, intensified by designating Nicolás Maduros regime a foreign terrorist organi…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2025/12/17/i-am-concerned-regional-leaders-urge-calm-amid-us-venezuela-tensions)
+[Read Original Article Here](https://www.foxnews.com/media/national-security-expert-predicts-venezuelan-leader-maduro-going-gone-under-trump-pressure)
 ---
 
-## Article 11: WATCH: Doctor-lawmaker blames Obamacare for driving health costs higher
-**Source:** Fox News | **Sentiment Score:** `0.1531`
+## Article 11: Angry farmers block Brussels roads with tractors over Mercosur trade deal
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.6369`
 
-House Republicans unveil healthcare bill promising to cut premiums by 11-12% through association health plans and transparency measures for all Americans, among other initiatives. A doctor-turned-House Republican is arguing that there is a direct link between the Affordable Care Act (ACA), colloquially known as Obamacare, and the increasing cost of healthcare putting a strain …
+Thousands protest as EU leaders clash over pact farmers fear will flood Europe with cheaper South American goods. Hundreds of tractors have clogged the streets of Brussels as farmers converged on the Belgian capital to protest against the contentious trade agreement between the European Union and South American …
 
-[Read Original Article Here](https://www.foxnews.com/politics/watch-doctor-lawmaker-blames-obamacare-driving-health-costs-higher)
+[Read Original Article Here](https://www.aljazeera.com/news/2025/12/18/angry-farmers-block-brussels-roads-with-tractors-over-mercosur-trade-deal)
 ---
 
-## Article 12: Trump targets Maduro as Western Hemisphere becomes ‘first line of defense’ in new strategy
-**Source:** Fox News | **Sentiment Score:** `0.2732`
+## Article 12: Bank of England Cuts Rates While ECB Holds Steady
+**Source:** The Wall Street Journal | **Sentiment Score:** `0.2263`
 
-Trump administration's new National Security Strategy elevates Western Hemisphere as security priority, targeting Venezuela crisis and instability. The Trump administration has moved its hemispheric security doctrine into full force in Venezuela, ordering a sweeping naval blockade on sanctioned oil tankers and labeling Nicolás Maduros government…
+The BOE is moving in step with the Fed rather than many of its peers in Europe. A view of Londons financial district. - Chris J. Ratcliffe/Bloomberg News The Bank of England cut its key interest rate Thursday while the European Central Bank held steady, as a period of more stab…
 
-[Read Original Article Here](https://www.foxnews.com/world/trump-targets-maduro-western-hemisphere-becomes-first-line-defense-new-strategy)
+[Read Original Article Here](https://www.wsj.com/economy/central-banking/bank-of-england-cuts-rates-to-near-three-year-low-56c5cd05)
 ---
 
-## Article 13: False spring: The end of Tunisia’s revolutionary hopes?
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.7906`
+## Article 13: Crypto’s slump may be a cultural problem as much as a financial one | CNN Business
+**Source:** CNN | **Sentiment Score:** `0.1421`
 
-Fifteen years after revolution took hold, little remains of the hopes that ignited a region. Fifteen years ago, a Tunisian fruit seller, Mohamed Bouazizi, despairing at official corruption and police violence, walked to the centre of his hometown of Sidi Bouzid, set himself on fire, and chan…
+Crypto managed to have a year without a systemic collapse or major scandal. And it’s still shaping up to be one of the industry’s worst years ever. A version of this story appeared in CNN Business Nightcap newsletter. To get it in your inbox, sign up for free here. Crypto managed to make it through the year without a systemic collapse or a majo…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2025/12/17/false-spring-the-end-of-tunisias-revolutionary-hopes)
+[Read Original Article Here](https://www.cnn.com/2025/12/18/business/crypto-bitcoin-slump-nightcap)
 ---
 
-## Article 14: How have India’s exports jumped 20 percent, despite Trump’s trade war?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.7579`
+## Article 14: Trump speech sparks optimism as 'gangbuster' economy forecasted for 2026
+**Source:** Fox News | **Sentiment Score:** `0.9300`
 
-Despite a 50 percent tariff, India’s exports to the US grew by more than one-fifth in November. Indias exports increased by nearly 20 percent in November year-on-year, the countrys fastest growth in three years, driven primarily by exports to the United States and China. The rise comes at a ti…
+Lawmakers, commentators and financial experts express optimism about 2026 economy, citing declining gas prices and increased energy production. A handful of lawmakers, commentators and financial experts expressed renewed optimism about the U.S. economy heading into 2026, offering praise for President Donald Trumps address to the nation on We…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2025/12/17/how-have-indias-exports-jumped-20-percent-despite-trumps-trade-war)
+[Read Original Article Here](https://www.foxnews.com/media/trump-speech-sparks-optimism-gangbuster-economy-forecasted-2026)
 ---
 
-## Article 15: Trump orders ‘total and complete blockade’ of sanctioned oil tankers coming to and leaving Venezuela | CNN Politics
-**Source:** CNN | **Sentiment Score:** `-0.5267`
+## Article 15: US sanctions may cause “Great Depression in Venezuela”
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.4939`
 
-President Donald Trump said Tuesday he was ordering a “total and complete blockade” of sanctioned oil tankers coming to and leaving from Venezuela, ratcheting up pressure against leader Nicolás Maduro’s regime and suggesting an economic motive to the US’ mili… President Donald Trump said Tuesday he was ordering a total and complete blockade of sanctioned oil tankers coming to and leaving from Venezuela, ratcheting up pressure against leader Nicolás Maduros…
+“[Venezuela] is a country that's already reeling from an economic collapse.” Quotable Read moreFrancisco Rodriguez of the Center for Economic &amp; Policy Research discusses how US sanctions on Venezuela could be catastrophic for Venezuelas economy and its people.
 
-[Read Original Article Here](https://www.cnn.com/2025/12/16/politics/blockade-venezuela-sanctioned-oil-tankers)
+[Read Original Article Here](https://www.aljazeera.com/video/quotable/2025/12/18/us-sanctions-may-cause-great-depression-in)
 ---
 
-## Article 16: Pelosi perceived as 'on the wrong side' over congressional stock trading as career nears end: NY Times
-**Source:** Fox News | **Sentiment Score:** `-0.2500`
+## Article 16: Trump launches massive ‘Freedom 250’ for America’s 250th birthday celebration and more top headlines
+**Source:** Fox News | **Sentiment Score:** `0.9406`
 
-Nancy Pelosi's opposition to stock trading restrictions has created controversy that may overshadow her historic legacy as the first female House Speaker, the New York Times wrote. The New York Times called out former House Speaker Nancy Pelosi, D-Calif., in a Monday piece, arguing she's ending her career with an "asterisk" due to her stance on congressional stock trading. Whi…
+Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox. Good morning and welcome to Fox News' morning newsletter, Fox News First. And here's what you need to know to start your day ... TOP 3 1. Trump launches massive Freedom 250 push  2. Trump drops re…
 
-[Read Original Article Here](https://www.foxnews.com/media/pelosi-perceived-on-wrong-side-over-congressional-stock-trading-career-nears-end-ny-times)
+[Read Original Article Here](https://www.foxnews.com/us/trump-launches-massive-freedom-250-americas-250th-birthday-celebration-more-top-headlines)
 ---
 
-## Article 17: CBP announces record-breaking $200 billion in tariff revenue amid Trump administration enforcement push
-**Source:** Fox News | **Sentiment Score:** `0.1531`
+## Article 17: Does the US have any real claim on Venezuelan oil as Stephen Miller says?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.6369`
 
-U.S. Customs and Border Protection said it collected over $200 billion in tariffs revenue under the Trump administration through enhanced enforcement. U.S. Customs and Border Protection (CBP) announced on Tuesday it has collected more than $200 billion in tariffs revenue since President Donald Trump  took office, crediting dozens of executive orde…
+US companies developed Venezuelan oil fields until the country nationalised its oil reserves in the 1970s. United States Homeland Security Advisor and close Trump aide Stephen Miller suggested on Wednesday that Venezuelas oil belongs to Washington. Millers comments came a day after US President Donald Tr…
 
-[Read Original Article Here](https://www.foxnews.com/politics/cbp-announces-record-breaking-200-billion-tariff-revenue-amid-trump-administration-enforcement-push)
+[Read Original Article Here](https://www.aljazeera.com/news/2025/12/18/does-the-us-have-any-real-claim-on-venezuelan-oil-as-stephen-miller-says)
 ---
 
-## Article 18: US unemployment hits highest level since 2021 as labour market cools
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.8519`
+## Article 18: Can Maduro survive as Trump's oil pressure campaign hits his regime’s weak spot?
+**Source:** Fox News | **Sentiment Score:** `-0.7615`
 
-Unemployment rate rises to 4.6 percent as job cuts hit federal workers and manufacturing sector. The United States economy lost 41,000 jobs in October and November, and the unemployment rate has ticked up to its highest level since 2021 as the labour market cools amid ongoing economic uncertaint…
+U.S. limits on Venezuelan oil exports are cutting the revenue that once sustained Nicolás Maduro, weakening his cash flow and putting the regime’s stability at risk. For years, Venezuelan dictator Nicolás Maduro has defied predictions of collapse. Sanctions, diplomatic isolation and internal unrest have failed to unseat him. But the latest escalation by the Trump…
 
-[Read Original Article Here](https://www.aljazeera.com/economy/2025/12/16/us-unemployment-hits-highest-level-since-2021-as-labour-market-cools)
+[Read Original Article Here](https://www.foxnews.com/world/can-maduro-survive-trumps-oil-pressure-campaign-hits-his-regimes-weak-spot)
 ---
 
-## Article 19: Trump announces Donald Trump Jr.’s engagement at White House holiday party | CNN Politics
-**Source:** CNN | **Sentiment Score:** `0.8126`
+## Article 19: Republicans have a generational opportunity to fix what Barack Obama broke
+**Source:** Fox News | **Sentiment Score:** `0.9136`
 
-The president’s eldest son, Donald Trump Jr., is engaged to Palm Beach socialite Bettina Anderson, a spokesperson for Trump Jr. confirmed to CNN. The presidents eldest son, Donald Trump Jr., is engaged to Palm Beach socialite Bettina Anderson, a spokesperson for Trump Jr. confirmed to CNN. President Donald Trump announced the engagement on Mo…
+This proposed eight-point healthcare plan to bypass the Affordable Care Act, featuring catastrophic insurance plans across state lines and universal HSA eligibility. With Republicans in control, the time has finally come to offer practical health care solutions to drive down costs and improve care. It can be done with a single, clean bill that the majority of Ame…
 
-[Read Original Article Here](https://www.cnn.com/2025/12/16/politics/donald-trump-jr-bettina-anderson)
+[Read Original Article Here](https://www.foxnews.com/opinion/republicans-have-generational-opportunity-to-fix-what-obama-broke)
 ---
 
-## Article 20: Why are French farmers objecting to EU-Mercosur trade deal?
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.5423`
+## Article 20: World’s biggest oil reserve holder faces US chokehold as Trump targets Venezuela’s shadow tanker fleet
+**Source:** Fox News | **Sentiment Score:** `-0.5719`
 
-France wants stronger safeguards for farmers and is urging the EU to delay a vote on Mercosur, threatening imports. France is pushing to postpone a European Union vote to ratify a trade deal with the Mercosur bloc of four South American countries, citing concerns about its effects on farmers and ongoing protests a…
+Trump orders total blockade of Venezuelan oil tankers as the South American nation controls world's largest oil reserves with over 300 billion barrels. President Donald Trump's  new blockade on Venezuelas sanctioned oil tankers takes square aim at a country that controls the worlds largest crude reserves.  At more than 300 billion estimated barrel…
 
-[Read Original Article Here](https://www.aljazeera.com/economy/2025/12/16/why-are-french-farmers-objecting-to-eu-mercosur-trade-deal)
+[Read Original Article Here](https://www.foxnews.com/politics/worlds-biggest-oil-reserve-holder-faces-us-chokehold-trump-targets-venezuelas-shadow-tanker-fleet)
 ---
 
