@@ -1,11 +1,107 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-01-06 | **Status:** Automated
+**Date:** 2026-01-07 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: Syria’s new currency removes al-Assad family images, seeks to boost economy
+## Article 1: Iran’s New Year demonstrations and the question of regime survival
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.9169`
+
+Iran’s New Year protests expose the pressures shaping the political system's response to dissent. The New Year demonstrations in Iran came at the end of a year marked by war, economic strain, and political uncertainty. In 2025, Israel launched a 12-day attack on Iran, assassinating senior milita…
+
+[Read Original Article Here](https://www.aljazeera.com/opinions/2026/1/6/irans-new-year-demonstrations-and-the-question-of-regime-survival)
+---
+
+## Article 2: Indian bonds face hurdle as stocks lure savings, says ICICI Bank
+**Source:** Bloomberg | **Sentiment Score:** `-0.1531`
+
+Domestic investors bought more than $80 billion of stocks in 2025, driving a 10th straight year of gains in benchmark equity indexes despite record foreign outflows Indian bonds have limited scope to rally as a shift in household savings to equities and changes to banks investment rules dampen demand for long-term debt, according to a senior executive at ICICI B…
+
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-01-06/icici-bank-says-indian-bonds-face-hurdle-as-stocks-lure-savings)
+---
+
+## Article 3: Trump administration sets meetings with oil companies on Venezuela: Report
+**Source:** Al Jazeera English | **Sentiment Score:** `0.4404`
+
+The three biggest US oil companies have so far not had any meetings with the government, contradicting Trump's comments. The administration of United States President Donald Trump is planning to meet with executives from US oil companies later this week to discuss boosting Venezuelan oil production after US forces abdu…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/1/5/trump-administration-sets-meetings-with-oil-companies-on-venezuela-report)
+---
+
+## Article 4: What does the US attack on Venezuela mean for Russia and China?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.4215`
+
+Beijing and Moscow are strong allies of Venezuela's abducted President Nicolas Maduro. Beijing and Moscow are strong allies of Venezuelas abducted President Nicolas Maduro.The capture of President Nicolas Maduro by the United States came despite his countrys longstanding alliance with …
+
+[Read Original Article Here](https://www.aljazeera.com/video/inside-story/2026/1/5/what-does-the-us-attack-on-venezuela-mean-for-russia-and-china)
+---
+
+## Article 5: 3 key takeaways from Trump's push to put US oil firms back in Venezuela
+**Source:** Fox News | **Sentiment Score:** `0.6908`
+
+Following Maduro's capture, Venezuela's oil industry could reshape global energy. Trump wants US companies to invest in world's largest reserves. Following the dramatic capture of Venezuelan President Nicolás Maduro, the United States is now positioned to exert significant influence over the future of the worlds largest oil reserves. What Pre…
+
+[Read Original Article Here](https://www.foxnews.com/politics/3-key-takeaways-from-trumps-push-put-us-oil-firms-back-venezuela)
+---
+
+## Article 6: Energy & Utilities Roundup: Market Talk
+**Source:** The Wall Street Journal | **Sentiment Score:** `0.4939`
+
+Find insight on U.S. Gulf Coast refiners, Chevron, Adani Power and more in the latest Market Talks covering Energy and Utilities. - Eli Hartman/Reuters The latest Market Talks covering Energy and Utilities. Published exclusively on Dow Jones Newswires at 4:20 ET, 12:20 ET and 16:50 ET. 1052 ET U.S. Gulf Coast refiners, with y…
+
+[Read Original Article Here](https://www.wsj.com/business/energy-utilities-roundup-market-talk-de2813fc)
+---
+
+## Article 7: Trump said Venezuela stole America’s oil. Here’s what really happened | CNN Business
+**Source:** CNN | **Sentiment Score:** `-0.4939`
+
+At 7 a.m., the earth began to rumble. Suddenly, oil blew out of its well in a massive eruption that towered 200 feet in the air and sprayed the fearful villagers of La Rosa. At 7 a.m., the earth began to rumble. Suddenly, oil blew out of its well in a massive eruption that towered 200 feet in the air and sprayed the fearful villagers of La Rosa. The most productive oil …
+
+[Read Original Article Here](https://www.cnn.com/2026/01/05/business/oil-venezuela-trump)
+---
+
+## Article 8: White House ‘laser focused’ on affordability as Trump softens tariff strategy
+**Source:** Fox News | **Sentiment Score:** `-0.2960`
+
+President Donald Trump scales back tariff increases on furniture and cabinets as White House focuses on affordability messaging amid voter economic concerns. The Trump administration is ramping down tariffs for even more goods as the White House zeroes in on its messaging surrounding affordability an issue dominating American voters' concerns.  The White…
+
+[Read Original Article Here](https://www.foxnews.com/politics/white-house-laser-focused-affordability-trump-softens-tariff-strategy)
+---
+
+## Article 9: Venezuela after Maduro: Oil, power and the limits of intervention
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.6597`
+
+For oil markets, Venezuela is a footnote in an age of abundance. For Middle East, the US move is a dangerous reminder. For many, the images from Caracas were jarring in their familiarity. Armoured vehicles on empty streets. The nations leader abducted by the United States. A declaration from Washington later that th…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/1/5/venezuela-after-maduro-oil-power-and-the-limits-of-intervention)
+---
+
+## Article 10: Trump's Maduro takedown resets the global chessboard and reasserts American power
+**Source:** Fox News | **Sentiment Score:** `0.6428`
+
+Trump's capture of Venezuelan leader Maduro resets global power dynamics, but the operation signals broader shifts in American foreign policy and hemispheric dominance. President Donald Trumps bold decision to capture, arrest, and bring Venezuelan strongman Nicolás Maduro to trial for drug-related offenses is far bigger than Operation Absolute Resolve itself. It res…
+
+[Read Original Article Here](https://www.foxnews.com/opinion/trumps-maduro-takedown-resets-global-chessboard-reasserts-american-power)
+---
+
+## Article 11: What will happen to parts of Venezuela’s economy affected by US sanctions?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.1027`
+
+Economist Francisco Rodriguez: regaining access to blocked assets will be essential for Venezuela’s economic recovery Toggle Play What will happen to parts of Venezuela's economy affected by US sanctions?
+
+[Read Original Article Here](https://www.aljazeera.com/video/quotable/2026/1/5/what-will-happen-to-parts-of-venezuelas-economy-affected-by-us-sanctions)
+---
+
+## Article 12: Trump’s bid to commandeer Venezuela’s oil sector faces hurdles, experts say
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.6858`
+
+Exploiting Latin American country's reserves faces obstacles from decrepit infrastructure to leadership uncertainty. United States President Donald Trump has promised to take back Venezuelas oil reserves and unleash them onto the global market after abducting Venezuelan President Nicolas Maduro. But exploiting the…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/1/5/trumps-bid-to-commandeer-venezuelas-oil-sector-faces-hurdles-experts-say)
+---
+
+## Article 13: Syria’s new currency removes al-Assad family images, seeks to boost economy
 **Source:** Al Jazeera English | **Sentiment Score:** `0.8360`
 
 Authorities remove two zeros from the pound, hoping to simplify transactions and regain trust in the currency. New banknotes have arrived at money exchanges across Syria, replacing those showing ousted longtime ruler Bashar al-Assad and his family, as the fledgling government hopes the Syrian pound can regain…
@@ -13,7 +109,7 @@ Authorities remove two zeros from the pound, hoping to simplify transactions and
 [Read Original Article Here](https://www.aljazeera.com/economy/2026/1/5/syrias-new-currency-removes-al-assad-family-images-seeks-to-boost-economy)
 ---
 
-## Article 2: Trump vows US 'in charge' of Venezuela as he reveals if he's spoken to Delcy Rodríguez
+## Article 14: Trump vows US 'in charge' of Venezuela as he reveals if he's spoken to Delcy Rodríguez
 **Source:** Fox News | **Sentiment Score:** `-0.8126`
 
 President Trump claimed the U.S. is "in charge" of Venezuela after Maduro's arrest, outlining plans to rebuild economy and delay elections until recovery is complete. President Donald Trump said the U.S. is now in control of Venezuela following the arrest of longtime leader Nicolás Maduro, outlining a plan to run the country, rebuild its economy and delay election…
@@ -21,7 +117,7 @@ President Trump claimed the U.S. is "in charge" of Venezuela after Maduro's arre
 [Read Original Article Here](https://www.foxnews.com/politics/trump-vows-us-in-charge-venezuela-he-reveals-hes-spoken-delcy-rodriguez)
 ---
 
-## Article 3: 'Jack Ryan' co-creator surprised by parallels between series and Venezuela strikes
+## Article 15: 'Jack Ryan' co-creator surprised by parallels between series and Venezuela strikes
 **Source:** Fox News | **Sentiment Score:** `-0.4404`
 
 Amazon's "Jack Ryan" co-creator Carlton Cruse reacted to clips of his series trending on social media after recent U.S. military strikes against Venezuela. Carlton Cruse, co-creator of Amazon's "Jack Ryan" series, remarked about the surprising parallels between his show and the recent U.S. strikes against Venezuela. Clips from season two of the series …
@@ -29,7 +125,7 @@ Amazon's "Jack Ryan" co-creator Carlton Cruse reacted to clips of his series tre
 [Read Original Article Here](https://www.foxnews.com/media/jack-ryan-co-creator-surprised-parallels-between-series-venezuela-strikes)
 ---
 
-## Article 4: Marco Rubio clashes with George Stephanopoulos on Venezuela leadership in heated exchange
+## Article 16: Marco Rubio clashes with George Stephanopoulos on Venezuela leadership in heated exchange
 **Source:** Fox News | **Sentiment Score:** `0.0772`
 
 Marco Rubio sparred with ABC's "This Week" host George Stephanopoulos over U.S. authority to run Venezuela after extracting dictator Nicolás Maduro on Saturday. Secretary of State Marco Rubio sparred with ABC's George Stephanopoulos on Sunday as the "This Week" host repeatedly pressed Rubio over whether the U.S. was going to run Venezuela. After extracting …
@@ -37,7 +133,7 @@ Marco Rubio sparred with ABC's "This Week" host George Stephanopoulos over U.S. 
 [Read Original Article Here](https://www.foxnews.com/media/marco-rubio-clashes-george-stephanopoulos-venezuela-leadership-heated-exchange)
 ---
 
-## Article 5: Venezuelans reflect on Maduro’s removal, grappling with hope and fear
+## Article 17: Venezuelans reflect on Maduro’s removal, grappling with hope and fear
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.3326`
 
 Nicolas Maduro's fall sparks celebration and anxiety among Venezuelans, raising questions about their nation's future. It was his 26th birthday, so Wilmer Castro was not surprised by the flurry of messages that lit up his phone. However, as he began scrolling on Saturday morning, he realised the messages were not bi…
@@ -45,7 +141,7 @@ Nicolas Maduro's fall sparks celebration and anxiety among Venezuelans, raising 
 [Read Original Article Here](https://www.aljazeera.com/news/2026/1/4/venezuelans-reflect-on-maduros-removal-grappling-with-hope-and-fear)
 ---
 
-## Article 6: Venezuela’s oil, not alleged drug trafficking, caught Trump’s eye
+## Article 18: Venezuela’s oil, not alleged drug trafficking, caught Trump’s eye
 **Source:** Al Jazeera English | **Sentiment Score:** `0.2263`
 
 Donald Trump now says he wants American companies to take over Venezuelan fields in order to extract and sell resources. For weeks, United States President Donald Trump and his officials said the rhetoric and military posturing against Venezuela was aimed at countering the flow of narcotics. But abundant evidence, inc…
@@ -53,7 +149,7 @@ Donald Trump now says he wants American companies to take over Venezuelan fields
 [Read Original Article Here](https://www.aljazeera.com/news/2026/1/4/venezuelas-oil-not-alleged-drug-trafficking-caught-trumps-eye)
 ---
 
-## Article 7: Who is Nicolas Maduro?
+## Article 19: Who is Nicolas Maduro?
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.1280`
 
 From humble beginnings in a working-class neighbourhood to an authoritarian presidency, here is a look at Maduro's life. Nicolas Maduro, 63, kept an iron grip on power for over a decade in Venezuela. It ended abruptly on Saturday, January 3, when United States forces abducted him and his wife, First Lady Cilia Flores,…
@@ -61,107 +157,11 @@ From humble beginnings in a working-class neighbourhood to an authoritarian pres
 [Read Original Article Here](https://www.aljazeera.com/news/2026/1/4/who-is-is-nicolas-maduro)
 ---
 
-## Article 8: Who is Venezuelan Vice President Delcy Rodriguez, now leading the country?
+## Article 20: Who is Venezuelan Vice President Delcy Rodriguez, now leading the country?
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.5346`
 
 Rodriguez has a long history of representing the socialist 'revolution' of late President Hugo Chavez. A brief power vacuum had emerged in Venezuela in the sudden chaos and confusion after the abduction of President Nicolas Maduro by the United States. But shortly after the US military rained strikes…
 
 [Read Original Article Here](https://www.aljazeera.com/news/2026/1/4/who-is-venezuelan-vice-president-delcy-rodriguez-now-leading-the-country)
----
-
-## Article 9: China urges US to ‘stop toppling’ Venezuelan government, release Maduro
-**Source:** Al Jazeera English | **Sentiment Score:** `0.0000`
-
-Beijing is likely to limit its response to diplomatic protest rather than hard power, analysts tell Al Jazeera. China has called on the United States to immediately release Venezuelan President Nicolas Maduro after Washington carried out massive military strikes on the capital, Caracas, as well as other region…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/1/4/china-urges-us-to-stop-toppling-venezuelan-government-release-maduro)
----
-
-## Article 10: Syria’s challenges to rebuild its armed forces
-**Source:** Al Jazeera English | **Sentiment Score:** `0.6124`
-
-Syria's new interim government has started the process to rebuild the armed forces, but challenges lie ahead. Syria is still facing numerous challenges a year after the toppling of Bashar al-Assads regime. Among the key priorities for the new government is rebuilding its national army and security forces. F…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/1/4/syrias-challenges-to-rebuild-its-armed-forces)
----
-
-## Article 11: North Korea fires missiles towards sea as South Korean leader visits China
-**Source:** Al Jazeera English | **Sentiment Score:** `0.1280`
-
-The missile test comes as President Lee Jae Myung arrives in Beijing to meet his Chinese counterpart, Xi Jinping. North Korea has launched multiple ballistic missiles off its east coast into the sea as South Koreas leader begins a state visit to China in its first barrage of the new year. According to South Kor…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/1/4/north-korea-fires-missiles-towards-sea-as-south-korean-leader-visits-china)
----
-
-## Article 12: Asian stocks enter 2026 under cloud of AI valuation risks, policy divergence
-**Source:** Bloomberg | **Sentiment Score:** `-0.1779`
-
-Asian stocks face challenges in 2026 due to AI valuation concerns and divergent policies amid recent strong performances. Asian equities kicked off the new year with sharp gains, but the advance may face headwinds from worries over an artificial-intelligence bubble and diverging interest-rate paths across the region. A…
-
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-01-04/ai-bubble-fears-and-policy-splits-loom-over-asia-stocks-in-2026)
----
-
-## Article 13: US Republicans back Trump on Venezuela amid faint MAGA dissent
-**Source:** Al Jazeera English | **Sentiment Score:** `0.0387`
-
-Right-wing lawmakers laud US president for seizing Nicolas Maduro, but some decry prospect of another endless war. Since coming down the escalator in 2015 to announce his first presidential run, Donald Trump has presented himself as a break from the traditional hawkish foreign policy in the United States. The US…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/1/4/us-republicans-back-trump-on-venezuela-amid-faint-maga-dissent)
----
-
-## Article 14: America’s strongman places a huge Venezuela wager but evokes nightmares of regime change disasters | CNN Politics
-**Source:** CNN | **Sentiment Score:** `-0.7814`
-
-America’s strongman places a huge Venezuela wager but evokes nightmares of regime change disasters | CNN Politicscnn.com Millions of Americans woke up with the same question on the first Saturday of a new year: Are we at war with Venezuela? President Donald Trumps ouster of President Nicolás Maduro has stunning implic…
-
-[Read Original Article Here](https://www.cnn.com/2026/01/03/politics/trump-venezuela-maduro-analysis)
----
-
-## Article 15: Internet disruption, several arrests made as Iran protests continue
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.8519`
-
-Cybersecurity company Cloudflare shows an average 35 percent lower traffic volume in Iran compared with previous days. Tehran, Iran Iranians are again experiencing internet disruptions amid ongoing protests across the country as state authorities warn against foreign sabotage and organise demonstrations. Internet us…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/1/3/internet-disruption-several-arrests-made-as-iran-protests-continue)
----
-
-## Article 16: US capture of Maduro throws spotlight on Venezuela’s massive oil reserves
-**Source:** Fox News | **Sentiment Score:** `-0.1531`
-
-Despite holding the world’s largest oil reserves, Venezuela’s oil industry has been hollowed out by economic collapse under President Nicolás Maduro. In the predawn hours on Saturday, President Donald Trump  announced the stunning capture of Venezuelan President Nicolas Maduro a dramatic development for a nation that, despite sitting atop the wor…
-
-[Read Original Article Here](https://www.foxnews.com/politics/us-capture-maduro-throws-spotlight-venezuelas-massive-oil-reserves)
----
-
-## Article 17: What the US strike in Venezuela means for gas prices, oil
-**Source:** CNN | **Sentiment Score:** `-0.7003`
-
-Venezuelan President Nicolás Maduro has been captured and flown out of the country following a largescale US strike on Caracas, leaving behind uncertainty for the country – and its massive oil reserves. Venezuelan President Nicolás Maduro has been captured and flown out of the country following a large-scale US strike on Caracas, leaving behind uncertainty for the country and its massive oil reserve…
-
-[Read Original Article Here](https://www.cnn.com/2026/01/03/business/oil-gas-venezuela-maduro)
----
-
-## Article 18: Venezuela: American regime change with a Trumpian twist
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.2263`
-
-Trump has added a particular layer of dementedness to the latest unprovoked US aggression. United States President Donald Trump has kicked off the new year with a typically deranged bang by conducting massive air strikes on Venezuela and reportedly capturing the countrys president, Nicolas…
-
-[Read Original Article Here](https://www.aljazeera.com/opinions/2026/1/3/venezuela-american-regime-change-with-a-trumpian)
----
-
-## Article 19: Tariffs could really sting in 2026. Unless Trump chickens out again | CNN Business
-**Source:** CNN | **Sentiment Score:** `0.4215`
-
-It’s cold comfort for Americans gloomy about the state of the US economy, but President Donald Trump’s sweeping tariffs didn’t dramatically raise the cost of living in 2025. That could change in 2026. Its cold comfort for Americans gloomy about the state of the US economy, but President Donald Trumps sweeping tariffs didnt dramatically raise the cost of living in 2025. That could change in 2026. …
-
-[Read Original Article Here](https://www.cnn.com/2026/01/03/business/tariffs-prices-2026)
----
-
-## Article 20: Iran’s Khamenei says rioters ‘must be put in their place’ amid protests
-**Source:** Al Jazeera English | **Sentiment Score:** `0.7184`
-
-Supreme leader says authorities should only 'talk to protesters', not rioters, as antigovernment demonstrations grow. Irans Supreme Leader Ayatollah Ali Khamenei has insisted that rioters must be put in their place after a week of protests that have shaken the Islamic Republic. The first comments by 86-year-old Kha…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/1/3/irans-khamenei-says-rioters-must-be-put-in-their-place-amid-protests)
 ---
 
