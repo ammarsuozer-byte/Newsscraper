@@ -1,167 +1,167 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-01-09 | **Status:** Automated
+**Date:** 2026-01-10 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: What resources does Venezuela have — apart from the world’s most oil?
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.0258`
+## Article 1: What is Chavismo – and is it dead after US abduction of Venezuela’s Maduro?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.4215`
 
-Venezuela has the largest oil reserves, the ninth-largest natural gas reserves, and vast untapped minerals such as gold. Following the abduction of Venezuelas President Nicolas Maduro last week, the administration of US President Donald Trump has stated that it wants to quickly restore the countrys oil production and e…
+The sociopolitical ideology founded by former Venezuelan President Hugo Chavez is rooted in anti-imperialism. For decades, the idea of a political alliance between Venezuela and the United States has seemed impossible with Caracas defining itself by Chavismo, a left-wing populist ideology rooted in anti-impe…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/1/8/what-resources-does-venezuela-have-apart-from-the-worlds-most)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/1/9/what-is-chavismo-and-is-it-dead-after-us-abduction-of-venezuelas-maduro)
 ---
 
-## Article 2: Trump greenlights Russian sanctions bill, paving way for 500% tariff on countries supporting Moscow: Graham
-**Source:** Fox News | **Sentiment Score:** `-0.2500`
+## Article 2: Trump says meeting Iran’s ‘Crown Prince’ Pahlavi would not be appropriate
+**Source:** Al Jazeera English | **Sentiment Score:** `0.1230`
 
-Trump reportedly approves bipartisan Russia sanctions bill imposing 500% tariffs on countries buying Russian oil, as Graham announces pivotal Ukraine policy shift. Sen. Lindsey Graham announced Wednesday that President Donald Trump has approved a Russian sanctions bill designed to pressure Moscow to end its war with Ukraine. Graham revealed the development in …
+US president signals he is not ready to back the Israel-aligned opposition figure to lead Iran in case of regime change. United States President Donald Trump has ruled out meeting with Irans self-proclaimed Crown Prince Reza Pahlavi, suggesting that Washington is not ready to back a successor to the Iranian government,…
 
-[Read Original Article Here](https://www.foxnews.com/politics/trump-greenlights-russian-sanctions-bill-paving-way-500-tariff-countries-supporting-moscow-graham)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/1/9/trump-says-meeting-irans-crown-prince-pahlavi-would-not-be-appropriate)
 ---
 
-## Article 3: Venezuela’s economy plunged into uncertainty after Maduro abduction
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.2500`
+## Article 3: Canadian columnist asks if Trump will arrest Canada leader after Maduro arrest
+**Source:** Fox News | **Sentiment Score:** `-0.5106`
 
-US says it will control Venezuelan oil sales 'indefinitely', raising questions about what revenues Caracas might get. As the fallout from the United States abduction of Venezuelan President Nicolas Maduro continues to unfold, an immediate question is how his ouster will impact Venezuelas economy. A lot will depend …
+A Toronto Star columnist claimed President Donald Trump could target Ontario Premier Doug Ford following the U.S. capture of Venezuelan President Nicolás Maduro. The Toronto Star published an opinion piece Tuesday questioning whether Ontario Premier Doug Ford needs to worry about President Donald Trump seizing and arresting him in Canada after the recent U.S.…
 
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/1/8/venezuelas-economy-plunged-into-uncertainty-after-maduro-abduction)
+[Read Original Article Here](https://www.foxnews.com/media/canadian-columnist-asks-trump-arrest-canada-leader-after-maduro-arrest)
 ---
 
-## Article 4: US says it will control Venezuela’s oil sales ‘indefinitely’
-**Source:** Al Jazeera English | **Sentiment Score:** `0.5207`
+## Article 4: Socialist groups chant 'Killer Kristi' while escalating nationwide anti-ICE protests
+**Source:** Fox News | **Sentiment Score:** `-0.3818`
 
-Trump administration announcement comes as UN experts warn Venezuela's oil reserves 'must not be cynically exploited'. The United States says it will control sales of Venezuelan oil indefinitely and decide how the proceeds of those sales are used, as President Donald Trumps administration consolidates control over th…
+Socialist and communist groups coordinate protests following fatal ICE shooting in Minneapolis, targeting Homeland Security Secretary Kristi Noem. NEW YORK Socialist and communist protest groups ramped up their coordinated demonstrations in blue cities Thursday, escalating their anti-government messaging and vilifying Homeland Security Secretar…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/1/7/us-says-it-will-control-venezuelan-oil-sales-indefinitely)
+[Read Original Article Here](https://www.foxnews.com/us/socialist-groups-ramp-up-nationwide-anti-ice-protests-target-noem-nyc)
 ---
 
-## Article 5: GOP lawmaker pushes to free US citizen reportedly detained in Venezuela
-**Source:** Fox News | **Sentiment Score:** `-0.8056`
+## Article 5: FLASHBACK: Jill Biden visited Minnesota to tout billions in child care spending during husband's admin
+**Source:** Fox News | **Sentiment Score:** `0.1280`
 
-Rep. Nicole Malliotakis advocates for New York constituent possibly detained in Venezuela, urging State Department action amid ongoing political crisis. EXCLUSIVE: A House GOP lawmaker is working to find more information after learning one of her constituents was possibly detained by Venezuela's government. Rep. Nicole Malliotakis, R-N.Y., told Fox …
+Former first lady Jill Biden praised billions in federal childcare aid passed by Dems during a 2022 stop in Minnesota, alongside Gov. Tim Walz, whose state is under fire for potentially rampant childcare fraud. Former first lady, Jill Biden, went to Minnesota in 2022 to highlight the billions of dollars in investments for childcare that were part of Democrats' American Rescue Plan Act, where she stood next …
 
-[Read Original Article Here](https://www.foxnews.com/politics/gop-lawmaker-pushes-free-us-citizen-reportedly-detained-venezuela)
+[Read Original Article Here](https://www.foxnews.com/politics/flashback-jill-biden-traveled-minnesota-tout-billions-child-care-spending-husbands-admin)
 ---
 
-## Article 6: Trump admin to control Venezuelan oil sales in radical shift aimed at restarting crude flow
-**Source:** Fox News | **Sentiment Score:** `-0.1280`
+## Article 6: Blue state's billionaire exodus about to get much worse in 2026, insider warns
+**Source:** Fox News | **Sentiment Score:** `-0.5859`
 
-Energy secretary reveals Venezuelan oil export plan as Trump administration seeks to restart flow from world's largest oil reserves to the U.S. market. Energy Secretary Chris Wright said on Wednesday the Trump administration will oversee the sale of Venezuelan oil and control the proceeds under a new export plan designed to get crude flowing again a…
+Tech insider Allison Huynh is warning that the “mass migration" of billionaire business leaders out of the state is going to speed up in 2026 with two "dangerous" tax proposals under consideration. As Google co-founder Larry Page and Oracle founder Larry Ellison become some of the latest high-profile Californians to flee, an insider is warning that the "mass migration" of billionaire business l…
 
-[Read Original Article Here](https://www.foxnews.com/politics/trump-admin-control-venezuelan-oil-sales-radical-shift-aimed-restarting-crude-flow)
+[Read Original Article Here](https://www.foxnews.com/politics/blue-states-billionaire-exodus-about-get-much-worse-2026-warns-insider)
 ---
 
-## Article 7: Do Russia and China pose a national security threat to the US in Greenland?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.6486`
+## Article 7: Day-to-day: A tragic death further stretches the GOP's razor-thin House majority
+**Source:** Fox News | **Sentiment Score:** `-0.6908`
 
-White House says President Donald Trump still wants to buy Greenland, but has said military means are an option, too. US President Donald Trump sees Greenland as a United States national security priority to deter Washingtons adversaries in the Arctic region, according to a White House statement released on Tuesday.…
+Rep. Doug LaMalfa dies at 65 during emergency surgery, further threatening GOP's razor-thin House majority as Republicans face mounting challenges to maintain control. It was 1991. The Chicago Cubs were in Chavez Ravine for a three-game series against the Los Angeles Dodgers. Legendary Dodgers broadcaster Vin Scully was at the mic. Cubs outfielder and former Natio…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/1/7/do-russia-and-china-pose-a-national-security-threat-to-the-us-in-greenland)
+[Read Original Article Here](https://www.foxnews.com/politics/day-to-day-tragic-death-further-stretches-gops-razor-thin-house-majority)
 ---
 
-## Article 8: Trump says he wants to free up Venezuelan oil flow. What was blocking it?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.8442`
+## Article 8: US says it wants to control Venezuelan oil indefinitely. Can it?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.4215`
 
-Trump and Rubio say they want to use the oil to help Venezuelans. That's not what the US track record shows. United States President Donald Trump and Secretary of State Marco Rubio say they want to free up the flow of Venezuelan oil to benefit Venezuelans after US forces abducted President Nicolas Maduro fr…
+US oil company executives are expected to meet with Trump to discuss investments in Venezuela's oil sector. The United States government has said it aims to control Venezuelan oil sales indefinitely. We need to have that leverage and that control of those oil sales to drive the changes that simply must ha…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/1/7/trump-says-he-wants-to-free-up-venezuelan-oil-flow-what-was-blocking-it)
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/1/8/us-says-it-wants-to-control-venezuelan-oil-indefinitely-can-it)
 ---
 
-## Article 9: From sanctions to seizure: What Maduro's capture means for Venezuela’s economy
-**Source:** Fox News | **Sentiment Score:** `-0.2617`
+## Article 9: Supreme Court tariff ruling has Trump admin, US businesses bracing for impact
+**Source:** Fox News | **Sentiment Score:** `0.5267`
 
-Venezuela's economy faces uncertainty as analysts debate sanctions relief following Maduro's arrest, with oil production and recovery far from guaranteed. The arrest of Venezuelan President Nicolás Maduro has reopened debate over whether the country's long-isolated economy could soon re-engage with global markets, but analysts caution that sanctions re…
+The Supreme Court is slated to rule soon on Trump's sweeping tariff plan, which the president characterized as "life or death." The Supreme Court could rule as early as Friday on President Donald Trumps use of an emergency law to unilaterally impose sweeping tariffs on most U.S. trading partners, a closely watched case with m…
 
-[Read Original Article Here](https://www.foxnews.com/politics/from-sanctions-seizure-what-maduros-capture-means-venezuelas-economy)
+[Read Original Article Here](https://www.foxnews.com/politics/supreme-court-tariff-ruling-has-markets-us-businesses-bracing-impact)
 ---
 
-## Article 10: Who is Diosdado Cabello, Maduro’s interior minister and militia boss?
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.3182`
+## Article 10: Trump's tariff boom hits record highs as Supreme Court showdown looms
+**Source:** Fox News | **Sentiment Score:** `0.6124`
 
-Cabello, who rose to power under Hugo Chavez, has been accused by a UN rights mission of cracking down on dissent. Among the thousands of supporters of Venezuelan President Nicolas Maduro who joined a public protest in Caracas against his weekend abduction by United States soldiers, one man stood out. Wearing a …
+Supreme Court ruling expected Friday could reshape Trump's trade agenda as justices weigh presidential tariff authority under emergency powers law. The Supreme Court is expected to issue a ruling Friday in a case that could reshape President Donald Trump's  trade agenda. At issue is the scope of presidential authority to impose tariffs under l…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/1/7/who-is-diosdado-cabello-maduros-interior-minister-and-militia-boss)
+[Read Original Article Here](https://www.foxnews.com/politics/trumps-tariff-boom-hits-record-highs-supreme-court-showdown-looms)
 ---
 
-## Article 11: AMB GORDON SONDLAND: Trump showed strength in Venezuela — now finish the job
-**Source:** Fox News | **Sentiment Score:** `0.9300`
+## Article 11: Kathy Hochul says she confronted ICE agent, accused him of 'terrorizing people' by wearing a mask
+**Source:** Fox News | **Sentiment Score:** `-0.8555`
 
-Trump's action to remove Nicolas Maduro from Venezuela prevents Russia, China from securing control over the world's largest oil reserves. Now the US must stay course and finish job. The United States finally did what needed to be done in Venezuela: it ended the Maduro nightmare . Credit where it is due this required courage, clarity, and decisive leadership, and President Trump…
+New York Gov. Kathy Hochul said she asked an ICE agent in New York about why they wear masks and said she told them, "you're terrorizing people." Gov. Kathy Hochul, D-N.Y., said Thursday she previously told an Immigration and Customs Enforcement (ICE) agent in New York that they were "terrorizing people" after questioning why the officer was w…
 
-[Read Original Article Here](https://www.foxnews.com/opinion/amb-gordon-sondland-trump-showed-strength-venezuela-now-finish-job)
+[Read Original Article Here](https://www.foxnews.com/media/kathy-hochul-says-she-confronted-ice-agent-accused-him-terrorizing-people-wearing-mask)
 ---
 
-## Article 12: US gains leverage over Canadian oil, weakens China amid US plans to overhaul Venezuelan oil market
-**Source:** Fox News | **Sentiment Score:** `0.8360`
+## Article 12: Hochul confronted ICE agent, said he was 'terrorizing people' by wearing a mask
+**Source:** Fox News | **Sentiment Score:** `-0.8555`
 
-Energy experts say President Donald Trump’s push to revive Venezuela’s oil market boosts the United States' leverage with China, while putting Canada at a disadvantage. The Trump administration's plans to revitalize the Venezuelan oil market puts the United States at an advantage over Canada and serves to weaken China, according to energy experts.   Conservative po…
+New York Gov. Kathy Hochul said she asked an ICE agent in New York about why they wear masks and said she told them, "you're terrorizing people." Gov. Kathy Hochul, D-N.Y., said Thursday she told an Immigration and Customs Enforcement (ICE) agent in New York that they were "terrorizing people" after questioning why the officer was wearing a ma…
 
-[Read Original Article Here](https://www.foxnews.com/politics/us-gains-leverage-over-canadian-oil-weakens-china-amid-us-plans-overhaul-venezuelan-oil-market)
+[Read Original Article Here](https://www.foxnews.com/media/hochul-confronted-ice-agent-said-he-terrorizing-people-wearing-mask)
 ---
 
-## Article 13: Price hikes, queues and tension: Venezuela shoppers uneasy after US bombing
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.4588`
+## Article 13: Washington Post cites U-Haul data in California exodus to 'pro-growth' states, says 'decline is a choice'
+**Source:** Fox News | **Sentiment Score:** `0.7391`
 
-Residents of the capital Caracas remain rattled after the US abduction of Maduro, leading some to stock up on supplies. Caracas, Venezuela The normally noisy capital of Caracas was eerily quiet on Monday, two days after the United States bombed the city and abducted Venezuelas leader, Nicolas Maduro. But many caraque…
+The Washington Post editorial board cited U-Haul's 2025 growth report on Thursday as evidence that it's not just billionaires fleeing California, but also everyday citizens. The Washington Post editorial board cited U-Haul's 2025 growth index as evidence that "it's not just billionaires fleeing California," but also residents from all walks of life looking to escape the …
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/1/6/price-hikes-queues-and-tension-venezuela-shoppers-uneasy-after-us-bombing)
+[Read Original Article Here](https://www.foxnews.com/media/washington-post-cites-u-haul-data-california-exodus-pro-growth-states-says-decline-choice)
 ---
 
-## Article 14: Rodriguez says ‘no foreign agent’ running Venezuela, US role still unclear
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.4927`
+## Article 14: Iran regime said to unleash Hezbollah and Iraqi militias as uprising spreads
+**Source:** Fox News | **Sentiment Score:** `-0.6705`
 
-Venezuela's prosecutor general decries Maduro's arrest as 'terrorism' as the US offers little clarity on its next steps. Venezuelas interim leader, Delcy Rodriguez, has said that no foreign agent is running Venezuela in the wake of Nicolas Maduros abduction by United States military forces. Rodriguez, who had been Mad…
+Iran’s regime is accused of importing foreign militias to crush protests, as experts warn the move marks a dangerous escalation to suppress domestic unrest. As anti-regime protests spread across Iran for a 12th straight day, the Islamic Republic has reportedly turned to foreign militias for support, with two independent sources confirming that roughly 85…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/1/6/rodriguez-says-no-foreign-agent-running-venezuela-us-role-still-unclear)
+[Read Original Article Here](https://www.foxnews.com/world/iran-regime-said-unleash-hezbollah-iraqi-militias-uprising-spreads)
 ---
 
-## Article 15: Protests grow as Iran’s government makes meager offer amid tanking economy
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.0258`
+## Article 15: US may be involved in Venezuela for years, Trump says
+**Source:** Fox News | **Sentiment Score:** `-0.6705`
 
-Amnesty International says security forces' raid on hospital in Ilam to seize protesters violates international law. Tehran, Iran Bolder protests are being recorded across Iran amid an increasing deployment of armed security officers as the governments efforts to contain an unravelling economic situation fall flat.…
+President Donald Trump said in an interview that the U.S. would run Venezuela and extract its oil possibly for years following Nicolás Maduro's arrest. President Donald Trump predicted that U.S. involvement with Venezuela could be a years-long venture, rather than a short-term one. In the early hours of Saturday, U.S. forces arrested dictator Nicol…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/1/6/protests-grow-as-irans-government-makes-meager-offer-amid-tanking-economy)
+[Read Original Article Here](https://www.foxnews.com/politics/us-may-involved-venezuela-years-trump-says)
 ---
 
-## Article 16: After 80-minute Trump address, GOP lawmakers say momentum is back as healthcare fight looms
-**Source:** Fox News | **Sentiment Score:** `0.7430`
+## Article 16: Left-wing groups mobilize protests after fatal ICE shooting in Minneapolis and more top headlines
+**Source:** Fox News | **Sentiment Score:** `0.7291`
 
-Trump urges Republicans to focus on healthcare reform and Obamacare subsidies during address to GOP lawmakers, outlining strategy for 2026 legislative priorities and midterm elections. Republicans coming away from an address President Donald Trump delivered to GOP lawmakers on Tuesday expressed renewed confidence in the trajectory of the administrations efforts. "Im grateful the p…
+Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox. Good morning and welcome to Fox News' morning newsletter, Fox News First. And here's what you need to know to start your day ... TOP 3 1. Left-wing groups mobilize protests after fatal ICE shooting…
 
-[Read Original Article Here](https://www.foxnews.com/politics/after-80-minute-trump-address-gop-lawmakers-say-momentum-back-healthcare-fight-looms)
+[Read Original Article Here](https://www.foxnews.com/us/left-wing-groups-mobilize-protests-after-fatal-ice-shooting-minneapolis-more-top-headlines)
 ---
 
-## Article 17: Maduro abduction shows influence, limits of US Secretary of State Rubio
-**Source:** Al Jazeera English | **Sentiment Score:** `0.8466`
+## Article 17: Venezuela’s economy will be a mess for whoever runs it next | CNN Business
+**Source:** CNN | **Sentiment Score:** `-0.0129`
 
-Top diplomat has long pushed toppling of Maduro, with eye towards Cuba, but remains constrained by competing ambitions. Washington, DC United States Secretary of State Marco Rubio has not been shy about his desire to see the toppling of Venezuelan President Nicolas Maduro. Infamously, the former Florida senator even …
+Venezuela’s economy will be a mess for whoever runs it next | CNN Businesscnn.com President Donald Trump believes US companies can revive Venezuelas beleaguered oil industry, benefiting both that nation and America. But even if that happens, it would be a fraction of changes neede…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/1/6/maduro-abduction-shows-influence-limits-of-us-secretary-of-state-rubio)
+[Read Original Article Here](https://www.cnn.com/2026/01/08/business/venezuela-economic-problems-beyond-oil)
 ---
 
-## Article 18: Trump says he would be impeached if Republicans lose Congress in midterms
-**Source:** Al Jazeera English | **Sentiment Score:** `0.7964`
+## Article 18: Shell Flags Weak Oil-Trading Performance
+**Source:** The Wall Street Journal | **Sentiment Score:** `-0.9349`
 
-US president predicts 'epic' victory for his party in the November vote that will determine control of House and Senate. President Donald Trump has warned Republicans in the United States House of Representatives that, if the party fails to win a majority in Novembers midterm elections, he will get impeached. Speaking…
+Shell warned that a weak oil-trading performance would weigh on its earnings, compounding what is shaping up to be a challenging period as prices continue to... Shell said it expects to report higher oil and gas production but warned of a weak oil trading performance. - yves herman/Reuters Shell warned that a weak oil-trading performance would weigh on its …
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/1/6/trump-says-he-would-be-impeached-if-republicans-lose-congress-in-midterms)
+[Read Original Article Here](https://www.wsj.com/business/energy-oil/shell-expects-higher-oil-and-gas-production-but-flags-downstream-weakness-613ad4bd)
 ---
 
-## Article 19: House GOP summons health insurers to Capitol Hill as Obamacare battle escalates
-**Source:** Fox News | **Sentiment Score:** `0.7003`
+## Article 19: Venezuelan oil’s return could impact Texas refineries and gas prices nationwide
+**Source:** Fox News | **Sentiment Score:** `-0.7968`
 
-Health insurance companies face Capitol Hill hearings as Americans struggle with rising healthcare costs. FIRST ON FOX: Health insurance companies are being summoned to Capitol Hill for a pair of blockbuster hearings as Americans across the country deal with rising costs for their care, Fox News Digital …
+Venezuelan crude oil worth $2.8 billion could reach Texas refineries next week following Trump's announcement of 50 million barrels heading to Gulf Coast. Nobody handles oil quite like Texas and a fresh supply of Venezuelan crude could soon be headed to the Lone Star States coast. The first barrels of thick, tar-like crude could arrive as soon as next…
 
-[Read Original Article Here](https://www.foxnews.com/politics/house-gop-summons-health-insurers-capitol-hill-obamacare-battle-escalates)
+[Read Original Article Here](https://www.foxnews.com/politics/venezuelan-oils-return-could-impact-texas-refineries-gas-prices-nationwide)
 ---
 
-## Article 20: How is gum arabic fuelling the war in Sudan?
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.8402`
+## Article 20: US unveils strategy on Venezuelan oil, spurring rush for access
+**Source:** Bloomberg | **Sentiment Score:** `-0.1298`
 
-Before war broke out, Sudan was the world’s biggest gum arabic exporter, with an estimated market share of 70-80%. A raw material not gold is having an outsized influence on the fighting in Sudan as it is smuggled to help fund the war effort of the paramilitary Rapid Support Forces (RSF). It is gum arabic, an es…
+Trump said in a New York Times interview that the US would be running Venezuela and extracting its oil for years; “We will rebuild it in a very profitable way,” he told the newspaper Oil traders and US refiners are rushing to position for access to Venezuelan crude after the Trump administration said it would take control of as much as 50 million barrels, one of the largest unexp…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/1/6/how-is-gum-arabic-fuelling-the-war-in-sudan)
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-01-07/traders-and-refiners-eye-venezuelan-oil-as-us-plans-take-shape)
 ---
 
