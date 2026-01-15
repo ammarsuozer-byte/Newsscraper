@@ -1,167 +1,167 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-01-14 | **Status:** Automated
+**Date:** 2026-01-15 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: Taiwan says ‘general consensus’ reached with US on trade deal
-**Source:** Al Jazeera English | **Sentiment Score:** `0.2732`
+## Article 1: Iran accuses foreign intelligence behind protest movement
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.0258`
 
-US media reports say tariffs will be cut to 15 percent in exchange for TSMC investment. Taiwan and the United States have reached a general consensus on a trade pact that would reduce US tariffs on Taiwanese exports, officials in Taipei have said. Taiwans Office of Trade Negotiations s…
+Israel's covert operations in Iran spark allegations of destabilising protests as tensions escalate. Iranian authorities have been increasingly clear that they believe foreign countries are behind the unrest sweeping the country and are involved in fomenting unrest on the ground. On Monday, Preside…
 
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/1/13/taiwan-says-general-consensus-reached-with-us-on-trade-deal)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/1/14/iran-accuse-foreign-intelligence-behind-protest-movement)
 ---
 
-## Article 2: Japan’s new PM Takaichi eyes parliament dissolution for snap polls: Report
-**Source:** Al Jazeera English | **Sentiment Score:** `0.7184`
+## Article 2: China’s trade surplus hits new heights in 2025 despite US tariff war
+**Source:** Al Jazeera English | **Sentiment Score:** `0.7137`
 
-Country's first female prime minister hopes a bigger majority will help her implement her political and fiscal agenda. Japanese Prime Minister Sanae Takaichi has conveyed to a governing party executive her intention to dissolve parliaments lower house next week, according to the Kyodo news agency, less than three mon…
+Trade gap rises to nearly $1.2 trillion as tariffs see exporters pivot to new markets. Chinas trade surplus hit a new high of nearly $1.2 trillion in 2025 despite the tariff war with the United States. Customs data released on Wednesday showed that Chinese exports rose by 5.5 percent …
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/1/13/japans-new-pm-takaichi-eyes-parliament-dissolution-for-snap-polls-report)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/1/14/chinas-trade-surplus-hits-new-heights-in-2025-despite-us-tariff-war)
 ---
 
-## Article 3: Iran since 1979: A timeline of crises
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.9633`
+## Article 3: Are Iran’s protests different this time around?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.6249`
 
-From a hostage crisis, a years-long war, and a nuclear dispute, Iran's struggles remain pivotal to its identity. The protests in Iran are grabbing headlines, with the government and the opposition accusing each other of escalating violence. The government also says that foreign interference is behind the protes…
+The unprecedented convergence of internal and external pressures makes these protests distinct. Protests are nothing new in Iran. Since the 1979 Islamic revolution, the sanctions-hit country has been rocked by repeated waves of demonstrations. However, experts say the current deadly upheaval i…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/1/13/a-timeline-of-crises-faced-by-iran-since-1979)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/1/14/are-irans-protests-different-this-time-around)
 ---
 
-## Article 4: US slams Russia’s ‘dangerous escalation’ in Ukraine amid new deadly strikes
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.7845`
+## Article 4: Aluminium, copper settle after bull run into 2026
+**Source:** Bloomberg | **Sentiment Score:** `0.0516`
 
-The Trump administration denounces Russia's use of a nuclear-capable Oreshnik missile in a UN Security Council meeting. The United States has accused Russia of a dangerous and inexplicable escalation of its nearly four-year war in Ukraine, at a time when US President Donald Trump is trying to advance negotiations towa…
+Aluminium and copper prices stabilize after a bullish run, amid concerns over demand and geopolitical risks impacting the metals market. Aluminum steadied at the highest in more than three years, and copper wavered around a record as investors mulled whats next for metals after a powerful start to the year.  Industrial metals have en…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/1/13/us-slams-russias-dangerous-escalation-in-ukraine-amid-new-deadly-strikes)
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-01-13/aluminum-near-record-high-and-tin-extends-surge-on-supply-angst)
 ---
 
-## Article 5: India’s debt fund managers turn tactical as returns get harder
-**Source:** Bloomberg | **Sentiment Score:** `-0.8402`
+## Article 5: China hits record $1.2 trillion surplus in 2025 despite Trump tariff jolt | CNN Business
+**Source:** CNN | **Sentiment Score:** `-0.3182`
 
-This marks a shift in their strategy from last year when money managers largely preferred longer duration, as the Reserve Bank of India slashed rates by 125 basis points Indias top debt fund managers are turning cautious in what could be a tough year for returns, as the RBI nears the end of its interest-rate cut cycle while demand from key investors remains weak.  A…
+China recorded the world’s biggest ever trade surplus in 2025, as well as a 20% jump from 2024, capping off a year in which the world’s largest manufacturer defied US trade pressure by ramping up exports to other global markets. China recorded the worlds biggest ever trade surplus in 2025, marking a 20% jump from 2024, capping off a year in which the worlds largest manufacturer defied US trade pressure by ramping up exports …
 
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-01-13/india-s-debt-fund-managers-turn-tactical-as-returns-get-harder)
+[Read Original Article Here](https://www.cnn.com/2026/01/13/business/china-record-trade-surplus-despite-tariffs-intl-hnk)
 ---
 
-## Article 6: Trump says any country doing business with Iran will face 25 percent tariff
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.2960`
+## Article 6: Venezuela’s top lawmaker says more than 400 prisoners have been released
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.8787`
 
-The US president has threatened Iran with military strikes amid widespread antigovernment protests there. United States President Donald Trump has said that countries that engage in trade with Iran will face a 25 percent tariff on any business done with the US. Trump announced the decision in a social m…
+The announcement contradicts claims from local rights groups that no more than 70 prisoners have been freed. Venezuelas top lawmaker says more than 400 people have been freed from prison, contradicting claims from rights groups that only between 60 to 70 prisoners have been released in recent days, amid cal…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/1/12/trump-says-any-country-doing-business-with-iran-will-face-25-percent-tariff)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/1/14/venezuelas-top-lawmaker-says-more-than-400-prisoners-have-been-released)
 ---
 
-## Article 7: Trump imposes 25% tariffs on countries doing business with Iran ‘effective immediately’ | CNN Business
-**Source:** CNN | **Sentiment Score:** `0.6808`
+## Article 7: GOP senator suggests Fed chair Powell resign now to dodge potential criminal indictment
+**Source:** Fox News | **Sentiment Score:** `-0.8402`
 
-President Donald Trump said countries that do business with Iran will face a new 25% tariff. The announcement appears to mean goods from China, a major trading partner of both Iran and the United States, would become significantly more expensive to import. President Donald Trump said countries that do business with Iran will face a new 25% tariff. The announcement appears to mean goods from China, a major trading partner of both Iran and the United Sta…
+Sen. Kevin Cramer suggests Federal Reserve Chair Jerome Powell should resign amid a DOJ criminal probe into Fed headquarters renovation project costs. Sen. Kevin Cramer, R-N.D., suggested Tuesday that Federal Reserve Chair Jerome Powell should resign to avoid a potential indictment, arguing the move could prompt the Department of Justice (DOJ) to d…
 
-[Read Original Article Here](https://www.cnn.com/2026/01/12/business/tariffs-trump-iran)
+[Read Original Article Here](https://www.foxnews.com/politics/gop-senator-suggests-fed-chair-powell-resign-now-dodge-potential-criminal-indictment)
 ---
 
-## Article 8: Republican lawmakers break from US president on Fed chair indictment
-**Source:** Al Jazeera English | **Sentiment Score:** `0.5859`
+## Article 8: Trump administration files seizure warrants targeting ships tied to Venezuelan oil trade: report
+**Source:** Fox News | **Sentiment Score:** `0.0000`
 
-Former fed chairs called the indictment an 'unprecedented attempt' to undermine the independence of the US central bank. United States Senator Lisa Murkowski threw her support behind fellow Republican Thom Tilliss plan to block President Donald Trumps Fed nominees after the Justice Department over the weekend threatene…
+The U.S. has seized five vessels in Venezuela oil crackdown as Trump administration files court warrants targeting sanctioned trade in international waters. The Trump administration has filed court warrants in an effort to seize more linked to Venezuela's oil trade, according to media reports.  So far, five vessels have been seized by the U.S. military …
 
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/1/12/republican-lawmakers-break-from-us-president-on-fed-chair-indictment)
+[Read Original Article Here](https://www.foxnews.com/politics/trump-administration-files-seizure-warrants-targeting-ships-tied-venezuelan-oil-trade-report)
 ---
 
-## Article 9: 4 ways Trump’s unprecedented action against the Fed and Jerome Powell could badly backfire
-**Source:** CNN | **Sentiment Score:** `0.4939`
+## Article 9: Trump opens door to Liz Warren on credit card rates as GOP weighs affordability fight
+**Source:** Fox News | **Sentiment Score:** `0.8807`
 
-President Donald Trump wants to juice the economy with dramatically lower interest rates, to take credit for a booming stock market and, perhaps most of all, for his handpicked Fed chair to get off the stage. President Donald Trump wants interest rates to fall dramatically, the stock market to boom and, perhaps most of all, for his handpicked Fed chair to get off the stage. But the Trump administrations …
+President Donald Trump calls Sen. Elizabeth Warren to discuss capping credit card interest rates at 10%, finding common ground with progressive Democrats on affordability. President Donald Trump has been making inroads with progressive Democrats to discuss affordability, courting an unlikely ally along the way in his pursuit of capping credit card interest rates.  Tru…
 
-[Read Original Article Here](https://www.cnn.com/2026/01/12/business/jerome-powell-trump-fed)
+[Read Original Article Here](https://www.foxnews.com/politics/trump-opens-door-liz-warren-credit-card-rates-gop-weighs-affordability-fight)
 ---
 
-## Article 10: GOP eyes Venezuela's untapped oil wealth as Democrats sound alarm over taxpayer risk
-**Source:** Fox News | **Sentiment Score:** `-0.1901`
+## Article 10: Trump cheers steady inflation numbers as affordability fight shapes 2026 midterm battle
+**Source:** Fox News | **Sentiment Score:** `0.2714`
 
-Lawmakers are split on who will foot the bill for running Venezuela, a country flush with eye-popping oil reserves but an economy that's been reduced to a hollowed-out shell. Lawmakers are keenly aware of the costs of running a country due to the nations skyrocketing debt, but now another expense may be added to Congress tab Venezuela.  President Donald Trump hasnt backe…
+New CPI report fuels political battle over affordability as Republicans and Democrats clash ahead of midterm elections, with inflation holding at 2.7%. President Donald Trump is touting new government statistics that show inflation remained steady last month. "JUST OUT: Great (LOW!) Inflation numbers for the USA," the president wrote in a social me…
 
-[Read Original Article Here](https://www.foxnews.com/politics/gop-eyes-venezuelas-untapped-oil-wealth-democrats-sound-alarm-over-taxpayer-risk)
+[Read Original Article Here](https://www.foxnews.com/politics/trump-cheers-steady-inflation-numbers-affordability-fight-shapes-2026-midterm-battle)
 ---
 
-## Article 11: What we know about the protests sweeping Iran
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.6486`
+## Article 11: Iranian dissident unloads on American left's silence on deadly protests
+**Source:** Fox News | **Sentiment Score:** `-0.7430`
 
-Crackdown on protests in Iran has resulted in multiple deaths and an internet blackout. Protests in Iran over the countrys economic conditions, which broke out in late December 2025, have snowballed into a broader challenge to the clerical rulers who have governed Iran since the 1979 Is…
+Iranian-American activist Masih Alinejad accuses the Western left of "ideological silence" amid Iran’s protest crackdown and communications blackout. Iranian-American activist Masih Alinejad is accusing the American left of turning its back on Iranian protesters amid reports of thousands of deaths and a near-total communications blackout imposed b…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/1/12/what-we-know-about-the-protests-sweeping-iran)
+[Read Original Article Here](https://www.foxnews.com/media/iranian-dissident-unloads-american-lefts-silence-deadly-protests)
 ---
 
-## Article 12: What 10% Credit-Card Rate Cap Would Mean for Your Wallet
-**Source:** The Wall Street Journal | **Sentiment Score:** `0.8968`
+## Article 12: Lombardo builds massive $15M war chest in critical Nevada governor showdown
+**Source:** Fox News | **Sentiment Score:** `-0.8519`
 
-President Trump’s call for a cap promises to save Americans billions in interest but also can lead to tightened access to credit. Credit-card interest rates average around 23%, and people with lower credit scores can pay rates of up to 36%. - Nam Y. Huh/AP In a move aimed at easing economic pressures on American households, Pr…
+Nevada governor Joe Lombardo raises record $9 million for re-election campaign in key battleground state, building historic war chest for upcoming race. FIRST ON FOX: A Republican governor running for re-election in one of the most closely watched races in the country in a key battleground state is heading into the spring with a historic amount of ca…
 
-[Read Original Article Here](https://www.wsj.com/personal-finance/credit/what-a-10-credit-card-rate-cap-would-mean-for-your-wallet-365f2f8d)
+[Read Original Article Here](https://www.foxnews.com/politics/lombardo-builds-massive-15m-war-chest-in-critical-nevada-governor-showdown)
 ---
 
-## Article 13: ‘Sell America’ returns to Wall Street after Trump ups the ante against Jerome Powell and the Fed | CNN Business
-**Source:** CNN | **Sentiment Score:** `-0.7783`
+## Article 13: Trump announces new 25% tariff: How will it impact Iran’s trading partners?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.5423`
 
-Investors took one look at the Trump administration’s criminal investigation of Federal Reserve Chair Jerome Powell and decided to resuscitate the “Sell America” trade, selling off US stocks, bonds and the dollar. Investors took one look at the Trump administrations criminal investigation of Federal Reserve Chair Jerome Powell and decided to resuscitate the Sell America trade, selling off US stocks, bonds and …
+US president threatens a 25 percent tariff on countries that do business with Iran as he piles pressure on Tehran. United States President Donald Trump says he will slap a 25 percent tariff on any country doing business with Iran, ratcheting up pressure on its government, which is facing its biggest protests in d…
 
-[Read Original Article Here](https://www.cnn.com/2026/01/12/business/stocks-dow-dollar-bonds-powell-trump-federal-investigation)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/1/13/trump-announces-new-25-tariff-how-will-it-impact-irans-trading-partners)
 ---
 
-## Article 14: Trump administration’s vision of US tech dominance is colliding with Europe | CNN Business
-**Source:** CNN | **Sentiment Score:** `-0.2500`
+## Article 14: Thune warns DOJ's probe of Fed Chair Powell 'better be real' and 'serious' amid political backlash
+**Source:** Fox News | **Sentiment Score:** `-0.6908`
 
-Last January, Meta CEO Mark Zuckerberg said he was eager to have an ally in the White House to go after foreign regulations “pushing” American tech firms “to censor more” content. Last January, Meta CEO Mark Zuckerberg said he was eager to have an ally in the White House to go after foreign regulations pushing American tech firms to censor more content. That was days before D…
+Senate Majority Leader John Thune, R-S.D., acknowledged that planned blocks against future Federal Reserve nominees would cause issues and remained adamant that the central bank stay independent. Senate Majority Leader John Thune, R-S.D., warned that the allegations against Federal Reserve Chair Jerome Powell must be legitimate, and not politically influenced, as bipartisan unease over the cr…
 
-[Read Original Article Here](https://www.cnn.com/2026/01/12/tech/us-eu-tech-regulation-fight-explained)
+[Read Original Article Here](https://www.foxnews.com/politics/thune-warns-dojs-probe-fed-chair-powell-better-real-serious-amid-political-backlash)
 ---
 
-## Article 15: China Has Been Gorging on Black-Market Oil. That’s Now Getting Harder.
-**Source:** The Wall Street Journal | **Sentiment Score:** `-0.7269`
+## Article 15: Ex-state education official launches bid for Wyoming's lone US House seat
+**Source:** Fox News | **Sentiment Score:** `0.4939`
 
-The official market for crude could soon start to feel disturbances as the U.S. and Europe crack down on illicit trading. The U.S. military last week released this photo of what it said was the seizure of a tanker in the North Atlantic. - Handout/U.S. European Command/Agence France-Presse/Getty Images For now, the offi…
+Jillian Balow, who has previously served as superintendent for public instruction in both Wyoming and Virginia, is launching a bid for U.S. Congress. Jillian Balow, a former Wyoming state superintendent of public instruction, is jumping into the congressional race to succeed Rep. Harriet Hageman in the Cowboy State's at-large U.S. House district.…
 
-[Read Original Article Here](https://www.wsj.com/business/energy-oil/china-has-been-gorging-on-black-market-oil-thats-now-getting-harder-3b5e1f0c)
+[Read Original Article Here](https://www.foxnews.com/politics/ex-state-education-official-launches-bid-wyomings-lone-us-house-seat)
 ---
 
-## Article 16: India’s VPN ban in Kashmir ‘adds to psychological pressure’, say residents
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.5859`
+## Article 16: Jamie Dimon Warns Political Interference With Fed Would Push Up Rates
+**Source:** The Wall Street Journal | **Sentiment Score:** `0.4019`
 
-Government orders a sweeping ban on VPNs for two months in the disputed region, citing 'threats to national security'. Basit Banday*, employed with an IT firm based in the southwestern Indian city of Pune, handles sensitive healthcare data of his companys clients, ensuring they are safe from leaks and cyberattacks. …
+The JPMorgan chief reiterated his support of the Fed after the DOJ investigation. JPMorgan Chase CEO Jamie Dimon has been defending the Fed and its leader from attempts at political interference for months. - Eva Marie Uzcategui/Bloomberg News Jamie Dimon on Tuesday defended the …
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/1/12/indias-vpn-ban-in-kashmir-adds-to-psychological-pressure-say-residents)
+[Read Original Article Here](https://www.wsj.com/economy/central-banking/jamie-dimon-warns-political-interference-with-fed-would-push-up-rates-60ccfed6)
 ---
 
-## Article 17: Reliance halts cell-making plans after failed bid for China tech
-**Source:** Bloomberg | **Sentiment Score:** `0.5106`
+## Article 17: How US sanctions crippled lives of Iranians Trump says he wants to ‘help’
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.8402`
 
-China has stepped up scrutiny of clean-energy technology deals as it seeks to protect strategic advantages in sectors, complicating localization efforts by foreign manufacturer Reliance Industries Ltd. has paused plans to make lithium-ion battery cells in India after failing to secure Chinese technology, said people familiar with the matter, reflecting how even the countrys…
+US sanctions have damaged Iran's economy, which was the reason the protests broke out in the first place. As demonstrators flood Iranian streets in ongoing protests which started late last month, United States President Donald Trump has threatened military intervention, arguing that he wants to help prot…
 
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-01-12/reliance-halts-cell-making-plans-after-failed-bid-for-china-tech)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/1/13/how-us-sanctions-crippled-lives-of-iranians-trump-says-he-wants-to-help)
 ---
 
-## Article 18: Iran's collapse or survival hinges on one choice inside the Revolutionary Guard
-**Source:** Fox News | **Sentiment Score:** `-0.8316`
+## Article 18: Why Powell is fighting back against Trump: The US economy is at stake | CNN Business
+**Source:** CNN | **Sentiment Score:** `-0.5267`
 
-Iran faces unprecedented crisis as nationwide protests challenge Islamic Republic's survival, with IRGC and Basij loyalty becoming decisive factors. Iran is not merely experiencing another wave of street protests. It is facing a crisis that strikes at the core of the Islamic Republicand, for the first time in years, places the regimes survival in…
+The gloves are off in the heated clash between Federal Reserve Chair Jerome Powell and President Donald Trump. The gloves are off in the heated clash between Federal Reserve Chair Jerome Powell and President Donald Trump. As extraordinary as a criminal investigation of a sitting Fed chair is, Powells rebuke o…
 
-[Read Original Article Here](https://www.foxnews.com/opinion/irans-collapse-survival-hinges-one-choice-inside-revolutionary-guard)
+[Read Original Article Here](https://www.cnn.com/2026/01/13/business/powell-trump-us-economy)
 ---
 
-## Article 19: After Maduro: Is the US driving global instability?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.0258`
+## Article 19: Iran, US at possible precipice of renewed conflict as protests continue
+**Source:** Al Jazeera English | **Sentiment Score:** `0.3818`
 
-Risk analyst Ian Bremmer argues that the US is undoing the global system that it built over decades. America First foreign policy means that the United States is becoming a country that opposes the rule of law, free trade and collective security, argues Ian Bremmer, president of the risk analysis fi…
+Amid rising tensions, Iran’s intelligence agency says it has seized US arms and explosive equipment from 'militants'. Washington and Tehran are engaged in escalating rhetoric over ongoing protests in Iran, with Iranian Foreign Minister Abbas Araghchi saying his government is ready for war after United States Preside…
 
-[Read Original Article Here](https://www.aljazeera.com/video/the-bottom-line/2026/1/11/after-maduro-is-the-us-driving-global-instability)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/1/13/iran-us-at-possible-precipice-of-renewed-conflict-as-protests-continue)
 ---
 
-## Article 20: Will Elon Musk’s X changing the Iranian flag have any impact on the ground?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.8658`
+## Article 20: Trump wants to cap credit card interest rates at 10%. Would that work?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.9477`
 
-Analysts say Musk's move may give a small boost to some protesters, but matters little during internet blackouts. Amid intensifying protests in Iran, the worlds richest man has weighed in. On January 4, Elon Musk, the multi-billionaire owner of social media platform X, responded to a post by Irans Supreme Leade…
+Capping borrowing costs in the US has bipartisan support, but experts warn of unintended consequences. United States President Donald Trump has announced plans to cap credit card interest rates at 10 percent for one year, effective January 20, the date of his inauguration. Trump, who first proposed s…
 
-[Read Original Article Here](https://www.aljazeera.com/features/2026/1/11/will-elon-musks-x-changing-the-iranian-flag-have-any-impact-on-the-ground)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/1/13/trump-wants-a-10-cap-on-credit-card-interest-rates-would-that-work)
 ---
 
