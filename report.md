@@ -1,167 +1,167 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-01-21 | **Status:** Automated
+**Date:** 2026-01-22 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: Iran ‘just getting started’ on punishing ‘rioters’ arrested during protests
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.8402`
+## Article 1: New Zealand PM Christopher Luxon calls national election for November 7
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.7003`
 
-Authorities are confiscating assets of people backing protesters to pay for damages incurred during the unrest. Tehran, Iran Iranian officials continue to promise harsh punishments for rioters arrested during recent nationwide protests as they trade barbs with United States President Donald Trump amid an ongoi…
+New Zealanders are set to go to the polls later this year amid a sluggish economy and rising unemployment. New Zealand will hold a national election on November 7, the countrys centre-right prime minister has said. Christopher Luxon announced the election date on Wednesday as he touted his governments re…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/1/20/iran-just-getting-started-on-punishing-rioters-arrested-during-protests)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/1/21/new-zealand-pm-christopher-luxon-calls-national-election-for-november-7)
 ---
 
-## Article 2: World Economic Forum at Davos 2026: Dates, location and what to expect
-**Source:** Al Jazeera English | **Sentiment Score:** `0.0000`
+## Article 2: US trade with Southeast Asia and Taiwan surging despite Trump tariffs
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.6249`
 
-Every year, the World Economic Forum meeting takes place at the Swiss Alpine resort of Davos. The World Economic Forum (WEF) annual meeting kicked off in the Swiss resort city of Davos on Monday, with global figures from politics, business, academia and civil society attending the five-day ev…
+While trade data show exports from China have fallen dramatically, US customers are still buying from elsewhere. When United States President Donald Trump returned to office 12 months ago, he promised to slash the countrys trade deficit, which had swelled to about $918.4bn, or 3.1 percent of gross domestic prod…
 
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/1/20/world-economic-forum-at-davos-2026-dates-location-and-what-to-expect)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/1/21/us-trade-with-southeast-asia-and-taiwan-surging-despite-trump-tariffs)
 ---
 
-## Article 3: Silver hits record high as US-EU crisis over Greenland simmers
-**Source:** Bloomberg | **Sentiment Score:** `-0.6908`
+## Article 3: What is Bangladesh’s Jamaat-e-Islami party? Could it lead the country next?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.8720`
 
-The US’s aggression toward its NATO allies has rattled markets, buoying demand for havens and reviving the ‘Sell America’ trade Silver hit a record high and gold traded near an all-time peak as President Donald Trumps push to take over Greenland fueled fears of a US-Europe trade war and kept markets on edge. The precious met…
+For first time in its chequered history, the party has a real chance of grabbing power as the leader of ruling alliance. Dhaka, Bangladesh For the first time in his life, Abdur Razzak, a 45-year-old banker in Bangladeshs Faridpur district, believes the political party he supports has a real chance of coming to power as…
 
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-01-19/silver-rises-to-record-as-us-eu-tensions-over-greenland-persist)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/1/21/what-is-bangladeshs-jamaat-e-islami-party-could-it-lead-the-country-next)
 ---
 
-## Article 4: RBI needs to ramp up bond purchases to cool yields, funds say
-**Source:** Bloomberg | **Sentiment Score:** `-0.5267`
+## Article 4: ‘You’ll find out’: Key takeaways from Trump’s one-year anniversary remarks
+**Source:** Al Jazeera English | **Sentiment Score:** `0.8176`
 
-RBI has injected a record 14.5 trillion rupees of liquidity since end-December 2024 through cash reserve-ratio cuts, open-market bond purchases and foreign-exchange swaps, RBI will need to pump significantly more liquidity into the banking system, as four interest-rate cuts and record debt purchases have yet to ease elevated yields, market participants said. The Reser…
+At a White House news briefing, Trump expressed optimism about his prospects of claiming Greenland for the US. It has been one year since Donald Trump took office for a second term as United States president, and he marked the occasion with a marathon news conference in the White House briefing room, where he…
 
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-01-20/rbi-needs-to-ramp-up-bond-purchases-to-cool-yields-funds-say)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/1/21/youll-find-out-key-takeaways-from-trumps-one-year-anniversary-remarks)
 ---
 
-## Article 5: Denmark sends more troops to Greenland amid tensions with Trump
-**Source:** Al Jazeera English | **Sentiment Score:** `0.2023`
+## Article 5: US seizes a seventh Venezuela-linked oil tanker
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.0516`
 
-Nordic country dispatches 'substantial contribution' of troops to the Arctic territory amid standoff with Washington. Denmark has sent additional troops to Greenland amid United States President Donald Trumps threats to take control of the self-governing Danish territory. The chief of the Royal Danish Army, Peter B…
+US has moved to assert strict control over production and sale of Venezuelan oil since attacking the country this month. The United States military announced that it has seized a seventh Venezuela-linked oil tanker, as the US tightens its control over the production and sale of the countrys considerable oil resources.…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/1/20/denmark-sends-more-troops-to-greenland-amid-tensions-with-trump)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/1/21/us-seizes-a-seventh-venezuela-linked-oil-tanker)
 ---
 
-## Article 6: Bulgaria’s president says he is stepping down ahead of snap elections
-**Source:** Al Jazeera English | **Sentiment Score:** `0.4588`
+## Article 6: Amazon CEO: Prices have gone up from tariffs | CNN Business
+**Source:** CNN | **Sentiment Score:** `0.4939`
 
-President Rumen Radev widely expected to form his own political party prior to upcoming snap vote. Bulgarian President Rumen Radev has said that he will resign, stoking speculation that he will form his own political party ahead of snap elections expected to take place in the months ahead. Radev …
+If your next Amazon order seems more expensive, President Donald Trump’s sweeping tariffs may be partially to blame, Amazon CEO Andy Jassy said Tuesday. If your next Amazon order seems more expensive, President Donald Trumps sweeping tariffs may be partially to blame, Amazon CEO Andy Jassy said Tuesday. Like many retailers, Amazon and its vast netwo…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/1/19/bulgarias-president-says-he-is-stepping-down-ahead-of-snap-elections)
+[Read Original Article Here](https://www.cnn.com/2026/01/20/business/amazon-tariffs-prices)
 ---
 
-## Article 7: White House urges 'cooler heads to prevail' as EU fires back on Trump tariffs over Greenland
-**Source:** Fox News | **Sentiment Score:** `-0.6597`
+## Article 7: Trump set to face a diplomatic intervention on Greenland in Davos | CNN Politics
+**Source:** CNN | **Sentiment Score:** `-0.2960`
 
-Trump advisor Kevin Hassett calls for "cooler heads to prevail" as president threatens Denmark with tariffs over Greenland acquisition deal negotiations. National Economic Council Director Kevin Hassett urged "cooler heads to prevail" Sunday as European leaders blasted President Donald Trumps tariff threats aimed at forcing a Greenland purchase deal.…
+An urgent diplomatic intervention is awaiting President Donald Trump in Davos after days spent hurling threats at US allies over Greenland. An urgent diplomatic intervention is awaiting President Donald Trump in Davos after days spent hurling threats at US allies over Greenland. Top European officials are planning to use this weeks annu…
 
-[Read Original Article Here](https://www.foxnews.com/media/white-house-urges-cooler-heads-prevail-eu-fires-back-trump-tariffs-over-greenland)
+[Read Original Article Here](https://www.cnn.com/2026/01/20/politics/trump-diplomatic-intervention-greenland-davos)
 ---
 
-## Article 8: Trump’s energy dominance rewrites the Strategic Petroleum Reserve after Biden drawdowns
-**Source:** Fox News | **Sentiment Score:** `0.1989`
+## Article 8: Newsom warns ‘pathetic’ foreign leaders to grow a backbone in bizarre takedown likening Trump to a T.rex
+**Source:** Fox News | **Sentiment Score:** `-0.7184`
 
-Strategic Petroleum Reserve less critical to U.S. security as domestic oil production surges under Trump administration policies, economist Diana Furchtgott-Roth explains. Americas rise as a global oil powerhouse has changed how critical the Strategic Petroleum Reserve (SPR) is to U.S. security and economic stability even after President Joe Bidens drawdowns drove stoc…
+California Governor Gavin Newsom criticizes European leaders at Davos for allegedly being "complicit" with Trump's Greenland threats and tariffs. Democratic California Gov. Gavin Newsom slammed foreign world leaders for allegedly "rolling over" when confronted by President Donald Trump, declaring that he should have brought "kneepads" for fore…
 
-[Read Original Article Here](https://www.foxnews.com/politics/trumps-energy-dominance-rewrites-strategic-petroleum-reserve-after-biden-drawdowns)
+[Read Original Article Here](https://www.foxnews.com/politics/newsom-warns-pathetic-foreign-leaders-grow-backbone-bizarre-takedown-likening-trump-t-rex)
 ---
 
-## Article 9: EU eyes tariffs on €93 billion of US goods over Trump’s latest 10% levy threat
-**Source:** Bloomberg | **Sentiment Score:** `-0.8807`
+## Article 9: Trump made many statements on US economy. Most are untrue
+**Source:** Al Jazeera English | **Sentiment Score:** `0.1531`
 
-The European Union is in talks to potentially impose tariffs on €93 billion ($108 billion) of US goods if President Donald Trump follows through on his threat to hit European countries with a 10 per cent levy on Feb. 1. The European Union is in talks to potentially impose tariffs on 93 billion ($108 billion) of US goods if President Donald Trump follows through on his threat to hit European countries with a 10 per c…
+In address to media on Tuesday, US president made many false claims, including that there was 'no inflation' in the US. United States President Donald Trump has made a range of claims about the state of the US economy. In a long and meandering address to the media on Tuesday, the first year anniversary of his second …
 
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-01-19/eu-eyes-tariffs-on-93-billion-of-us-goods-over-new-trump-threat)
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/1/20/trump-made-many-statements-on-us-economy-most-are-untrue)
 ---
 
-## Article 10: ‘Dangerous downward spiral’: European leaders slam Trump’s tariff threat
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.7717`
+## Article 10: Spanberger signals left bent after centrist campaign; GOP leader warns of ‘Fairfaxing the rest of VA'
+**Source:** Fox News | **Sentiment Score:** `-0.5574`
 
-European countries targeted by Trump's latest tariffs say they are united on 'upholding our sovereignty'. European leaders have condemned United States President Donald Trumps threat to slap tariffs on countries that resist his bid to take over Greenland, warning the move risks a dangerous downward spira…
+Governor Abigail Spanberger's housing executive order raises questions about state intervention in local zoning, with Republicans warning of progressive overreach. Newly minted Virginia Gov. Abigail Spanberger campaigned as a pragmatic centrist, while critics said her day-one actions depict a very different four years the Old Dominion is about to experience. I…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/1/19/dangerous-downward-spiral-european-leaders-slam-trumps-tariff-threat)
+[Read Original Article Here](https://www.foxnews.com/politics/spanberger-signals-leftward-bent-after-centrist-campaign-gop-leader-warns-fairfaxing-va)
 ---
 
-## Article 11: Trump has tariffs. Europe has a ‘trade bazooka.’ This Greenland standoff could get ugly, fast | CNN Business
-**Source:** CNN | **Sentiment Score:** `-0.8979`
+## Article 11: Trump says 'you’ll find out' when asked how far he’ll go on Greenland takeover
+**Source:** Fox News | **Sentiment Score:** `-0.4404`
 
-President Donald Trump threatened Saturday to impose new 10% tariffs on imports from several European countries. It could unravel months of progress made during trade negotiations settled after Trump’s trade war last year. President Donald Trumps latest tariff threats over Greenland and Europes potential countermeasures could result in significantly higher import prices that could weaken both economies. Neither side a…
+President Trump offered a cryptic "you'll find out" response on Greenland takeover plans, dismissing NATO concerns as he prepares to head to Davos amid tariff threats. President Donald Trump  fueled fresh uncertainty Tuesday, offering a terse "youll find out" when asked at the White House how far he would go to get Greenland. Trump dismissed concerns that Greenla…
 
-[Read Original Article Here](https://www.cnn.com/2026/01/18/business/europe-greenland-trump-tariffs-trade)
+[Read Original Article Here](https://www.foxnews.com/politics/trump-says-youll-find-out-when-asked-how-far-hell-go-greenland-takeover)
 ---
 
-## Article 12: Wife of former American detainee released after more than a year in Venezuelan prison
+## Article 12: Trump says 'you’ll see' when asked how far he’ll go on Greenland takeover
+**Source:** Fox News | **Sentiment Score:** `-0.4404`
+
+President Trump offers cryptic 'you'll see' response on Greenland takeover plans, dismissing NATO concerns as he prepares to head to Davos amid tariff threats. President Donald Trump  fueled fresh uncertainty Tuesday, offering a terse "youll see" when asked at the White House how far he would go to get Greenland. Trump dismissed concerns that Greenlanders…
+
+[Read Original Article Here](https://www.foxnews.com/politics/trump-says-youll-see-when-asked-how-far-hell-go-greenland-takeover)
+---
+
+## Article 13: Trump undermined antiwar vows in first year. Will Democrats seize on this?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.2500`
+
+Party leaders vow to hammer Trump on affordability in months ahead, with Venezuela, Greenland their latest cudgels. Washington, DC One year into US President Donald Trumps second term in office, Democrats hope the Republican presidents campaign pledges vows to end foreign wars and pivot to America First are coming…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/1/20/trump-undermined-antiwar-vows-in-first-year-will-democrats-seize-on-this)
+---
+
+## Article 14: How can Europe respond to Trump’s Greenland tariffs threat?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.6249`
+
+The United States's claim to the Danish territory has sparked fears of a trade war. The United Statess claim to the Danish territory has sparked fears of a trade war.United States President Donald Trump has threatened tariffs against seven European Union countries and the United Kin…
+
+[Read Original Article Here](https://www.aljazeera.com/video/inside-story/2026/1/20/how-can-europe-respond-to-trumps-greenland-tariffs)
+---
+
+## Article 15: Top EU official warns Trump's tariff threat over Greenland pushback is 'a mistake'
 **Source:** Fox News | **Sentiment Score:** `-0.8519`
 
-The wife of an American citizen freed from Venezuelan prison after year-long detention on alleged espionage charges, reunites with husband in emotional call. The wife of a once-detained American citizen was released this week after being held for more than a year in a Venezuelan prison following their arrest while traveling to the South American nation to…
+EU chief calls President Donald Trump's Greenland tariff threats "a mistake" as European leaders warn of downward spiral in transatlantic trade relations. The European Union's top official did not hold back in her warnings about President Donald Trump's threat to impose fresh tariffs on countries opposing his push for the U.S. to acquire Greenland, a s…
 
-[Read Original Article Here](https://www.foxnews.com/politics/wife-former-american-detainee-released-more-year-venezuelan-prison)
+[Read Original Article Here](https://www.foxnews.com/world/top-eu-official-warns-trumps-tariff-threat-over-greenland-pushback-a-mistake)
 ---
 
-## Article 13: Why Trump zeroed in on Greenland and why it matters in 3 maps
-**Source:** Fox News | **Sentiment Score:** `0.9313`
+## Article 16: Lawmaker says Trump could keep housing-cost pledge by backing Democratic bill in rare call for common ground
+**Source:** Fox News | **Sentiment Score:** `0.5473`
 
-Trump's interest in Greenland isn't random – the Arctic island holds military bases and rare earth minerals as ice melts open strategic opportunities. Greenland rarely draws global attention. But as ice melts and great powers inch closer, the worlds largest island has become a strategic prize one that caught President Donald Trump's  eye long befo…
+Bill would eliminate tax incentives for large investment companies purchasing single-family properties EXCLUSIVE: A Democratic lawmaker sponsoring legislation aimed at disincentivizing private equity and large investment firms from buying up single-family homes and driving working people out of the ma…
 
-[Read Original Article Here](https://www.foxnews.com/politics/why-trump-zeroed-greenland-why-matters-3-maps)
+[Read Original Article Here](https://www.foxnews.com/politics/trump-could-fulfill-housing-cost-promise-dem-led-bill-lawmaker-says-calling-common-ground)
 ---
 
-## Article 14: Trump announces new tariffs over Greenland: How have EU allies responded?
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.1280`
+## Article 17: Trump’s Greenland tariffs: What’s Europe’s ‘bazooka’ option to hit back?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.7845`
 
-The European Union is having an emergency meeting to devise a response to Trump's tariff threats over Greenland. United States President Donald Trump has promised to steadily increase tariffs on European countries that have opposed his move to acquire Greenland, escalating a dispute over the semiautonomous Dani…
+After tariff threats against Europe, Trump renews bid for Greenland in message to Norway as EU mulls retaliation. After United States President Donald Trump threatened a trade war against European countries which oppose his bid to acquire Greenland, Europe is now considering deploying a trade bazooka a powerful,…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/1/18/trump-announces-new-tariffs-over-greenland-how-have-eu-allies-responded)
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/1/20/trumps-greenland-tariffs-whats-europes-bazooka-option-to-hit-back)
 ---
 
-## Article 15: Karoline Leavitt warned CBS 'we’ll sue your a-- off' if Trump interview didn't air in full
-**Source:** Fox News | **Sentiment Score:** `-0.7579`
+## Article 18: Greenland is America's frontdoor — forgetting that has dangerous consequences
+**Source:** Fox News | **Sentiment Score:** `-0.3400`
 
-White House press secretary Karoline Leavitt reportedly threatened CBS on behalf of President Donald Trump if the president's interview was edited, warning they'd "sue your a-- off." White House press secretary Karoline Leavitt warned "CBS Evening News" anchor Tony Dokoupil that his interview this week with President Donald Trump needed to air in full or the network would have an…
+Greenland's rare earth deposits and Arctic shipping lanes become focal points of U.S.-China-Russia competition as melting ice opens new trade routes and Beijing seeks regional leverage. President Donald Trumps announcement that the United States will impose a 10 percent import tariff on eight European countries opposing U.S. control of Greenland has forced a long-ignored Arctic deba…
 
-[Read Original Article Here](https://www.foxnews.com/media/karoline-leavitt-warned-cbs-well-sue-your-a-off-trump-interview-didnt-air-full)
+[Read Original Article Here](https://www.foxnews.com/opinion/arctic-americas-frontdoor-forgetting-has-dangerous-consequences)
 ---
 
-## Article 16: ‘Everything is bad’: Fear and anxiety grip Iranians abroad amid protests
-**Source:** Al Jazeera English | **Sentiment Score:** `0.8934`
+## Article 19: House Speaker Mike Johnson tells British Parliament he came to 'calm the waters'
+**Source:** Fox News | **Sentiment Score:** `-0.0772`
 
-Iranians in the diaspora express worry about loved ones during an internet shutdown and deadly demonstrations. *Names changed to protect their identities. Lancaster, United Kingdom Maya* and Daniel* sit in a spare room at Global Link, an NGO helping migrants. Neither has heard from family or friends in Iran …
+House Speaker Mike Johnson told the British Parliament he came to London to “calm the waters" as tensions rise between the United States and European allies. U.S. House Speaker Mike Johnson addressed Britains Parliament on Tuesday, telling them that he had come to "calm the waters," as tensions between Washington and its European allies have intensified i…
 
-[Read Original Article Here](https://www.aljazeera.com/features/2026/1/18/everything-is-bad-fear-and-anxiety-grip-iranians-abroad-amid-protests)
+[Read Original Article Here](https://www.foxnews.com/politics/house-speaker-mike-johnson-tells-british-parliament-he-came-calm-waters)
 ---
 
-## Article 17: Voters in Portugal electing new president, could be far-right winner
-**Source:** Al Jazeera English | **Sentiment Score:** `0.8316`
+## Article 20: Trump undermines key allies UK and France before Davos visit
+**Source:** Al Jazeera English | **Sentiment Score:** `0.6369`
 
-Among the frontrunners is Andre Ventura, whose far-right party is the second-largest in parliament. Portugal has begun voting in the first round of a presidential election in which a far-right candidate could, for the first time, make it to a run-off, possibly securing another win for Europes burge…
+US president posts flurry of provocative messages on social media on Greenland, upping ante before World Economic Forum. United States President Donald Trump has doubled down on his bid to take over Greenland before his appearance at the World Economic Forum in Davos, Switzerland, by slamming key allies. Trump shared …
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/1/18/voters-in-portugal-electing-new-president-could-be-far-right-winner)
----
-
-## Article 18: Greenland: A stunned Europe finally wakes up to Trump’s threat to annex the island
-**Source:** CNN | **Sentiment Score:** `-0.7140`
-
-Greenland: A stunned Europe finally wakes up to Trump’s threat to annex the islandcnn.com Its not often that Europe speaks with one voice or responds with such urgency. But US President Donald Trumps announcement Saturday of sanctions against several European countries that reject any US…
-
-[Read Original Article Here](https://www.cnn.com/2026/01/18/europe/europe-greenland-threat-tariffs-analysis-intl)
----
-
-## Article 19: Just like Venezuela, Iran, too, is expendable for Russia
-**Source:** Al Jazeera English | **Sentiment Score:** `0.2960`
-
-Moscow is focused on winning in Ukraine; all else is a means to that end. The abduction of Venezuelan President Nicolas Maduro by the United States military and the subsequent threats by Washington to intervene in Iran during its recent upheaval have generated a tide of en…
-
-[Read Original Article Here](https://www.aljazeera.com/opinions/2026/1/18/just-like-venezuela-iran-too-is-expendable-for-russia)
----
-
-## Article 20: EU, Mercosur bloc sign free trade deal after 25 years of negotiations
-**Source:** Al Jazeera English | **Sentiment Score:** `0.6486`
-
-European and South American leaders say pact sends 'clear signal' amid concerns over global tariffs, isolationism. European and South American officials have signed a major free trade agreement, paving the way for the European Unions largest-ever trade accord amid tariff threats and deepening uncertainty around g…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/1/17/eu-mercosur-bloc-sign-free-trade-deal-after-25-years-of-negotiations)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/1/20/trump-undermines-key-allies-uk-and-france-ahead-of-davos-visit)
 ---
 
