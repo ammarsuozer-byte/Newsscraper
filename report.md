@@ -1,11 +1,155 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-01-29 | **Status:** Automated
+**Date:** 2026-01-30 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: BYD weighs India expansion as hundreds of car orders pile up
+## Article 1: Banks shut, futures uncertain one year after M23 rebels seized DRC’s Goma
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.7269`
+
+A year since the M23's lightning offensive led to the fall of North Kivu's capital, residents struggle to make a living. Goma, Democratic Republic of the Congo A year after M23 rebels seized control of Goma, the capital of eastern DRCs strategic North Kivu province, the streets are bustling with foot and car traffic an…
+
+[Read Original Article Here](https://www.aljazeera.com/features/2026/1/29/banks-shut-futures-uncertain-one-year-after-m23-rebels-seized-drcs-goma)
+---
+
+## Article 2: China’s Xi Jinping, UK’s Kier Starmer agree to deepen economic ties
+**Source:** Al Jazeera English | **Sentiment Score:** `0.7351`
+
+British PM Keir Starmer's China visit is the first by a UK leader in eight years and marks a thaw in frosty relations. The United Kingdoms Prime Minister Keir Starmer has met with Chinese President Xi Jinping in Beijing in the first trip of its kind by a British leader in eight years. Starmer said before his trip th…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/1/29/chinas-xi-jinping-uks-kier-starmer-agree-to-deepen-economic-ties)
+---
+
+## Article 3: Trump wants to refocus voters’ attention on the economy. He might regret it | CNN Business
+**Source:** CNN | **Sentiment Score:** `0.9136`
+
+President Donald Trump, facing a growing backlash over his immigration officers’ behavior, went to Iowa on Tuesday in the hopes of changing the subject. Perhaps his advisers decided the best way forward is to focus on the fundamentals and remind voters of why… A version of this story appeared in CNN Business Nightcap newsletter. To get it in your inbox, sign up for free here. President Donald Trump, facing a growing backlash over hisimmigrationofficersbeh…
+
+[Read Original Article Here](https://www.cnn.com/2026/01/28/business/trump-voter-attention-economy)
+---
+
+## Article 4: India set to push capex, ease business norms in budget amid US tariff risks
+**Source:** Bloomberg | **Sentiment Score:** `0.8625`
+
+Finance Minister Nirmala Sitharaman is likely to step up public investment as private capex remains subdued, simplify import duties and ease compliance for small businesses. Prime Minister Narendra Modis  government is likely to announce measures to improve the ease of doing business and boost infrastructure spending, while sticking to fiscal consolidation in the upcomin…
+
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-01-29/modi-budget-seen-lifting-spending-reforms-to-offset-us-tariffs)
+---
+
+## Article 5: Kid Rock slams event ticketing system as a 'complete fiasco' for concert fans
+**Source:** Fox News | **Sentiment Score:** `-0.7184`
+
+Kid Rock testified before the Senate Commerce Committee on ticket price gouging, saying fans are forced into expensive resale markets as the law falls short. Musician Kid Rock testified before the Senate, arguing that ticket price gouging forces fans into expensive resale markets and that legislation falls short, telling Fox News pricing is "out of contro…
+
+[Read Original Article Here](https://www.foxnews.com/media/kid-rock-slams-event-ticketing-system-complete-fiasco-concert-fans)
+---
+
+## Article 6: Fox News Poll: Donald Trump starts 2026 with 44% approval
+**Source:** Fox News | **Sentiment Score:** `-0.9152`
+
+New Fox News poll reveals 54% of voters say America is worse off than a year ago, with most blaming Trump's economic policies for directly hurting them. New year, same take: Voters say the economy is in bad shape, that President Donald Trumps policies havent helped, that he isnt spending enough time on the economy, and that things are unlikely to get…
+
+[Read Original Article Here](https://www.foxnews.com/politics/fox-news-poll-donald-trump-starts-2026-44-approval)
+---
+
+## Article 7: Turning Point USA backs Trump Accounts program with 'dollar-for-dollar match' for eligible employee newborns
+**Source:** Fox News | **Sentiment Score:** `0.7717`
+
+Turning Point USA and another nonprofit founded by Charlie Kirk will match the federal government’s $1,000 Trump Accounts contribution, honoring Kirk. Turning Point USA and another nonprofit founded by Charlie Kirk will match the federal government's $1,000 contribution to Trump Accounts, a program created with the intention of giving newborns a fi…
+
+[Read Original Article Here](https://www.foxnews.com/politics/turning-point-usa-backs-trump-accounts-program-dollar-for-dollar-match-eligible-employee-newborns)
+---
+
+## Article 8: Powell warns Lisa Cook's Supreme Court case could be most consequential legal threat in Fed’s history
+**Source:** Fox News | **Sentiment Score:** `0.8390`
+
+Jerome Powell calls Supreme Court case involving Fed governor Lisa Cook "perhaps the most important legal case in the Fed's 113-year history." Federal Reserve Chair Jerome Powell warned Wednesday that a Supreme Court showdown over sitting Fed governor Lisa Cook could have far-reaching consequences for the central banks independence and the …
+
+[Read Original Article Here](https://www.foxnews.com/politics/powell-warns-lisa-cooks-supreme-court-case-could-most-consequential-legal-threat-feds-history)
+---
+
+## Article 9: Popular sunny destination to slash 10,000 vacation rentals in affordable housing push
+**Source:** Fox News | **Sentiment Score:** `-0.1779`
+
+The Hawaii governor has announced the removal of 10,000 vacation rentals to provide more housing for locals. Tourism policy changes are reshaping Aloha State visits. Hawaii Gov. Josh Greene is shaking up the way Americans are visiting the Aloha State by doubling down on the regulation of vacation rentals. In his State of the State address on Monday, Greene, a De…
+
+[Read Original Article Here](https://www.foxnews.com/travel/popular-sunny-destination-slash-10000-vacation-rentals-affordable-housing-push)
+---
+
+## Article 10: US Federal Reserve holds interest rates steady despite political pressure
+**Source:** Al Jazeera English | **Sentiment Score:** `0.3182`
+
+The central bank will maintain rates at 3.5 to 3.75 percent and warned of 'elevated' economic uncertainty. The United States Federal Reserve is holding interest rates steady in its first rate decision of 2026. Rates will remain at 3.5 to 3.75 percent, the Fed said on Wednesday, defying US President Donal…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/1/28/us-federal-reserve-holds-interest-rates-steady-despite-political-pressure)
+---
+
+## Article 11: Trump makes endorsement in swing-state governor's race
+**Source:** Fox News | **Sentiment Score:** `0.8316`
+
+Trump endorses Rep. Tom Tiffany for Wisconsin governor in key swing-state race, calling him a "proven leader" who will advance conservative values. President Donald Trump has made his endorsement for governor in a key swing-state race. Trump backed U.S. Rep. Tom Tiffany, R-Wis., in a lengthy post on his Truth Social platform on Tuesday, writing…
+
+[Read Original Article Here](https://www.foxnews.com/politics/trump-makes-endorsement-swing-state-governors-race)
+---
+
+## Article 12: Iran delegates import powers as US war threats keep economy unstable
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.8689`
+
+Iranian governors gain new powers as country prepares for possible war amid sanctions and looming geopolitical tensions. Tehran, Iran The Iranian government is putting into place contingency plans for basic governance as the threat of another war with the United States and Israel looms large. President Masoud Pezeshki…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/1/28/iran-delegates-import-powers-as-us-war-threats-keep-economy-unstable)
+---
+
+## Article 13: Fed to deliver first interest rate decision of the year as pressure from Trump mounts: Follow for live updates
+**Source:** CNN | **Sentiment Score:** `-0.7650`
+
+Central bankers cut rates three times last year, but are cautious about lowering borrowing costs any further due to a weakening job market. President Donald Trump has said his pick for a new Fed Chair to replace Jerome Powell, whose term ends in May, will cut… Its been a quiet day so far in the stock market, with the Dow, S&amp;P 500 and Nasdaq all hovering around the flatline. The Dow was flat as of 1:47 p.m. ET. The S&amp;P 500 was down 0.1%. The Nasdaq…
+
+[Read Original Article Here](https://www.cnn.com/business/live-news/federal-reserve-interest-rate-01-28-2026)
+---
+
+## Article 14: China pitches itself as a reliable partner as Trump alienates US allies
+**Source:** Al Jazeera English | **Sentiment Score:** `0.5267`
+
+UK Prime Minister Keir Starmer is the latest US ally to visit Beijing, pursuing renewed ties and trade deals. China is showcasing itself as a solid business and trading partner to traditional allies of the United States and others who have been alienated by President Donald Trumps politics, and some of them …
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/1/28/china-pitches-itself-as-a-reliable-partner-as-trump-alienates-us-allies)
+---
+
+## Article 15: Venezuela and Mexico: How Trump is trying to choke Cuba’s oil supplies
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.3818`
+
+Cuba's economy is on the verge of collapse as two of the country's top oil supplies dry up amid US pressure. Mexico has temporarily halted oil shipments to Cuba amid heightened rhetoric from United States President Donald Trump, who has been seeking to isolate the communist-ruled island nation. President C…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/1/28/venezuela-and-mexico-how-trump-is-trying-to-choke-cubas-oil-supplies)
+---
+
+## Article 16: Gold hits record above $5,280 as Trump dollar comments aid rally
+**Source:** Bloomberg | **Sentiment Score:** `-0.4742`
+
+President Donald Trump says he is not concerned about a drop in the value of the dollar that has dragged the world’s premier reserve currency to its weakest level in nearly four years Gold surged to a record high above $5,280 an ounce, extending a breakneck rally fuelled by US dollar weakness and a flight from sovereign bonds and currencies. Bullion rose as much as 2 per cent on …
+
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-01-27/gold-holds-gains-as-trump-comments-add-fuel-to-debasement-trade)
+---
+
+## Article 17: Who was Ajit Pawar, the Indian politician killed in plane crash?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.2960`
+
+Pawar was a key political figure and served as second-highest elected official in Maharashtra, India's wealthiest state. A private plane carrying Ajit Pawar, the deputy chief minister of Indias Maharashtra state, crashed on Wednesday, killing him and four other people on board, authorities said. The aircraft was en ro…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/1/28/who-was-ajit-pawar-the-indian-politician-killed-in-plane-crash)
+---
+
+## Article 18: Hollywood’s selective silence on Iran exposes the lie of celebrity activism
+**Source:** Fox News | **Sentiment Score:** `-0.4019`
+
+Hollywood's selective outrage: celebrities wore ICE protest pins at Golden Globes while staying silent on Iran's brutal crackdown on freedom fighters. In the glittering ballroom of the Golden Globes, the air is usually thick with self-congratulatory speeches about the power of art to change the world. But this year, as the Iranian regime escalated…
+
+[Read Original Article Here](https://www.foxnews.com/opinion/hollywoods-selective-silence-iran-exposes-lie-celebrity-activism)
+---
+
+## Article 19: BYD weighs India expansion as hundreds of car orders pile up
 **Source:** Bloomberg | **Sentiment Score:** `0.7269`
 
 The discussions highlight both the opportunity and the regulatory hurdles BYD faces in one of the world’s fastest-growing auto markets BYD Co. is weighing options to expand in India, including local assembly to meet surging demand for the Chinese automakers electric vehicles, according to people familiar with the matter. The compan…
@@ -13,155 +157,11 @@ The discussions highlight both the opportunity and the regulatory hurdles BYD fa
 [Read Original Article Here](https://www.bloomberg.com/news/articles/2026-01-28/byd-weighs-india-expansion-as-hundreds-of-car-orders-pile-up)
 ---
 
-## Article 2: India could order more homegrown reactors as nuclear push grows
+## Article 20: India could order more homegrown reactors as nuclear push grows
 **Source:** Bloomberg | **Sentiment Score:** `0.8957`
 
 India has opened up its nuclear sector to private companies, thanks to a new law passed in December — a significant boost to its ambition to build 100 gigawatts of nuclear capacity by 2047 India is set to order a third fleet of locally designed reactors as part of an ambitious effort to expand nuclear power capacity at a manageable cost, according to people familiar with the plan. The…
 
 [Read Original Article Here](https://www.bloomberg.com/news/articles/2026-01-28/india-could-order-more-homegrown-reactors-as-nuclear-push-grows)
----
-
-## Article 3: President talks up strength of US economy in advance of midterm elections
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.9001`
-
-Trump attempts to shift focus to bread-and-butter issues amid outrage over two fatal shootings by federal agents. United States President Donald Trump has touted his economic record in a superlative-laden speech that sought to shift public focus to bread-and-butter issues amid outrage over two fatal shootings by…
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/1/28/trump-talks-up-strength-of-us-economy-in-advance-of-midterm-elections)
----
-
-## Article 4: Trump hits the road to sell economic wins, as Republicans brace for high-stakes midterm showdown
-**Source:** Fox News | **Sentiment Score:** `0.7650`
-
-Trump, in Iowa, launches weekly campaign stops to boost GOP midterm election chances, focusing on economy amid persistent inflation and low approval ratings. Facing a rough political climate as his party aims to hold their House and Senate majorities in this year's midterm elections, President Donald Trump on Tuesday kicks off what the White House says wi…
-
-[Read Original Article Here](https://www.foxnews.com/politics/trump-hits-road-sell-economic-wins-republicans-brace-high-stakes-midterm-showdown)
----
-
-## Article 5: GOP campaign touts MAGA bonafides as critics urge Trump not to endorse in key primary: 'Keep Iowa red'
-**Source:** Fox News | **Sentiment Score:** `0.4215`
-
-As President Trump heads to Iowa this week, a grassroots conservative coalition is urging the president to stay out of the Hawkeye State’s gubernatorial race, at least for now. As President Donald Trump heads to Iowa Tuesday, a grassroots conservative coalition calling itself "MAGA United" is urging the president to stay out of the Hawkeye States gubernatorial race, at leas…
-
-[Read Original Article Here](https://www.foxnews.com/politics/gop-campaign-touts-maga-bonafides-critics-urge-trump-not-endorse-key-primary-keep-iowa-red)
----
-
-## Article 6: ‘Mother of all deals’: How India-EU trade deal creates $27 trillion market
-**Source:** Al Jazeera English | **Sentiment Score:** `0.9100`
-
-Major agreement reached after 20 years of negotiations and during ongoing tensions with the US. New Delhi, India India and the European Union have signed a free trade agreement that both sides have hailed as the mother of all deals. The agreement, announced on Tuesday, came together over nearl…
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/1/27/mother-of-all-deals-how-india-eu-trade-deal-creates-27-trillion-market)
----
-
-## Article 7: Iran’s currency drops to record low against dollar as tensions soar
-**Source:** Al Jazeera English | **Sentiment Score:** `0.1027`
-
-Rial hits record ‍1,500,000 rials to ‍the US ⁠dollar, weeks after protests prompted by currency's falling value. Irans currency has dropped to a record 1,500,000 rials to the US dollar, according to several Iranian currency tracking websites, weeks after protests sparked by the rials dwindling value rocked the …
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/1/27/irans-currency-drops-to-record-low-against-dollar-as-tensions)
----
-
-## Article 8: Bessent warns Canada breaking from the US on trade would be a ‘disaster’
-**Source:** Fox News | **Sentiment Score:** `0.5994`
-
-Treasury Secretary Scott Bessent calls Canada's potential pivot to China trade "a disaster," directly challenging PM Mark Carney's recent economic stance. Treasury Secretary Scott Bessent warned that any move by Canada to economically break from the United States would be "a disaster," dismissing recent remarks by Prime Minister Mark Carney as unrealis…
-
-[Read Original Article Here](https://www.foxnews.com/media/bessent-warns-canada-breaking-from-us-trade-would-disaster)
----
-
-## Article 9: MICHAEL SHELLENBERGER: The left is getting people killed
-**Source:** Fox News | **Sentiment Score:** `-0.1531`
-
-Minnesota Gov. Tim Walz's inflammatory language, along with other elected officials, and Democrat resistance policies have successfully created dangerous conditions for activists. A Federal Immigration and Customs Enforcement (ICE) agent in Minnesota shot a second person dead on Saturday. Most of the debate since then has focused, understandably, on whether the ICE agent acted…
-
-[Read Original Article Here](https://www.foxnews.com/opinion/michael-shellenberger-left-getting-people-killed)
----
-
-## Article 10: MORNING GLORY: Canada is a small power biting the hand that protects it
-**Source:** Fox News | **Sentiment Score:** `0.5262`
-
-Mark Carney delivers controversial Davos speech criticizing U.S. as 'hegemon' while Canada fails to meet NATO's 2% defense spending requirement for decades. Our very nice neighbor and ally to our north, Canada, has 42 million people and a GDP of 2.4 trillion, but doesnt even spend 2% of that GDP on defense. Its new Prime Minister, Mark Carney, promises t…
-
-[Read Original Article Here](https://www.foxnews.com/opinion/morning-glory-canada-small-power-biting-hand-protects)
----
-
-## Article 11: India, EU agree on ‘mother of all’ trade deals
-**Source:** Al Jazeera English | **Sentiment Score:** `0.9231`
-
-The deal, set to cover a quarter of the global GDP, will create a free trade zone of two ‌billion people. India and the European Union have agreed on a huge trade deal creating a free trade zone of two billion people, European Commission President Ursula von der Leyen and Indian Prime Minister Narendra M…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/1/27/india-eu-agree-on-mother-of-all-trade-deals)
----
-
-## Article 12: US dollar: ‘Wounded hegemon’ or secure as most powerful currency on earth?
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.4215`
-
-Faced with Trump's tariffs and threats, BRICS countries are trying to reduce dollar use in trading with each other. Johannesburg, South Africa On a late November morning two days before leaders of the worlds leading economies convened in Johannesburg for the 2025 Group of 20 summit the governors of the South Afric…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/1/27/us-dollar-wounded-hegemon-or-secure-as-most-powerful-currency-on-earth)
----
-
-## Article 13: Former Trail Blazers center Chris Dudley makes second run for governor of Oregon
-**Source:** Fox News | **Sentiment Score:** `0.6705`
-
-Former NBA player Chris Dudley announced his governor run in Oregon for 2026, joining a crowded Republican field to challenge Gov. Tina Kotek. A former Portland Trail Blazers player is taking his best shot at being the next governor of Oregon. Chris Dudley, a Republican and 16-year NBA veteran, announced his candidacy for the role in a vid…
-
-[Read Original Article Here](https://www.foxnews.com/sports/former-trail-blazers-center-chris-dudley-makes-second-run-governor-oregon)
----
-
-## Article 14: Trump says he is raising tariffs on South Korea to 25%
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.7783`
-
-US president says he is raising tariffs from 15 percent due to Seoul's failure to ratify a trade deal. United States President Donald Trump has threatened to hike tariffs on South Korean exports over the East Asian countrys failure to ratify a trade deal with Washington fast enough. In a post on Trut…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/1/27/trump-says-he-is-raising-tariffs-on-south-korea-to-25)
----
-
-## Article 15: Canadian PM Carney unveils multibillion-dollar push to lower food costs
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.7650`
-
-Carney has been under pressure from the opposition to lower prices of food and other essentials for lower income people. Canadian Prime Minister Mark Carney has announced a multibillion-dollar package as part of a series of measures aimed at lowering the costs of food and other essentials for low-income families. On M…
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/1/26/canadian-pm-carney-unveils-multibillion-dollar-push-to-lower-food-costs)
----
-
-## Article 16: Venezuela’s Delcy Rodríguez snaps at Washington, declares ‘enough’ of US influence
-**Source:** Fox News | **Sentiment Score:** `-0.3612`
-
-Venezuela's acting president Delcy Rodríguez rebukes U.S. interference, telling Washington to stop giving "orders" to Venezuelan politicians amid tensions. Venezuelas acting president Delcy Rodríguez said Sunday shes had "enough" of U.S. interference in the countrys politics, delivering a sharp rebuke of Washington during a speech to oil workers broadca…
-
-[Read Original Article Here](https://www.foxnews.com/politics/venezuelas-delcy-rodriguez-snaps-washington-declares-enough-us-influence)
----
-
-## Article 17: Gustavo Petro: Colombia’s former rebel fighter turned president
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.6249`
-
-From urban rebel to senator facing death threats, what drives Petro, 65, the country’s first progressive president? In 2007, Gustavo Petro was visiting Washington, DC, when he made an unusual request: to accompany his hosts friend on a school pickup run. At the time, Petro was a rising star in the Colombian Senat…
-
-[Read Original Article Here](https://www.aljazeera.com/features/2026/1/26/gustavo-petro-colombias-former-rebel-fighter-turned-president-2)
----
-
-## Article 18: Spiking yen fuels risk-averse mood as investors take defensive stance
-**Source:** Post Magazine | **Sentiment Score:** `0.7964`
-
-The sudden appreciation of the Japanese yen has intensified risk-off sentiment among investors, as concerns over elevated bond yields, policy uncertainty and credit risks in the world’s fifth-largest economy weigh on market confidence, according to analysts. … The sudden appreciation of the Japanese yen has intensified risk-off sentiment among investors, as concerns over elevated bond yields, policy uncertainty and credit risks in the worlds fifth-largest …
-
-[Read Original Article Here](https://www.scmp.com/business/markets/article/3341275/spiking-yen-fuels-risk-averse-mood-investors-take-defensive-stance)
----
-
-## Article 19: Gold prices cross $5,100 for the first time amid geopolitical uncertainties
-**Source:** Al Jazeera English | **Sentiment Score:** `0.0258`
-
-Spot gold price touches an all-time high of $5,110.50 for an ounce in the first hours of the day. Gold prices have surged to a record high of more than $5,100 an ounce, extending a historic rally as investors piled into the safe-haven asset amid rising geopolitical uncertainties. Spot gold was u…
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/1/26/gold-prices-cross-5100-for-the-first-time-amid-geopolitical-uncertainties)
----
-
-## Article 20: LEE CARTER: 45% of Americans calling themselves 'independent' aren't independent at all – they're just angry
-**Source:** Fox News | **Sentiment Score:** `-0.2603`
-
-Record 45% of Americans now identify as independents, but they're not moderate — they're angry citizens rejecting a broken political system and seeking change. Here's what we're not saying out loud: independent voters aren't independent at all. They're just angry. Forty-five percent of Americans now identify as political independents. That's a record. It b…
-
-[Read Original Article Here](https://www.foxnews.com/opinion/lee-carter-45-americans-calling-themselves-independent-arent-independent-all-theyre-just-angry)
 ---
 
