@@ -1,167 +1,167 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-02-04 | **Status:** Automated
+**Date:** 2026-02-05 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: Venezuelan oil is key to Trump’s Russia plan. There’s a problem with that | CNN Business
+## Article 1: ‘No expectations’: Bangladesh election means little to 1m Rohingya refugees
+**Source:** Al Jazeera English | **Sentiment Score:** `0.4939`
+
+The two main parties say they will push for repatriation to Myanmar. But that's unrealistic, say experts. Coxs Bazar, Bangladesh  On a Thursday afternoon, 19-year-old Mahmudul Hasan prepared seating on the floor of his bamboo-and-tarpaulin home in Balukhali Rohingya Refugee camp. Minutes later, 35 young…
+
+[Read Original Article Here](https://www.aljazeera.com/features/2026/2/4/no-expectations-bangladesh-election-means-little-to-1m-rohingya-refugees)
+---
+
+## Article 2: India made long push with Trump behind scenes to clinch US Deal
+**Source:** Bloomberg | **Sentiment Score:** `0.3400`
+
+Behind the scenes, India’s national security adviser worked diplomatically to mend ties with the US, advocating for a trade agreement amid rising tensions and public criticism from President Trump In early September, shortly after Indian Prime Minister Narendra Modi held a chummy meeting with Vladimir Putin and Xi Jinping in China, he dispatched his national security adviser to Washington to h…
+
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-02-04/india-made-long-push-with-trump-behind-scenes-to-clinch-us-deal)
+---
+
+## Article 3: Bitcoin-led Crypto rout erases nearly half a trillion in a week
+**Source:** Bloomberg | **Sentiment Score:** `0.5423`
+
+Bitcoin on Tuesday tumbled to its lowest level since US President Donald Trump won re-election in early November 2024 and ushered in a more crypto-friendly administration Almost half a trillion dollars has been wiped off cryptocurrencies in less than a week as a selloff led by Bitcoin accelerated. Total crypto market value has slumped by $467.6 billion since Jan. 29,…
+
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-02-04/bitcoin-led-crypto-rout-erases-nearly-half-a-trillion-in-a-week)
+---
+
+## Article 4: ‘A great honor’: Key takeaways from Trump’s meeting with Colombia’s Petro
+**Source:** Al Jazeera English | **Sentiment Score:** `0.0772`
+
+Despite months of clashing over US military attacks and drug trafficking, the two leaders shared a 'terrific' meeting. For months, United States President Trump has called him a sick man and an illegal drug leader. But on Tuesday, Trump welcomed his Colombian counterpart Gustavo Petro to the White House for their fi…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/2/4/a-great-honor-takeaways-from-trumps-warm-meeting-with-colombias-petro)
+---
+
+## Article 5: Lawmakers question whether US moving fast enough to capitalize on Hezbollah's weakened state
+**Source:** Fox News | **Sentiment Score:** `0.5719`
+
+House hearing reveals historic opportunity to weaken Hezbollah in Lebanon following ceasefire, as lawmakers debate whether U.S. policy is moving fast enough. A House Foreign Affairs Middle East and North Africa Subcommittee hearing on Tuesday underscored what lawmakers and witnesses repeatedly described as a "historic" but "narrowing" opportunity to weake…
+
+[Read Original Article Here](https://www.foxnews.com/world/lawmakers-question-whether-us-moving-fast-enough-capitalize-hezbollahs-weakened-state)
+---
+
+## Article 6: US House passes $1.2 trillion spending package to end government shutdown
+**Source:** Al Jazeera English | **Sentiment Score:** `0.8481`
+
+The spending package only funds the Department of Homeland Security for two weeks, through February 13. The United States House of Representatives has approved a $1.2 trillion spending package to end a partial government shutdown. The bipartisan legislation, passed on Tuesday, restores lapsed funding …
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/2/3/us-house-passes-1-2-trillion-spending-package-to-end-government-shutdown)
+---
+
+## Article 7: Republican 'wake-up call': Special election shocker highlights GOP turnout and midterm risks
+**Source:** Fox News | **Sentiment Score:** `0.5106`
+
+Democrats score stunning upset in deep red Texas district Trump won by 17 points, delivering a major "wake-up call" to Republicans ahead of midterms. A stunning setback for Republicans at the ballot box in a ruby red part of right-leaning Texas has some saying the defeat was a "wake-up call" for the GOP ahead of this year's midterm elections, when…
+
+[Read Original Article Here](https://www.foxnews.com/politics/republican-wake-up-call-special-election-shocker-highlights-gop-turnout-midterm-risks)
+---
+
+## Article 8: Moms org backs Trump's efforts with 'aggressive' campaign against illicit Chinese vape: 'This is personal'
+**Source:** Fox News | **Sentiment Score:** `-0.6124`
+
+Conservative moms group launches aggressive 2026 campaign against illegal Chinese vapes targeting kids, inspired by Trump administration crackdown efforts. FIRST ON FOX: A group led by conservative moms is stepping into the fight against illegal Chinese-made vapes, inspired by the Trump administration's efforts, and announcing it will be mounting an "ag…
+
+[Read Original Article Here](https://www.foxnews.com/politics/moms-org-backs-trumps-efforts-with-aggressive-campaign-against-illicit-chinese-vape-this-is-personal)
+---
+
+## Article 9: FLASHBACK: 2024’s immigration ground zero in spotlight again as judge's 11th hour ruling sparks outrage
+**Source:** Fox News | **Sentiment Score:** `0.0000`
+
+Springfield, Ohio, is a the center of the nationwide immigration debate once again after the town's thousands of Haitian migrants were hotly debated during the 2024 election. Roughly 15,000 Haitians living in Springfield, Ohio , were on the verge of being deported Tuesday as their Temporary Protective Status (TPS) was set to expire. A federal judge has now temporarily bl…
+
+[Read Original Article Here](https://www.foxnews.com/politics/flashback-2024s-immigration-ground-zero-in-spotlight-again-as-judges-11th-hour-ruling-sparks-outrage)
+---
+
+## Article 10: What would be the impact of a US attack on Iran?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.6908`
+
+Whatever post-attack scenario unfolds in Iran - regime consolidation or turmoil - the region would suffer. Growing tensions between the United States and Iran have left the two countries one spark away from a fire. An unprecedented accumulation of US military forces in the Middle East, coupled with Washin…
+
+[Read Original Article Here](https://www.aljazeera.com/opinions/2026/2/3/what-would-be-the-impact-of-a-us-attack-on-iran)
+---
+
+## Article 11: Poll finds clear favorite in New York governor's race
+**Source:** Fox News | **Sentiment Score:** `0.7184`
+
+Kathy Hochul leads Bruce Blakeman by more than 25 points in a new Siena poll for the New York governor's race, maintaining strong Democratic support. New York Gov. Kathy Hochul holds a commanding lead in this year's gubernatorial race, outpacing Nassau County Executive Bruce Blakeman by more than 25 points among registered voters, according to a S…
+
+[Read Original Article Here](https://www.foxnews.com/politics/poll-finds-clear-favorite-new-york-governors-race)
+---
+
+## Article 12: A single Trump announcement sparks billions in losses across gold and silver
+**Source:** Fox News | **Sentiment Score:** `0.3400`
+
+Trump's nomination of Kevin Warsh to lead the Federal Reserve has triggered a massive gold and silver selloff, erasing billions as markets react to policy shift. A single announcement out of Washington sent gold and silver prices plunging, erasing billions of dollars in market value and catching investors off guard almost overnight. The dizzying boom ended a…
+
+[Read Original Article Here](https://www.foxnews.com/politics/single-trump-announcement-sparks-billions-losses-across-gold-silver)
+---
+
+## Article 13: Trump-Petro meeting: Just how icy are US-Colombia relations?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.7269`
+
+Colombian President Gustavo Petro will meet US President Donald Trump on February 3 amid tensions over drug trafficking. Donald Trump is expected to meet Colombian President Gustavo Petro on Tuesday after a year of exchanging insults and threats over the United States presidents aggressive foreign policies in Latin Ame…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/2/3/trump-petro-meeting-just-how-icy-are-us-colombia-relations)
+---
+
+## Article 14: Modi, Trump announce India-US ‘trade deal’: What we know and what we don’t
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.0772`
+
+US president says deal reached with India after Modi agreed to stop buying Russian oil. But details are scarce. New Delhi, India United States President Donald Trump has announced what he described as a trade deal with India to reduce market barriers between the two countries, which have a combined gross domes…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/2/3/modi-trump-announce-india-us-trade-deal-what-we-know-and-what-we-dont)
+---
+
+## Article 15: India’s economy set to get boost from US tariff cut, says Chief Economic Adviser
+**Source:** Bloomberg | **Sentiment Score:** `-0.8122`
+
+The US will cut its levy on Indian goods to 18% from 25%, lower than most Asian peers, while an additional 25% punitive duty tied to purchases of Russian oil was scrapped Indias economy could grow even faster than the governments earlier forecast after the US substantially lowered tariffs on Indian goods, the countrys chief economic adviser, V. Anantha Nageswaran, sai…
+
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-02-03/india-s-top-adviser-sees-growth-beating-forecast-after-us-deal)
+---
+
+## Article 16: India’s refiners seek clarity on Russian oil after Trump deal
+**Source:** Bloomberg | **Sentiment Score:** `-0.6757`
+
+India has cut back its buying over recent months, particularly after sanctions on Moscow’s leading producers, but has not halted flows as discounts remain attractive Indian refiners are seeking guidance from New Delhi on the future of Russian purchases after President Donald Trump announced the worlds third-largest oil importer would stop taking Moscows crude in …
+
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-02-03/india-s-refiners-seek-clarity-on-russian-oil-after-trump-deal)
+---
+
+## Article 17: Gold, Silver Bounce Back After Sharp Selloff
+**Source:** The Wall Street Journal | **Sentiment Score:** `0.7579`
+
+Gold and silver staged a rebound after two sessions of heavy selling, as underlying drivers of demand remain strong and current price levels drew renewed... Precious metal prices have shattered records over the past year as investors favored hard assets. - Angelika Warmuth/REUTERS Gold and silver staged a rebound after two sessions of heavy selling that…
+
+[Read Original Article Here](https://www.wsj.com/finance/commodities-futures/gold-silver-bounce-back-after-sharp-selloff-677961d5)
+---
+
+## Article 18: LIZ PEEK: Trump’s economic wins are real — now he needs to convince the country
+**Source:** Fox News | **Sentiment Score:** `0.2500`
+
+President Donald Trump nominates Kevin Warsh for Federal Reserve chairman as markets react positively. Gold and silver prices collapse on hawkish policy expectations. Americans are not being told the truth about the economy. Hint: it is growing, investment is increasing, real incomes are rising and inflation is lower than it was a year ago, and considerably below …
+
+[Read Original Article Here](https://www.foxnews.com/opinion/liz-peek-trumps-economic-wins-real-now-he-needs-convince-country)
+---
+
+## Article 19: Gold and silver prices soared, then plummeted. What’s going on?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.7906`
+
+Analysts see various factors at play for price swings, from Trump's unpredictability to distrust in economic systems. Gold and silver prices have been on a rollercoaster ride in the past few days. After racking up huge gains over the past year to hit record highs, prices of the precious metals fell sharply on Frida…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/2/3/gold-and-silver-prices-soared-then-plummeted-whats-going-on)
+---
+
+## Article 20: Venezuelan oil is key to Trump’s Russia plan. There’s a problem with that | CNN Business
 **Source:** CNN | **Sentiment Score:** `-0.4588`
 
 Venezuelan oil is key to Trump’s Russia plan. There’s a problem with that | CNN Businesscnn.com President Donald Trump made a bargain with India this week thatintroduced a simple calculus. <ul><li>  America dramatically lowers tariffs on Indian goods.  </li><li>  India stops buying Russian …
 
 [Read Original Article Here](https://www.cnn.com/2026/02/03/business/venezuela-oil-russia-india-trump-tariffs)
----
-
-## Article 2: Cuba in contact with US, diplomat says, as Trump issues threat to block oil
-**Source:** Al Jazeera English | **Sentiment Score:** `0.6486`
-
-Cuban diplomat says Havana ready for dialogue with US, but certain things are off the table, including the constitution. Cuba and the United States are in communication, but the exchanges have not yet evolved into a formal dialogue, a Cuban diplomat has said, as US President Donald Trump stepped up pressure on Havana.…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/2/3/cuba-in-contact-with-us-diplomat-says-as-trump-issues-threat-to-block)
----
-
-## Article 3: US-India trade agreement lifts outlook for stocks and rupee; GIFT Nifty jumps 4.5%
-**Source:** Bloomberg | **Sentiment Score:** `0.4939`
-
-Market participants see the accord, combined with a pro-growth Union Budget, as a catalyst for renewed foreign inflows after months of underperformance and record outflows Indian equities are primed to narrow their rare underperformance versus Asian peers after New Delhi and Washington clinched a long-awaited trade agreement, removing a key overhang that had weighed on…
-
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-02-02/us-trade-deal-win-may-spark-foreign-buying-rush-in-indian-stocks)
----
-
-## Article 4: Trump to slash US tariffs on India from 50 percent to 18 percent
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.0516`
-
-Donald Trump had slapped India with a punitive 25% tariff for buying Russian oil on top of a 25% 'reciprocal' tariff. United States President Donald Trump has agreed to slash US tariffs on Indian goods to 18 percent from 50 percent in exchange for India lowering trade barriers as well as stopping its purchases of Ru…
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/2/2/trump-to-slash-us-tariffs-on-india-from-50-percent-to-18-percent)
----
-
-## Article 5: Democrats win special elections in Texas. How significant is it for Trump?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.9287`
-
-US president dismisses Democratic victory in Texas State Senate district he won by 17 points as a 'local' race. Democrats in the United States are rejoicing over a Texas State Senate special election victory they say reflects growing discontent with President Donald Trumps policies, months before the US midter…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/2/2/democrats-win-special-elections-in-texas-how-significant-is-it-for-trump)
----
-
-## Article 6: Trump slashes tariffs on India after Modi agrees to stop buying Russian oil | CNN Business
-**Source:** CNN | **Sentiment Score:** `0.0516`
-
-President Donald Trump on Monday announced he would reduce tariffs on Indian goods in exchange for, among other things, a promise to stop buying Russian oil. President Donald Trump on Monday announced he would reduce tariffs on Indian goods in exchange for, among other things, a promise to stop buying Russian oil. That will be a tall task: India has been…
-
-[Read Original Article Here](https://www.cnn.com/2026/02/02/business/india-russian-oil-trump-tariffs)
----
-
-## Article 7: Modi to Kevin Rudd: How Epstein files set off a storm far beyond the US
-**Source:** Al Jazeera English | **Sentiment Score:** `0.5719`
-
-Latest files include emails and messages between Epstein and powerful men in India, UK, Australia and Slovakia. New Delhi, India The latest release of documents related to the US Justice Department investigation into the crimes of convicted sex offender Jeffrey Epstein has set off political infernos around the…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/2/2/modi-to-kevin-rudd-how-epstein-files-set-off-a-storm-far-beyond-the-us)
----
-
-## Article 8: Trump advisor rips Powell for 'out of control' interest rates as feud over Warsh nomination heats up
-**Source:** Fox News | **Sentiment Score:** `-0.8625`
-
-Trump advisor Kevin Hassett blames Federal Reserve Chair Jerome Powell for America's housing crisis, claiming high mortgage rates got "out of control." Americans crushed by high mortgage rates and rents are paying the price for a Federal Reserve that allowed rates to spiral "out of control" under Chair Jerome Powell, Trump economic advisor Kevin Has…
-
-[Read Original Article Here](https://www.foxnews.com/media/trump-advisor-rips-powell-out-control-interest-rates-feud-over-warsh-nomination-heats-up)
----
-
-## Article 9: How Balochistan attacks threaten Pakistan’s promises to China, Trump
-**Source:** Al Jazeera English | **Sentiment Score:** `0.1027`
-
-Balochistan is at the heart of Pakistan's economic promises to US and China. The attacks are a reminder of the risks. Islamabad, Pakistan When meeting United States President Donald Trump in the Oval Office in September, Pakistans army chief, Field Marshal Asim Munir, opened a briefcase with Prime Minister Shehbaz S…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/2/2/how-balochistan-attacks-threaten-pakistans-promises-to-china-trump)
----
-
-## Article 10: Iran eyes progress towards US nuclear talks as tension eases
-**Source:** Al Jazeera English | **Sentiment Score:** `0.6597`
-
-Iran examines regional proposals to ease tensions with the US as it expects a framework for talks in the coming days. Iran has said that it expects progress on a framework to restart nuclear talks with the United States as unverified reports suggest the countrys president has ordered the revival of the negotiations.…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/2/2/iran-eyes-progress-towards-us-nuclear-talks-as-tension-eases)
----
-
-## Article 11: Mamdani’s class warfare against New York businesses is ‘economic vandalism’
-**Source:** Fox News | **Sentiment Score:** `-0.7430`
-
-Democratic socialist mayor's policies target delivery platforms while business community warns of economic consequences for New York's commercial future. Last fall, when New Yorks business community warned that the election of a self-described democratic socialist as mayor would trigger an assault on the citys economic engine, we were waved off as hys…
-
-[Read Original Article Here](https://www.foxnews.com/opinion/mamdanis-class-warfare-against-new-york-businesses-economic-vandalism)
----
-
-## Article 12: SEN BERNIE SANDERS: We need to cap credit card interest rates at 10%, Trump is right
-**Source:** Fox News | **Sentiment Score:** `0.9022`
-
-Senator Bernie Sanders calls Wall Street credit card practices 'usury' as major banks profit from 24% average rates while borrowing at 4% from Fed. We live in a nation of unprecedented wealth and income inequality  where a handful of billionaires are getting much richer while the working class falls further and further behind. Just since Elect…
-
-[Read Original Article Here](https://www.foxnews.com/opinion/sen-bernie-sanders-need-cap-credit-card-interest-rates-10-trump-right)
----
-
-## Article 13: Modi takes aim at Trump’s threats with the Union Budget to shield India
-**Source:** Bloomberg | **Sentiment Score:** `0.7096`
-
-Modi’s spending plan promised new outlays on infrastructure and an 18% hike in defense expenditure — a bulwark against the challenge posed by dual rivals China and Pakistan Prime Minister Narendra Modis plan to protect Indias economy from Donald Trumps tariffs is coming into sharper focus.  The latest outlines of Indias plan to live in the new world order dominated by …
-
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-02-01/modi-takes-aim-at-trump-s-threats-with-budget-to-shield-india)
----
-
-## Article 14: India’s biggest borrowing plan pushes bond yields to one-year high
-**Source:** Bloomberg | **Sentiment Score:** `0.4215`
-
-India's record borrowing plan drives bond yields to a one-year high, raising concerns over economic strain and interest rates. Indias benchmark bond yields climbed to the highest in more than a year after the government unveiled a record debt-sale plan that exceeded analysts expectations. New Delhi will borrow 17.2 lakh cro…
-
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-02-02/traders-brace-for-bond-losses-on-india-s-record-borrowing-plan)
----
-
-## Article 15: Trump backs former critic Sununu in high-stakes swing state Senate race
-**Source:** Fox News | **Sentiment Score:** `-0.0516`
-
-President Trump endorsed former critic John Sununu over ally Scott Brown in crucial New Hampshire GOP Senate primary that could determine chamber control. President Donald Trump on Sunday endorsed former Sen. John E. Sununu of New Hampshire, a longtime GOP Trump critic, over one of his first-term ambassadors, former Sen. Scott Brown, in a crucial Senat…
-
-[Read Original Article Here](https://www.foxnews.com/politics/trump-backs-former-critic-sununu-high-stakes-swing-state-senate-race)
----
-
-## Article 16: Starmer’s visit to China was not a reset, but a new way forward
-**Source:** Al Jazeera English | **Sentiment Score:** `0.5984`
-
-The UK prime minister’s China visit reflects the realities of a new global order that has upended traditional alliances. Diplomacy, much of the time, is about symbols rather than substance. And in the case of China, that can be particularly true. In this sense, what was important about British Prime Minister Keir Star…
-
-[Read Original Article Here](https://www.aljazeera.com/opinions/2026/2/1/starmers-visit-to-china-was-not-a-reset-but-a-new-way-forward)
----
-
-## Article 17: India’s budget bets on infrastructure, manufacturing amid global trade war
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.4588`
-
-Government presents annual budget, focusing on sustaining growth despite volatile financial markets, trade uncertainty. Indian Prime Minister Narendra Modis government has unveiled its annual budget, aiming for steady growth in an uncertain global economy rocked by recent tariff wars. Finance Minister Nirmala Sithara…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/2/1/indias-budget-bets-on-infrastructure-manufacturing-amid-global-trade-war)
----
-
-## Article 18: Campaign to boycott Israel looks to future after Gaza ‘ceasefire’
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.8981`
-
-With the global spotlight shifting fom Gaza, the campaign to isolate Israel has never been more urgent, experts say. Israels genocidal war on Gaza has pushed the plight of the Palestinian people to the forefront of global attention. For more than two years, the world has witnessed the mass killing, disease and star…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/2/1/campaign-to-boycott-israel-looks-to-future-after-gaza-ceasefire)
----
-
-## Article 19: A vote for continuity? What to know for Costa Rica’s presidential election
-**Source:** Al Jazeera English | **Sentiment Score:** `0.8519`
-
-Polls suggest that the candidate close to outgoing President Rodrigo Chaves is likely to triumph in the February 1 vote. The ruling party of Costa Rica is hoping to extend its control of the presidency for another four years in the countrys upcoming election, as voters express apathy about their options and opposition …
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/2/1/what-to-know-about-costa-ricas-presidential-election)
----
-
-## Article 20: President Diaz-Canel slams Trump’s bid to ‘suffocate’ Cuba’s economy
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.7351`
-
-Cuba's leader says US president's threat to impose tariffs on countries providing oil is 'fascist, criminal, genocidal'. Cubas President Miguel Diaz-Canel has denounced what he called an attempt by his United States counterpart, Donald Trump, to suffocate the sanctions-hit countrys economy. Trump signed an executive o…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/1/31/president-diaz-canel-slams-trumps-bid-to-suffocate-cuba-economy)
 ---
 
