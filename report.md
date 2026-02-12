@@ -1,167 +1,167 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-02-11 | **Status:** Automated
+**Date:** 2026-02-12 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: Is BNP’s Tarique Rahman the change post-Hasina Bangladesh is looking for?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.0000`
+## Article 1: Nahid Islam and the uneasy alliance that could shape Bangladesh’s vote
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.1027`
 
-Back from 17-year exile after Sheikh Hasina's ouster, Rahman leads opinion polls for prime minister in Thursday's vote. Dhaka, Bangladesh It was almost midnight, but tens of thousands of people were still gathering for a campaign rally in Gazipur, a garment manufacturing hub north of Bangladeshs capital, Dhaka. Many …
+The young leader of the protest-born National Citizen Party has teamed up with Jamaat-e-Islami to contest elections. Nahid Islam was just 26 when he stepped up to a microphone at Dhakas Shaheed Minar, a national monument, on August 3, 2024, and uttered a single rallying cry: Hasina must go. Student-led demonstrati…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/2/10/is-bnps-tarique-rahman-the-change-post-hasina-bangladesh-is-looking-for)
+[Read Original Article Here](https://www.aljazeera.com/features/2026/2/11/nahid-islam-and-the-uneasy-alliance-that-could-shape-bangladeshs-vote)
 ---
 
-## Article 2: Trump threatens to block opening of Detroit-Canada bridge
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.5574`
+## Article 2: Bangladesh election 2026: What happens, when, and what’s at stake?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.6249`
 
-The $4.6bn Gordie Howe International Bridge is expected to open in early 2026. US President Donald Trump has threatened to block the opening of a new Canadian-built bridge linking Canada and the US across the Detroit River, demanding that Canada hand over at least half of the b…
+Alliances led by the BNP and the Jamaat are vying for seats in Bangladesh's first election since Hasina's ouster. Voters in Bangladesh will head to the polls on Thursday for the countrys first parliamentary elections since former Prime Minister Sheikh Hasina was ousted following her brutal crackdown on widesprea…
 
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/2/10/trump-threatens-to-block-opening-of-detroit-canada-bridge)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/2/11/bangladesh-election-2026-what-happens-when-and-whats-at-stake)
 ---
 
-## Article 3: Russia warns Cuba fuel situation critical,as Havana slams ‘cruel’ US tactic
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.8020`
+## Article 3: Three House Republicans cross party lines to block effort to shield Trump from challenges to his tariffs
+**Source:** CNN | **Sentiment Score:** `-0.6369`
 
-Cuban foreign minister accuses US of trying to break the 'political will' of Cubans, hints at diplomacy with Washington. Russia has warned that Cubas energy crisis is becoming critical, as it accused the United States of using suffocating measures against the socialist island-state. Kremlin spokesman Dmitry Peskov rai…
+Speaker Mike Johnson failed to reinstate a ban on lawmakers’ ability to challenge President Donald Trump’s tariffs when three Republicans crossed party lines... Speaker Mike Johnson failed to reinstate a ban on lawmakers ability to challenge President Donald Trumps tariffs when three Republicans crossed party lines to vote with Democrats. The House sank a p…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/2/10/russia-warns-cuba-fuel-situation-critical-as-havana-slams-cruel-us-tactic)
+[Read Original Article Here](https://www.cnn.com/2026/02/10/politics/house-trump-tariffs-vote-republicans)
 ---
 
-## Article 4: Gold prices dip as investors take profits amid market instability
-**Source:** Bloomberg | **Sentiment Score:** `0.7269`
+## Article 4: $108 oil threat: Can Middle East conflicts disrupt the world economy?
+**Source:** Bloomberg | **Sentiment Score:** `-0.3182`
 
-Gold prices fall 1.4% below $5,000 as investors take profits amid ongoing market instability and geopolitical risks. Gold fell after two days of gains, as investors took profits in a choppy market thats still trying to find a floor following a historic rout. Bullion dropped as much as 1.4% in early trading, dippin…
+Historical and economic models suggest that even in the worst case, oil prices could rise toward $108 per barrel, impacting global inflation and growth modestly. Half a century ago, turmoil in the Middle East brought the global economy to its knees. Today, even as the regions geopolitics grow more fractious, oil markets and central banks typically treat confl…
 
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-02-09/gold-declines-as-market-volatility-persists-after-historic-rout)
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-02-10/the-108-oil-war-can-the-middle-east-crash-the-world-economy)
 ---
 
-## Article 5: US and Bangladesh set trade deal with tariffs at 19 percent
-**Source:** Al Jazeera English | **Sentiment Score:** `0.9169`
+## Article 5: US sanctions officials from Marshall Islands and Palau, citing China fears
+**Source:** Al Jazeera English | **Sentiment Score:** `0.5267`
 
-Bangladesh has agreed to provide significant preferential market access for some US industrial and agricultural goods. Bangladesh has secured a reduced 19 percent tariff rate with the United States under a trade agreement signed between the two countries, granting exemptions for some textiles and garments manufacture…
+The Trump administration has accused Hokkons Baules of Palau and Anderson Jibas of the Marshall Islands of corruption. The administration of United States President Donald Trump has sanctioned two leaders of Pacific island nations for alleged corruption, accusing them both of creating openings for China to increase i…
 
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/2/9/us-and-bangladesh-set-trade-deal-with-tariffs-at-19-percent)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/2/11/us-sanctions-officials-from-marshall-islands-and-palau-citing-china-fears)
 ---
 
-## Article 6: Rubio blasts China over 'unjust and tragic' 20-year sentence for Hong Kong democracy activist Jimmy Lai
-**Source:** Fox News | **Sentiment Score:** `-0.5106`
+## Article 6: Analysis: Canada built a bridge. Now Trump wants half | CNN Politics
+**Source:** CNN | **Sentiment Score:** `-0.3400`
 
-Secretary of State Marco Rubio calls Jimmy Lai's 20-year sentence "unjust" as Hong Kong convicts the 78-year-old democracy activist under national security law. The U.S. urged China to reverse what Secretary of State Marco Rubio called an "unjust and tragic" sentence against Hong Kong publisher and democracy activist Jimmy Lai, after Beijing-backed courts ha…
+In a strange twist, Trump is now threatening to block the opening of a bridge at the northern border that Canada actually already paid for. A version of this story appeared in CNNs What Matters newsletter. To get it in your inbox, sign up for free here. President Donald Trump spent years promising to make Mexico pay for a wall at the US…
 
-[Read Original Article Here](https://www.foxnews.com/politics/rubio-blasts-china-over-unjust-tragic-20-year-sentence-hong-kong-democracy-activist-jimmy-lai)
+[Read Original Article Here](https://www.cnn.com/2026/02/10/politics/gordie-howe-bridge-trump-carney-canada-analysis)
 ---
 
-## Article 7: Actress Rosie Perez reveals she predicted Kamala Harris was going to lose, says campaign didn't listen to her
-**Source:** Fox News | **Sentiment Score:** `0.1779`
+## Article 7: GOP mutiny forces House Speaker Mike Johnson to delay vote on key piece of Trump’s agenda
+**Source:** Fox News | **Sentiment Score:** `-0.6597`
 
-Rosie Perez revealed Monday that she predicted Kamala Harris would lose the election and said when she tried to warn the Harris campaign, nobody listened. Actress and former host of "The View" Rosie Perez said during a podcast episode released on Monday that she didn't think former Vice President Kamala Harris was going to win the 2024 election, and cl…
+A procedural vote meant to protect President Trump’s tariffs sparked a GOP revolt, forcing Speaker Mike Johnson to delay House action as Republicans warn leadership against overreach. Speaker Mike Johnson, R-La., was forced to delay a key vote in the House of Representatives on Tuesday as GOP leaders work to quell a burgeoning mutiny within their ranks. House Republican leaders h…
 
-[Read Original Article Here](https://www.foxnews.com/media/actress-rosie-perez-reveals-she-predicted-kamala-harris-going-lose-says-campaign-didnt-listen-her)
+[Read Original Article Here](https://www.foxnews.com/politics/gop-mutiny-forces-house-speaker-mike-johnson-delay-vote-key-piece-trumps-agenda)
 ---
 
-## Article 8: The cost of this grocery staple is nearing record highs — and Americans can't get enough
-**Source:** Fox News | **Sentiment Score:** `0.4215`
+## Article 8: US imposes new Hezbollah sanctions targeting gold exchange firm
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.8271`
 
-Despite record high beef prices, Americans are buying more than ever, spending over $45 billion in 2025. Strong consumer demand continues to drive costs up. Beef is at record high prices and Americans are buying more of it than ever. In 2025, shoppers spent more than $45 billion on beef, buying more than 6.2 billion pounds, according to data from Beef R…
+Trump administration vows to cut off Lebanese group 'from the global financial system' amid daily Israeli violations. The United States has imposed sanctions on a gold firm in Lebanon that it accused of having ties to Hezbollah as Washington pushes to choke off the groups revenue streams. The administration of US P…
 
-[Read Original Article Here](https://www.foxnews.com/politics/cost-american-staple-nearing-record-highs-shoppers-havent-cut-back)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/2/10/us-imposes-new-hezbollah-sanctions-targeting-gold-exchange-firm)
 ---
 
-## Article 9: Where Sanders and AOC backed progressive congressional candidate Analilia Mejia stands on key issues
-**Source:** Fox News | **Sentiment Score:** `-0.1779`
+## Article 9: Facing a mercurial Trump, countries scramble to forge new alliances
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.7906`
 
-Where progressive Analilia Mejia, the Bernie Sanders and AOC back candidate who is close to pulling off an upset victory in a Democratic congressional primary, stands on issues A progressive candidate backed by champions of the left, Sen. Bernie Sanders and Rep. Alexandria Ocasio-Cortez, is close to pulling off an upset victory with votes still being counted in a Democratic…
+Countries are increasingly settling aside old grudges to lessen their reliance on Washington. As Donald Trump continues to unleash havoc on allies and trading partners, countries are scrambling to forge new alliances and mend broken ones as they try to shield themselves from a mercurial Ameri…
 
-[Read Original Article Here](https://www.foxnews.com/politics/where-sanders-aoc-backed-progressive-congressional-candidate-analilia-mejia-stands-key-issues)
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/2/10/facing-a-mercurial-trump-countries-scramble-to-forge-new-alliances)
 ---
 
-## Article 10: Israeli plans deepen de facto annexation of occupied West Bank
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.2500`
+## Article 10: Zimbabwe cabinet approves plan to extend Mnangagwa’s rule till 2030
+**Source:** Al Jazeera English | **Sentiment Score:** `0.2023`
 
-Israel approves plans to expand its power across the West Bank, making it easier to seize Palestinian land illegally. While the world remains fixated on the devastation in Gaza and escalating regional tensions, the Israeli government has quietly executed a legal coup in the occupied West Bank, drawing condemnation f…
+President Mnangagwa, 83, ⁠is currently meant to step down in 2028 after serving two five-year terms. Zimbabwes cabinet backed draft legislation that would change the constitution to extend presidential terms from five years to seven, allowing President Emmerson Mnangagwa to stay in office until 2030…
 
-[Read Original Article Here](https://www.aljazeera.com/features/2026/2/9/israeli-plans-deepen-de-facto-annexation-of-occupied-west-bank)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/2/10/zimbabwe-cabinet-approves-plan-to-extend-mnangagwas-rule-till-2030)
 ---
 
-## Article 11: Bessent warns of 'gigantic loss' if Supreme Court strips Trump's emergency tariff powers
-**Source:** Fox News | **Sentiment Score:** `-0.1280`
+## Article 11: What happens when Netanyahu visits Trump? A look at his past six US visits
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.2732`
 
-Treasury Secretary Scott Bessent warns Supreme Court ruling against Trump's emergency tariffs would be "gigantic loss" for all Americans nationwide. Treasury Secretary Scott Bessent warned that a Supreme Court ruling against President Donald Trumps use of emergency tariff powers would be a "gigantic loss" for Americans, citing the policys role in…
+Israel's Netanyahu embarks on his sixth US trip amid escalating tensions in the region and ongoing US-Iran negotiations. Washington, DC No other world leader has visited the United States in an official capacity over the past year more than Israels Benjamin Netanyahu. And the Israeli prime minister is set to break his…
 
-[Read Original Article Here](https://www.foxnews.com/media/bessent-warns-gigantic-loss-supreme-court-strips-trumps-emergency-tariff-powers)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/2/10/what-happens-when-netanyahu-visits-trump-a-look-at-his-past-six-us-visits)
 ---
 
-## Article 12: JASON CHAFFETZ: 2028 election will be a referendum on our AI-dominated future
-**Source:** Fox News | **Sentiment Score:** `0.6419`
+## Article 12: Progressive backed by Sanders, AOC pulls off upset ballot box shocker in Democratic congressional primary
+**Source:** Fox News | **Sentiment Score:** `-0.1531`
 
-America faces unprecedented artificial intelligence transformation that could fundamentally reshape labor markets and challenge traditional free-market principles. Neither party has put a stake in the ground on the issue that will drive the next presidential election cycle. Artificial intelligence is expected to transform the global economy at a dizzying pace, …
+New Jersey congressional candidate Analilia Majia, backed by Bernie Sanders and Alexandria Ocasio-Cortez, scores an upset victory in Democratic House primary in New Jersey. A progressive candidate backed by champions of the left, Sen. Bernie Sanders, I-Vt., and Rep. Alexandria Ocasio-Cortez , D-N.Y., pulled off a major upset victory over the more mainstream front-runne…
 
-[Read Original Article Here](https://www.foxnews.com/opinion/2028-election-referendum-our-future-ai-dominated-world)
+[Read Original Article Here](https://www.foxnews.com/politics/progressive-backed-sanders-aoc-pulls-off-upset-ballot-box-shocker-democratic-congressional-primary)
 ---
 
-## Article 13: What parents need to know about Trump Accounts: An FAQ | CNN Business
-**Source:** CNN | **Sentiment Score:** `0.6764`
+## Article 13: Scathing report reveals Antifa-linked org passing out material to K-12 students: 'Political revolution'
+**Source:** Fox News | **Sentiment Score:** `0.0000`
 
-There has been a lot of attention paid to the new Trump Accounts – especially the promised $1,000 federal government contributions for eligible newborns and the public declarations by companies and philanthropists that they will be making contributions, too. There has been a lot of attention paid to the new Trump Accounts especially the promised $1,000 federal government contributions for eligible newborns and the public declarations by companies and phi…
+Exclusive: Sunrise Movement guide urges students to stage monthly disruptions and "mass non-cooperation" to spark political revolution in schools, according to a new report. FIRST ON FOX: A newly unearthed training guidebook from the far-left activist group Sunrise Movement calls on both college and K-12 students to engage in monthly disruptions and "mass non-cooperation…
 
-[Read Original Article Here](https://www.cnn.com/2026/02/09/business/parents-trump-accounts-kids-faq)
+[Read Original Article Here](https://www.foxnews.com/politics/scathing-report-reveals-antifa-linked-org-passing-out-material-to-k-12-students-political-revolution)
 ---
 
-## Article 14: Pakistan can sell weapons in the Middle East, but can it sell security?
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.5346`
+## Article 14: House Democrats on offense: Expand 2026 map with 5 new Republican targets
+**Source:** Fox News | **Sentiment Score:** `-0.4767`
 
-Pakistan’s defence exports are growing, but internal insecurity threatens its ambitions. As Pakistan positions itself as a regional security provider, rising militancy and economic constraints continue to test the sustainability of that ambition. From February 2 to 4, Libyas eastern com…
+Democrats expand midterm battleground to 44 House districts targeting Republican seats in Colorado, Minnesota, Montana, South Carolina and Virginia. Emboldened congressional Democrats are once again expanding their battleground map for this year's midterm elections, when Republicans will be defending their razor-thin majority in the House. The D…
 
-[Read Original Article Here](https://www.aljazeera.com/opinions/2026/2/9/pakistan-can-sell-weapons-in-the-middle-east-but-can-it-sell-security)
+[Read Original Article Here](https://www.foxnews.com/politics/house-democrats-offense-expand-2026-map-five-new-republican-targets)
 ---
 
-## Article 15: Bangladesh 2026 elections explained in maps and charts
-**Source:** Al Jazeera English | **Sentiment Score:** `0.0000`
+## Article 15: FOX NEWS MEDIA TO PRODUCE A NEW DAILY NEWS BRIEF FOR FOX TELEVISION STATIONS STARTING FEBRUARY 23RD
+**Source:** Fox News | **Sentiment Score:** `0.0000`
 
-With 127 million voters set for the February 12 election, Al Jazeera analyses key numbers for Bangladesh's crucial vote. On February 12, Bangladesh will head to the polls to elect its next government, 18 months after Prime Minister Sheikh Hasina was ousted from office by a student-led movement. Hasina, the daughter of…
+‘FOX News Report’ with Anchor Bill Melugin to Air on FOX Owned & Operated Television Stations; Available to all FOX Affiliated Stations Across the Country NEW YORK – February 10, 2026 – FOX News Media will produce a new 90-second news brief that will air on F… FOX News Report with Anchor Bill Melugin to Air on FOX Owned &amp; Operated Television Stations; Available to all FOX Affiliated Stations Across the Country NEW YORK February 10, 2026  FOX News Medi…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/2/9/bangladesh-2026-elections-explained-in-maps-and-charts)
+[Read Original Article Here](https://press.foxnews.com/2026/02/fox-news-media-to-produce-a-new-daily-news-brief-for-fox-television-stations-starting-february-23rd)
 ---
 
-## Article 16: Shipping giant MSC facilitates trade from Israeli settlements through EU
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.6597`
+## Article 16: Why did Saif al-Islam Gaddafi have to die?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.2023`
 
-Commercial documents shed light on hundreds of shipments from illegal Israeli settlements in the occupied West Bank. Milan, Italy The worlds largest shipping line has been enabling the transport of goods to and from illegal Israeli settlements in the occupied West Bank, as the United States and Europe continue to p…
+His name offered an alternative line of succession that Libya’s rival elites could neither control nor neutralise. Saif al-Islam Gaddafi was shot 19 times inside his compound in Zintan, a mountain town in western Libya, where he had lived since his capture in 2011. Four masked men entered the compound after disab…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/2/9/shipping-giant-msc-facilitates-trade-from-israeli-settlements-through-eu)
+[Read Original Article Here](https://www.aljazeera.com/opinions/2026/2/10/why-did-saif-al-islam-gaddafi-have-to-die)
 ---
 
-## Article 17: Japan’s Takaichi vows to deliver on tax cuts after LDP’s ‘historic’ win
-**Source:** Al Jazeera English | **Sentiment Score:** `0.9100`
+## Article 17: A coup that never was: Why UK’s Starmer faced major leadership challenge
+**Source:** Al Jazeera English | **Sentiment Score:** `0.2617`
 
-LDP looks set to secure 316 seats in Japan's 500-member house, marking its best result since its founding in 1955. Japans Prime Minister Sanae Takaichi has promised to cut taxes and keep her cabinet intact as she celebrated her Liberal Democratic Partys (LDP) landslide victory in Sundays general election. Takaic…
+Senior colleague tried to topple British PM, and top aides resign as Epstein files have ripple effects far beyond US. United Kingdom Prime Minister Keir Starmer has emerged rattled but ultimately unscathed after a day and night of drama during which a key member of his Labour Party called for him to resign over reve…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/2/9/japans-takaichi-vows-to-deliver-on-tax-cuts-after-ldps-historic-win)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/2/10/a-coup-that-never-was-why-uks-starmer-faced-a-major-leadership-challenge)
 ---
 
-## Article 18: SCOOP: Trump ally Kid Rock jumps into key governor's race with high-profile endorsement
-**Source:** Fox News | **Sentiment Score:** `0.8494`
+## Article 18: Iran draws missile red line as analysts warn Tehran is stalling US talks
+**Source:** Fox News | **Sentiment Score:** `-0.8020`
 
-Kid Rock endorses Rep. John James for Michigan governor in 2026 race to succeed Gretchen Whitmer. The Detroit native musician backs the GOP frontrunner. EXCLUSIVE Detroit native and cultural icon Kid Rock is taking sides in the race for Michigan governor. The famed musician and entertainer with a working-class persona who is known for his conservati…
+Iran rejects U.S. demands to negotiate ballistic missile program as tensions escalate across Middle East despite ongoing diplomatic talks in Oman. Iranian Foreign Minister Abbas Araghchi said his country would not negotiate on its ballistic missile program, rejecting a core U.S. demand and further dimming prospects for a breakthrough deal. He …
 
-[Read Original Article Here](https://www.foxnews.com/politics/scoop-trump-ally-kid-rock-jumps-key-governors-race-high-profile-endorsement)
+[Read Original Article Here](https://www.foxnews.com/politics/iran-draws-missile-red-line-analysts-warn-tehran-stalling-us-talks)
 ---
 
-## Article 19: Trump predicts major DOW milestone after record-breaking market close | Fox News Video
-**Source:** Fox News | **Sentiment Score:** `0.2023`
+## Article 19: Costlier cells from China jolt Indian solar supply chains
+**Source:** Bloomberg | **Sentiment Score:** `0.0000`
 
-Treasury Secretary Scott Bessent discusses the Dow Jones Industrial Average hitting the 50,000 milestone, the future of the 'Clarity Act' and the ongoing legal battle over President Donald Trump's tariff authority on 'Sunday Morning Futures.' ©2026 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes.
+Rising solar cell prices from China and volatile silver costs disrupt Indian supply chains, impacting module manufacturers and project timelines. Surging prices of solar cells from China are rattling Indian module makers who depend on the neighbouring nation for the essential component. Volatile prices of silver, a key electricity conductor, …
 
-[Read Original Article Here](https://www.foxnews.com/video/6388958472112)
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-02-10/costlier-cells-from-china-jolt-indian-solar-supply-chains)
 ---
 
-## Article 20: DAVID MARCUS: In rural Virginia, mixed signals for Trump and the GOP
-**Source:** Fox News | **Sentiment Score:** `-0.5499`
+## Article 20: As Ukraine war drags on, Trump hits Putin by squeezing Russia’s proxies
+**Source:** Fox News | **Sentiment Score:** `-0.1620`
 
-Trump's poll numbers show wild swings, but what do voters really think? A Virginia trip reveals the complex reality behind conflicting polling surveys. LEXINGTON, Va. President Donald Trumps poll numbers are a bit all over the place these days. The averages have him about seven points underwater, while some surveys show him down as much as 19. And t…
+President Donald Trump threatened "very severe consequences" on Russia in 2025 if Moscow didn't end Ukraine war, pressuring Russian allies Iran and Venezuela to force Putin's hand. President Donald Trump vowed to impose "very severe consequences" on Russia in 2025 if it didn't commit to a deal to end its war on Ukraine. As the war nears its four-year anniversary in late Februa…
 
-[Read Original Article Here](https://www.foxnews.com/opinion/david-marcus-rural-virginia-mixed-signals-trump-gop)
+[Read Original Article Here](https://www.foxnews.com/politics/ukraine-war-drags-on-trump-hits-putin-squeezing-russias-proxies)
 ---
 
