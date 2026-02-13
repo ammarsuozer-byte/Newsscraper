@@ -1,11 +1,139 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-02-12 | **Status:** Automated
+**Date:** 2026-02-13 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: Nahid Islam and the uneasy alliance that could shape Bangladesh’s vote
+## Article 1: Revised CPI may give RBI reason to keep interest rates on hold
+**Source:** Bloomberg | **Sentiment Score:** `0.4588`
+
+Although inflation remains well below RBI’s 4% target, the new figures could prompt it to hold off on any further rate cuts and push up bond yields further India will publish inflation figures based on a new index on Thursday, which analysts say may show elevated price pressures in the economy, giving the central bank reason to keep interest rates on ho…
+
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-02-12/india-s-cpi-revamp-may-give-central-bank-reason-to-stay-on-hold)
+---
+
+## Article 2: Russia to evacuate tourists from Cuba amid US-engineered fuel crisis
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.0772`
+
+Russia will operate only return flights from Cuba as 'evacuation' of tourists from Caribbean island gets under way. Russia is preparing to evacuate its citizens who are visiting Cuba, Moscows aviation authorities said, after a United States-imposed oil blockade on the island nation has choked off supplies of jet f…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/2/12/russia-to-evacuate-tourists-from-cuba-amid-us-engineered-fuel-crisis)
+---
+
+## Article 3: Breaking with Trump, US House votes to pass a bill ending Canada tariffs
+**Source:** Al Jazeera English | **Sentiment Score:** `0.7650`
+
+The vote was a rare rebuke against Trump from the Republican-led chamber, as Congress members face midterm elections. The United States House of Representatives has advanced a bill that would roll back President Donald Trumps tariffs on Canada, a signal of growing willingness among Republicans to break with his admi…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/2/12/breaking-with-trump-us-house-votes-to-pass-a-bill-ending-canada-tariffs)
+---
+
+## Article 4: US Energy Secretary Chris Wright touts oil production on Venezuela visit
+**Source:** Al Jazeera English | **Sentiment Score:** `0.5994`
+
+Democrats introduce legislation to force Donald Trump's administration to be transparent about Venezuelan oil sales. United States Energy Secretary Chris Wright has visited Venezuela to meet with interim President Delcy Rodriguez, as his country pushes forward with plans for more foreign oil investment in the regio…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/2/12/us-energy-secretary-chris-wright-touts-oil-production-on-venezuela-visit)
+---
+
+## Article 5: Trump threatens 'consequences' after 6 House Republicans voted to reverse his Canada tariffs
+**Source:** Fox News | **Sentiment Score:** `-0.6369`
+
+President Trump threatens to back primary challengers against six House Republicans who voted with Democrats to undo his Canada tariffs. President Donald Trump is threatening to back election challengers against the six House Republicans who joined Democrats in voting to reverse his tariffs on Canada. The president sent out an ominou…
+
+[Read Original Article Here](https://www.foxnews.com/politics/trump-threatens-consequences-after-6-house-republicans-vote-reverse-his-canada-tariffs)
+---
+
+## Article 6: Protesters clash with police over bid to restrict Argentina’s labour rights
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.5719`
+
+Trade unions and thousands of supporters express anger in Buenos Aires as Congress considers curbs on right to strike. Thousands of protesters have taken to the streets in Argentinas capital, Buenos Aires, to oppose labour reforms that would restrict the right to strike and roll back employment benefits. Wednesdays …
+
+[Read Original Article Here](https://www.aljazeera.com/gallery/2026/2/12/protesters-clash-with-police-over-bid-to-restrict-argentinas-labour-rights)
+---
+
+## Article 7: Six House Republicans defy Trump to block his Canada tariffs | CNN Politics
+**Source:** CNN | **Sentiment Score:** `-0.9065`
+
+In a vote that GOP leaders fought hard to avoid, a half dozen Republicans sent a blunt message to President Donald Trump that they do not support the tariff regime that he has made the centerpiece of his second term. In a vote that GOP leaders fought hard to avoid, a half dozen Republicans sent a blunt message to President Donald Trump that they do not support the tariff regime that he has made the centerpiece of…
+
+[Read Original Article Here](https://www.cnn.com/2026/02/11/politics/house-republicans-trump-canada-tariff-vote)
+---
+
+## Article 8: PETER NAVARRO: If we defund ICE, the body count of American lives would be too high
+**Source:** Fox News | **Sentiment Score:** `-0.7146`
+
+Political battle over ICE funding intensifies after tragic cases including Laken Riley and Jocelyn Nungaray murders spark heated congressional debate. House and Senate Democrats are trying to turn two tragic federal shootings in Minneapolis into cause célèbres to shackle, slash and ultimately break the budgetary back of ICE. But lets not pretend th…
+
+[Read Original Article Here](https://www.foxnews.com/opinion/peter-navarro-we-defund-ice-body-count-american-lives-would-too-high)
+---
+
+## Article 9: Scott Bessent says Iran understands 'brute force' as Trump weighs options amid nuclear standoff
+**Source:** Fox News | **Sentiment Score:** `-0.1027`
+
+Treasury Secretary Scott Bessent reveals President Donald Trump ordered maximum pressure sanctions against Iran as nuclear program negotiations stall. Treasury Secretary Scott Bessent discussed whether President Donald Trump may need to pull another "Operation Midnight Hammer" against Iran as its leadership refuses to negotiate over its nuclear pro…
+
+[Read Original Article Here](https://www.foxnews.com/media/scott-bessent-says-iran-understands-brute-force-trump-weighs-options-amid-nuclear-standoff)
+---
+
+## Article 10: Beyond pressure: What is the Trump administration’s endgame in Cuba?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.8689`
+
+As US actions fuel a humanitarian crisis in Cuba, is US President Trump seeking a deal, or to topple the government? Cuba has been reeling, with the island nation of 11 million staggering under the yoke of major fuel shortages that have trammelled nearly every aspect of life. The fomenting humanitarian crisis is a…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/2/11/beyond-pressure-what-is-the-trump-administrations-endgame-in-cuba)
+---
+
+## Article 11: CBO: US Federal deficits and debt to worsen over next decade
+**Source:** Al Jazeera English | **Sentiment Score:** `0.5106`
+
+'One Big Beautiful Bill Act', higher tariffs and immigration crackdown are factored into the report. The nonpartisan Congressional Budget Offices 10-year outlook projects worsening long-term United States federal deficits and rising debt, driven largely by increased spending, notably on Social Secur…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/2/11/cbo-us-federal-deficits-and-debt-to-worsen-over-next-decade)
+---
+
+## Article 12: We're Democrats. From food to housing, costs keep rising — here’s a serious fix
+**Source:** Fox News | **Sentiment Score:** `0.3612`
+
+Affordability agenda from New Democrat Coalition targets rising costs in healthcare, housing, groceries and energy with plan to build four million homes. For millions of Americans, affordability is not an abstract policy debate. It is the daily stress of choosing between groceries and prescriptions, rent and child care, gas and electricity. Families f…
+
+[Read Original Article Here](https://www.foxnews.com/opinion/were-democrats-from-food-housing-costs-keep-rising-heres-serious-fix)
+---
+
+## Article 13: U.S. Added 130,000 Jobs in January, Starting Year off on Stronger Footing
+**Source:** The Wall Street Journal | **Sentiment Score:** `0.7184`
+
+January’s jobs report surged past expectations and marked a strong start to the year following a weak year of job growth. The U.S. added 130,000 jobs in January, surging past expectations and marking a strong start to the year following a weak year of job growth. The January numbers from the Labor Department were above…
+
+[Read Original Article Here](https://www.wsj.com/economy/jobs/january-jobs-report-unemployment-b703b0e3)
+---
+
+## Article 14: Neodymium powers your life (even if you don’t know it). Now it’s a key trade issue too | CNN Business
+**Source:** CNN | **Sentiment Score:** `0.0000`
+
+Neodymium powers your life (even if you don’t know it). Now it’s a key trade issue too | CNN Businesscnn.com You may not know what neodymium is (or even how to pronounce it). But you have plenty of it in your home. Neodymium is a rare earth, one of the minerals near the bottom of the periodic table that ar…
+
+[Read Original Article Here](https://www.cnn.com/2026/02/11/business/rare-earths-importance)
+---
+
+## Article 15: The USS Honduras sets sail again
+**Source:** Al Jazeera English | **Sentiment Score:** `0.6249`
+
+Honduras is slipping back into Washington’s imperial orbit. Its smooth sailing these days for the United States and Honduras, the diminutive Central American nation and original banana republic that has just elected a new right-wing president, Nasry Asfura, t…
+
+[Read Original Article Here](https://www.aljazeera.com/opinions/2026/2/11/the-uss-honduras-sets-sail-again)
+---
+
+## Article 16: MTG calls Trump's endorsement of Salazar ‘an insult to his base’
+**Source:** Fox News | **Sentiment Score:** `0.3818`
+
+Former Rep. Marjorie Taylor Greene declared that President Donald Trump's "endorsements are an insult to his base" after Trump endorsed GOP Rep. María Elvira Salazar. Former Rep. Marjorie Taylor Greene slammed President Donald Trump's endorsement record again after he backed Republican Rep. María Elvira Salazar of Florida for re-election. "She supports illegals m…
+
+[Read Original Article Here](https://www.foxnews.com/politics/mtg-trump-endorsement-maria-elvira-salazar-insult-base)
+---
+
+## Article 17: Nahid Islam and the uneasy alliance that could shape Bangladesh’s vote
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.1027`
 
 The young leader of the protest-born National Citizen Party has teamed up with Jamaat-e-Islami to contest elections. Nahid Islam was just 26 when he stepped up to a microphone at Dhakas Shaheed Minar, a national monument, on August 3, 2024, and uttered a single rallying cry: Hasina must go. Student-led demonstrati…
@@ -13,7 +141,7 @@ The young leader of the protest-born National Citizen Party has teamed up with J
 [Read Original Article Here](https://www.aljazeera.com/features/2026/2/11/nahid-islam-and-the-uneasy-alliance-that-could-shape-bangladeshs-vote)
 ---
 
-## Article 2: Bangladesh election 2026: What happens, when, and what’s at stake?
+## Article 18: Bangladesh election 2026: What happens, when, and what’s at stake?
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.6249`
 
 Alliances led by the BNP and the Jamaat are vying for seats in Bangladesh's first election since Hasina's ouster. Voters in Bangladesh will head to the polls on Thursday for the countrys first parliamentary elections since former Prime Minister Sheikh Hasina was ousted following her brutal crackdown on widesprea…
@@ -21,7 +149,7 @@ Alliances led by the BNP and the Jamaat are vying for seats in Bangladesh's firs
 [Read Original Article Here](https://www.aljazeera.com/news/2026/2/11/bangladesh-election-2026-what-happens-when-and-whats-at-stake)
 ---
 
-## Article 3: Three House Republicans cross party lines to block effort to shield Trump from challenges to his tariffs
+## Article 19: Three House Republicans cross party lines to block effort to shield Trump from challenges to his tariffs
 **Source:** CNN | **Sentiment Score:** `-0.6369`
 
 Speaker Mike Johnson failed to reinstate a ban on lawmakers’ ability to challenge President Donald Trump’s tariffs when three Republicans crossed party lines... Speaker Mike Johnson failed to reinstate a ban on lawmakers ability to challenge President Donald Trumps tariffs when three Republicans crossed party lines to vote with Democrats. The House sank a p…
@@ -29,139 +157,11 @@ Speaker Mike Johnson failed to reinstate a ban on lawmakers’ ability to challe
 [Read Original Article Here](https://www.cnn.com/2026/02/10/politics/house-trump-tariffs-vote-republicans)
 ---
 
-## Article 4: $108 oil threat: Can Middle East conflicts disrupt the world economy?
+## Article 20: $108 oil threat: Can Middle East conflicts disrupt the world economy?
 **Source:** Bloomberg | **Sentiment Score:** `-0.3182`
 
 Historical and economic models suggest that even in the worst case, oil prices could rise toward $108 per barrel, impacting global inflation and growth modestly. Half a century ago, turmoil in the Middle East brought the global economy to its knees. Today, even as the regions geopolitics grow more fractious, oil markets and central banks typically treat confl…
 
 [Read Original Article Here](https://www.bloomberg.com/news/articles/2026-02-10/the-108-oil-war-can-the-middle-east-crash-the-world-economy)
----
-
-## Article 5: US sanctions officials from Marshall Islands and Palau, citing China fears
-**Source:** Al Jazeera English | **Sentiment Score:** `0.5267`
-
-The Trump administration has accused Hokkons Baules of Palau and Anderson Jibas of the Marshall Islands of corruption. The administration of United States President Donald Trump has sanctioned two leaders of Pacific island nations for alleged corruption, accusing them both of creating openings for China to increase i…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/2/11/us-sanctions-officials-from-marshall-islands-and-palau-citing-china-fears)
----
-
-## Article 6: Analysis: Canada built a bridge. Now Trump wants half | CNN Politics
-**Source:** CNN | **Sentiment Score:** `-0.3400`
-
-In a strange twist, Trump is now threatening to block the opening of a bridge at the northern border that Canada actually already paid for. A version of this story appeared in CNNs What Matters newsletter. To get it in your inbox, sign up for free here. President Donald Trump spent years promising to make Mexico pay for a wall at the US…
-
-[Read Original Article Here](https://www.cnn.com/2026/02/10/politics/gordie-howe-bridge-trump-carney-canada-analysis)
----
-
-## Article 7: GOP mutiny forces House Speaker Mike Johnson to delay vote on key piece of Trump’s agenda
-**Source:** Fox News | **Sentiment Score:** `-0.6597`
-
-A procedural vote meant to protect President Trump’s tariffs sparked a GOP revolt, forcing Speaker Mike Johnson to delay House action as Republicans warn leadership against overreach. Speaker Mike Johnson, R-La., was forced to delay a key vote in the House of Representatives on Tuesday as GOP leaders work to quell a burgeoning mutiny within their ranks. House Republican leaders h…
-
-[Read Original Article Here](https://www.foxnews.com/politics/gop-mutiny-forces-house-speaker-mike-johnson-delay-vote-key-piece-trumps-agenda)
----
-
-## Article 8: US imposes new Hezbollah sanctions targeting gold exchange firm
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.8271`
-
-Trump administration vows to cut off Lebanese group 'from the global financial system' amid daily Israeli violations. The United States has imposed sanctions on a gold firm in Lebanon that it accused of having ties to Hezbollah as Washington pushes to choke off the groups revenue streams. The administration of US P…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/2/10/us-imposes-new-hezbollah-sanctions-targeting-gold-exchange-firm)
----
-
-## Article 9: Facing a mercurial Trump, countries scramble to forge new alliances
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.7906`
-
-Countries are increasingly settling aside old grudges to lessen their reliance on Washington. As Donald Trump continues to unleash havoc on allies and trading partners, countries are scrambling to forge new alliances and mend broken ones as they try to shield themselves from a mercurial Ameri…
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/2/10/facing-a-mercurial-trump-countries-scramble-to-forge-new-alliances)
----
-
-## Article 10: Zimbabwe cabinet approves plan to extend Mnangagwa’s rule till 2030
-**Source:** Al Jazeera English | **Sentiment Score:** `0.2023`
-
-President Mnangagwa, 83, ⁠is currently meant to step down in 2028 after serving two five-year terms. Zimbabwes cabinet backed draft legislation that would change the constitution to extend presidential terms from five years to seven, allowing President Emmerson Mnangagwa to stay in office until 2030…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/2/10/zimbabwe-cabinet-approves-plan-to-extend-mnangagwas-rule-till-2030)
----
-
-## Article 11: What happens when Netanyahu visits Trump? A look at his past six US visits
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.2732`
-
-Israel's Netanyahu embarks on his sixth US trip amid escalating tensions in the region and ongoing US-Iran negotiations. Washington, DC No other world leader has visited the United States in an official capacity over the past year more than Israels Benjamin Netanyahu. And the Israeli prime minister is set to break his…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/2/10/what-happens-when-netanyahu-visits-trump-a-look-at-his-past-six-us-visits)
----
-
-## Article 12: Progressive backed by Sanders, AOC pulls off upset ballot box shocker in Democratic congressional primary
-**Source:** Fox News | **Sentiment Score:** `-0.1531`
-
-New Jersey congressional candidate Analilia Majia, backed by Bernie Sanders and Alexandria Ocasio-Cortez, scores an upset victory in Democratic House primary in New Jersey. A progressive candidate backed by champions of the left, Sen. Bernie Sanders, I-Vt., and Rep. Alexandria Ocasio-Cortez , D-N.Y., pulled off a major upset victory over the more mainstream front-runne…
-
-[Read Original Article Here](https://www.foxnews.com/politics/progressive-backed-sanders-aoc-pulls-off-upset-ballot-box-shocker-democratic-congressional-primary)
----
-
-## Article 13: Scathing report reveals Antifa-linked org passing out material to K-12 students: 'Political revolution'
-**Source:** Fox News | **Sentiment Score:** `0.0000`
-
-Exclusive: Sunrise Movement guide urges students to stage monthly disruptions and "mass non-cooperation" to spark political revolution in schools, according to a new report. FIRST ON FOX: A newly unearthed training guidebook from the far-left activist group Sunrise Movement calls on both college and K-12 students to engage in monthly disruptions and "mass non-cooperation…
-
-[Read Original Article Here](https://www.foxnews.com/politics/scathing-report-reveals-antifa-linked-org-passing-out-material-to-k-12-students-political-revolution)
----
-
-## Article 14: House Democrats on offense: Expand 2026 map with 5 new Republican targets
-**Source:** Fox News | **Sentiment Score:** `-0.4767`
-
-Democrats expand midterm battleground to 44 House districts targeting Republican seats in Colorado, Minnesota, Montana, South Carolina and Virginia. Emboldened congressional Democrats are once again expanding their battleground map for this year's midterm elections, when Republicans will be defending their razor-thin majority in the House. The D…
-
-[Read Original Article Here](https://www.foxnews.com/politics/house-democrats-offense-expand-2026-map-five-new-republican-targets)
----
-
-## Article 15: FOX NEWS MEDIA TO PRODUCE A NEW DAILY NEWS BRIEF FOR FOX TELEVISION STATIONS STARTING FEBRUARY 23RD
-**Source:** Fox News | **Sentiment Score:** `0.0000`
-
-‘FOX News Report’ with Anchor Bill Melugin to Air on FOX Owned & Operated Television Stations; Available to all FOX Affiliated Stations Across the Country NEW YORK – February 10, 2026 – FOX News Media will produce a new 90-second news brief that will air on F… FOX News Report with Anchor Bill Melugin to Air on FOX Owned &amp; Operated Television Stations; Available to all FOX Affiliated Stations Across the Country NEW YORK February 10, 2026  FOX News Medi…
-
-[Read Original Article Here](https://press.foxnews.com/2026/02/fox-news-media-to-produce-a-new-daily-news-brief-for-fox-television-stations-starting-february-23rd)
----
-
-## Article 16: Why did Saif al-Islam Gaddafi have to die?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.2023`
-
-His name offered an alternative line of succession that Libya’s rival elites could neither control nor neutralise. Saif al-Islam Gaddafi was shot 19 times inside his compound in Zintan, a mountain town in western Libya, where he had lived since his capture in 2011. Four masked men entered the compound after disab…
-
-[Read Original Article Here](https://www.aljazeera.com/opinions/2026/2/10/why-did-saif-al-islam-gaddafi-have-to-die)
----
-
-## Article 17: A coup that never was: Why UK’s Starmer faced major leadership challenge
-**Source:** Al Jazeera English | **Sentiment Score:** `0.2617`
-
-Senior colleague tried to topple British PM, and top aides resign as Epstein files have ripple effects far beyond US. United Kingdom Prime Minister Keir Starmer has emerged rattled but ultimately unscathed after a day and night of drama during which a key member of his Labour Party called for him to resign over reve…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/2/10/a-coup-that-never-was-why-uks-starmer-faced-a-major-leadership-challenge)
----
-
-## Article 18: Iran draws missile red line as analysts warn Tehran is stalling US talks
-**Source:** Fox News | **Sentiment Score:** `-0.8020`
-
-Iran rejects U.S. demands to negotiate ballistic missile program as tensions escalate across Middle East despite ongoing diplomatic talks in Oman. Iranian Foreign Minister Abbas Araghchi said his country would not negotiate on its ballistic missile program, rejecting a core U.S. demand and further dimming prospects for a breakthrough deal. He …
-
-[Read Original Article Here](https://www.foxnews.com/politics/iran-draws-missile-red-line-analysts-warn-tehran-stalling-us-talks)
----
-
-## Article 19: Costlier cells from China jolt Indian solar supply chains
-**Source:** Bloomberg | **Sentiment Score:** `0.0000`
-
-Rising solar cell prices from China and volatile silver costs disrupt Indian supply chains, impacting module manufacturers and project timelines. Surging prices of solar cells from China are rattling Indian module makers who depend on the neighbouring nation for the essential component. Volatile prices of silver, a key electricity conductor, …
-
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-02-10/costlier-cells-from-china-jolt-indian-solar-supply-chains)
----
-
-## Article 20: As Ukraine war drags on, Trump hits Putin by squeezing Russia’s proxies
-**Source:** Fox News | **Sentiment Score:** `-0.1620`
-
-President Donald Trump threatened "very severe consequences" on Russia in 2025 if Moscow didn't end Ukraine war, pressuring Russian allies Iran and Venezuela to force Putin's hand. President Donald Trump vowed to impose "very severe consequences" on Russia in 2025 if it didn't commit to a deal to end its war on Ukraine. As the war nears its four-year anniversary in late Februa…
-
-[Read Original Article Here](https://www.foxnews.com/politics/ukraine-war-drags-on-trump-hits-putin-squeezing-russias-proxies)
 ---
 
