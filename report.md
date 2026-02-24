@@ -1,11 +1,123 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-02-23 | **Status:** Automated
+**Date:** 2026-02-24 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: Modi’s Israel visit: Timeline of India’s relations with Israel, Palestine
+## Article 1: Trump tariffs: Supreme Court reversal cements China’s upper hand ahead of a critical meeting with Trump
+**Source:** CNN | **Sentiment Score:** `0.9451`
+
+The Supreme Court ruling that nullified global tariffs from United States President Donald Trump has created renewed uncertainty for many of its major trade partners – and a clear vindication for its biggest economic rival: China. The Supreme Court ruling that nullified global tariffs from United States President Donald Trump has created renewed uncertainty for many of its major trade partners and a clear vindication for its b…
+
+[Read Original Article Here](https://www.cnn.com/2026/02/23/business/china-trump-supreme-court-tariff-analysis-inl-hnk)
+---
+
+## Article 2: Why Trump is wrong to call dissenting Republican justices an 'embarrassment' for voting against his tariffs
+**Source:** Fox News | **Sentiment Score:** `-0.8302`
+
+President Trump appeared downright furious after the Supreme Court struck down his watershed tariffs. Here's where his vitriolic postgame presser missed the mark. They are "fools"! They are "lapdogs!" They are "disloyal"! They should be "ashamed," an "embarrassment to their families"! SUPREME COURT BLOCKS TRUMP TARIFFS IN MAJOR TEST OF EXECUTIVE BRANCH POW…
+
+[Read Original Article Here](https://www.foxnews.com/media/why-trump-wrong-call-dissenting-republican-justices-embarrassment-voting-against-his-tariffs)
+---
+
+## Article 3: The Ukraine war in numbers: People, territory, money
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.9517`
+
+Four years into Russia's grinding war on Ukraine, Al Jazeera looks at the costs — to people, territory and treasuries. Its Europes biggest war since World War II. Its also Russias deadliest war since that conflict. And it has reshaped the global economy with Moscow facing the most sanctions that any country has ever …
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/2/23/the-ukraine-war-in-numbers-people-territory-money)
+---
+
+## Article 4: How Modi ‘broke down walls’ between India, Israel – at Palestine’s expense
+**Source:** Al Jazeera English | **Sentiment Score:** `0.6486`
+
+Under Modi, India, a long supporter of the Palestinian cause, has found a friend in Israel's Netanyahu despite genocide. New Delhi, India As Indian Prime Minister Narendra Modi emerged from his plane at Ben Gurion airport outside Tel Aviv on July 4, 2017, his Israeli counterpart, Benjamin Netanyahu, waited for him at t…
+
+[Read Original Article Here](https://www.aljazeera.com/features/2026/2/23/how-modi-broke-down-walls-between-india-israel-at-palestines)
+---
+
+## Article 5: Alarmed Indian officials race to tame world-beating options boom
+**Source:** Bloomberg | **Sentiment Score:** `0.7165`
+
+Jane Street, Citadel Securities, Jump Trading and Optiver have all beefed up local operations in recent years alongside a bevy of hedge funds, attracted in part by the nation’s options market In the autumn of 2024, a senior Indian securities regulator stood before a room full of money managers and foreign investors with an unusual message: India did not want to be the worlds largest deriv…
+
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-02-23/alarmed-indian-officials-race-to-tame-world-beating-options-boom)
+---
+
+## Article 6: Russia-Ukraine war: List of key events, day 1,460
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.9118`
+
+These are the key developments from day 1,460 of Russia’s war on Ukraine. Here is where things stand on Monday, February 23: Fighting <ul><li>Ukrainian President Volodymyr Zelenskyy blamed Russia for an attack in the western Ukrainian city of Lviv, near the border with P…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/2/23/russia-ukraine-war-list-of-key-events-day-1460)
+---
+
+## Article 7: North Korea’s Kim Jong Un re-elected as chief of Workers’ Party
+**Source:** Al Jazeera English | **Sentiment Score:** `0.9022`
+
+Kim says his party is focused on the tasks of 'boosting economic construction and the people's standard of living'. North Korean leader Kim Jong Un has been re-elected as secretary-general of the nations Workers Party, extending his 15-year rule of the countrys sole governing party. The election took place on Sun…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/2/22/north-koreas-kim-jong-un-re-elected-as-chief-of-workers)
+---
+
+## Article 8: White House post after US hockey win over Canada stirs controversy
+**Source:** Al Jazeera English | **Sentiment Score:** `0.6808`
+
+Trump hails US's Olympic gold win, as some Canadians reject White House's illustration of an eagle dominating a goose. The White House has celebrated the USs victory over Canada in the mens hockey final at the Milano Cortina Winter Olympics 2026 with a politically charged message, sharing a social media post showing …
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/2/22/white-house-post-after-us-hockey-win-over-canada-stirs-controversy)
+---
+
+## Article 9: What will Trump’s latest sweeping tariffs mean for the world?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.5859`
+
+The US president has injected new uncertainty into the global economy with a 15 percent tariff on all imports. The US president has injected new uncertainty into the global economy with a 15 percent tariff on all imports.US President Donald Trump has announced a 15 percent across-the-board tariff on all impor…
+
+[Read Original Article Here](https://www.aljazeera.com/video/inside-story/2026/2/22/what-will-trumps-latest-sweeping-tariffs-mean-for-the-world)
+---
+
+## Article 10: Iran-US tensions: What would blocking Strait of Hormuz mean for oil, LNG?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.5106`
+
+More than $500bn in oil and gas flows through waterway annually, leaving the global economy exposed to disruptions. Whenever tensions rise between Iran and the United States, one narrow waterway moves to the centre of global attention the Strait of Hormuz. The worlds largest warship, the nuclear-powered aircraft …
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/2/22/iran-us-tensions-what-would-blocking-strait-of-hormuz-mean-for-oil-lng)
+---
+
+## Article 11: EU may freeze US trade deal approval over Trump’s tariff ‘chaos’
+**Source:** Bloomberg | **Sentiment Score:** `0.8074`
+
+European Parliament’s trade chief to propose halting deal approval until getting ‘a comprehensive legal assessment and clear commitments from the US’ The European Parliaments trade chief will propose freezing the ratification process of the European Unions trade deal with the US until theyve received details from President Donald Trumps administra…
+
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-02-22/eu-may-freeze-us-trade-deal-approval-over-trump-s-tariff-chaos)
+---
+
+## Article 12: Turkey's growing reach in Africa seen complicating US strategy, analysts warn
+**Source:** Fox News | **Sentiment Score:** `-0.6486`
+
+Turkey's expansion into Africa through commerce including military sales reportedly challenges U.S. interests as ongoing conflicts create new opportunities for Ankara. Turkeys massive military, trade, Islamic diplomacy and education expansion into Africa is, some analysts say, undermining U.S. goals, as Ankara capitalizes on wars and conflicts on the continent. Ex…
+
+[Read Original Article Here](https://www.foxnews.com/world/turkeys-growing-reach-africa-seen-complicating-us-strategy-analysts-warn)
+---
+
+## Article 13: How four years of Ukraine war have changed Russia
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.7269`
+
+From curbs on rights to fewer choices at the market, the war has taken its toll. Still, support for it remains high. Nearly four years ago, Russian President Vladimir Putin announced on national TV that the countrys armed forces had begun a full-scale invasion of Ukraine. The war, known by its official euphemism o…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/2/22/how-four-years-of-ukraine-war-have-changed-russia)
+---
+
+## Article 14: Former Prince Andrew’s daughters torn between loyalty and legacy after father’s birthday arrest: experts
+**Source:** Fox News | **Sentiment Score:** `-0.8750`
+
+Princess Beatrice and Princess Eugenie face tough choices about their futures as their father, former Prince Andrew, is accused of sharing information to late sex offender Jeffrey Epstein. Princess Beatrice and Princess Eugenie are confronting their disgraced fathers explosive arrest as the sisters may soon face a fight for their royal futures. The former Prince Andrew, 66, was arrest…
+
+[Read Original Article Here](https://www.foxnews.com/entertainment/former-prince-andrews-daughters-torn-between-loyalty-legacy-after-fathers-birthday-arrest-experts)
+---
+
+## Article 15: Modi’s Israel visit: Timeline of India’s relations with Israel, Palestine
 **Source:** Al Jazeera English | **Sentiment Score:** `0.6124`
 
 From Mahatma Gandhi's support for Palestine to Modi's Netanyahu embrace, how India's ties have evolved over the decades. Indian Prime Minister Narendra Modi is scheduled to begin his two-day visit to Israel on February 25, nine years after his first trip to the country. His 2017 trip was the first ever by an Indian pr…
@@ -13,7 +125,7 @@ From Mahatma Gandhi's support for Palestine to Modi's Netanyahu embrace, how Ind
 [Read Original Article Here](https://www.aljazeera.com/news/2026/2/22/modis-israel-visit-timeline-of-indias-relations-with-israel-palestine)
 ---
 
-## Article 2: Trump reveals his 'new hero' Supreme Court justice after tariffs ruling
+## Article 16: Trump reveals his 'new hero' Supreme Court justice after tariffs ruling
 **Source:** Fox News | **Sentiment Score:** `0.9501`
 
 President Donald Trump called one Supreme Court justice his "new hero" after the high court blocked his presidential tariff powers in a 6-3 ruling. President Donald Trump revealed which Supreme Court justice he considers to be his "new hero" after a high court ruling rejected his sweeping tariff powers on Friday. Trump made the declaration in a…
@@ -21,7 +133,7 @@ President Donald Trump called one Supreme Court justice his "new hero" after the
 [Read Original Article Here](https://www.foxnews.com/politics/trump-reveals-his-new-hero-supreme-court-justice-after-tariffs-ruling)
 ---
 
-## Article 3: Trump announces global tariffs will increase to 15% from 10% ‘effective immediately’ | CNN Business
+## Article 17: Trump announces global tariffs will increase to 15% from 10% ‘effective immediately’ | CNN Business
 **Source:** CNN | **Sentiment Score:** `0.7351`
 
 President Donald Trump said on Saturday that he will increase the global tariffs he imposed a day earlier to 15% from 10% following an adverse ruling at the Supreme Court. President Donald Trump said on Saturday that he will increase the global tariffs he imposed a day earlier to 15% from 10% following an adverse ruling at the Supreme Court. The court on Friday ruled …
@@ -29,7 +141,7 @@ President Donald Trump said on Saturday that he will increase the global tariffs
 [Read Original Article Here](https://www.cnn.com/2026/02/21/business/trump-global-tariffs-increase-supreme-court)
 ---
 
-## Article 4: Sen. John Kennedy says 'grizzly' Trump secured trade wins despite SCOTUS tariff blow
+## Article 18: Sen. John Kennedy says 'grizzly' Trump secured trade wins despite SCOTUS tariff blow
 **Source:** Fox News | **Sentiment Score:** `0.8834`
 
 Sen. John Kennedy calls Trump a “grizzly" as the president signs a new 10% global tariff order in response to the Supreme Court's 6-3 ruling. Sen. John Kennedy, R-La., offered an optimistic perspective on the Supreme Courts tariff ruling, arguing the "grizzly" in the Oval Office should view it as a win. In a 6-3 ruling Friday, the high co…
@@ -37,7 +149,7 @@ Sen. John Kennedy calls Trump a “grizzly" as the president signs a new 10% glo
 [Read Original Article Here](https://www.foxnews.com/media/kennedy-says-grizzly-trump-secured-trade-wins-despite-scotus-tariff-blow)
 ---
 
-## Article 5: Trump doubles down on tariffs, weighs limited military strike on Iran | CNN
+## Article 19: Trump doubles down on tariffs, weighs limited military strike on Iran | CNN
 **Source:** CNN | **Sentiment Score:** `-0.8591`
 
 President Donald Trump announced he will impose a 10% global tariff on top of the levies already in place after the Supreme Court ruled that his sweeping emergency tariffs are illegal. Follow for live updates. As weve been reporting today, President Donald Trump is only doubling down on his trade war after the Supreme Court ruled his sweeping emergency trade duties illegal. Trump announced a short time ag…
@@ -45,123 +157,11 @@ President Donald Trump announced he will impose a 10% global tariff on top of th
 [Read Original Article Here](https://www.cnn.com/us/live-news/trump-administration-tariffs-iran-news-02-21-26)
 ---
 
-## Article 6: Oil traders rush to hedge Iran risk after wild start to year
+## Article 20: Oil traders rush to hedge Iran risk after wild start to year
 **Source:** Bloomberg | **Sentiment Score:** `0.4404`
 
 The rally — Brent is up about 18% since the end of last year — represents a marked shift from just weeks ago, when traders were focused on forecasts for a record surplus, especially around now The oil market is in the middle of its strongest start to a year since 2022 as supply shocks and sanctions confound expectations of a glut. Now traders are racing to cover themselves against the pros…
 
 [Read Original Article Here](https://www.bloomberg.com/news/articles/2026-02-21/oil-traders-rush-to-hedge-iran-risk-after-wild-start-to-year)
----
-
-## Article 7: Brazil, India seal rare earth deal amid global supply strains
-**Source:** Bloomberg | **Sentiment Score:** `0.4939`
-
-The deal comes soon after India joined the US-led Pax Silica initiative to build resilient supply chains in semiconductors, artificial intelligence, and critical minerals Brazil and India sealed a framework pact on critical minerals with the two countries agreeing to work closely on processing in a move aimed at securing rare earth supplies at a time of global disrupt…
-
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-02-21/brazil-india-seal-rare-earth-deal-amid-global-supply-strains)
----
-
-## Article 8: India signs critical minerals deal with Brazil to curb dependance on China
-**Source:** Al Jazeera English | **Sentiment Score:** `0.3182`
-
-Brazilian President Lula called the critical minerals and rare earths deal the 'core of the pioneering agreement'. Brazil and India have signed an agreement to boost cooperation on critical minerals and rare earths, as the Indian government seeks new suppliers to curb its dependence on China. Brazilian President…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/2/21/india-brazil-sign-critical-minerals-deal-as-partners-seek-trade-growth)
----
-
-## Article 9: Analysis: GDP growth, trade deficit figures blow a hole in Trump’s rosy narrative | CNN Politics
-**Source:** CNN | **Sentiment Score:** `0.7783`
-
-Two new pieces of economic data, one released Thursday and one released Friday, blew another hole in President Donald Trump’s triumphant narrative about the effects of his tariffs. Two new pieces of economic data, one released Thursday and one released Friday, blew another hole in President Donald Trumps triumphant narrative about the effects of his tariffs. The figures releas…
-
-[Read Original Article Here](https://www.cnn.com/2026/02/21/politics/economy-gdp-trade-deficit-trump-tariffs)
----
-
-## Article 10: VOS Selections owner Victor Schwartz risked his business to challenge Trump’s tariffs | CNN Business
-**Source:** CNN | **Sentiment Score:** `0.6369`
-
-When President Donald Trump announced plans to raise the nation’s effective tariff rate to levels not seen since 1930 on April 2, 2025, most CEOs were silent. They’d seen how voicing opposition to any of the president’s ambitions – let alone his signature eco… When President Donald Trump announced plans to raise the nations effective tariff rate to levels not seen since 1930 last year, most CEOs were silent. Theyd seen how opposing the presidents ambitions…
-
-[Read Original Article Here](https://www.cnn.com/2026/02/21/business/vos-selections-trump-tariffs-lawsuit-risk-takers)
----
-
-## Article 11: UK weighs removing ex-Prince Andrew from succession line amid Epstein probe
-**Source:** Al Jazeera English | **Sentiment Score:** `0.4939`
-
-The report comes as police widen investigations into former prince, including questioning his close protection teams. The British government is weighing new legislation that could remove the former prince, Andrew Mountbatten-Windsor, from the line of royal succession, according to reports. Officials in the United K…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/2/21/uk-weighs-removing-ex-prince-andrew-from-succession-line-amid-epstein-probe)
----
-
-## Article 12: Trump, JD Vance vilify ‘lawless’ Supreme Court justices over tariff ruling
-**Source:** Al Jazeera English | **Sentiment Score:** `0.6705`
-
-President Trump calls Supreme Court justices an 'embarrassment to their families' in 45-minute address to media. United States President Donald Trump and his vice president, JD Vance, have launched personal attacks on the justices of the US Supreme Court and their families, after the countrys top court struck d…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/2/21/trump-jd-vance-vilify-lawless-supreme-court-justices-over-tariff-ruling)
----
-
-## Article 13: What the Supreme Court’s tariff ruling means for the prices you’re paying | CNN Business
-**Source:** CNN | **Sentiment Score:** `0.8948`
-
-Now that the Supreme Court has taken away a significant chunk of President Donald Trump’s tariff-wielding authority, what does that mean for your prices? Now that the Supreme Court has taken away a significant chunk of President Donald Trumps tariff-wielding authority, what does that mean for your prices? Nothing, said Stephanie Roth, chief economist…
-
-[Read Original Article Here](https://www.cnn.com/2026/02/20/business/tariff-prices-supreme-court-ruling)
----
-
-## Article 14: Kavanaugh rips Supreme Court majority's ‘illogical’ line on tariffs
-**Source:** Fox News | **Sentiment Score:** `0.8126`
-
-Justice Kavanaugh calls Supreme Court's decision striking down Trump's emergency tariffs "illogical" and offers roadmap for alternative approaches. Justice Brett Kavanaugh called the Supreme Courts decision striking down Trumps emergency tariffs "illogical" in a fiery dissent on Friday and offered a roadmap of alternatives Trump could use to att…
-
-[Read Original Article Here](https://www.foxnews.com/politics/kavanaugh-says-court-drew-illogical-line-tariffs-argues-ieepa-plainly-covers-import-duties)
----
-
-## Article 15: 'Impossible to describe:' Importer who challenged Trump tariffs hails Supreme Court win
-**Source:** Fox News | **Sentiment Score:** `0.0258`
-
-Small wine importer Victor Schwartz took on Trump's tariffs and won at the Supreme Court, proving small businesses can challenge presidential overreach. Victor Owen Schwartz never imagined he would one day find himself challenging a president in the highest court in the land. But after President Donald Trump's  sweeping tariffs threatened the surviv…
-
-[Read Original Article Here](https://www.foxnews.com/politics/wine-importer-who-challenged-trump-tariffs-celebrates-supreme-court-win)
----
-
-## Article 16: Can Trump still impose tariffs after the Supreme Court ruling?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.9022`
-
-The case is the first major challenge to Trump’s agenda, but he still has other avenues to pursue trade restrictions. The United States Supreme Court has ruled that President Donald Trumps global tariffs are illegal. In a 63 decision written by conservative Chief Justice John Roberts, the court agreed that Trump ex…
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/2/20/can-trump-still-impose-tariffs-after-the-supreme-court-ruling)
----
-
-## Article 17: JOHN YOO: Supreme Court tariff ruling should end complaints that justices favor Trump
-**Source:** Fox News | **Sentiment Score:** `0.7964`
-
-Supreme Court strikes down Trump's worldwide tariffs in Learning Resources v. Trump, with Chief Justice Roberts leading the 6-3 majority ruling decision. The Supreme Court just struck down President Donald Trumps worldwide tariffs. Contrary to immediate takes on the opinion, Learning Resources v. Trump does not mark a permanent reduction in presidenti…
-
-[Read Original Article Here](https://www.foxnews.com/opinion/john-yoo-supreme-court-tariff-ruling-should-end-complaints-justices-favor-trump)
----
-
-## Article 18: Tariff refunds could take years amid US Supreme Court ruling, experts warn
-**Source:** Al Jazeera English | **Sentiment Score:** `0.8481`
-
-At least 1,000 companies have already sued the administration of United States President Donald Trump. The United States Supreme Court ruling against the administration of US President Donald Trumps sweeping global tariffs has left a question unanswered on what is the refund process for the funds coll…
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/2/20/tariff-refunds-could-take-years-amid-us-supreme-court-ruling-experts-warn)
----
-
-## Article 19: US President Trump promises new tariffs, slams Supreme Court decision
-**Source:** Al Jazeera English | **Sentiment Score:** `0.4310`
-
-Supreme Court blocks Trump's emergency tariffs, but he plans to invoke other laws to maintain and raise tariffs. United States President Donald Trump slammed the US Supreme Court as a disgrace after a 6-3 ruling struck down his sweeping global tariffs, stating that he will maintain the levies through alternativ…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/2/20/us-president-trump-promises-new-tariffs-slams-supreme-court-decision)
----
-
-## Article 20: Fox News Poll: Trump’s tariffs faced broad disapproval even before Supreme Court ruling
-**Source:** Fox News | **Sentiment Score:** `0.7845`
-
-New Fox News poll shows 63% of voters disapprove of Trump's tariff handling despite record revenue surge of over 300% since taking office this year. Even before the Supreme Court handed a blow to President Donald Trump's  sweeping trade policy, Americans were already voicing strong disapproval in national polling of his handling of tariffs. A F…
-
-[Read Original Article Here](https://www.foxnews.com/politics/fox-news-poll-trumps-tariffs-faced-broad-disapproval-even-before-supreme-court-ruling)
 ---
 
