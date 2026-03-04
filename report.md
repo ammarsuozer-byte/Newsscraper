@@ -1,167 +1,167 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-03-03 | **Status:** Automated
+**Date:** 2026-03-04 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: Crypto traders on tenterhooks as oil prices signal risks
-**Source:** Bloomberg | **Sentiment Score:** `-0.9349`
+## Article 1: West Asia conflict presses IPO hopefuls to get deals done
+**Source:** Bloomberg | **Sentiment Score:** `-0.6369`
 
-Crypto traders brace for potential risks as rising oil prices impact market sentiment amid US-Iran tensions. With 24/7 crypto markets having already digested US-Iran tensions over the weekend, digital-asset traders are on the defensive as they assess potential contagion risks from crude oil prices when US m…
+The sudden change in market sentiment risks upsetting what was set to be a boom year for IPOs, even before the potential mega-listings from SpaceX and AI giants are in the picture Companies planning IPOs are weighing how to ride out the volatility set off by events in the Middle East over the weekend, with bankers looking for ways to finish the job on deals nearing completion.…
 
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-03-02/crypto-traders-on-tenterhooks-as-oil-prices-signal-risks)
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-03-02/middle-east-conflict-pressures-ipo-candidates-to-get-deals-done)
 ---
 
-## Article 2: West Asia war to weigh heavily on China, Europe and India, economists say
-**Source:** Bloomberg | **Sentiment Score:** `-0.8658`
+## Article 2: How Russia could benefit from the US-Israeli war on Iran
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.8591`
 
-Economists warn the West Asia conflict will impact oil importers like China, Europe, and India, benefiting exporters like Russia. For the past year, economists have modelled the impact of US President Donald Trumps chaotic trade war. Now, its a real war theyre assessing.  The most immediate impact from the escalating West Asia…
+A protracted conflict in the Middle East could help Russia's war effort in Ukraine. The US-Israeli attacks on Iran and the assassination of Supreme Leader Ayotallah Ali Khamenei have caused a measure of discomfort in Moscow. Some hawkish Russian commentators claim that Russia could …
 
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-03-02/economists-gauge-hit-from-mideast-war-as-china-seen-among-losers)
+[Read Original Article Here](https://www.aljazeera.com/opinions/2026/3/3/how-russia-could-benefit-from-the-us-israeli-war-on-iran)
 ---
 
-## Article 3: Poll suggests only a quarter of Americans support attacks on Iran
+## Article 3: Nepal’s Gen Z threw out old parties. Will it vote for them in key election?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.3400`
+
+Last year's protests reflected popular disenchantment with established political parties, which are again seeking power. Kathmandu, Nepal As Nepal heads for a crucial parliamentary election on March 5, the Himalayan countrys established parties are fighting not just for votes, but also for legitimacy. That legitimacy …
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/3/3/nepals-gen-z-threw-out-old-parties-will-it-vote-for-them-in-key-election)
+---
+
+## Article 4: Iran war: Global inflation expected to pick up, survey shows
+**Source:** Bloomberg | **Sentiment Score:** `0.6428`
+
+Survey shows Iran war may increase global inflation, but economic growth prospects remain largely unaffected for now. Inflation around the world is seen picking up due to the war with Iran, while growth prospects remain largely unaffected for now, according to a global survey of economists by Bloomberg News. Half o…
+
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-03-03/global-inflation-expected-to-pick-up-from-iran-war-survey-shows)
+---
+
+## Article 5: Iran to do ‘utmost’ to protect China’s citizens amid US-Israel attacks: FM
+**Source:** Al Jazeera English | **Sentiment Score:** `0.6369`
+
+Iranian Foreign Minister Abbas Araghchi holds calls with China's Wang Yi amid Israeli-US attacks on Iran. The Iranian minister of foreign affairs has briefed senior members of Chinas central committee and his counterpart, Wang Yi, promising to do everything to ensure the safety of Chinese citizens in the…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/3/3/iran-to-do-utmost-to-protect-chinas-citizens-amid-us-israel-attacks-fm)
+---
+
+## Article 6: Trump vows ‘whatever it takes’ on Iran as conflict widens
+**Source:** Bloomberg | **Sentiment Score:** `-0.8360`
+
+Trump commits to a prolonged response to Iran amid escalating conflict, while the State Department warns Americans to evacuate West Asia. The US sent conflicting messages about how long a war with Iran might last as Israel launched new airstrikes on Monday, with the widening conflict reverberating across West Asia and upending energy m…
+
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-03-02/us-insists-iran-war-won-t-be-endless-as-strikes-engulf-region)
+---
+
+## Article 7: DAVID MARCUS: Ken Paxton devours John Cornyn as Texas GOP craves a fighter in Senate primary showdown
+**Source:** Fox News | **Sentiment Score:** `0.3400`
+
+Texas GOP voters tell me Sen. John Cornyn seems like he's from 'a different time' as Attorney General Ken Paxton leads polls, with Republicans craving a fighter over 'electability.' There is a scene in "The Godfather" when Michael Corleone tells his childhood friend Tom Hagan that he will be out of leadership during the films mob war, saying, "Youre not a wartime consigliere, To…
+
+[Read Original Article Here](https://www.foxnews.com/opinion/david-marcus-ken-paxton-devours-john-cornyn-as-texas-gop-craves-a-fighter-in-senate-primary-showdown)
+---
+
+## Article 8: From missiles to minerals: The strategic meaning behind the Iran strike
+**Source:** Fox News | **Sentiment Score:** `-0.5719`
+
+How coordinated strikes on Iran reflect America's new strategy integrating technological dominance, energy routes, and critical mineral supply chains. The death of Irans supreme leader, Ayatollah Ali Khamenei, following coordinated U.S.Israeli strikes in late February 2026 marks one of the most consequential geopolitical moments of the decade. In t…
+
+[Read Original Article Here](https://www.foxnews.com/opinion/from-missiles-minerals-strategic-meaning-behind-iran-strike)
+---
+
+## Article 9: Sikh group in Canada slams India over new report into 2023 activist killing
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.8555`
+
+Globe and Mail report alleges Indian consular officials in Vancouver tied to Hardeep Singh Nijjar's assassination. Sikh community advocates in Canada are raising alarm over a newspaper report alleging that Indian consular officials in Vancouver were involved in the 2023 killing of a prominent Canadian Sikh separa…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/3/2/sikh-group-in-canada-slams-india-over-new-report-into-2023-activist-killing)
+---
+
+## Article 10: Stocks drop, volatility spikes as traders weigh Iran war risks
+**Source:** Bloomberg | **Sentiment Score:** `-0.8225`
+
+Stocks fell as traders reacted to escalating Iran conflict, with volatility rising and energy sector showing resilience amid market turmoil. Stocks dropped Monday morning as traders weighed the market risks from an escalating conflict in the Middle East, with oil spiking and President Donald Trump saying the US and Israeli strikes on Iran…
+
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-03-02/stocks-drop-volatility-spikes-as-traders-weigh-iran-war-risks)
+---
+
+## Article 11: Gas prices could jump as Middle East tensions threaten global oil supply
+**Source:** Fox News | **Sentiment Score:** `-0.9612`
+
+Gas prices could rise 25-50 cents per gallon as Middle East tensions threaten global oil supplies after strikes on Iran killed Supreme Leader Khamenei. Americans could soon see higher gas prices as escalating tensions in the Middle East threaten a critical global oil chokepoint, raising fears of supply disruptions that could quickly reverberate acro…
+
+[Read Original Article Here](https://www.foxnews.com/politics/gas-prices-could-jump-middle-east-tensions-threaten-global-oil-supply)
+---
+
+## Article 12: Prediction markets point to Talarico-Paxton showdown in Texas Senate race
+**Source:** Fox News | **Sentiment Score:** `0.8885`
+
+Traders on Kalshi are increasingly betting that Texas Attorney General Ken Paxton and Democratic state Rep. James Talarico will secure their parties’ Senate nominations ahead of Tuesday’s primary. Traders on prediction market platform Kalshi are signaling growing confidence that Texas Attorney General Ken Paxton and Democratic state Rep. James Talarico are on track to secure their parties' Sen…
+
+[Read Original Article Here](https://www.foxnews.com/politics/prediction-markets-point-talarico-paxton-showdown-texas-senate-race)
+---
+
+## Article 13: What is Iran’s military strategy? How has it changed since June 2025 war?
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.7717`
 
-US lawmakers heap pressure on Trump following the first US soldier deaths after Khamenei's killing. A poll conducted in the hours after the United States and Israel launched a major military operation against Iran, sparking regional retaliation, shows dismal approval for the strikes from the US pub…
+Defence analysts tell Al Jazeera that Iran has revised its military strategy since 12-day war with Israel. Iran appeared determined to avenge the killing of Supreme Leader Ayatollah Ali Khamenei and other senior Iranian officials following the start of the US-Israeli assault on Saturday, as Tehran continu…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/3/2/poll-suggests-only-a-quarter-of-americans-support-attacks-on-iran)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/3/2/what-is-irans-military-strategy-how-it-has-changed-since-june-2025-war)
 ---
 
-## Article 4: One early risk of Trump's Iran strategy is already emerging
-**Source:** Politico | **Sentiment Score:** `-0.9042`
+## Article 14: Stocks fall and oil surges as war with Iran spreads | CNN Business
+**Source:** CNN | **Sentiment Score:** `-0.8316`
 
-President Donald Trump’s decision to topple the Iranian regime is threatening to torch an oil market his administration has been at pains to keep cool since ... Oil prices jumped more than 10 percent Sunday night, underscoring the political risks of President Donald Trump's military strikes against Iran.  The main U.S. crude oil market opened at $75 per bar…
+Oil prices surged, global stocks sank and gold rose Monday as concerns about a broadening war with Iran began to ripple through financial markets. Oil prices surged, global stocks sank and gold rose Monday as concerns about a broadening war with Iran began to ripple through financial markets. Investors are bracing for volatility in global ener…
 
-[Read Original Article Here](https://www.politico.com/news/2026/03/01/oil-prices-energy-iran-trump-00806537)
+[Read Original Article Here](https://www.cnn.com/2026/03/02/investing/oil-us-stock-market-iran)
 ---
 
-## Article 5: Who’s running Iran now that the supreme leader is dead? | CNN
-**Source:** CNN | **Sentiment Score:** `0.1531`
+## Article 15: India, Canada aim for trade pact by year end, agree uranium deal
+**Source:** Al Jazeera English | **Sentiment Score:** `0.7184`
 
-The killing of Ayatollah Ali Khamenei by the United States and Israel has created a power vacuum in the core of the Iranian regime and sparked the complex process of finding his successor. The killing of Ayatollah Ali Khamenei by the United States and Israel has created a power vacuum in the core of the Iranian regime and sparked the complex process of finding his successor. The Islam…
+Bilateral trade expected to hit $50bn by 2030, says Indian PM Modi as he hosts his Canadian counterpart, Mark Carney. India and Canada will aim to conclude a free trade pact by the end of this year, says Canadian Prime Minister Mark Carney, as the two countries seek to boost economic ties after two years of a strain…
 
-[Read Original Article Here](https://www.cnn.com/2026/03/01/middleeast/iran-new-supreme-leader-khamenei-dead-intl-latam)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/3/2/india-canada-aim-for-trade-pact-by-year-end-agree-uranium-deal)
 ---
 
-## Article 6: Who are Iran’s senior figures killed in US-Israeli attacks?
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.8910`
+## Article 16: West African regional army: Why thousands of soldiers are deploying
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.8074`
 
-Iran's defence minister and the commander-in-chief of the IRGC are among those killed in the US and Israel's attack. Ayatollah Ali Khamenei, Irans supreme leader, has been killed along with senior figures in the countrys leadership in strikes on Saturday carried out by the US and Israel. Early on Sunday, the Irani…
+How will strained ties between ECOWAS and neighbours Niger, Mali and Burkina Faso affect the fight against armed groups? West African nations have agreed to activate a regional standby force to combat waves of violence by cross-border armed groups in the region. The decision was made last week at a days-long security …
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/3/1/who-are-irans-senior-figures-killed-in-us-israeli-attacks)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/3/2/west-african-regional-army-why-thousands-of-soldiers-are-deploying)
 ---
 
-## Article 7: Has Trump misunderstood Iran’s IRGC and the Basij forces?
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.7351`
+## Article 17: GORDON SONDLAND: No more 'restraint': Europe must stand with America on Iran
+**Source:** Fox News | **Sentiment Score:** `0.0772`
 
-US president called for IRGC members to lay down their arms or face 'certain death'. Here's how he misunderstands IRGC. On Saturday, as the United States and Israel attacked Iran, US President Donald Trump sent a message to the Islamic Revolutionary Guard Corps (IRGC) conscripts, demanding they surrender or die. To t…
+Former US ambassador to Europe criticizes Brussel's weak response to joint US-Israeli strikes that eliminated Iranian Supreme Leader Ali Khamenei and top officials. The United States and Israel are doing the heavy lifting. On February 28, joint American-Israeli strikesOperation Epic Fury and Operation Roaring Lioneliminated Iranian Supreme Leader Ali Khamenei, I…
 
-[Read Original Article Here](https://www.aljazeera.com/features/2026/3/1/has-trump-misunderstood-irans-irgc-and-the-basij-forces)
+[Read Original Article Here](https://www.foxnews.com/opinion/gordon-sondland-no-more-restraint-europe-must-stand-with-america-on-iran)
 ---
 
-## Article 8: The US-Israeli war on Iran could rewrite Gulf security calculations
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.2023`
+## Article 18: Middle East oil faces pricing confusion as Hormuz traffic halted
+**Source:** Bloomberg | **Sentiment Score:** `-0.8979`
 
-A prolonged conflict is bound to disrupt the model of regional stability and economic prosperity the Gulf has pursued. The United States-Israeli war on Iran is just one day old, and it is already clear it will have a profound impact on the Middle East and the Gulf in particular. The US-Israeli bombardment of Iran has…
+The pause comes as the crisis in the Middle East widens and vessels stop crossing Hormuz, leaving crude and fuel markets at risk of dislocation The halt to energy shipments through the Strait of Hormuz is disrupting how some of the worlds major oil grades are priced. S&amp;P Global Energy has stopped accepting bids and offers for crude vari…
 
-[Read Original Article Here](https://www.aljazeera.com/opinions/2026/3/1/the-us-israeli-war-on-iran-could-rewrite-gulf-security-calculations)
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-03-02/middle-east-oil-faces-pricing-muddle-as-hormuz-traffic-halted)
 ---
 
-## Article 9: Bitcoin recovers above $68,000 after death of Iranian leader
-**Source:** Bloomberg | **Sentiment Score:** `-0.5994`
+## Article 19: Oil prices rise sharply after US, Israeli attacks on Iran
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.7430`
 
-Bitcoin surges past $68,000 following the death of Iran's supreme leader, amid geopolitical tensions and market recovery. Bitcoin and other cryptocurrencies rebounded sharply in early Asia trading on Sunday after Iran confirmed that the countrys supreme leader had been killed during a military campaign by the US and Isr…
+Brent crude is up by 9 percent amid supply concerns as Trump says ‌strikes on Iran could last weeks. Oil prices have risen sharply, and stocks have slid as United States and Israeli attacks on Iran and retaliatory strikes against Israeli and US military installations in the Middle East have disrupte…
 
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-02-28/bitcoin-slides-below-64-000-after-explosions-reported-in-tehran-mm60ajtz)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/3/2/oil-prices-rise-sharply-after-us-israeli-attacks-on-iran)
 ---
 
-## Article 10: Analysis: What means if Iran’s supreme leader is dead | CNN Politics
-**Source:** CNN | **Sentiment Score:** `-0.9473`
+## Article 20: Nepal rivals rally on final day of poll campaign, PM urges citizens to vote
+**Source:** Al Jazeera English | **Sentiment Score:** `0.8481`
 
-President Donald Trump placed a huge wager by launching a massive air assault on Iran despite having done little to prepare Americans for a new Middle East war with immense risks and years of future consequences. But the reported death of Iranian Supreme Lead… President Donald Trump placed a huge wager by launching a massive air assault on Iran despite having done little to prepare Americans for a new Middle East war with immense risks and years of future …
+Two weeks of campaign showed a wave of younger candidates promising to tackle economy and challenge veteran politicians. As Nepals rival parties make a last push on the final day of Nepals election campaign, interim Prime Minister Sushila Karki has appealed to people to vote and maintain peace. The Himalayan republic …
 
-[Read Original Article Here](https://www.cnn.com/2026/02/28/politics/supreme-leader-iran-attack-trump)
----
-
-## Article 11: Ayatollah Ali Khamenei: The leader who shaped Iran’s defiance
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.7717`
-
-The supreme leader of the Islamic Republic of Iran, has been killed in a joint US-Israeli air strikes on Saturday. US president Donald Trump has announced the killing of Irans supreme leader Ali Khamenei after joint US-Israeli air strikes hit his compound on Saturday. Trump said Khamenei and other Iranian offici…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/2/28/ayatollah-ali-khamenei-the-leader-who-shaped-irans-defiance)
----
-
-## Article 12: ‘Pawn Stars’ boss Rick Harrison warns of silver shortage as demand surges
-**Source:** Fox News | **Sentiment Score:** `-0.7430`
-
-"Pawn Stars" Rick Harrison warns of critical silver shortage as tech boom drives demand. He said his Las Vegas pawn shop unable to keep silver bullion in stock. Rick Harrison is sounding the alarm on a growing silver shortage as demand rises rapidly from the tech boom and energy transition. The 60-year-old reality star is the co-founder of the Gold &amp; Si…
-
-[Read Original Article Here](https://www.foxnews.com/entertainment/pawn-stars-boss-rick-harrison-warns-silver-shortage-demand-surges)
----
-
-## Article 13: Who is Iran’s Supreme Leader Khamenei and why is he a possible target?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.3182`
-
-Trump, who has previously said Khamanei should be 'very worried', is urging Iranians to overthrow their government. The United States and Israel have waged a new round of attacks on Iran, again derailing negotiations over Irans nuclear programme and raising questions about efforts to target the countrys security a…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/2/28/who-is-irans-supreme-leader-khamenei-and-why-is-he-a-possible-target)
----
-
-## Article 14: How Serbia’s President Aleksandar Vucic sees the world
-**Source:** Al Jazeera English | **Sentiment Score:** `0.1280`
-
-As antigovernment protests in Serbia continue into their second year, who is the man maintaining a grip on power? On May 13, 1990, in Zagreb, two of Yugoslavias biggest football teams, Red Star Belgrade and the home team, Dinamo Zagreb, were set to play in the Maksimir Stadium of the Croatian capital. Among the …
-
-[Read Original Article Here](https://www.aljazeera.com/features/2026/2/28/how-serbias-president-aleksandar-vucic-sees-the-world)
----
-
-## Article 15: AI changed everything this week. Here’s why
-**Source:** CNN | **Sentiment Score:** `-0.4588`
-
-Tech made waves in the news and markets this week, from announcing mass layoffs to reigniting disruption fears that startled investors. Weve been talking about AI changing the world for a long time. But this week felt different as if it were right in the middle of something big. The stock market tumbled three separate days because o…
-
-[Read Original Article Here](https://www.cnn.com/2026/02/28/business/ai-week-anthropic-nvidia-block)
----
-
-## Article 16: US government seeks delay on tariff refund court hearing, faces above 2,000 lawsuits
-**Source:** Post Magazine | **Sentiment Score:** `-0.4019`
-
-The Trump administration is seeking to delay court proceedings over whether it must refund importers billions of dollars in tariffs recently struck down by the US Supreme Court, marking a contentious start to the next phase of the legal fight. The government … The Trump administration is seeking to delay court proceedings over whether it must refund importers billions of dollars in tariffs recently struck down by the US Supreme Court, marking a contentious…
-
-[Read Original Article Here](https://www.scmp.com/news/us/economy-trade-business/article/3344958/us-government-seeks-delay-tariff-refund-court-hearing-faces-above-2000-lawsuits)
----
-
-## Article 17: Southeast Asia, do not mistake Trump’s tariff defeat for a reprieve
-**Source:** Post Magazine | **Sentiment Score:** `0.4588`
-
-The much-anticipated Supreme Court ruling on US President Donald Trump’s use of the International Emergency Economic Powers Act (IEEPA) to implement his tariff regime has been handed down. In a sharp rebuke to his administration, the nation’s highest court ha… The much-anticipated Supreme Court ruling on US President Donald Trumps use of the International Emergency Economic Powers Act (IEEPA) to implement his tariff regime has been handed down. In a sharp…
-
-[Read Original Article Here](https://www.scmp.com/week-asia/opinion/article/3344911/southeast-asia-do-not-mistake-trumps-tariff-defeat-reprieve)
----
-
-## Article 18: Supreme Court blocks Trump tariffs—but hands him a smarter path forward
-**Source:** Fox News | **Sentiment Score:** `0.9437`
-
-Donald Trump faces Supreme Court setback on tariff authority in Learning Services ruling, but strategic use of remaining trade powers could help America. President Donald Trump has lost his tariff case in the Supreme Court. However, with careful and prudent use of the tariff powers he does have, he can turn this into a win for his policies and for Ame…
-
-[Read Original Article Here](https://www.foxnews.com/opinion/supreme-court-blocks-trump-tariffs-but-hands-him-smarter-path-forward)
----
-
-## Article 19: RICK PERRY: Where's the beef? Trump knows and he's trying to make it affordable
-**Source:** Fox News | **Sentiment Score:** `0.0000`
-
-Donald Trump's executive order opens U.S. markets to 80,000 metric tons of Argentine beef as ground beef prices hit record $6.69 per pound nationwide. "America First" has been more than a slogan for President Trump. It has become a governing framework and near-mandate for his administration. America First policy decisions have manifested across imm…
-
-[Read Original Article Here](https://www.foxnews.com/opinion/rick-perry-wheres-beef-trump-knows-hes-trying-make-affordable)
----
-
-## Article 20: Pokémon at 30: Multimillion-dollar cards and spiking demand. Here’s why you’ve still gotta catch ‘em all | CNN
-**Source:** CNN | **Sentiment Score:** `-0.5719`
-
-Trading cards have been key to making the Pokémon franchise a global giant. As the cards continue to make collectors of kids and adults alike, their skyrocketing value is also drawing in speculators and thieves. In a blur of tiny hands, the deadlock of an illicit deal brokered over a nail-biting one-hour lunch period is finally broken. As one party hurriedly caches his acquisition underneath the sandwich in …
-
-[Read Original Article Here](https://www.cnn.com/world/pokemon-at-30-multimillion-dollar-cards-trading-spc)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/3/2/nepal-rivals-rally-on-final-day-of-poll-campaign-pm-urges-citizens-to-vote)
 ---
 
