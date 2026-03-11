@@ -1,11 +1,115 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-03-10 | **Status:** Automated
+**Date:** 2026-03-11 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: Carney confirms: When Washington whistles, Ottawa salutes
+## Article 1: Iran war has airlines reviewing growth plans as fuel surges
+**Source:** Bloomberg | **Sentiment Score:** `-0.8126`
+
+Iran's conflict prompts airlines to reconsider growth plans as fuel prices spike, impacting aircraft deals and travel demand. Until last month, airlines couldnt get new aircraft fast enough, with both Airbus SE and Boeing Co. struggling to keep up with surging demand.  The 10-day war in Iran has upended that outlook, as ca…
+
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-03-09/iran-war-has-airlines-reviewing-growth-plans-as-fuel-costs-surge)
+---
+
+## Article 2: Trump says some sanctions to be lifted on oil producers amid Iran war
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.5719`
+
+Crude oil prices plunge below $90 a barrel following an earlier surge to almost $120 in price swing over 24 hours. United States President Donald Trump has said his administration will lift some sanctions on oil-producing countries to keep energy prices down amid the US and Israels war on Iran. Trump made the co…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/3/10/trump-says-some-sanctions-to-be-lifted-on-oil-producers-amid-iran-war)
+---
+
+## Article 3: Trump reveals top issues GOP should focus on to secure midterms victory: 'I've never been more confident'
+**Source:** Fox News | **Sentiment Score:** `0.4404`
+
+Trump outlined a five-point legislative bucket list he says will secure GOP midterm victories, including voter ID and transgender policy restrictions at Republican conference. President Donald Trump outlined five key items he believes will tip the upcoming midterm elections in the GOPs favor if Republicans can muscle them through Congress. "No transgender mutilation surge…
+
+[Read Original Article Here](https://www.foxnews.com/politics/trump-reveals-top-issues-gop-should-focus-on-secure-midterms-victory)
+---
+
+## Article 4: Crude prices tumbles 10% as Trump signals Iran war may end soon
+**Source:** Bloomberg | **Sentiment Score:** `-0.9531`
+
+WTI crude fell as much as 10% to around $85, after earlier surging near $120 on fears that escalating West Asia tensions and a blocked Strait of Hormuz could hit global supply Oil tumbled after US President Donald Trump signaled the Iran war will end soon, as the conflict in the West Asia upends global energy markets and sparks fresh concerns about an inflation crisis. We…
+
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-03-09/latest-oil-market-news-and-analysis-for-march-10)
+---
+
+## Article 5: Trump slams Mojtaba Khamenei’s appointment as Iran projects defiance
+**Source:** Al Jazeera English | **Sentiment Score:** `0.5862`
+
+US president, who had warned against selecting Mojtaba Khamenei to lead Iran, says new supreme leader may not 'last'. Donald Trump says he is not happy with the selection of Mojtaba Khamenei as Irans new supreme leader. The United States president had warned repeatedly against electing the son of assassinated Supre…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/3/9/trump-slams-mojtaba-khameneis-appointment-as-iran-projects-defiance)
+---
+
+## Article 6: Putin says Russia can supply oil, gas to Europe as energy prices soar
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.6705`
+
+Russian president spoke as oil prices surged past $100 per barrel, reaching levels unseen since start of Ukraine war. Russian President Vladimir Putin has said that Russia is ready to conditionally supply oil and gas to Europe as the US-Israeli war on Iran brings shipments through the Strait of Hormuz to a halt. Th…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/3/9/putin-says-russia-can-supply-oil-gas-to-europe-amid-global-energy-crisis)
+---
+
+## Article 7: Senate campaign chief 'optimistic' for GOP majority despite darkening midterm climate
+**Source:** Fox News | **Sentiment Score:** `0.6159`
+
+Sen. Tim Scott remains optimistic about GOP expanding Senate majority in midterm elections despite challenging political climate and economic concerns. PALM BEACH, Fla. National Republican Senatorial Committee (NRSC) chair Sen. Tim Scott says he remains "incredibly optimistic" the GOP can not only hold but expand its current 5347 majority in the fal…
+
+[Read Original Article Here](https://www.foxnews.com/politics/senate-campaign-chief-optimistic-gop-majority-despite-darkening-midterm-climate)
+---
+
+## Article 8: Sen Cory Booker proposes ‘Keep Your Pay Act,’ eliminating federal income tax on first $75,000
+**Source:** Fox News | **Sentiment Score:** `-0.2023`
+
+Sen. Cory Booker proposes eliminating federal income tax on first $75,000 of income for working families in new Keep Your Pay Act ahead of 2026 bid. Sen. Cory Booker, D-N.J., facing a re-election campaign in 2026, announced a new tax-cut bill, the Keep Your Pay Act, that would eliminate federal income taxes on the first $75,000 of income for most…
+
+[Read Original Article Here](https://www.foxnews.com/politics/sen-cory-booker-proposes-keep-your-pay-act-eliminating-federal-income-tax-first-75000)
+---
+
+## Article 9: Trump's Rx plan promises savings, but economists see a hidden trade-off
+**Source:** Fox News | **Sentiment Score:** `0.5187`
+
+The Trump administration launched a drug pricing initiative offering immediate savings, but experts debated whether lower costs meant fewer treatments tomorrow. President Donald Trump's latest push to slash prescription drug prices promises relief at the pharmacy counter, but behind the headline savings lie trade-offs that could reshape how drugs are develop…
+
+[Read Original Article Here](https://www.foxnews.com/politics/trumps-rx-plan-promises-savings-economists-see-hidden-trade-off)
+---
+
+## Article 10: Iran’s authorities showcase continuity as they back new leader during war
+**Source:** Al Jazeera English | **Sentiment Score:** `0.8555`
+
+The IRGC says its forces are ready to 'fully obey and sacrifice for the divine commands' after new supreme leader named. Tehran, Iran Commanders, politicians and religious authorities in Iran are rallying around the flag and hinting at a prolonged war after Mojtaba Khamenei was selected as supreme leader as the country…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/3/9/irans-authorities-showcase-continuity-as-they-back-new-leader-during-war)
+---
+
+## Article 11: It is time for the world to move on without the United States
+**Source:** Al Jazeera English | **Sentiment Score:** `0.0864`
+
+The US no longer wants to be the guarantor of the world order. It's time the rest of us take this responsibility. On February 28, the United States and Israel launched a war on Iran. The US-Israeli attacks came without prior warning or approval by the United Nations and targeted and killed Iranian Supreme Leader…
+
+[Read Original Article Here](https://www.aljazeera.com/opinions/2026/3/9/it-is-time-for-the-world-to-move-on-without-the-united-states)
+---
+
+## Article 12: Travel is about to get more expensive as Iran conflict sparks jet fuel crunch
+**Source:** Fox News | **Sentiment Score:** `-0.6486`
+
+The Iran conflict has disrupted shipping routes through the Strait of Hormuz, tightening jet fuel supplies and stoking fears that airfares would climb. Airfares could rise in the weeks ahead as the Iran conflict disrupts energy markets and squeezes jet-fuel supplies, increasing costs for airlines and passengers. Fuel traders are watching the Strait…
+
+[Read Original Article Here](https://www.foxnews.com/politics/travel-about-get-more-expensive-iran-conflict-sparks-jet-fuel-crunch)
+---
+
+## Article 13: ‘We are going make a tonne of money’: US Senator Graham on US war on Iran
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.8126`
+
+The veteran GOP senator appears to suggest that the war on Iran was launched to gain control over its oil supplies. Lindsey Graham, the veteran Republican senator who has been pushing for war against Iran for decades, has issued a dire warning to the Iranian government, saying it was worth spending money to take t…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/3/9/we-are-going-make-a-tonne-of-money-us-senator-graham-on-us-war-on-iran)
+---
+
+## Article 14: Carney confirms: When Washington whistles, Ottawa salutes
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.1280`
 
 The Canadian prime minister was quick to jump on the Iran war bandwagon, seemingly forgetting his own speech at Davos. True leadership is measured by action, not words. Recently, Canadian Prime Minister Mark Carney struck the tone of a thoughtful statesman at the annual gathering of the World Economic Forum in Davos…
@@ -13,7 +117,7 @@ The Canadian prime minister was quick to jump on the Iran war bandwagon, seeming
 [Read Original Article Here](https://www.aljazeera.com/opinions/2026/3/9/carney-confirms-when-washington-whistles-ottawa-salutes)
 ---
 
-## Article 2: Oil soars past $100 a barrel amid Iran war
+## Article 15: Oil soars past $100 a barrel amid Iran war
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.9062`
 
 Crude oil prices rise by as much 20 percent as sprawling regional conflict threatens global energy supplies. Oil prices have surged past $100 a barrel for the first time since Russias invasion of Ukraine, amid the widening fallout of the United States and Israels war on Iran. Brent crude, the global benchm…
@@ -21,7 +125,7 @@ Crude oil prices rise by as much 20 percent as sprawling regional conflict threa
 [Read Original Article Here](https://www.aljazeera.com/economy/2026/3/9/oil-soars-past-100-a-barrel-amid-iran-war)
 ---
 
-## Article 3: Colombia elects Congress, chooses presidential candidates amid US tensions
+## Article 16: Colombia elects Congress, chooses presidential candidates amid US tensions
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.7783`
 
 Colombians will choose from more than 3,000 candidates vying for 102 Senate seats and 182 House seats. Colombians have headed to the polls to elect a new Congress and choose new presidential candidates on Sunday as the country remains on high alert for political violence, with rural regions dominated …
@@ -29,7 +133,7 @@ Colombians will choose from more than 3,000 candidates vying for 102 Senate seat
 [Read Original Article Here](https://www.aljazeera.com/news/2026/3/8/colombia-elects-congress-chooses-presidential-candidates-amid-us-tensions)
 ---
 
-## Article 4: Trump pledges to block legislation until US voter ID law passes
+## Article 17: Trump pledges to block legislation until US voter ID law passes
 **Source:** Al Jazeera English | **Sentiment Score:** `0.4019`
 
 US president continues to focus on election administration ahead of November midterms, sparking concern from critics. United States President Donald Trump has said he will not sign any new legislation until Congress passes a bill to create higher identification requirements for US voters. The statement, in a post o…
@@ -37,7 +141,7 @@ US president continues to focus on election administration ahead of November mid
 [Read Original Article Here](https://www.aljazeera.com/news/2026/3/8/trump-pledges-to-block-legislation-until-us-voter-id-law-passes)
 ---
 
-## Article 5: The unlikely tool Trump is eyeing to tackle rising oil prices amid the Iran conflict
+## Article 18: The unlikely tool Trump is eyeing to tackle rising oil prices amid the Iran conflict
 **Source:** Fox News | **Sentiment Score:** `-0.8360`
 
 War-risk insurance costs surge as conflict threatens oil shipments through Strait of Hormuz, potentially driving up gas prices for American consumers. The new battleground in the Gulf isnt just on the water its in the insurance market, where war-risk coverage can determine which oil tankers sail and which stay put. With the conflict driving gasoli…
@@ -45,7 +149,7 @@ War-risk insurance costs surge as conflict threatens oil shipments through Strai
 [Read Original Article Here](https://www.foxnews.com/politics/unlikely-tool-trump-eyeing-tackle-rising-oil-prices-amid-iran-conflict)
 ---
 
-## Article 6: Iran war threatens prolonged impact on energy markets as oil prices rise
+## Article 19: Iran war threatens prolonged impact on energy markets as oil prices rise
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.7964`
 
 The conflict has already led to the suspension of almost a fifth of global crude oil and natural gas supply. The United States-Israeli war on Iran could leave consumers and businesses worldwide facing weeks or months of higher fuel prices even if the conflict, which is now in its eighth day, ends quickly, a…
@@ -53,115 +157,11 @@ The conflict has already led to the suspension of almost a fifth of global crude
 [Read Original Article Here](https://www.aljazeera.com/news/2026/3/8/iran-war-threatens-prolonged-impact-on-energy-markets-as-oil-prices-rise)
 ---
 
-## Article 7: BBC mistranslates Pete Hegseth's speech on Iran, mistakenly swaps Iranian 'regime' to Iranian 'people'
+## Article 20: BBC mistranslates Pete Hegseth's speech on Iran, mistakenly swaps Iranian 'regime' to Iranian 'people'
 **Source:** Fox News | **Sentiment Score:** `-0.7184`
 
 The BBC's mistranslation of War Secretary Pete Hegseth's Monday speech about Iran changed "regime" to "people" in Persian broadcast, making it appear the U.S. targeted Iranian citizens. The British Broadcasting Corporation (BBC) Persian mistranslated part of Secretary of War Pete Hegseth's Monday speech on Iran, making it appear that the United States was targeting the Iranian "peop…
 
 [Read Original Article Here](https://www.foxnews.com/media/bbc-mistranslates-pete-hegseths-speech-iran-mistakenly-swaps-iranian-regime-iranian-people)
----
-
-## Article 8: Tech company at odds with Pentagon warns its AI possibly gained consciousness, Elon Musk gives 2-word response
-**Source:** Fox News | **Sentiment Score:** `-0.1436`
-
-Elon Musk accused Anthropic CEO Dario Amodei of "projecting" after Amodei said in an interview that, "We don’t know if the models are conscious." SpaceX and Tesla CEO Elon Musk gave a two-word retort after Anthropic leader Dario Amodei claimed in an interview that he isnt sure if his companys AI models have gained consciousness. "Anthropic CE…
-
-[Read Original Article Here](https://www.foxnews.com/politics/tech-company-odds-pentagon-warns-its-ai-possibly-gained-consciousness-elon-musk-issues-two-word-response)
----
-
-## Article 9: BROADCAST BIAS: From 'without evidence' to war panic, the media target Trump and America
-**Source:** Fox News | **Sentiment Score:** `-0.5466`
-
-President Trump's military actions in Iran have been under repeated attack from the broadcast networks. The legacy media seems fine with offering a propaganda platform to the enemy. In his second term, President Donald Trump has been more aggressive in attacking Americas enemies than he was in his first term. But whenever this commander in chief approves military action, the bro…
-
-[Read Original Article Here](https://www.foxnews.com/opinion/broadcast-bias-without-evidence-war-panic-media-target-trump-america)
----
-
-## Article 10: Cuba closes Quito embassy after Ecuador’s Daniel Noboa expels its diplomats
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.0516`
-
-Noboa's government gave Cuba's diplomats 48 hours to leave Ecuador, though it did not provide an explanation. Cuba has shuttered its embassy in the Ecuadorian capital of Quito, after it was given 48 hours to withdraw its diplomatic personnel. In a communique published on Friday, the Cuban Ministry of Foreig…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/3/6/cuba-closes-quito-embassy-after-ecuadors-daniel-noboa-expels-its-diplomats)
----
-
-## Article 11: Trump admin hits back at ex-California mayor's call for federal guaranteed income as cities hand out cash
-**Source:** Fox News | **Sentiment Score:** `0.0000`
-
-Michael D. Tubbs, founder of Mayors for a Guaranteed Income, advocated for federal cash assistance while Trump administration opposes such initiatives as unnecessary handouts. The Trump administration punched back at the founder of the Mayors for a Guaranteed Income organization, saying that Democratic mayors should prioritize other issues within their city instead of issu…
-
-[Read Original Article Here](https://www.foxnews.com/media/trump-admin-hits-back-ex-california-mayors-call-federal-guaranteed-income-cities-hand-out-cash)
----
-
-## Article 12: US issues limited licence for Venezuelan gold following high-level visit
-**Source:** Al Jazeera English | **Sentiment Score:** `0.4939`
-
-The licence follows a push from US President Donald Trump to open Venezuela's resource sector to outside investment. The United States government has authorised a limited licence for the export of Venezuelan gold, following a high-level meeting to expand mining in the country. On Friday, a notice appeared on the U…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/3/6/us-issues-limited-licence-for-venezuelan-gold-following-high-level-visit)
----
-
-## Article 13: Shadow fleet under fire: Iran’s strait shutdown could squeeze Russia’s war chest, China’s oil lifeline
-**Source:** Fox News | **Sentiment Score:** `-0.8360`
-
-Iran's military strikes reportedly threaten shadow oil networks, potentially raising energy costs for Russia and China amid ongoing international sanctions. Tehrans strike campaign threatens to disrupt shadow shipping networks and sanctions-evasion routes, raising energy costs for Moscow and Beijing and potentially squeezing Russias war funding and China…
-
-[Read Original Article Here](https://www.foxnews.com/politics/shadow-fleet-under-fire-irans-strait-shutdown-could-squeeze-russias-war-chest-chinas-oil-lifeline)
----
-
-## Article 14: US job market stalls, unemployment rate rises before Fed decision
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.6369`
-
-The healthcare sector was hit the hardest , while tariff-exposed sectors remained stagnant . The United States economy unexpectedly lost 92,000 jobs in February, and the unemployment rate ticked up to 4.4 percent, marking the sixth contraction of the US job market of the Trump administration…
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/3/6/us-job-market-stalls-unemployment-rate-rises-before-fed-decision)
----
-
-## Article 15: In a bid to counter China, Trump hosts a summit for Latin America leaders
-**Source:** Al Jazeera English | **Sentiment Score:** `0.8020`
-
-Experts say Trump must offer 'tangible economic benefits' to Latin America to curb China's growth in the region. Over the past two decades, China has quietly eclipsed the United States as the dominant trading partner in parts of Latin America. But since taking office for a second term, United States President …
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/3/6/in-a-bid-to-counter-china-trump-hosts-a-summit-for-latin-america-leaders)
----
-
-## Article 16: MARGARET SPELLINGS: AI is here — and America's schools aren't preparing our kids to survive it
-**Source:** Fox News | **Sentiment Score:** `0.7351`
-
-Bipartisan Policy Center releases blueprint for workforce reform featuring talent advisory council and portable credentials to address AI challenges. Hardly a day passes without a new headline about the potential for artificial intelligence to dramatically change the workforce and the economy. AI can write code and generate photorealistic images. …
-
-[Read Original Article Here](https://www.foxnews.com/opinion/margaret-spellings-ai-here-americas-schools-arent-preparing-our-kids-survive)
----
-
-## Article 17: Is BRICS bloc divided over US-Israel attacks on Iran?
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.6240`
-
-Since India took over as chair, the normally outspoken BRICS grouping appears to be more cautious. Nearly a week into the United States-Israel war on Iran and the BRICS bloc, a multi-country alliance that includes Tehran, has not reacted in any form to the conflict. To analysts and political obse…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/3/6/is-brics-bloc-divided-over-us-israel-attacks-on-iran)
----
-
-## Article 18: US Submarine strike in the Indian Ocean raises risks for Asia
-**Source:** Bloomberg | **Sentiment Score:** `-0.4767`
-
-The presence of a US submarine conducting lethal operations near friendly nations such as India raises questions about how insulated Asia’s sea lanes are from outside threats The US submarine strike on an Iranian warship in the Indian Ocean marked a sharp escalation in the war between the two nations, raising fresh security and economic risks for governments across the In…
-
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-03-06/us-submarine-strike-in-the-indian-ocean-raises-risks-for-asia)
----
-
-## Article 19: Morgan Stanley turns more cautious on Asian stocks, cuts India
-**Source:** Bloomberg | **Sentiment Score:** `-0.8775`
-
-The strategists downgraded India from overweight to equal-weight in their latest reshuffle, citing the country as one of the Asian markets most exposed to potential Qatari LNG supply disruptions Morgan Stanley is adopting a more cautious stance on Asian equities, trimming its India exposure on concerns that the Iran war may disrupt supply chains if oil flows through the Strait of Hormuz fail…
-
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-03-06/morgan-stanley-turns-more-cautious-on-asian-stocks-cuts-india)
----
-
-## Article 20: Gold set for weekly loss as Dollar strength offsets war premium
-**Source:** Bloomberg | **Sentiment Score:** `-0.8704`
-
-Bullion rose as much as 1.2% to break above $5,100 an ounce, though was headed for a weekly loss of nearly 3% Gold recaptured some losses but remained on track for the first weekly decline in more than a month, pressured by a stronger US dollar and inflationary risks tied to the ongoing war in West Asia. Bu…
-
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-03-05/gold-steadies-as-firmer-dollar-offsets-middle-east-risk-premium)
 ---
 
