@@ -1,11 +1,99 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-03-13 | **Status:** Automated
+**Date:** 2026-03-14 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: Southeast Asia shuts offices, limits travel as oil crisis deepens
+## Article 1: Poor in an oil-rich country: Republic of Congo’s youth hope for change
+**Source:** Al Jazeera English | **Sentiment Score:** `0.3182`
+
+In an oil-producing country where 60 percent of people are under 25, nearly half the population lives in poverty. Pointe-Noire and Brazzaville, Republic of Congo In Pointe-Noire, the economic capital of the Republic of Congo, the aisles of the Grand Marche come alive in the early hours of the morning. Among the …
+
+[Read Original Article Here](https://www.aljazeera.com/features/2026/3/13/poor-in-an-oil-rich-country-republic-of-congos-youth-hope-for-change)
+---
+
+## Article 2: Global oil prices stay above $100 despite US temporarily lifting sanctions on Russian oil stranded at sea
+**Source:** CNN | **Sentiment Score:** `-0.6808`
+
+Global oil prices stayed above $100 a barrel Thursday, shrugging off the Trump administration’s earlier decision to temporarily allow the delivery and sale of sanctioned seaborne Russian crude – a waiver aimed at mitigating a surge in prices following its att… Global oil prices stayed above $100 a barrel Thursday, shrugging off the Trump administrations earlier decision to temporarily allow the delivery and sale of sanctioned seaborne Russian crude a waive…
+
+[Read Original Article Here](https://www.cnn.com/2026/03/13/energy/us-russia-sanctions-relief-oil-hnk-intl)
+---
+
+## Article 3: Pentagon and National Security Council underestimated Iran war’s impact on Strait of Hormuz
+**Source:** CNN | **Sentiment Score:** `-0.0258`
+
+The Pentagon and National Security Council significantly underestimated Iran’s willingness to close the Strait of Hormuz in response to US military strikes while planning the ongoing operation, according to multiple sources familiar with the matter. The Pentagon and National Security Council significantly underestimated Irans willingness to close the Strait of Hormuz in response to US military strikes while planning the ongoing operation, accord…
+
+[Read Original Article Here](https://www.cnn.com/2026/03/12/politics/hormuz-trump-administration-underestimated-iran)
+---
+
+## Article 4: Somalia warns against any Israeli base plans on Somaliland
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.4939`
+
+Somali minister tells Al Jazeera Israeli base plans in Somaliland risk dragging Somalia into 'external confrontations'. Somalia has warned that its territory cannot be used as a launching pad for military operations, after two media reports that said Israel is planning to establish a military base in the breakaway reg…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/3/12/somalia-warns-against-any-israeli-base-plans-on-somaliland)
+---
+
+## Article 5: Trump-backed affordable housing overhaul clears Senate, while House GOP raises red flags
+**Source:** Fox News | **Sentiment Score:** `0.3071`
+
+Major affordable housing legislation advanced through the Senate with measures to help first-time buyers, while critics raised build-to-rent supply concerns. A massive bipartisan swell advanced a Trump-backed affordable housing package out of the Senate on Thursday, but its fate in the House is up in the air. The bill, renamed the 21st Century ROAD to Ho…
+
+[Read Original Article Here](https://www.foxnews.com/politics/trump-backed-affordable-housing-overhaul-clears-senate-while-house-gop-raises-red-flags)
+---
+
+## Article 6: Caught in the crossfire: US-Israel war on Iran fractures Gulf economies
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.7579`
+
+As Hormuz chokes and defence costs soar, Gulf states absorb crippling financial fallout of the US-Israel war on Iran. For decades, the Gulf Cooperation Council (GCC) states invested trillions of dollars to transform their oil-dependent economies into diversified global hubs. Today, those blueprints are under severe…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/3/12/caught-in-the-crossfire-us-israel-war-on-iran-fractures-gulf-economies)
+---
+
+## Article 7: Can Iran’s asymmetric warfare hold US-Israeli military power at bay?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.8602`
+
+Iran has resorted to unconventional tactics in its retaliatory strikes against the US and Israel. Despite United States President Donald Trumps repeated declarations of victory in the US-Israeli war on Iran, Tehrans retaliatory strikes on Israel and US military assets in the region have continued…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/3/12/can-irans-asymmetric-warfare-hold-us-israeli-military-power-at-bay)
+---
+
+## Article 8: Pentagon rushes counter-drone tech as Iranian swarms strain missile defenses and more top headlines
+**Source:** Fox News | **Sentiment Score:** `0.8892`
+
+Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox. Good morning and welcome to Fox News' morning newsletter, Fox News First. And here's what you need to know to start your day ... TOP 3 1. Pentagon rushes counter-drone tech as Iranian swarms strain…
+
+[Read Original Article Here](https://www.foxnews.com/us/pentagon-rushes-counter-drone-tech-as-iranian-swarms-strain-missile-defenses-more-top-headlines)
+---
+
+## Article 9: STEVE MOORE: Five energy truths the media ignore as America’s oil boom blunts the Iran war’s impact
+**Source:** Fox News | **Sentiment Score:** `-0.7650`
+
+United States achieves energy independence with highest oil production ever recorded, reducing Middle East reliance as conflicts disrupt global supply chains. Given the energy disruptions in the Middle East since the start of the war with Iran and the topsy-turvy fluctuations in the price of crude oil ever since, here are five facts Americans should be awa…
+
+[Read Original Article Here](https://www.foxnews.com/opinion/steve-moore-five-energy-truths-media-ignore-americas-oil-boom-blunts-iran-wars-impact)
+---
+
+## Article 10: From Camelot to ‘outsider’: JFK’s grandson shakes up NYC House race taking aim at gatekeeping Dem 'machine'
+**Source:** Fox News | **Sentiment Score:** `0.2944`
+
+JFK's only grandson Jack Schlossberg runs outsider Congress campaign in NYC, challenging establishment despite Kennedy family ties in Democratic primary. Jack Schlossberg, the only grandson of former President John F. Kennedy, is running for Congress in New York City, where he says, despite being a member of arguably the most prominent political famil…
+
+[Read Original Article Here](https://www.foxnews.com/politics/from-camelot-to-outsider-jfks-grandson-shakes-up-nyc-house-race-taking-aim-at-gatekeeping-dem-machine)
+---
+
+## Article 11: Trump endorses Texas congressional candidate after rival drops out over affair scandal
+**Source:** Fox News | **Sentiment Score:** `0.5859`
+
+President Donald Trump endorsed Texas Republican Brandon Herrera after Rep. Tony Gonzales bowed out of the race amid a House Ethics investigation into an admitted affair with a former staffer. President Donald Trump on Wednesday endorsed Texas Republican Brandon Herrera after his primary rival exited the race amid an ethics investigation into an admitted affair with a former staffer. Herr…
+
+[Read Original Article Here](https://www.foxnews.com/politics/trump-endorses-brandon-herrera-texas-23-gonzales-ethics-exit)
+---
+
+## Article 12: Southeast Asia shuts offices, limits travel as oil crisis deepens
 **Source:** Al Jazeera English | **Sentiment Score:** `0.5423`
 
 Countries such as Indonesia and Vietnam heavily depend on fuel imports and have limited energy reserves. Taipei, Taiwan Governments and businesses across Southeast Asia are scrambling to stave off energy shortages as the Strait of Hormuz remains shut to maritime traffic, amid the fallout of the United S…
@@ -13,7 +101,7 @@ Countries such as Indonesia and Vietnam heavily depend on fuel imports and have 
 [Read Original Article Here](https://www.aljazeera.com/news/2026/3/12/southeast-asia-shuts-offices-limits-travel-as-oil-crisis-deepens)
 ---
 
-## Article 2: Bipartisan housing push advances, but Trump-backed investor ban faces resistance
+## Article 13: Bipartisan housing push advances, but Trump-backed investor ban faces resistance
 **Source:** Fox News | **Sentiment Score:** `-0.3818`
 
 Some Senate Democrats and industry groups oppose institutional investor ban in housing bill, arguing the provision would eliminate build-to-rent units and reduce rental supply options. The Senate moved closer Wednesday to advancing a sweeping housing package aimed at boosting affordability, but a Trump-backed provision banning institutional investors from buying single-family homes…
@@ -21,7 +109,7 @@ Some Senate Democrats and industry groups oppose institutional investor ban in h
 [Read Original Article Here](https://www.foxnews.com/politics/bipartisan-housing-push-advances-trump-backed-investor-ban-faces-resistance)
 ---
 
-## Article 3: Chile’s new president has praised Pinochet, a dictator. What does it mean?
+## Article 14: Chile’s new president has praised Pinochet, a dictator. What does it mean?
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.6597`
 
 Experts say the views of newly inaugurated president Jose Antonio Kast reflect deep dissatisfaction with the status quo. It was a symbol hiding in plain sight. On February 24, two weeks before his inauguration as Chiles president, Jose Antonio Kast unveiled his official portrait. The photo showed the 60-year-old leade…
@@ -29,7 +117,7 @@ Experts say the views of newly inaugurated president Jose Antonio Kast reflect d
 [Read Original Article Here](https://www.aljazeera.com/news/2026/3/11/chiles-new-president-has-praised-pinochet-a-dictator-what-does-it-mean)
 ---
 
-## Article 4: The Israel-Hezbollah ceasefire was built to fail
+## Article 15: The Israel-Hezbollah ceasefire was built to fail
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.8509`
 
 Israeli attacks never stopped, and the mechanism meant to police violations had no power to stop them. The resumption of hostilities between Israel and Hezbollah has surprised few who have been watching closely. The question was never whether conflict would return, only when. The arrangements that fol…
@@ -37,7 +125,7 @@ Israeli attacks never stopped, and the mechanism meant to police violations had 
 [Read Original Article Here](https://www.aljazeera.com/opinions/2026/3/11/the-israel-hezbollah-ceasefire-was-built-to-fail)
 ---
 
-## Article 5: US destroys 16 Iranian mine boats as Strait of Hormuz oil showdown escalates
+## Article 16: US destroys 16 Iranian mine boats as Strait of Hormuz oil showdown escalates
 **Source:** Fox News | **Sentiment Score:** `-0.8834`
 
 U.S. forces destroyed 16 Iranian mine-laying vessels near Strait of Hormuz as oil traffic stalls through the critical shipping corridor amid rising tensions. U.S. forces destroyed 16 Iranian mine-laying vessels near the Strait of Hormuz Tuesday, U.S. Central Command said, in what officials described as a move to prevent Tehran, Iran, from disrupting one o…
@@ -45,7 +133,7 @@ U.S. forces destroyed 16 Iranian mine-laying vessels near Strait of Hormuz as oi
 [Read Original Article Here](https://www.foxnews.com/politics/us-destroys-16-iranian-mine-boats-strait-hormuz-oil-showdown-escalates)
 ---
 
-## Article 6: House GOP urges Trump to choke off Iran ally's oil profits as Middle East turmoil spikes US gas prices
+## Article 17: House GOP urges Trump to choke off Iran ally's oil profits as Middle East turmoil spikes US gas prices
 **Source:** Fox News | **Sentiment Score:** `-0.2500`
 
 House Republicans are urging President Trump to block profits from a major Russian oil company as Iran turmoil pushes gas prices higher across the U.S. FIRST ON FOX: A group of House Republicans is urging the Trump administration to choke off Russia's profits from one of its largest energy companies as global oil prices spike. It comes as the U.S. …
@@ -53,7 +141,7 @@ House Republicans are urging President Trump to block profits from a major Russi
 [Read Original Article Here](https://www.foxnews.com/politics/house-gop-urges-trump-choke-off-iran-allys-oil-profits-middle-east-turmoil-spikes-us-gas-prices)
 ---
 
-## Article 7: ‘Nothing changes’: Four decades in power, Congo’s Nguesso seeks a new term
+## Article 18: ‘Nothing changes’: Four decades in power, Congo’s Nguesso seeks a new term
 **Source:** Al Jazeera English | **Sentiment Score:** `0.0644`
 
 Is Brazzaville's stability a result of gradual democratic consolidation or carefully organised political continuity? Brazzaville, Republic of Congo On main roads and public squares across the Congolese capital, posters are up featuring the seven main candidates vying for president. But at the Moukondo Market in Br…
@@ -61,7 +149,7 @@ Is Brazzaville's stability a result of gradual democratic consolidation or caref
 [Read Original Article Here](https://www.aljazeera.com/features/2026/3/11/nothing-changes-four-decades-in-power-congos-nguesso-seeks-a-new-term)
 ---
 
-## Article 8: Attacks from all sides: Why Iraq was dragged into US-Israel war on Iran
+## Article 19: Attacks from all sides: Why Iraq was dragged into US-Israel war on Iran
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.8316`
 
 Iraq has seen attacks from both sides of the conflict: Iran and its proxies on the one side and the US on the other. Within hours of the United States-Israeli attacks on Iran, US assets in Iraqs Kurdistan region came under retaliatory attacks from Tehran-backed groups, dragging the country into the conflict that ha…
@@ -69,99 +157,11 @@ Iraq has seen attacks from both sides of the conflict: Iran and its proxies on t
 [Read Original Article Here](https://www.aljazeera.com/news/2026/3/11/attacks-from-all-sides-why-iraq-was-dragged-into-us-israel-war-on-iran)
 ---
 
-## Article 9: Airlines may cut flight schedules as Iran tensions drive up fuel costs, experts warn
+## Article 20: Airlines may cut flight schedules as Iran tensions drive up fuel costs, experts warn
 **Source:** Fox News | **Sentiment Score:** `-0.7096`
 
 The Iran conflict is threatening to drive up airfares as fuel costs surge. Travel experts urge booking spring and summer trips early while fares remain affordable. As the Iran conflict disrupts energy markets and squeezes jet-fuel supplies, there is a concern that airfares could rise in the weeks ahead. Fuel traders are watching the Strait of Hormuz closely, a…
 
 [Read Original Article Here](https://www.foxnews.com/travel/airlines-may-cut-flight-schedules-iran-tensions-drive-up-fuel-costs)
----
-
-## Article 10: Which countries have seen the highest petrol prices since the Iran war?
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.8126`
-
-At least 85 countries have reported petrol price rises since the attacks on Iran by the US and Israel on February 28. Motorists around the globe are already feeling the impact of the United States and Israels war on Iran, with fuel prices sharply rising since the war began. In the US, a gallon of regular petrol tha…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/3/11/which-countries-have-seen-the-highest-petrol-prices-since-the-iran-war)
----
-
-## Article 11: REPS. FINE, SELF, HARRIS, Enough is enough: We'll block the Senate until the SAVE Act passes
-**Source:** Fox News | **Sentiment Score:** `0.7154`
-
-House Republicans threaten to block Senate legislation until Majority Leader John Thune passes the SAVE America Act requiring voter ID and citizenship proof for elections. Wednesday marks one month since House Republicans took a bold stand for the soul of our democracy by passing the SAVE America Act. This common-sense legislation requires proof of citizenship to vote…
-
-[Read Original Article Here](https://www.foxnews.com/opinion/reps-fine-self-harris-enough-is-enough-well-block-senate-until-save-act-passes)
----
-
-## Article 12: Global banks push back on India’s offshore rupee reporting plan
-**Source:** Bloomberg | **Sentiment Score:** `0.0258`
-
-Banks say reporting requirements could breach client confidentiality and clash with overseas data rules Global lenders pushed back against a proposal by the Reserve Bank of India (RBI) for more reporting of offshore rupee trades, according to people familiar with the matter. Banks told the RBI the pro…
-
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-03-11/inr-usd-global-banks-push-back-on-india-s-offshore-fx-reporting-plan)
----
-
-## Article 13: The ‘orphan pearl’: Inside Kharg, the beating heart of Iran’s oil empire
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.6908`
-
-On Iran's 'Forbidden Island' of Kharg, ancient ruins sit beside the nerve centre of the nation's oil empire. Beneath the scorching sun of the Gulf, the rhythmic hum of millions of barrels of crude oil rushing through subsea pipelines vibrates against ancient coral rock. Here, the celebrated Iranian writer …
-
-[Read Original Article Here](https://www.aljazeera.com/features/2026/3/11/the-orphan-pearl-inside-kharg-the-beating-heart-of-irans-oil-empire)
----
-
-## Article 14: Qatar’s foreign minister says ‘regional countries are not an enemy of Iran’
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.7351`
-
-Mohammed bin Abdulaziz al-Khulaifi also says Qatar and Oman cannot act as mediators while under attack. Qatars minister of state for foreign affairs has called for a de-escalation in hostilities across the Middle East and urged Iran and the US to return to the negotiation table for a mediated solution.…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/3/11/qatars-foreign-minister-says-keeping-strait-of-hormuz-open-is-critical)
----
-
-## Article 15: Oil prices swing wildly amid mixed messages over Iran war
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.7650`
-
-Crude oil prices fall sharply as energy markets remain on tenterhooks over effective closure of the Strait of Hormuz. Oil prices are seeing dramatic swings as traders struggle to make sense of mixed messages about the impact of the United States and Israels war on Iran. Brent crude, the international benchmark, on …
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/3/11/oil-prices-swing-wildly-amid-mixed-messages-over-iran-war)
----
-
-## Article 16: McIntosh: Midterms a choice between Trump’s ‘great progress’ and ‘socialists back in’
-**Source:** Fox News | **Sentiment Score:** `0.6486`
-
-The fiscally conservative group Club for Growth plans $175 million midterm spending to help Republicans keep House and Senate majorities, targeting Trump voters who may skip midterms. PALM BEACH, Fla. As Republicans aim to hold their fragile House and Senate majorities in the 2026 midterm elections, they've got an ally in the politically potent and deep-pocketed fiscally conservat…
-
-[Read Original Article Here](https://www.foxnews.com/politics/mcintosh-midterms-choice-between-trumps-great-progress-letting-socialists-back)
----
-
-## Article 17: Trump ally endorses Paxton over Cornyn as GOP Senate primary heads to high-stakes Texas runoff
-**Source:** Fox News | **Sentiment Score:** `-0.2960`
-
-GOP Rep. Eric Burlison of Missouri endorsed Texas Attorney General Ken Paxton in a Lone Star State Republican U.S. Senate primary runoff. Rep. Eric Burlison, R-Mo., is endorsing Texas Attorney General Ken Paxton for U.S. Senate. Paxton is facing off against incumbent Sen. John Cornyn, R-Texas, in the Lone Star State's GOP U.S. Senate …
-
-[Read Original Article Here](https://www.foxnews.com/politics/trump-ally-endorses-paxton-over-cornyn-gop-senate-primary-heads-high-stakes-texas-runoff)
----
-
-## Article 18: Cuban activist to Trump: ‘Make Cuba great again’ by ending communist rule
-**Source:** Fox News | **Sentiment Score:** `-0.9001`
-
-Cuban activist Rosa María Payá appeals directly to Trump for support as Cuba faces rolling blackouts and food shortages amid deepening humanitarian crisis. As Cuba faces rolling blackouts, food shortages and renewed protests, Cuban human rights activist Rosa María Payá is warning in an interview to Fox News Digital that the islands deepening crisis cann…
-
-[Read Original Article Here](https://www.foxnews.com/world/cuban-activist-trump-make-cuba-great-again-ending-communist-rule)
----
-
-## Article 19: ‘Our hearts were shaking’: Tehran residents endure heavy Israel-US bombing
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.3415`
-
-The latest attacks come a day after bombing of fuel reserves created thick plumes of smoke that turned day into night. Tehran, Iran The Iranian capital has experienced one of its most intense nights of bombardment by the United States and Israel since the start of the war 10 days ago as numerous areas of the sprawlin…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/3/10/our-hearts-were-shaking-tehran-residents-endure-heavy-israel-us-bombing)
----
-
-## Article 20: How will soaring oil prices caused by Iran war impact food prices?
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.3400`
-
-Oil and gas are not just fuel, they are raw materials for thousands of products, including fertilisers used in farming. For the first time since Russias 2022 invasion of Ukraine, the price of oil skyrocketed past $100 per barrel this week, driven by ongoing energy uncertainty after the United States and Israels war on…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/3/10/how-will-soaring-oil-prices-caused-by-iran-war-impact-food-prices)
 ---
 
