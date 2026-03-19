@@ -1,11 +1,131 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-03-18 | **Status:** Automated
+**Date:** 2026-03-19 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: Nigeria’s first state visit since 1989: President Bola Tinubu heads to UK
+## Article 1: The oil logic behind Trump’s war on Iran
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.1655`
+
+The Kharg Island strike shows how US force is calibrated to avoid disrupting global oil flows. The United States and Israel say their escalating military assault on Iran is about nuclear proliferation, deterrence and regional security. But recent developments suggest another, older logic at wo…
+
+[Read Original Article Here](https://www.aljazeera.com/opinions/2026/3/18/the-oil-logic-behind-trumps-war-on-iran)
+---
+
+## Article 2: Qatar can keep goods flowing amid tensions, customs chief says
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.8856`
+
+Qatar has no reason to worry about goods shortages or disruptions to supply chains despite heightened regional tensions. Qatar has no reason to worry about shortages of goods or disruptions to its supply chains despite heightened regional tensions, the head of the countrys customs authority has told Al Jazeera, saying …
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/3/18/qatar-can-keep-goods-flowing-amid-tensions-customs-chief-says)
+---
+
+## Article 3: Trump confirms meeting with China’s Xi Jinping delayed as war on Iran rages
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.2960`
+
+US President Donald Trump delays his trip to Beijing while also seeking China's help to reopen the Strait of Hormuz. US President Donald Trump has confirmed he is delaying plans to meet with Chinese President Xi Jinping at the end of the month, as the US-Israeli war on Iran continues to consume most of Washingtons …
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/3/18/trump-delays-meeting-with-chinas-xi-jinping-as-war-on-iran-rages)
+---
+
+## Article 4: Illinois Republicans select Don Tracy in primary elections for Sen. Durbin's seat
+**Source:** Fox News | **Sentiment Score:** `-0.6808`
+
+Illinois Republicans chose their nominee for Dick Durbin's open Senate seat, setting up November showdown in traditionally Democrat-dominated state. Illinois Republicans on Tuesday selected Don Tracy as their nominee for the open U.S. Senate seat created by Sen. Dick Durbin s retirement, sending them into a general election race in a state Democ…
+
+[Read Original Article Here](https://www.foxnews.com/politics/illinois-republicans-select-don-tracy-primary-elections-sen-durbins-seat)
+---
+
+## Article 5: Rubio says Cuba needs ‘new people in charge’ as blackouts, unrest grip island
+**Source:** Fox News | **Sentiment Score:** `-0.9042`
+
+Marco Rubio links U.S. sanctions on Cuba to political change as the island nation faces widespread blackouts and economic crisis affecting millions of citizens. Secretary of State Marco Rubio said Tuesday that U.S. sanctions on Cuba are tied to political change on the island, as the country faces widespread blackouts, unrest and a worsening economic crisis.…
+
+[Read Original Article Here](https://www.foxnews.com/world/rubio-says-cuba-needs-new-people-charge-blackouts-unrest-grip-island)
+---
+
+## Article 6: Rubio says Cuba needs to ‘get new people in charge’ as US ratchets pressure
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.2551`
+
+Washington continues to block fuel to island nation, as Trump floats 'doing something with Cuba very soon'. United States Secretary of State Marco Rubio has said that Cuba has to get new people in charge, and the administration of US President Donald Trump continues to heap pressure on the island nation. …
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/3/17/rubio-says-cuba-needs-to-get-new-people-in-charge-as-us-ratchets-pressure)
+---
+
+## Article 7: Colombia’s Petro accuses Ecuador of bombing near border
+**Source:** Al Jazeera English | **Sentiment Score:** `0.0000`
+
+Leaders of Colombia and Ecuador trade allegations after Gustavo Petro says 27 charred bodies found on country's border. Bogota, Colombia Colombian President Gustavo Petro has said that 27 charred bodies were discovered on his countrys joint border with Ecuador, just one day after suggesting the Ecuadorean military may…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/3/17/colombias-petro-accuses-ecuador-of-bombing-near-border)
+---
+
+## Article 8: Trump promised lower costs; the Iran conflict now threatens that pledge
+**Source:** Fox News | **Sentiment Score:** `-0.8126`
+
+The Federal Reserve weighs interest rate cuts as the Iran war complicates the inflation fight. Rising oil prices have created a challenging policy dilemma for the central bank. President Donald Trump  was already eager for a Federal Reserve rate cut. If there were ever a moment for him to want one even more, it would be Wednesday, but his war with Iran may have blown it, d…
+
+[Read Original Article Here](https://www.foxnews.com/politics/trump-promised-lower-costs-iran-conflict-now-threatens-pledge)
+---
+
+## Article 9: US lawmakers Murphy, Casar push legislation to regulate prediction markets
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.5106`
+
+The legislation aims to prevent bets made based on insider knowledge of wars, economic policy and controllable events. United States Senator Chris Murphy and House Representative Greg Casar are set to introduce legislation to rein in prediction markets after bettors cashed in on geopolitical conflicts, including the …
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/3/17/us-lawmakers-murphy-casar-push-legislation-to-regulate-prediction-markets)
+---
+
+## Article 10: NYC $30 minimum wage proposal pushed by Mamdani would 'obliterate' certain industries: expert warns
+**Source:** Fox News | **Sentiment Score:** `-0.1280`
+
+NYC council considers controversial $30 minimum wage proposal that has local businesses and economists warning of major economic consequences for workers. The city council in New York City is weighing a proposal to boost the minimum wage to up to $30 a move that newly elected Mayor Zohran Mamdani signaled that he would sign on the campaign trail causin…
+
+[Read Original Article Here](https://www.foxnews.com/politics/nyc-30-minimum-wage-proposal-pushed-by-mamdani-would-obliterate-certain-industries-expert-warns)
+---
+
+## Article 11: Why aren’t gold prices rising, despite Iran war uncertainty?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.9098`
+
+Gold holds steady despite war and rising oil prices, as recent volatility and a strong dollar reduce its appeal. As the war on Iran entered its 18th day on Tuesday, the price of gold, usually considered the safe-haven asset in times of uncertainty, has remained unexpectedly steady. Since the United States and …
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/3/17/why-arent-gold-prices-rising-despite-iran-war-uncertainty)
+---
+
+## Article 12: 'Below Deck' Captain Sandy says she and wife lost 'all of our money' in alleged $1.6M contractor scam
+**Source:** Fox News | **Sentiment Score:** `-0.8910`
+
+"Below Deck" star Captain Sandy Yawn reveals she lost "all of our money" in alleged contractor scam. Spencer Calvert accused of defrauding 13 families. "Below Deck" star Captain Sandy Yawn and wife Leah Shafer spoke out about their ongoing legal battle against their former contractor, Spencer Calvert. Yawn revealed how much money they lost in the a…
+
+[Read Original Article Here](https://www.foxnews.com/entertainment/below-deck-captain-sandy-says-she-wife-lost-all-our-money-alleged-1-6m-contractor-scam)
+---
+
+## Article 13: House GOP rushes to court critical voting bloc while facing uphill midterm battle
+**Source:** Fox News | **Sentiment Score:** `0.2023`
+
+Rep. Lisa McClain hits the trail in Florida to sell the GOP’s economic vision, arguing that Hispanic support for Trump's "big, beautiful bill" will help defy election history. FIRST ON FOX: House Republicans are making their case to a critical voting bloc ahead of an election cycle that's expected to see the GOP fight an uphill battle to keep control of Congress. House GO…
+
+[Read Original Article Here](https://www.foxnews.com/politics/house-gop-rushes-court-critical-voting-bloc-while-facing-uphill-midterm-battle)
+---
+
+## Article 14: Why Gulf states aren’t joining the war against Iran — despite attacks on their soil
+**Source:** Fox News | **Sentiment Score:** `0.2760`
+
+Gulf states maintain restraint despite reported Iranian attacks on Saudi Arabia, UAE, Bahrain, Qatar and Kuwait, prioritizing regional stability. Even as Iran expands attacks across the Persian Gulf, several of the countries directly targeted are still refusing to join the fight against Iran, opting instead for restraint and diplomacy. Gulf go…
+
+[Read Original Article Here](https://www.foxnews.com/world/why-gulf-states-arent-joining-war-against-iran-despite-attacks-soil)
+---
+
+## Article 15: Gulf economies suffer brunt of Iran war as recession risk looms
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.9231`
+
+From energy exports to tourism, the economies of Gulf nations are at risk from a prolonged conflict in the Middle East. As the economic fallout of the United States and Israels war with Iran reverberates across the globe, the economies of the Gulf are suffering some of the worst damage. Iran has launched continuous a…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/3/17/gulf-economies-suffer-brunt-of-iran-war-as-recession-risk-looms)
+---
+
+## Article 16: Nigeria’s first state visit since 1989: President Bola Tinubu heads to UK
 **Source:** Al Jazeera English | **Sentiment Score:** `0.6304`
 
 British pomp and pageantry await the Nigerian leader, but some in the diaspora are sceptical about his trip. London, United Kingdom When Nigerian President Bola Tinubu arrives in the UK this week, the visit will carry more than ceremonial significance. It will be the first state visit by a Nigerian leader t…
@@ -13,7 +133,7 @@ British pomp and pageantry await the Nigerian leader, but some in the diaspora a
 [Read Original Article Here](https://www.aljazeera.com/news/2026/3/17/nigerias-first-state-visit-since-1989-president-bola-tinubu-heads-to-uk)
 ---
 
-## Article 2: Inside Qeshm, Iran’s underground missile fortress and geological marvel
+## Article 17: Inside Qeshm, Iran’s underground missile fortress and geological marvel
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.7717`
 
 From the Valley of Stars to underground missiles, Qeshm Island is strategic ground zero for the US-Israel war on Iran. Beneath the labyrinthine salt caves and emerald mangrove forests of Qeshm Island in the Strait of Hormuz, a different kind of architecture lies buried. While tourists once flocked to this open-air g…
@@ -21,7 +141,7 @@ From the Valley of Stars to underground missiles, Qeshm Island is strategic grou
 [Read Original Article Here](https://www.aljazeera.com/features/2026/3/17/inside-qeshm-irans-underground-missile-fortress-and-geological-marvel)
 ---
 
-## Article 3: Iran’s neighbours brace for fallout as war threatens new refugee crisis
+## Article 18: Iran’s neighbours brace for fallout as war threatens new refugee crisis
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.9169`
 
 As war engulfs Iran, neighbouring states quietly prepare for a potential refugee exodus across already fragile borders. Islamabad, Pakistan The war launched by the United States and Israel on Iran has already killed more than 1,400 people, set off retaliatory attacks by Tehran targeting Gulf nations and Israel, and pu…
@@ -29,7 +149,7 @@ As war engulfs Iran, neighbouring states quietly prepare for a potential refugee
 [Read Original Article Here](https://www.aljazeera.com/news/2026/3/17/irans-neighbours-prepare-for-fallout-as-war-threatens-new-refugee-crisis)
 ---
 
-## Article 4: Cuba tells exiles ‘doors are open’ to invest in businesses in the country
+## Article 19: Cuba tells exiles ‘doors are open’ to invest in businesses in the country
 **Source:** Al Jazeera English | **Sentiment Score:** `0.0000`
 
 Cuba also says it is removing impediments to US businesses and other foreign investors. Cuba has extended an invitation to Cuban Americans and other exiles living abroad to invest in and own businesses on the island, saying the doors are open to a community that has traditionally agitat…
@@ -37,131 +157,11 @@ Cuba also says it is removing impediments to US businesses and other foreign inv
 [Read Original Article Here](https://www.aljazeera.com/economy/2026/3/17/cuba-tells-exiles-doors-are-open-to-invest-in-businesses-in-the-country)
 ---
 
-## Article 5: Cuba electric grid collapses amid US oil blockade causing national blackout
+## Article 20: Cuba electric grid collapses amid US oil blockade causing national blackout
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.8957`
 
 Cuba has not received oil shipments since early January amid US pressure, worsening humanitarian crisis on the island. Cubas national power grid has collapsed amid an ongoing United States-imposed oil blockade on the island nation. The collapse on Monday left the entire country of about 10 million without power, acc…
 
 [Read Original Article Here](https://www.aljazeera.com/news/2026/3/16/cuba-electric-grid-collapses-amid-us-oil-blockade-causing-national-blackout)
----
-
-## Article 6: BBC files motion asking US court to throw out Trump’s $10bn lawsuit
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.2960`
-
-US president sued BBC over 'Trump: A Second Chance?', seeking $5bn for defamation, $5bn for unfair trade practices. The British Broadcasting Corporation (BBC) has asked a court in Florida in the US to dismiss a $10bn defamation lawsuit brought by United States President Donald Trump over the editing of one of his …
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/3/16/bbc-files-motion-asking-us-court-to-throw-out-trumps-10bn-lawsuit)
----
-
-## Article 7: Cuba’s power grid collapses after weeks of US oil blockade | CNN
-**Source:** CNN | **Sentiment Score:** `-0.7906`
-
-Cuba’s electrical grid suffered a total collapse on Monday, the country’s power operator said, marking the latest nationwide blackout in recent years, and the first since the US effectively shut off the flow of oil to the island of roughly 10 million people. Cubas electrical grid suffered a total collapse on Monday, the countrys power operator said, marking the latest nationwide blackout in recent years, and the first since the US effectively shut off th…
-
-[Read Original Article Here](https://www.cnn.com/2026/03/16/americas/cuba-power-grid-collapse-intl-latam)
----
-
-## Article 8: How badly has the Iran war hit the global economy? The tell-tale signs
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.8885`
-
-Oil and gas price hikes due to the war have rattled the global economy. The United States-Israeli war on Iran and Tehrans retaliatory strikes across the Gulf region have upended global financial and energy markets, raising concerns of a global economic crisis and even of…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/3/16/the-tell-tale-signs-how-bad-has-the-iran-war-hit-the-global-economy)
----
-
-## Article 9: Rand Paul floats possible 2028 run, pushes back on Trump-era protectionism
-**Source:** Fox News | **Sentiment Score:** `0.7964`
-
-Sen. Rand Paul considers 2028 presidential run, saying he'll decide after 2026 midterms while advocating for free market policies in Trump-dominated Republican Party. Libertarian-minded Republican Sen. Rand Paul of Kentucky is leaving the door wide open to a possible 2028 White House run. "Well decide after 2026," Paul said in an interview that posted this weeken…
-
-[Read Original Article Here](https://www.foxnews.com/politics/rand-paul-floats-possible-2028-run-pushes-back-trump-era-protectionism)
----
-
-## Article 10: Iran still exporting millions of barrels of oil through Strait of Hormuz even as other traffic paralyzed | CNN Business
-**Source:** CNN | **Sentiment Score:** `-0.9612`
-
-Traffic through the strait, normally the conduit for a fifth of global oil output, has been severely curtailed since the start of the Iran conflict. But Iran itself is shipping oil through the waterway in almost the same volumes as before the war, earning the… If the United States assumed, before attacking Iran, that the major oil producer would be reluctant to close the Strait of Hormuz for fear of blocking its own oil exports, it miscalculated. Traffic …
-
-[Read Original Article Here](https://www.cnn.com/2026/03/16/business/iranian-oil-exports-hormuz-strait-intl-cmd)
----
-
-## Article 11: US warns Iraq must act against Iran-backed militia attacks on American assets
-**Source:** Fox News | **Sentiment Score:** `-0.9313`
-
-Iran-backed Popular Mobilization Forces have been accused of attacking U.S. assets in Iraq as Prime Minister Mohammed Shia al-Sudani's government told to rein in terror proxies. Iraq's Prime Minister Mohammed Shia al-Sudani is facing mounting criticism for his governments inability to stop pro-Iranian militias and the Islamic Republic of Iran from attacking American, French,…
-
-[Read Original Article Here](https://www.foxnews.com/world/us-warns-iraq-must-act-against-iran-backed-militia-attacks-american-assets)
----
-
-## Article 12: Iran war success gives president a Trump card to play in China meeting
-**Source:** Fox News | **Sentiment Score:** `-0.3400`
-
-President Donald Trump's March summit with Chinese President Xi Jinping in Beijing should emphasize Iran war leverage over traditional trade issues. When President Donald Trump arrives in Beijing later this March for his summit with Chinese President Xi Jinping, the official agenda will read like every other U.S.China meeting in recent memory: ta…
-
-[Read Original Article Here](https://www.foxnews.com/opinion/iran-war-success-gives-president-trump-card-play-china-meeting)
----
-
-## Article 13: Bitcoin in Iran limbo as ‘old economy’ assets steal limelight
-**Source:** Bloomberg | **Sentiment Score:** `-0.9331`
-
-The original cryptocurrency is beating stocks and gold since the Iran war broke out, but that says more about how far it had already fallen than where it’s headed. The token is down more than 40% from an October peak Bitcoin has spent most of this year trapped between $60,000 and $75,000, repeatedly teasing a breakout but never quite delivering one.  The original cryptocurrency is beating stocks and gold since t…
-
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-03-16/bitcoin-btc-in-iran-limbo-as-old-economy-assets-steal-limelight)
----
-
-## Article 14: Latino voters are 'no longer sleeping,' Univision president warns GOP, Dems
-**Source:** Fox News | **Sentiment Score:** `-0.1779`
-
-Televisa Univision president calls Latino voters a 'sleeping giant that is no longer sleeping,' urging parties to revamp their approach for 2026. Ahead of the 2026 midterms, Televisa Univision President Ignacio Meyer is calling for a revamping of political priorities with the key Latino voting bloc, "a sleeping giant that is no longer sleeping…
-
-[Read Original Article Here](https://www.foxnews.com/politics/latino-voters-no-longer-sleeping-univision-president-warns-gop-dems)
----
-
-## Article 15: Strategic oil release may calm markets but cannot fix Hormuz disruption
-**Source:** Al Jazeera English | **Sentiment Score:** `0.1154`
-
-Record oil release steadies markets, but war-driven disruption in the Strait of Hormuz keeps energy supplies uncertain. Hundreds of tankers sit idle on both sides of the Strait of Hormuz as Iran has effectively closed the waterway, pushing oil prices above $100 the highest since 2022, after the start of the Russia-Ukr…
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/3/15/strategic-oil-release-may-calm-markets-but-cannot-fix-hormuz-disruption)
----
-
-## Article 16: What do the first two weeks of the war on Iran portend for the future?
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.8126`
-
-New, critical dynamics are emerging in the region that could reshape it in dramatic ways. The first two weeks of the Israeli-American assault on Iran have generated enormous amounts of news, propaganda and speculation. Politicians and pundits on all sides have offered contradictory inform…
-
-[Read Original Article Here](https://www.aljazeera.com/opinions/2026/3/15/what-do-the-first-two-weeks-of-the-war-on-iran-portend-for-the-future)
----
-
-## Article 17: Sen Eric Schmitt pushes for legislation to tackle rising sports ticket costs
-**Source:** Fox News | **Sentiment Score:** `0.4404`
-
-Sports fans face steep ticket prices with hidden fees on the secondary market. Sen. Eric Schmitt says consumers are getting ripped off and legislation is needed. Sports fans hoping to follow their favorite team throughout the season may face steep prices as the cost of streaming services rises, but attending those games in person could be even less cost-effec…
-
-[Read Original Article Here](https://www.foxnews.com/sports/sen-eric-schmitt-pushes-legislation-tackle-rising-sports-ticket-costs)
----
-
-## Article 18: How Trump’s unchecked power has changed the world
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.8834`
-
-Diplomatic norms, law and institutions have proven no hindrance to the US president. Can he really do anything he wants? The decision by United States President Donald Trump to launch a war on Iran has left many international law experts questioning if the world order established after World War II is actually working.…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/3/15/how-trumps-unchecked-power-has-changed-the-world)
----
-
-## Article 19: US, China hold trade talks in Paris to clear path to Trump-Xi summit
-**Source:** Al Jazeera English | **Sentiment Score:** `0.6249`
-
-The world's two largest economies trying to hash out trade issues before US President Trump is expected to visit China. Top officials from the United States and China have launched a new round of talks before a summit between their presidents, Donald Trump and Xi Jinping, expected in Beijing later this month. US Trea…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/3/15/us-china-hold-trade-talks-in-paris-to-clear-path-to-trump-xi-summit)
----
-
-## Article 20: Republic of Congo votes in election that could extend Sassou’s 42-year rule
-**Source:** Al Jazeera English | **Sentiment Score:** `0.3612`
-
-Incumbent President Denis Sassou Nguesso, 82, is running for fifth term in polls boycotted by major political parties. The Republic of Congo is voting in a presidential election widely expected to extend Denis Sassou Nguessos decades-long rule by another five years, with limited active opposition and little uncertain…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/3/15/republic-of-congo-votes-in-election-that-could-extend-sassous-42-year-rule)
 ---
 
