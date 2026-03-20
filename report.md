@@ -1,11 +1,123 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-03-19 | **Status:** Automated
+**Date:** 2026-03-20 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: The oil logic behind Trump’s war on Iran
+## Article 1: Iran war: What’s the Jones Act, and why has Trump suspended it for 60 days?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.7906`
+
+The move allows foreign-flagged vessels to transport goods between US ports for the next 60 days. United States President Donald Trump has temporarily waived a century-old shipping law to help ease the cost of transporting oil, gas and other commodities within the US. The move allows foreign-fla…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/3/19/iran-war-whats-the-jones-act-and-why-has-trump-suspended-it-for-60-days)
+---
+
+## Article 2: Business owner says 'we don’t have money' as NYC officials propose minimum wage hike: report
+**Source:** Fox News | **Sentiment Score:** `-0.3182`
+
+New York City business owners warn $30 minimum wage proposal could force job cuts and restaurant closures as Mayor Zohran Mamdani signals support for the legislation. Business owners warned of dire consequences if New York City officials pass a $30 minimum wage hike in comments to the Wall Street Journal. The city council in New York City may boost the minimum wa…
+
+[Read Original Article Here](https://www.foxnews.com/media/business-owner-says-we-dont-have-money-nyc-proposes-minimum-wage-hike-report)
+---
+
+## Article 3: US Fed keeps interest rates steady amid economic, geopolitical uncertainty
+**Source:** Al Jazeera English | **Sentiment Score:** `0.2500`
+
+The US Federal Reserve keeps rates steady at 3.5–3.75 percent amidst a cooling labour market and Iran pressures. The United States Federal Reserve will hold interest rates steady as the labour market cools and prices on goods and services surge following the US and Israels joint strikes on Iran. The central ba…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/3/18/us-fed-keeps-interest-rates-steady-amid-economic-geopolitical-uncertainty)
+---
+
+## Article 4: Delcy Rodriguez replaces Venezuela’s Defence Minister Vladimir Padrino
+**Source:** Al Jazeera English | **Sentiment Score:** `0.2023`
+
+General Vladimir Padrino spent 11 years as the country's defence minister, acting as a key ally of Nicolas Maduro. Venezuelas interim President Delcy Rodriguez has announced that she is replacing the countrys longtime defence minister, General Vladimir Padrino, a central figure from the administration of former P…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/3/18/delcy-rodriguez-replaces-venezuelas-defence-minister-vladimir-padrino)
+---
+
+## Article 5: 7 ways to protect your money from potentially higher inflation and unemployment | CNN Business
+**Source:** CNN | **Sentiment Score:** `-0.7232`
+
+The Fed’s rate pause — and expectations that it may not lower rates again any time soon — is a mixed bag for consumers. But it means you should try maximizing the rates you get on your savings and keeping interest costs on your debt as low as possible. The Federal Reserves decision Wednesday to leave its key overnight lending rate unchanged for the second time this year was expected. But in addition to a disappointing February jobs report and othe…
+
+[Read Original Article Here](https://www.cnn.com/2026/03/18/business/consumer-interest-rates-inflation-unemployment-your-money)
+---
+
+## Article 6: NATO heavyweights balk at Hormuz mission as Trump warns alliance at risk
+**Source:** Fox News | **Sentiment Score:** `-0.6486`
+
+UK, France and Germany decline combat role in protecting key oil chokepoint, drawing warnings from Trump and GOP allies about NATO’s reliability. NATO allies are declining to join a potential effort to reopen the Strait of Hormuz, frustrating President Donald Trump and prompting questions among some U.S. officials about the alliances reliabili…
+
+[Read Original Article Here](https://www.foxnews.com/politics/nato-heavyweights-balk-hormuz-mission-trump-warns-alliance-risk)
+---
+
+## Article 7: One little-known meeting helps decide what Americans can afford — and what they can’t
+**Source:** Fox News | **Sentiment Score:** `0.2944`
+
+The Federal Reserve is expected to keep interest rates unchanged, leaving borrowing costs high for Americans buying homes, cars and other big-ticket items as inflation risks remain. When it comes to what Americans can afford, no institution looms larger than the Federal Reserve . That is especially true as the Fed on Wednesday concludes its two-day Federal Open Market Committe…
+
+[Read Original Article Here](https://www.foxnews.com/politics/one-little-known-meeting-helps-decide-what-americans-can-afford-what-cant)
+---
+
+## Article 8: Winning the battles, losing the war? America must define the endgame in Iran
+**Source:** Fox News | **Sentiment Score:** `-0.8990`
+
+Pete Hegseth acknowledges Iran campaign success but some question whether airstrikes achieve regime change goals as Mojtaba Khamenei vows to fight. The Pentagon's briefings on Operation Epic Fury leave no room for debate: the U.S.-Israeli air campaign has hammered Iran. Defense Secretary Pete Hegseth confirmed more than 15,000 targets struck. Te…
+
+[Read Original Article Here](https://www.foxnews.com/opinion/winning-battles-losing-war-america-must-define-endgame-iran)
+---
+
+## Article 9: European groups join aid convoy to Cuba amid crippling oil blockade
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.7351`
+
+Millions have been plunged into darkness in Cuba as the US's total blockade has meant no fuel shipments in three months. Milan, Italy As Cuba faces a nationwide blackout and energy crisis, the first members of a global aid mission taking more than 20 tonnes of food, medical supplies and solar panel equipment arrived in…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/3/18/as-cuba-found-flotilla-leaves-italy-europe-divided-over-stance-on-crisis)
+---
+
+## Article 10: How Iran defied Trump threats to emerge as Strait of Hormuz gatekeeper
+**Source:** Al Jazeera English | **Sentiment Score:** `0.8555`
+
+Trump has called on other navies to help open the strait, but countries are instead striking deals with Iran. As United States President Donald Trump tries to build a coalition of navies willing to open the Strait of Hormuz, some countries are negotiating safe passage directly with Iran, underscoring a new d…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/3/18/how-iran-defied-trump-threats-to-emerge-as-strait-of-hormuz-gatekeeper)
+---
+
+## Article 11: The sound of freedom: Cuba’s regime is running out of time — now the US must act
+**Source:** Fox News | **Sentiment Score:** `-0.8843`
+
+Cuban-American congressman calls for firm US strategy as Cuba's economy crumbles. No economic lifelines without political change demanded from regime. A Cuban night is no longer quiet. It is filled with the metallic rhythm of thousands of families striking spoons against empty pots in the darkness. This is the sound of a funeral for a failed ideolo…
+
+[Read Original Article Here](https://www.foxnews.com/opinion/sound-freedom-cubas-regime-running-out-time-the-us-must-act)
+---
+
+## Article 12: Carville predicts Trump will leave office next year out of frustration after midterms
+**Source:** Fox News | **Sentiment Score:** `-0.4939`
+
+Democratic strategist James Carville claims in new video that President Donald Trump will quit office next year as his initiatives fail and Democrats control House and Senate. Veteran Democratic Party strategist James Carville predicted in a video published Monday that President Donald Trump will resign by this time next year after the midterm elections. Carville, known f…
+
+[Read Original Article Here](https://www.foxnews.com/media/carville-predicts-trump-leave-office-next-year-out-frustration-after-midterms)
+---
+
+## Article 13: Pro-Israel groups see mixed record in money-fuelled Illinois primaries
+**Source:** Al Jazeera English | **Sentiment Score:** `0.9169`
+
+Lieutenant Governor Juliana Stratton, who took money from pro-Israel donors, won race to be Democratic Senate candidate. Illinois Lieutenant Governor Juliana Stratton has won the Democratic primary for an open United States Senate seat in one of a slate of closely watched races shaped by heavy spending from special int…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/3/18/pro-israel-groups-see-mixed-record-in-money-fuelled-illinois-primaries)
+---
+
+## Article 14: Cuba’s lights begin to return, but its crisis is far from over
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.9022`
+
+Power supply slowly resuming in Havana; but the country's deeper crisis in relations with the US is endemic, long-term. The traffic lights are finally back on in Havana, but most of Cuba is still in the dark. Cubas national power grid collapsed yet again on Monday, and there was no electricity supply across the count…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/3/18/cubas-lights-begin-to-return-but-its-crisis-is-far-from-over)
+---
+
+## Article 15: The oil logic behind Trump’s war on Iran
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.1655`
 
 The Kharg Island strike shows how US force is calibrated to avoid disrupting global oil flows. The United States and Israel say their escalating military assault on Iran is about nuclear proliferation, deterrence and regional security. But recent developments suggest another, older logic at wo…
@@ -13,7 +125,7 @@ The Kharg Island strike shows how US force is calibrated to avoid disrupting glo
 [Read Original Article Here](https://www.aljazeera.com/opinions/2026/3/18/the-oil-logic-behind-trumps-war-on-iran)
 ---
 
-## Article 2: Qatar can keep goods flowing amid tensions, customs chief says
+## Article 16: Qatar can keep goods flowing amid tensions, customs chief says
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.8856`
 
 Qatar has no reason to worry about goods shortages or disruptions to supply chains despite heightened regional tensions. Qatar has no reason to worry about shortages of goods or disruptions to its supply chains despite heightened regional tensions, the head of the countrys customs authority has told Al Jazeera, saying …
@@ -21,7 +133,7 @@ Qatar has no reason to worry about goods shortages or disruptions to supply chai
 [Read Original Article Here](https://www.aljazeera.com/economy/2026/3/18/qatar-can-keep-goods-flowing-amid-tensions-customs-chief-says)
 ---
 
-## Article 3: Trump confirms meeting with China’s Xi Jinping delayed as war on Iran rages
+## Article 17: Trump confirms meeting with China’s Xi Jinping delayed as war on Iran rages
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.2960`
 
 US President Donald Trump delays his trip to Beijing while also seeking China's help to reopen the Strait of Hormuz. US President Donald Trump has confirmed he is delaying plans to meet with Chinese President Xi Jinping at the end of the month, as the US-Israeli war on Iran continues to consume most of Washingtons …
@@ -29,7 +141,7 @@ US President Donald Trump delays his trip to Beijing while also seeking China's 
 [Read Original Article Here](https://www.aljazeera.com/news/2026/3/18/trump-delays-meeting-with-chinas-xi-jinping-as-war-on-iran-rages)
 ---
 
-## Article 4: Illinois Republicans select Don Tracy in primary elections for Sen. Durbin's seat
+## Article 18: Illinois Republicans select Don Tracy in primary elections for Sen. Durbin's seat
 **Source:** Fox News | **Sentiment Score:** `-0.6808`
 
 Illinois Republicans chose their nominee for Dick Durbin's open Senate seat, setting up November showdown in traditionally Democrat-dominated state. Illinois Republicans on Tuesday selected Don Tracy as their nominee for the open U.S. Senate seat created by Sen. Dick Durbin s retirement, sending them into a general election race in a state Democ…
@@ -37,7 +149,7 @@ Illinois Republicans chose their nominee for Dick Durbin's open Senate seat, set
 [Read Original Article Here](https://www.foxnews.com/politics/illinois-republicans-select-don-tracy-primary-elections-sen-durbins-seat)
 ---
 
-## Article 5: Rubio says Cuba needs ‘new people in charge’ as blackouts, unrest grip island
+## Article 19: Rubio says Cuba needs ‘new people in charge’ as blackouts, unrest grip island
 **Source:** Fox News | **Sentiment Score:** `-0.9042`
 
 Marco Rubio links U.S. sanctions on Cuba to political change as the island nation faces widespread blackouts and economic crisis affecting millions of citizens. Secretary of State Marco Rubio said Tuesday that U.S. sanctions on Cuba are tied to political change on the island, as the country faces widespread blackouts, unrest and a worsening economic crisis.…
@@ -45,123 +157,11 @@ Marco Rubio links U.S. sanctions on Cuba to political change as the island natio
 [Read Original Article Here](https://www.foxnews.com/world/rubio-says-cuba-needs-new-people-charge-blackouts-unrest-grip-island)
 ---
 
-## Article 6: Rubio says Cuba needs to ‘get new people in charge’ as US ratchets pressure
+## Article 20: Rubio says Cuba needs to ‘get new people in charge’ as US ratchets pressure
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.2551`
 
 Washington continues to block fuel to island nation, as Trump floats 'doing something with Cuba very soon'. United States Secretary of State Marco Rubio has said that Cuba has to get new people in charge, and the administration of US President Donald Trump continues to heap pressure on the island nation. …
 
 [Read Original Article Here](https://www.aljazeera.com/news/2026/3/17/rubio-says-cuba-needs-to-get-new-people-in-charge-as-us-ratchets-pressure)
----
-
-## Article 7: Colombia’s Petro accuses Ecuador of bombing near border
-**Source:** Al Jazeera English | **Sentiment Score:** `0.0000`
-
-Leaders of Colombia and Ecuador trade allegations after Gustavo Petro says 27 charred bodies found on country's border. Bogota, Colombia Colombian President Gustavo Petro has said that 27 charred bodies were discovered on his countrys joint border with Ecuador, just one day after suggesting the Ecuadorean military may…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/3/17/colombias-petro-accuses-ecuador-of-bombing-near-border)
----
-
-## Article 8: Trump promised lower costs; the Iran conflict now threatens that pledge
-**Source:** Fox News | **Sentiment Score:** `-0.8126`
-
-The Federal Reserve weighs interest rate cuts as the Iran war complicates the inflation fight. Rising oil prices have created a challenging policy dilemma for the central bank. President Donald Trump  was already eager for a Federal Reserve rate cut. If there were ever a moment for him to want one even more, it would be Wednesday, but his war with Iran may have blown it, d…
-
-[Read Original Article Here](https://www.foxnews.com/politics/trump-promised-lower-costs-iran-conflict-now-threatens-pledge)
----
-
-## Article 9: US lawmakers Murphy, Casar push legislation to regulate prediction markets
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.5106`
-
-The legislation aims to prevent bets made based on insider knowledge of wars, economic policy and controllable events. United States Senator Chris Murphy and House Representative Greg Casar are set to introduce legislation to rein in prediction markets after bettors cashed in on geopolitical conflicts, including the …
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/3/17/us-lawmakers-murphy-casar-push-legislation-to-regulate-prediction-markets)
----
-
-## Article 10: NYC $30 minimum wage proposal pushed by Mamdani would 'obliterate' certain industries: expert warns
-**Source:** Fox News | **Sentiment Score:** `-0.1280`
-
-NYC council considers controversial $30 minimum wage proposal that has local businesses and economists warning of major economic consequences for workers. The city council in New York City is weighing a proposal to boost the minimum wage to up to $30 a move that newly elected Mayor Zohran Mamdani signaled that he would sign on the campaign trail causin…
-
-[Read Original Article Here](https://www.foxnews.com/politics/nyc-30-minimum-wage-proposal-pushed-by-mamdani-would-obliterate-certain-industries-expert-warns)
----
-
-## Article 11: Why aren’t gold prices rising, despite Iran war uncertainty?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.9098`
-
-Gold holds steady despite war and rising oil prices, as recent volatility and a strong dollar reduce its appeal. As the war on Iran entered its 18th day on Tuesday, the price of gold, usually considered the safe-haven asset in times of uncertainty, has remained unexpectedly steady. Since the United States and …
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/3/17/why-arent-gold-prices-rising-despite-iran-war-uncertainty)
----
-
-## Article 12: 'Below Deck' Captain Sandy says she and wife lost 'all of our money' in alleged $1.6M contractor scam
-**Source:** Fox News | **Sentiment Score:** `-0.8910`
-
-"Below Deck" star Captain Sandy Yawn reveals she lost "all of our money" in alleged contractor scam. Spencer Calvert accused of defrauding 13 families. "Below Deck" star Captain Sandy Yawn and wife Leah Shafer spoke out about their ongoing legal battle against their former contractor, Spencer Calvert. Yawn revealed how much money they lost in the a…
-
-[Read Original Article Here](https://www.foxnews.com/entertainment/below-deck-captain-sandy-says-she-wife-lost-all-our-money-alleged-1-6m-contractor-scam)
----
-
-## Article 13: House GOP rushes to court critical voting bloc while facing uphill midterm battle
-**Source:** Fox News | **Sentiment Score:** `0.2023`
-
-Rep. Lisa McClain hits the trail in Florida to sell the GOP’s economic vision, arguing that Hispanic support for Trump's "big, beautiful bill" will help defy election history. FIRST ON FOX: House Republicans are making their case to a critical voting bloc ahead of an election cycle that's expected to see the GOP fight an uphill battle to keep control of Congress. House GO…
-
-[Read Original Article Here](https://www.foxnews.com/politics/house-gop-rushes-court-critical-voting-bloc-while-facing-uphill-midterm-battle)
----
-
-## Article 14: Why Gulf states aren’t joining the war against Iran — despite attacks on their soil
-**Source:** Fox News | **Sentiment Score:** `0.2760`
-
-Gulf states maintain restraint despite reported Iranian attacks on Saudi Arabia, UAE, Bahrain, Qatar and Kuwait, prioritizing regional stability. Even as Iran expands attacks across the Persian Gulf, several of the countries directly targeted are still refusing to join the fight against Iran, opting instead for restraint and diplomacy. Gulf go…
-
-[Read Original Article Here](https://www.foxnews.com/world/why-gulf-states-arent-joining-war-against-iran-despite-attacks-soil)
----
-
-## Article 15: Gulf economies suffer brunt of Iran war as recession risk looms
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.9231`
-
-From energy exports to tourism, the economies of Gulf nations are at risk from a prolonged conflict in the Middle East. As the economic fallout of the United States and Israels war with Iran reverberates across the globe, the economies of the Gulf are suffering some of the worst damage. Iran has launched continuous a…
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/3/17/gulf-economies-suffer-brunt-of-iran-war-as-recession-risk-looms)
----
-
-## Article 16: Nigeria’s first state visit since 1989: President Bola Tinubu heads to UK
-**Source:** Al Jazeera English | **Sentiment Score:** `0.6304`
-
-British pomp and pageantry await the Nigerian leader, but some in the diaspora are sceptical about his trip. London, United Kingdom When Nigerian President Bola Tinubu arrives in the UK this week, the visit will carry more than ceremonial significance. It will be the first state visit by a Nigerian leader t…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/3/17/nigerias-first-state-visit-since-1989-president-bola-tinubu-heads-to-uk)
----
-
-## Article 17: Inside Qeshm, Iran’s underground missile fortress and geological marvel
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.7717`
-
-From the Valley of Stars to underground missiles, Qeshm Island is strategic ground zero for the US-Israel war on Iran. Beneath the labyrinthine salt caves and emerald mangrove forests of Qeshm Island in the Strait of Hormuz, a different kind of architecture lies buried. While tourists once flocked to this open-air g…
-
-[Read Original Article Here](https://www.aljazeera.com/features/2026/3/17/inside-qeshm-irans-underground-missile-fortress-and-geological-marvel)
----
-
-## Article 18: Iran’s neighbours brace for fallout as war threatens new refugee crisis
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.9169`
-
-As war engulfs Iran, neighbouring states quietly prepare for a potential refugee exodus across already fragile borders. Islamabad, Pakistan The war launched by the United States and Israel on Iran has already killed more than 1,400 people, set off retaliatory attacks by Tehran targeting Gulf nations and Israel, and pu…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/3/17/irans-neighbours-prepare-for-fallout-as-war-threatens-new-refugee-crisis)
----
-
-## Article 19: Cuba tells exiles ‘doors are open’ to invest in businesses in the country
-**Source:** Al Jazeera English | **Sentiment Score:** `0.0000`
-
-Cuba also says it is removing impediments to US businesses and other foreign investors. Cuba has extended an invitation to Cuban Americans and other exiles living abroad to invest in and own businesses on the island, saying the doors are open to a community that has traditionally agitat…
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/3/17/cuba-tells-exiles-doors-are-open-to-invest-in-businesses-in-the-country)
----
-
-## Article 20: Cuba electric grid collapses amid US oil blockade causing national blackout
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.8957`
-
-Cuba has not received oil shipments since early January amid US pressure, worsening humanitarian crisis on the island. Cubas national power grid has collapsed amid an ongoing United States-imposed oil blockade on the island nation. The collapse on Monday left the entire country of about 10 million without power, acc…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/3/16/cuba-electric-grid-collapses-amid-us-oil-blockade-causing-national-blackout)
 ---
 
