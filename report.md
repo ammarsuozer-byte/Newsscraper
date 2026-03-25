@@ -1,11 +1,123 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-03-24 | **Status:** Automated
+**Date:** 2026-03-25 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: Scott Bessent calls out 'terrible framing' during clash with NBC News host on Iranian oil
+## Article 1: Donald Trump’s legacy: Will Republicans embrace his political vision, or has he left conservatism in the dust?
+**Source:** Fox News | **Sentiment Score:** `0.2382`
+
+Is Trumpism a coherent ideology or gut impulse? Pete Wehner says MAGA has killed conservatism, but Trump's policy record tells a far more complex story. We call it "Trumpism" for short, the collection of positions, policies and preferences embraced by the president of the United States. But does all this amount to a coherent philosophy that can be c…
+
+[Read Original Article Here](https://www.foxnews.com/media/donald-trumps-legacy-republicans-embrace-his-political-vision-has-he-left-conservatism-dust)
+---
+
+## Article 2: Trump's death will be 'like Mardi Gras in New Orleans,' Charlamagne warns after Mueller post
+**Source:** Fox News | **Sentiment Score:** `0.5267`
+
+Radio host Charlamagne Tha God warned President Donald Trump that people will celebrate his death "like Mardi Gras" after he celebrated Robert Mueller's death. Radio host Charlamagne Tha God warned President Donald Trump on Monday that people would celebrate his death "like Mardi Gras in New Orleans" after his post on former FBI director Robert Mueller's de…
+
+[Read Original Article Here](https://www.foxnews.com/media/trumps-death-like-mardi-gras-new-orleans-charlamagne-warns-after-mueller-post)
+---
+
+## Article 3: Trump administration will pay a French company $1 billion in taxpayer funds to not build wind farms | CNN
+**Source:** CNN | **Sentiment Score:** `-0.4215`
+
+The Trump administration announced it will pay nearly $1 billion to French energy giant TotalEnergies in exchange for the company abandoning plans to build offshore wind farms in the Atlantic Ocean and instead pursue fossil fuel projects in the US. The Trump administration announced it will pay nearly $1 billion to French energy giant TotalEnergies in exchange for the company abandoning plans to build offshore wind farms in the Atlantic Ocean a…
+
+[Read Original Article Here](https://www.cnn.com/2026/03/23/climate/trump-totalenergies-offshore-wind-cancellation)
+---
+
+## Article 4: Senate hopeful with deep Dem ties slapped with scathing complaint targeting alleged family payout 'scheme'
+**Source:** Fox News | **Sentiment Score:** `0.6597`
+
+A complaint with the Federal Election Commission is asking regulators to investigate Nebraska Senate hopeful Dan Osborn over $434,734 in campaign and PAC payments to five relatives and himself. FIRST ON FOX: A watchdog is urging the Federal Election Commission (FEC) to investigate Nebraska Senate hopeful Dan Osborn, alleging he is improperly steering campaign funds for personal use to nearl…
+
+[Read Original Article Here](https://www.foxnews.com/politics/senate-hopeful-deep-dem-ties-slapped-with-scathing-complaint)
+---
+
+## Article 5: Why the oil and gas price shock from the Iran war won’t just fade away
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.8537`
+
+Rerouting and diversification cannot help when a significant chunk of oil and gas have been taken off the market. The US-Israeli war on Iran will have a profound impact on the global energy markets. It has already sent the price of the benchmark Brent crude oil soaring to nearly $120 per barrel, close to its hig…
+
+[Read Original Article Here](https://www.aljazeera.com/opinions/2026/3/23/why-the-oil-and-gas-price-shock-from-the-iran-war-wont-just-fade-away)
+---
+
+## Article 6: Trump delays Xi meeting as Iran conflict lets US strong-arm China’s oil supply
+**Source:** Fox News | **Sentiment Score:** `-0.7964`
+
+The Iran conflict is disrupting oil flows China relies on as Trump delays a planned Xi meeting, raising new questions about leverage and the broader U.S.–China relationship. President Donald Trumps decision to delay a planned meeting with Chinese President Xi Jinping as the Iran conflict unfolds is raising a new question in Washington: whether pressure on global oil flow…
+
+[Read Original Article Here](https://www.foxnews.com/politics/trump-delays-xi-meeting-iran-conflict-lets-us-strong-arm-chinas-oil-supply)
+---
+
+## Article 7: Which countries have strategic oil reserves – and how much?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.5267`
+
+Members of the International Energy Agency have agreed to release 400 million barrels of oil from strategic reserves. Irans paralysis of the Strait of Hormuz has led to major disruption in global oil and gas supply and many countries have begun tapping into their strategic oil reserves to evade an economic crisis. …
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/3/23/which-countries-have-strategic-oil-reserves-and-how-much)
+---
+
+## Article 8: Power Couple of Chaos: How a tycoon and activist built a 'Revolutionary Base' at the House of Singham
+**Source:** Fox News | **Sentiment Score:** `0.0258`
+
+Neville Roy Singham and Jodie Evans funneled $278 million through network spreading pro-China propaganda, according to Fox News Digital investigation. Washington, D.C. Part 1 of a five-part Fox News Digital series investigation follows the money that created the "Revolutionary Base" for a transnational network of organizations allegedly waging cogn…
+
+[Read Original Article Here](https://www.foxnews.com/us/house-singham)
+---
+
+## Article 9: Power Couple of Chaos: How a tycoon and activist built a 'Revolutionary Base' at the House of Singham
+**Source:** Fox News | **Sentiment Score:** `0.0258`
+
+Neville Roy Singham and Jodie Evans funneled $278 million through network spreading pro-China propaganda, according to Fox News Digital investigation. Washington, D.C. Part 1 of a five-part Fox News Digital series investigation follows the money that created the "Revolutionary Base" for a transnational network of organizations allegedly waging cogn…
+
+[Read Original Article Here](https://www.foxnews.com/us/power-couple-chaos-how-tycoon-activist-built-revolutionary-base-house-singham)
+---
+
+## Article 10: Dow soars after Trump calls off strikes on Iran, pending talks | CNN Business
+**Source:** CNN | **Sentiment Score:** `0.2500`
+
+Stocks soared and oil prices fell after President Donald Trump on Monday said the United States would postpone further strikes on Iran’s energy infrastructure, pending the outcome of negotiations. Stocks soared and oil prices fell after President Donald Trump on Monday said the United States would postpone further strikes on Irans energy infrastructure, pending the outcome of negotiations. Th…
+
+[Read Original Article Here](https://www.cnn.com/2026/03/23/business/stocks-dow-market)
+---
+
+## Article 11: Oil prices gain as the International Energy Agency says the Iran war shock tops 1970s oil crises
+**Source:** CNN | **Sentiment Score:** `-0.7845`
+
+Oil prices plummeted Monday after US President Donald Trump suggested that ongoing talks between the United States and Iran could end the war. Oil prices plummeted Monday after US President Donald Trump suggested that ongoingtalks between the United States and Iran could end the war. Brent crude, the global oil benchmark, tumbled more than…
+
+[Read Original Article Here](https://www.cnn.com/2026/03/23/business/oil-prices-energy-shock-1970s-intl)
+---
+
+## Article 12: Threats over Iran war bare Trump efforts to transform free speech: Experts
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.9149`
+
+Threat to punish broadcasters for coverage not in 'public interest' comes amid wider roll-backs, analysts say. Washington, DC United States President Donald Trump has led a political career defined by claims of biased and unfair media coverage against him. He has also levelled charges that so-called woke ideo…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/3/23/threats-over-iran-war-bare-trump-efforts-to-transform-free-speech-experts)
+---
+
+## Article 13: Blue tsunami predictions for November election might not make landfall
+**Source:** Fox News | **Sentiment Score:** `0.4215`
+
+Foreign policy does matter and Trump's military actions in Iran, Venezuela and Cuba could reshape November midterm elections more than polling suggests. To read much political analysis, the results of the November midterm election are already set. The recent Fox News Poll showed Democrats leading Republicans by six points in support for the House. Si…
+
+[Read Original Article Here](https://www.foxnews.com/opinion/blue-tsunami-predictions-november-election-might-not-make-landfall)
+---
+
+## Article 14: Israel’s displacement of civilians in Lebanon is a possible war crime
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.8979`
+
+The Israeli tactics of mass expulsion of civilians in Lebanon risk directly violating international law. Israels attacks in Lebanon and the threat of more to come have caused more than a million people to flee their homes. This is nearly one-fifth of the entire population of a country that already hosts…
+
+[Read Original Article Here](https://www.aljazeera.com/opinions/2026/3/23/israels-displacement-of-civilians-in-lebanon-is-a-possible-war-crime)
+---
+
+## Article 15: Scott Bessent calls out 'terrible framing' during clash with NBC News host on Iranian oil
 **Source:** Fox News | **Sentiment Score:** `-0.7650`
 
 Scott Bessent accused NBC's Kristen Welker of "terrible framing" during an exchange about Iranian oil on Sunday, as the host pressed the treasury secretary on why the U.S. lifted sanctions. Treasury Secretary Scott Bessent clashed with NBC's Kristen Welker on Sunday as the two debated the effects of the war with Iran, specifically with regard to oil, as gas prices have skyrocketed since…
@@ -13,7 +125,7 @@ Scott Bessent accused NBC's Kristen Welker of "terrible framing" during an excha
 [Read Original Article Here](https://www.foxnews.com/media/scott-bessent-calls-out-terrible-framing-during-back-and-forth-nbc-news-host-iranian-oil)
 ---
 
-## Article 2: Ukraine’s Zelenskyy urges allies to pressure Russia ahead of US talks
+## Article 16: Ukraine’s Zelenskyy urges allies to pressure Russia ahead of US talks
 **Source:** Al Jazeera English | **Sentiment Score:** `0.0516`
 
 With US-Ukraine talks set to resume in Florida, Volodymyr Zelenskyy warns Russia is increasing its oil revenues. President Volodymyr Zelenskyy has urged allies to keep up sanctions pressure on Russias economy ahead of a second day of talks between Ukraine and United States officials on ways to end the more-than…
@@ -21,7 +133,7 @@ With US-Ukraine talks set to resume in Florida, Volodymyr Zelenskyy warns Russia
 [Read Original Article Here](https://www.aljazeera.com/news/2026/3/22/ukraines-zelenskyy-urges-allies-to-pressure-russia-ahead-of-us-talks)
 ---
 
-## Article 3: Pence: Trump upended ‘some aspects’ of GOP agenda but ‘hasn't really changed the Republican Party’
+## Article 17: Pence: Trump upended ‘some aspects’ of GOP agenda but ‘hasn't really changed the Republican Party’
 **Source:** Fox News | **Sentiment Score:** `0.3254`
 
 Mike Pence says preserving conservative principles amid rising GOP populism is the calling of his life, ahead of his new book on the conservative agenda. EXCLUSIVE - Former Vice President Mike Pence says his fight to keep the Republican Party from drifting too far from its conservative roots and principles, amid a rise of populism in the GOP and big g…
@@ -29,7 +141,7 @@ Mike Pence says preserving conservative principles amid rising GOP populism is t
 [Read Original Article Here](https://www.foxnews.com/politics/pence-trump-upended-some-aspects-gop-agenda-hasnt-really-changed-republican-party)
 ---
 
-## Article 4: Former FBI chief, Robert Mueller, dead at 81
+## Article 18: Former FBI chief, Robert Mueller, dead at 81
 **Source:** Al Jazeera English | **Sentiment Score:** `0.2263`
 
 Robert Mueller oversaw the probe into alleged Russian interference in the 2016 United States election. Former FBI chief Robert Mueller, who probed the alleged Russian interference in the 2016 United States election, has died at age 81. With deep sadness, we are sharing the news that Bob passed away o…
@@ -37,7 +149,7 @@ Robert Mueller oversaw the probe into alleged Russian interference in the 2016 U
 [Read Original Article Here](https://www.aljazeera.com/news/2026/3/21/former-fbi-chief-robert-mueller-dead-at-81)
 ---
 
-## Article 5: Iran war: What’s happening on day 22 of US-Israel attacks?
+## Article 19: Iran war: What’s happening on day 22 of US-Israel attacks?
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.9260`
 
 As conflict enters week 4, here’s the latest on the US-Israel attack on Iran and across the Middle East. The war launched by the United States and Israel on Iran has entered its fourth week, with more than 1,400 people reported killed in Iran. Iran has attacked Israel and US bases in retaliation, threa…
@@ -45,123 +157,11 @@ As conflict enters week 4, here’s the latest on the US-Israel attack on Iran a
 [Read Original Article Here](https://www.aljazeera.com/news/2026/3/21/iran-war-what-is-happening-on-day-22-of-us-israel-attacks)
 ---
 
-## Article 6: The Strait of Hormuz is about more than just oil. It feeds 100 million people | CNN Business
+## Article 20: The Strait of Hormuz is about more than just oil. It feeds 100 million people | CNN Business
 **Source:** CNN | **Sentiment Score:** `0.8519`
 
 Oil and liquefied natural gas tankers moving through the Strait of Hormuz carry around 20% of the world’s supply. But for countries on the Persian Gulf, the waterway is more than just an energy route – it’s a lifeline for more than 100 million people. Oil and liquefied natural gas tankers moving through the Strait of Hormuz carry around 20% of the worlds supply. But for countries on the Persian Gulf, the waterway is more than just an energy route …
 
 [Read Original Article Here](https://www.cnn.com/2026/03/21/business/strait-of-hormuz-food-supply-intl)
----
-
-## Article 7: Why the Trump administration is easing sanctions on certain Iranian oil stockpiles | CNN Politics
-**Source:** CNN | **Sentiment Score:** `-0.9231`
-
-Trump administration officials are making a desperate push to secure every available barrel of oil amid a worsening energy crisis — even if it means lifting sanctions on the very country that they’re fighting against. Trump administration officials are making a desperate push to secure every available barrel of oil amid a worsening energy crisis even if it means lifting sanctions on the very country that theyre fi…
-
-[Read Original Article Here](https://www.cnn.com/2026/03/20/politics/iran-oil-sanctions-lifting)
----
-
-## Article 8: Alo faces potential legal trouble after Erika Kirk's clothing purchase history turned into viral smear
-**Source:** Fox News | **Sentiment Score:** `-0.8689`
-
-Luxury retailer Alo could be in hot water after an employee allegedly leaked Turning Point USA CEO Erika Kirk’s private purchase history to smear her. High-end athleisure brand Alo could face legal trouble after Turning Point USA CEO Erika Kirks private purchase history was allegedly leaked and used to smear her.   A TikTok content creator recorde…
-
-[Read Original Article Here](https://www.foxnews.com/media/alo-faces-potential-legal-trouble-after-erika-kirks-clothing-purchase-history-turned-viral-smear)
----
-
-## Article 9: ‘Cowards’: Trump slams NATO over lack of support in US–Israel war on Iran
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.1027`
-
-Trump is calling for US allies to help guarantee shipping through the Strait of Hormuz as NATO relocates Iraq personnel. President Donald Trump slammed NATO allies over their lack of support for the US-Israel war on Iran as the Strait of Hormuz remains effectively closed, with no end to the conflict in sight. NATO cou…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/3/20/cowards-trump-slams-nato-over-lack-of-support-in-us-israel-war-on)
----
-
-## Article 10: The White House just laid out how it wants to regulate AI | CNN Business
-**Source:** CNN | **Sentiment Score:** `0.7506`
-
-The White House on Friday released its long-awaited national artificial intelligence legislative framework, a move to prevent states from enacting their own laws and enforce the Trump administration’s light-touch approach to AI regulation. The White House on Friday released its long-awaited national artificial intelligence legislative framework, a move to prevent states from enacting their own laws and enforce the Trump administrations…
-
-[Read Original Article Here](https://www.cnn.com/2026/03/20/tech/white-house-ai-framework)
----
-
-## Article 11: Will Russian oil be the biggest winner in the US-Israel war on Iran?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.8176`
-
-The price of Russian Urals has soared in recent weeks. How Russia - and other energy producing nations - could profit. Russian oil is emerging as a key beneficiary of the US-Israeli war on Iran, as countries scramble to charter tankers following United States President Donald Trumps decision to temporarily ease sanct…
-
-[Read Original Article Here](https://www.aljazeera.com/features/2026/3/20/will-russian-oil-be-the-biggest-winner-in-the-us-israel-war-on-iran)
----
-
-## Article 12: Slovenia heads to polls with diverging views on Israel in focus
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.2960`
-
-Slovenia's election sees the centre-left coalition take on the populist right amid claims of foreign meddling. Slovenia heads to the polls on Sunday in a closely contested race between incumbent Prime Minister Robert Golob and right-wing former Prime Minister Janez Jansa. Opinion polls currently suggest no c…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/3/20/slovenia-heads-to-polls-with-diverging-views-on-israel-in-focus)
----
-
-## Article 13: Cuban exiles in Miami say 'this is the end' for communism as island teeters on collapse
-**Source:** Fox News | **Sentiment Score:** `-0.2500`
-
-Cuban exiles in Miami's Little Havana say they feel hope as Cuba faces island-wide blackouts, protests, and Trump's remarks about 'taking Cuba.' MIAMI, Florida Theres growing unrest in Cuba as the communist government struggles to deal with island-wide blackouts and a collapsing economy. As President Donald Trump alludes to change on the isla…
-
-[Read Original Article Here](https://www.foxnews.com/politics/cuban-exiles-miami-say-this-end-communism-island-teeters-collapse)
----
-
-## Article 14: Five problems the Iran war could solve for Israel’s Netanyahu
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.7430`
-
-From the Iranian threat to his own domestic legal and political troubles, war with Iran has advantages for Netanyahu. Prime Minister Benjamin Netanyahu has succeeded where countless previous Israeli leaders have failed: persuading the United States to join Israel in launching open-ended strikes against its regional …
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/3/20/five-problems-the-iran-war-could-solve-for-israels-netanyahu)
----
-
-## Article 15: Why Pakistani farmers are suing two German companies for deadly 2022 floods
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.6597`
-
-Case relates to RWE and Heidelberg Materials, accused of emissions that intensified historic floods and destroyed farms. Dadu, Pakistan Inayatullah Laghari stands on his toes to point at a faint line on the school wall, a watermark left by the floodwaters that had submerged the building and the surrounding villages dur…
-
-[Read Original Article Here](https://www.aljazeera.com/features/2026/3/20/why-pakistani-farmers-are-suing-two-german-companies-for-deadly-2022-floods)
----
-
-## Article 16: Nuclear fusion advances, but challenges remain for power grid
-**Source:** Fox News | **Sentiment Score:** `0.2023`
-
-Nuclear fusion energy could become commercially viable by the early 2030s as scientists work to replicate the sun's power, potentially transforming energy. Nuclear fusion originates in our sun and other stars. Immense pressure and high temperatures in the core create a reaction, ultimately preventing it from collapsing under the force of gravity. "The …
-
-[Read Original Article Here](https://www.foxnews.com/politics/efforts-update-expand-energy-sources)
----
-
-## Article 17: 70 House GOP members urge Trump admin on Chinese-vape crackdown
-**Source:** Fox News | **Sentiment Score:** `-0.8020`
-
-Illegal Chinese e-cigarettes are at the center of a new push by 70 House Republicans, who signed a letter urging officials to act in trade talks. Congressional Republicans are urging the Trump administration to make illegal Chinese-made e-cigarettes a bigger trade and law-enforcement priority, framing the issue as both a public health concern …
-
-[Read Original Article Here](https://www.foxnews.com/politics/70-house-gop-members-urge-trump-admin-chinese-vape-crackdown)
----
-
-## Article 18: Hochul pleads for wealthy New Yorkers to return from red states like Florida, Texas as tax base 'eroded'
-**Source:** Fox News | **Sentiment Score:** `0.6652`
-
-Empire State Gov. Kathy Hochul, a Democrat, indicated that New York's tax base has eroded because wealth has relocated to red states like Texas and Florida. New York Gov. Kathy Hochul indicated that the Empire State needs wealthy individuals paying taxes in the state to help fund social programs, but noted that the state's tax base has "eroded." During …
-
-[Read Original Article Here](https://www.foxnews.com/politics/hochul-pleads-wealthy-new-yorkers-return-from-red-states-like-florida-texas-tax-base-eroded)
----
-
-## Article 19: China’s silence on Iran reveals its true priorities
-**Source:** Al Jazeera English | **Sentiment Score:** `0.5267`
-
-Beijing's muted response shows that when core interests are at stake, even close partners are expendable. February 28, 2026, will be remembered as the day the law of the jungle returned. On that fateful day, the United States and Israel, in flagrant violation of international law and the United Nations C…
-
-[Read Original Article Here](https://www.aljazeera.com/opinions/2026/3/19/chinas-silence-on-iran-reveals-its-true-priorities)
----
-
-## Article 20: Iran’s dilemma in war and peace
-**Source:** Al Jazeera English | **Sentiment Score:** `0.1280`
-
-Iran’s regional ambitions are increasingly constrained by military limits, economic pressure, and internal fragility. Ayatollah Ruhollah Khomeini, upon coming to power in Iran after the 1979 Islamic revolution, adopted a distinctly Shia-sectarian constitution. With its approval, all Iranian citizens who did not belo…
-
-[Read Original Article Here](https://www.aljazeera.com/opinions/2026/3/19/irans-dilemma-in-war-and-peace)
 ---
 
