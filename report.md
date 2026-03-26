@@ -1,11 +1,131 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-03-25 | **Status:** Automated
+**Date:** 2026-03-26 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: Donald Trump’s legacy: Will Republicans embrace his political vision, or has he left conservatism in the dust?
+## Article 1: US talking to itself, says Iran as Trump claims wheels of diplomacy turning
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.3400`
+
+Iranian officials continue to deny any peace talks, amid reports the US sent the country a ceasefire proposal. Irans military has said the United States is failing in its war and negotiating with itself to save face, dismissing claims by US President Donald Trump that talks are under way to end the conflict.…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/3/25/us-talking-to-itself-says-iran-as-trump-claims-wheels-of-diplomacy-turning)
+---
+
+## Article 2: US-Israel war on Iran: What’s happening on day 26 of attacks?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.4215`
+
+Iran, Israel, the Gulf faced new missiles and drones. The US has signalled military escalation and openness to a deal. The war launched by the United States and Israel against Iran continues, even as efforts to reach a diplomatic solution increase and there are conflicting claims about possible negotiations. Strikes…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/3/25/us-israel-war-on-iran-whats-happening-on-day-26-of-attacks)
+---
+
+## Article 3: Amid US-Israeli attacks, people in Iran struggle to survive ailing economy
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.7269`
+
+Some are left without an income, others are temporarily displaced, and no one knows when the internet will return . Tehran, Iran Iranians are dealing with the fallout of the US-Israeli war on their country for the fourth week while being squeezed by a dwindling economy and the longest internet shutdown the country…
+
+[Read Original Article Here](https://www.aljazeera.com/features/2026/3/25/amid-us-israeli-attacks-people-in-iran-struggle-to-survive-ailing-economy)
+---
+
+## Article 4: From Pakistan to Egypt, Iran war drives up fuel prices in the Global South
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.6240`
+
+Developing economies in Asia, Africa, and the Middle East are bearing the brunt of surging energy costs. As the United States-Israeli war with Iran sends tremors through the global economy, the poorest members of the Global South are the most exposed to the fallout. In Asia, Africa and the Middle East,…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/3/25/from-pakistan-to-egypt-iran-war-drives-up-fuel-prices-in-the-global-south)
+---
+
+## Article 5: Philippine president declares energy emergency as impact of Iran war felt
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.9246`
+
+Transport unions say emergency declaration a 'superficial band-aid' that does not address root cause of fuel crisis. Philippine President Ferdinand Marcos Jr has declared a national energy emergency in response to the US-Israel war on Iran and what he called the imminent danger posed to the countrys energy supply.…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/3/25/philippine-president-declares-energy-emergency-as-impact-of-iran-war-felt)
+---
+
+## Article 6: Russian weapons, tactics seen in Ukraine are shaping Myanmar’s civil war
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.8625`
+
+Russian role felt in Myanmar, from aircraft to waves of conscripts launching 'meat assaults' made infamous in Ukraine. Russian-supplied airpower, intelligence and battlefield tactics drawn from its war in Ukraine are helping Myanmars military government turn the tide in a civil war now entering its sixth year. China…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/3/24/russian-weapons-tactics-seen-in-ukraine-are-shaping-myanmars-civil-war)
+---
+
+## Article 7: FBI’s ‘Operation Box Cutter’ indicts Chinese pharma firms, terror-linked cartel assets in fentanyl takedown
+**Source:** Fox News | **Sentiment Score:** `-0.0688`
+
+FBI Director Kash Patel revealed a historic crackdown on Chinese pharmaceutical companies allegedly supplying the Gulf cartel with fentanyl precursors. EXCLUSIVE: Six Chinese citizens and two China-based pharmaceutical companies have been indicted for allegedly selling and delivering chemical precursors used to make fentanyl intended to be smuggled …
+
+[Read Original Article Here](https://www.foxnews.com/us/fbis-operation-box-cutter-indicts-chinese-pharma-firms-terror-linked-cartel-assest-fentanyl-takedown)
+---
+
+## Article 8: Trump keeps up claims of talks with ‘the right people’ in Iran
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.5254`
+
+US reportedly engaged in backchannel efforts, though Israel apparently not on same page, and military buildup continues. United States President Donald Trump has maintained that negotiations to end the war on Iran are under way, claiming that Tehran wanted to make a deal so badly despite its previous denial that talks …
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/3/24/trump-keeps-up-claims-of-talks-with-the-right-people-in-iran)
+---
+
+## Article 9: Johnson says US will win AI race — but only if two conditions are met
+**Source:** Fox News | **Sentiment Score:** `0.9294`
+
+At the Hill & Valley Forum, Speaker Mike Johnson detailed a three-point plan for AI regulation, emphasizing competition with adversaries and a unified federal standard. House Speaker Mike Johnson, R-La., is calling for a national framework to regulate artificial intelligence (AI) but cautioned it should not go too far. "America will win the AI race. We will win it,…
+
+[Read Original Article Here](https://www.foxnews.com/politics/johnson-says-us-win-ai-race-only-two-conditions-met)
+---
+
+## Article 10: US says they’re talking, Iran says they’re not. Who’s telling the truth?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.3400`
+
+Critics say Trump's claim of negotiations is a tactic to calm the market, but could the Iranians be ready to talk? United States President Donald Trump is insistent that productive negotiations have taken place with Iran to end the war he launched with Israels Prime Minister Benjamin Netanyahu almost a month ago.…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/3/24/us-says-theyre-talking-iran-says-theyre-not-whos-telling-the-truth)
+---
+
+## Article 11: The US should end the war asap
+**Source:** Al Jazeera English | **Sentiment Score:** `0.7269`
+
+The best way to manage the fallout of the US-Israel war on Iran is to end it now. United States President Donald Trumps instincts are correct. He wants to end the current engagement as soon as possible. He is using both a carrot and a stick to achieve that result. The carrot he of…
+
+[Read Original Article Here](https://www.aljazeera.com/opinions/2026/3/24/the-us-should-end-the-war-asap)
+---
+
+## Article 12: Red wealth, dark money: How an American tycoon deploys Mao's playbook against the West
+**Source:** Fox News | **Sentiment Score:** `0.0772`
+
+Fox News Digital reveals how $278M of Singham’s fortune moved through shell-like entities, shared boards and interconnected nonprofits. Part 2 of a five-part Fox News Digital series investigating the House of Singham examines the "United Front," a key element of Chinese communist leader Mao Zedongs "Peoples War" strategy. As CodePin…
+
+[Read Original Article Here](https://www.foxnews.com/politics/red-wealth-dark-money-how-american-tycoon-deploys-maos-playbook-against-west)
+---
+
+## Article 13: Gov Josh Shapiro admits Dem issues beyond rhetoric, says they failed to deliver to voters
+**Source:** Fox News | **Sentiment Score:** `-0.8126`
+
+Pennsylvania Gov. Josh Shapiro argues the Democratic Party's problems go beyond messaging, saying Democrats failed to deliver tangible results and need an internal reckoning. Pennsylvania Gov. Josh Shapiro argued on Sunday that the Democratic Partys issues go far deeper than mere surface-level rhetoric, suggesting the party has been long overdue for an internal reckoning.…
+
+[Read Original Article Here](https://www.foxnews.com/media/gov-josh-shapiro-admits-dem-issues-beyond-rhetoric-says-failed-deliver-voters)
+---
+
+## Article 14: Exclusive: Trader made nearly $1 million on Polymarket with remarkably accurate Iran bets | CNN Politics
+**Source:** CNN | **Sentiment Score:** `0.5859`
+
+A trader made nearly $1 million since 2024 from dozens of well-timed Polymarket bets that correctly predicted US and Israeli military actions against Iran, according to an analysis shared with CNN. A trader made nearly $1 million since 2024 from dozens of well-timed Polymarket bets that correctly predicted US and Israeli military actions against Iran, according to an analysis shared with CNN. …
+
+[Read Original Article Here](https://www.cnn.com/2026/03/24/politics/iran-war-bets-prediction-markets)
+---
+
+## Article 15: Trump unleashes nuclear boom, powering America back to energy dominance
+**Source:** Fox News | **Sentiment Score:** `0.8225`
+
+The DOE's Nuclear Lifecycle Innovation Campus concept proposes state-led hubs to rebuild America's nuclear fuel cycle and restore industrial leadership. Americas nuclear renaissance will not be built in Washington alone. Just as the states that had the foresight to build todays nuclear fleet enjoy its benefits, the states that rebuild our nuclear ind…
+
+[Read Original Article Here](https://www.foxnews.com/opinion/trump-unleashes-nuclear-boom-powering-america-back-energy-dominance)
+---
+
+## Article 16: Donald Trump’s legacy: Will Republicans embrace his political vision, or has he left conservatism in the dust?
 **Source:** Fox News | **Sentiment Score:** `0.2382`
 
 Is Trumpism a coherent ideology or gut impulse? Pete Wehner says MAGA has killed conservatism, but Trump's policy record tells a far more complex story. We call it "Trumpism" for short, the collection of positions, policies and preferences embraced by the president of the United States. But does all this amount to a coherent philosophy that can be c…
@@ -13,7 +133,7 @@ Is Trumpism a coherent ideology or gut impulse? Pete Wehner says MAGA has killed
 [Read Original Article Here](https://www.foxnews.com/media/donald-trumps-legacy-republicans-embrace-his-political-vision-has-he-left-conservatism-dust)
 ---
 
-## Article 2: Trump's death will be 'like Mardi Gras in New Orleans,' Charlamagne warns after Mueller post
+## Article 17: Trump's death will be 'like Mardi Gras in New Orleans,' Charlamagne warns after Mueller post
 **Source:** Fox News | **Sentiment Score:** `0.5267`
 
 Radio host Charlamagne Tha God warned President Donald Trump that people will celebrate his death "like Mardi Gras" after he celebrated Robert Mueller's death. Radio host Charlamagne Tha God warned President Donald Trump on Monday that people would celebrate his death "like Mardi Gras in New Orleans" after his post on former FBI director Robert Mueller's de…
@@ -21,7 +141,7 @@ Radio host Charlamagne Tha God warned President Donald Trump that people will ce
 [Read Original Article Here](https://www.foxnews.com/media/trumps-death-like-mardi-gras-new-orleans-charlamagne-warns-after-mueller-post)
 ---
 
-## Article 3: Trump administration will pay a French company $1 billion in taxpayer funds to not build wind farms | CNN
+## Article 18: Trump administration will pay a French company $1 billion in taxpayer funds to not build wind farms | CNN
 **Source:** CNN | **Sentiment Score:** `-0.4215`
 
 The Trump administration announced it will pay nearly $1 billion to French energy giant TotalEnergies in exchange for the company abandoning plans to build offshore wind farms in the Atlantic Ocean and instead pursue fossil fuel projects in the US. The Trump administration announced it will pay nearly $1 billion to French energy giant TotalEnergies in exchange for the company abandoning plans to build offshore wind farms in the Atlantic Ocean a…
@@ -29,7 +149,7 @@ The Trump administration announced it will pay nearly $1 billion to French energ
 [Read Original Article Here](https://www.cnn.com/2026/03/23/climate/trump-totalenergies-offshore-wind-cancellation)
 ---
 
-## Article 4: Senate hopeful with deep Dem ties slapped with scathing complaint targeting alleged family payout 'scheme'
+## Article 19: Senate hopeful with deep Dem ties slapped with scathing complaint targeting alleged family payout 'scheme'
 **Source:** Fox News | **Sentiment Score:** `0.6597`
 
 A complaint with the Federal Election Commission is asking regulators to investigate Nebraska Senate hopeful Dan Osborn over $434,734 in campaign and PAC payments to five relatives and himself. FIRST ON FOX: A watchdog is urging the Federal Election Commission (FEC) to investigate Nebraska Senate hopeful Dan Osborn, alleging he is improperly steering campaign funds for personal use to nearl…
@@ -37,131 +157,11 @@ A complaint with the Federal Election Commission is asking regulators to investi
 [Read Original Article Here](https://www.foxnews.com/politics/senate-hopeful-deep-dem-ties-slapped-with-scathing-complaint)
 ---
 
-## Article 5: Why the oil and gas price shock from the Iran war won’t just fade away
+## Article 20: Why the oil and gas price shock from the Iran war won’t just fade away
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.8537`
 
 Rerouting and diversification cannot help when a significant chunk of oil and gas have been taken off the market. The US-Israeli war on Iran will have a profound impact on the global energy markets. It has already sent the price of the benchmark Brent crude oil soaring to nearly $120 per barrel, close to its hig…
 
 [Read Original Article Here](https://www.aljazeera.com/opinions/2026/3/23/why-the-oil-and-gas-price-shock-from-the-iran-war-wont-just-fade-away)
----
-
-## Article 6: Trump delays Xi meeting as Iran conflict lets US strong-arm China’s oil supply
-**Source:** Fox News | **Sentiment Score:** `-0.7964`
-
-The Iran conflict is disrupting oil flows China relies on as Trump delays a planned Xi meeting, raising new questions about leverage and the broader U.S.–China relationship. President Donald Trumps decision to delay a planned meeting with Chinese President Xi Jinping as the Iran conflict unfolds is raising a new question in Washington: whether pressure on global oil flow…
-
-[Read Original Article Here](https://www.foxnews.com/politics/trump-delays-xi-meeting-iran-conflict-lets-us-strong-arm-chinas-oil-supply)
----
-
-## Article 7: Which countries have strategic oil reserves – and how much?
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.5267`
-
-Members of the International Energy Agency have agreed to release 400 million barrels of oil from strategic reserves. Irans paralysis of the Strait of Hormuz has led to major disruption in global oil and gas supply and many countries have begun tapping into their strategic oil reserves to evade an economic crisis. …
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/3/23/which-countries-have-strategic-oil-reserves-and-how-much)
----
-
-## Article 8: Power Couple of Chaos: How a tycoon and activist built a 'Revolutionary Base' at the House of Singham
-**Source:** Fox News | **Sentiment Score:** `0.0258`
-
-Neville Roy Singham and Jodie Evans funneled $278 million through network spreading pro-China propaganda, according to Fox News Digital investigation. Washington, D.C. Part 1 of a five-part Fox News Digital series investigation follows the money that created the "Revolutionary Base" for a transnational network of organizations allegedly waging cogn…
-
-[Read Original Article Here](https://www.foxnews.com/us/house-singham)
----
-
-## Article 9: Power Couple of Chaos: How a tycoon and activist built a 'Revolutionary Base' at the House of Singham
-**Source:** Fox News | **Sentiment Score:** `0.0258`
-
-Neville Roy Singham and Jodie Evans funneled $278 million through network spreading pro-China propaganda, according to Fox News Digital investigation. Washington, D.C. Part 1 of a five-part Fox News Digital series investigation follows the money that created the "Revolutionary Base" for a transnational network of organizations allegedly waging cogn…
-
-[Read Original Article Here](https://www.foxnews.com/us/power-couple-chaos-how-tycoon-activist-built-revolutionary-base-house-singham)
----
-
-## Article 10: Dow soars after Trump calls off strikes on Iran, pending talks | CNN Business
-**Source:** CNN | **Sentiment Score:** `0.2500`
-
-Stocks soared and oil prices fell after President Donald Trump on Monday said the United States would postpone further strikes on Iran’s energy infrastructure, pending the outcome of negotiations. Stocks soared and oil prices fell after President Donald Trump on Monday said the United States would postpone further strikes on Irans energy infrastructure, pending the outcome of negotiations. Th…
-
-[Read Original Article Here](https://www.cnn.com/2026/03/23/business/stocks-dow-market)
----
-
-## Article 11: Oil prices gain as the International Energy Agency says the Iran war shock tops 1970s oil crises
-**Source:** CNN | **Sentiment Score:** `-0.7845`
-
-Oil prices plummeted Monday after US President Donald Trump suggested that ongoing talks between the United States and Iran could end the war. Oil prices plummeted Monday after US President Donald Trump suggested that ongoingtalks between the United States and Iran could end the war. Brent crude, the global oil benchmark, tumbled more than…
-
-[Read Original Article Here](https://www.cnn.com/2026/03/23/business/oil-prices-energy-shock-1970s-intl)
----
-
-## Article 12: Threats over Iran war bare Trump efforts to transform free speech: Experts
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.9149`
-
-Threat to punish broadcasters for coverage not in 'public interest' comes amid wider roll-backs, analysts say. Washington, DC United States President Donald Trump has led a political career defined by claims of biased and unfair media coverage against him. He has also levelled charges that so-called woke ideo…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/3/23/threats-over-iran-war-bare-trump-efforts-to-transform-free-speech-experts)
----
-
-## Article 13: Blue tsunami predictions for November election might not make landfall
-**Source:** Fox News | **Sentiment Score:** `0.4215`
-
-Foreign policy does matter and Trump's military actions in Iran, Venezuela and Cuba could reshape November midterm elections more than polling suggests. To read much political analysis, the results of the November midterm election are already set. The recent Fox News Poll showed Democrats leading Republicans by six points in support for the House. Si…
-
-[Read Original Article Here](https://www.foxnews.com/opinion/blue-tsunami-predictions-november-election-might-not-make-landfall)
----
-
-## Article 14: Israel’s displacement of civilians in Lebanon is a possible war crime
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.8979`
-
-The Israeli tactics of mass expulsion of civilians in Lebanon risk directly violating international law. Israels attacks in Lebanon and the threat of more to come have caused more than a million people to flee their homes. This is nearly one-fifth of the entire population of a country that already hosts…
-
-[Read Original Article Here](https://www.aljazeera.com/opinions/2026/3/23/israels-displacement-of-civilians-in-lebanon-is-a-possible-war-crime)
----
-
-## Article 15: Scott Bessent calls out 'terrible framing' during clash with NBC News host on Iranian oil
-**Source:** Fox News | **Sentiment Score:** `-0.7650`
-
-Scott Bessent accused NBC's Kristen Welker of "terrible framing" during an exchange about Iranian oil on Sunday, as the host pressed the treasury secretary on why the U.S. lifted sanctions. Treasury Secretary Scott Bessent clashed with NBC's Kristen Welker on Sunday as the two debated the effects of the war with Iran, specifically with regard to oil, as gas prices have skyrocketed since…
-
-[Read Original Article Here](https://www.foxnews.com/media/scott-bessent-calls-out-terrible-framing-during-back-and-forth-nbc-news-host-iranian-oil)
----
-
-## Article 16: Ukraine’s Zelenskyy urges allies to pressure Russia ahead of US talks
-**Source:** Al Jazeera English | **Sentiment Score:** `0.0516`
-
-With US-Ukraine talks set to resume in Florida, Volodymyr Zelenskyy warns Russia is increasing its oil revenues. President Volodymyr Zelenskyy has urged allies to keep up sanctions pressure on Russias economy ahead of a second day of talks between Ukraine and United States officials on ways to end the more-than…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/3/22/ukraines-zelenskyy-urges-allies-to-pressure-russia-ahead-of-us-talks)
----
-
-## Article 17: Pence: Trump upended ‘some aspects’ of GOP agenda but ‘hasn't really changed the Republican Party’
-**Source:** Fox News | **Sentiment Score:** `0.3254`
-
-Mike Pence says preserving conservative principles amid rising GOP populism is the calling of his life, ahead of his new book on the conservative agenda. EXCLUSIVE - Former Vice President Mike Pence says his fight to keep the Republican Party from drifting too far from its conservative roots and principles, amid a rise of populism in the GOP and big g…
-
-[Read Original Article Here](https://www.foxnews.com/politics/pence-trump-upended-some-aspects-gop-agenda-hasnt-really-changed-republican-party)
----
-
-## Article 18: Former FBI chief, Robert Mueller, dead at 81
-**Source:** Al Jazeera English | **Sentiment Score:** `0.2263`
-
-Robert Mueller oversaw the probe into alleged Russian interference in the 2016 United States election. Former FBI chief Robert Mueller, who probed the alleged Russian interference in the 2016 United States election, has died at age 81. With deep sadness, we are sharing the news that Bob passed away o…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/3/21/former-fbi-chief-robert-mueller-dead-at-81)
----
-
-## Article 19: Iran war: What’s happening on day 22 of US-Israel attacks?
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.9260`
-
-As conflict enters week 4, here’s the latest on the US-Israel attack on Iran and across the Middle East. The war launched by the United States and Israel on Iran has entered its fourth week, with more than 1,400 people reported killed in Iran. Iran has attacked Israel and US bases in retaliation, threa…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/3/21/iran-war-what-is-happening-on-day-22-of-us-israel-attacks)
----
-
-## Article 20: The Strait of Hormuz is about more than just oil. It feeds 100 million people | CNN Business
-**Source:** CNN | **Sentiment Score:** `0.8519`
-
-Oil and liquefied natural gas tankers moving through the Strait of Hormuz carry around 20% of the world’s supply. But for countries on the Persian Gulf, the waterway is more than just an energy route – it’s a lifeline for more than 100 million people. Oil and liquefied natural gas tankers moving through the Strait of Hormuz carry around 20% of the worlds supply. But for countries on the Persian Gulf, the waterway is more than just an energy route …
-
-[Read Original Article Here](https://www.cnn.com/2026/03/21/business/strait-of-hormuz-food-supply-intl)
 ---
 
