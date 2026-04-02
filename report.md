@@ -1,11 +1,91 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-04-01 | **Status:** Automated
+**Date:** 2026-04-02 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: Destroy the regime’s power without occupying Iran: A smarter war plan
+## Article 1: One Month at War With Iran — Can Washington define victory?
+**Source:** Fox News | **Sentiment Score:** `-0.9001`
+
+Operation Epic Fury lacks a political end state one month in, as Iran's regime endures and the Strait of Hormuz remains contested. Wars are not defined by the tonnage of munitions expended or ships sunk. They are defined by whether military force serves a coherent political objective. One month into Operation Epic Fury, that pri…
+
+[Read Original Article Here](https://www.foxnews.com/opinion/one-month-at-war-with-iran-can-washington-define-victory)
+---
+
+## Article 2: Iran war: What is happening on day 33 of US-Israel attacks?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.5346`
+
+Trump says US could leave Iran war in 2-3 weeks without a deal; Iran’s FM Araghchi says he has no faith in talks. United States President Donald Trump has said Tehran does not have to make a deal for him to end the war, adding that the conflict could end in two to three weeks, but Irans Foreign Minister Abbas Ar…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/4/1/iran-war-what-is-happening-on-day-33-of-us-israel-attacks)
+---
+
+## Article 3: After Strait of Hormuz opens, turmoil would still last months, analysts say
+**Source:** Al Jazeera English | **Sentiment Score:** `0.0644`
+
+Effective shutdown of key waterway could lead to permanent changes in how shipping industry does business. The effective shutdown of the Strait of Hormuz has blocked the flow of a substantial portion of the energy that powers the global economy. But even if the waterway reopens tomorrow, the disruption t…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/3/31/after-strait-of-hormuz-opens-turmoil-would-still-last-months-analysts-say)
+---
+
+## Article 4: ‘I need to leave’: Cuba’s tourism workers reel from US oil blockade
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.5106`
+
+From taxi drivers to tour guides, the collapse of Cuba’s tourism industry has left thousands struggling to get by. Havana, Cuba  In Havanas Parque Central, a 19th-century square in the old city, taxi driver Rainier Hernandez stands next to his bubblegum-pink 1951 Chevrolet Deluxe, scanning hopefully for tourists.…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/3/31/i-need-to-leave-cubas-tourism-workers-reel-from-us-oil-blockade)
+---
+
+## Article 5: Hiring in the US drops to pandemic lows as job market under Trump stagnates
+**Source:** Al Jazeera English | **Sentiment Score:** `0.3182`
+
+Labour market stagnation mirrors a slowing private payroll growth, averaging just 18,000 monthly in recent months Job openings in the United States have dropped to their lowest level in six years, as the demand for labour stalls amid concerns about trade, immigration and the surging role of artificial intelligen…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/3/31/hiring-in-the-us-drops-to-pandemic-lows-as-job-market-under-trump-stagnates)
+---
+
+## Article 6: Cuba crisis explained: Who holds power, and could Diaz-Canel be replaced?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.9153`
+
+As Cuba faces one of the worst humanitarian crises in its history, questions have emerged about the island's leadership. Cuba is facing one of its worst crises in decades, as the Caribbean island contends with nationwide blackouts, fuel shortages and growing political uncertainty. The crisis comes as the United States…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/3/31/cuba-crisis-explained-who-holds-power-and-could-diaz-canel-be-replaced)
+---
+
+## Article 7: Venezuela’s ‘Chavismo’ movement faces a crossroads after US attack
+**Source:** Al Jazeera English | **Sentiment Score:** `0.4404`
+
+Hugo Chavez founded a movement opposed to US intervention. How have his supporters adapted to new US-Venezuela ties? Libertad Velasco, a Chavista who grew up in the 23 de Enero neighbourhood, was only a teenager when Chavez came to power. She went on to become one of the founding members of the youth wing of Chave…
+
+[Read Original Article Here](https://www.aljazeera.com/news/longform/2026/3/31/venezuelas-chavismo-movement-faces-a-crossroads-after-us-attack)
+---
+
+## Article 8: Hundreds rally in West Bank against Israeli death penalty for Palestinians
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.9325`
+
+Civil society joins protests as EU voices express ‘great concern’ about Israel’s law targeting Palestinian prisoners. Hundreds of Palestinians have protested across the occupied West Bank to denounce the passage of an Israeli law approving the use of the death penalty against Palestinians convicted of deadly attacks…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/3/31/hundreds-rally-in-west-bank-against-israeli-death-penalty-for-palestinians)
+---
+
+## Article 9: Trump admin official shreds NY Times over multiple corrections to report on Silicon Valley initiative
+**Source:** Fox News | **Sentiment Score:** `0.0000`
+
+Jacob Helberg detailed the Trump administration’s "Pax Silica" investor consortium after The New York Times issued corrections clarifying funding figures and his remarks. Under Secretary of State for Economic Affairs Jacob Helberg hammered The New York Times on Sunday over its coverage of the Trump administration's newly announced formation of the "Pax Silica" investo…
+
+[Read Original Article Here](https://www.foxnews.com/media/trump-admin-official-shreds-ny-times-multiple-corrections-report-silicon-valley-initiative)
+---
+
+## Article 10: WATCH IT: Speaker Johnson hears from Uber driver on ‘no tax on tips’ benefit: ‘big difference’
+**Source:** Fox News | **Sentiment Score:** `-0.0516`
+
+An Uber Eats driver said the 'no tax on tips' deduction gave him a 20% larger refund, as Speaker Mike Johnson spotlighted the tax break ahead of Tax Day. Ahead of Tax Day, House Speaker Mike Johnson, R-La., is spotlighting a new tax break enacted by Republicans last year that is boosting millions of Americans' take-home pay. Bob Mitchell, an Uber dri…
+
+[Read Original Article Here](https://www.foxnews.com/politics/no-tax-on-tips-uber-driver-johnson-tax-break)
+---
+
+## Article 11: Destroy the regime’s power without occupying Iran: A smarter war plan
 **Source:** Fox News | **Sentiment Score:** `-0.9011`
 
 The U.S.-Iran war has been underway for a month, but analysis suggests the U.S. has many unused options beyond a ground invasion, from striking Kharg Island to cyber operations. The U.S.-Iran war has been underway for a month now. It is increasingly difficult to distinguish real strategic and military expertise from politicized opinion, speculation and narrative. Too many pe…
@@ -13,7 +93,7 @@ The U.S.-Iran war has been underway for a month, but analysis suggests the U.S. 
 [Read Original Article Here](https://www.foxnews.com/opinion/destroy-regimes-power-without-occupying-iran-smarter-war-plan)
 ---
 
-## Article 2: Three scenarios for the Strait of Hormuz
+## Article 12: Three scenarios for the Strait of Hormuz
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.8176`
 
 Two military scenarios and one diplomatic one emerge, with Pakistan playing a crucial mediatory role. The ongoing United States-Israeli war on Iran has thrust the Strait of Hormuz into the centre of a multidimensional geopolitical crisis. Since hostilities commenced in late February 2026, Irans Islam…
@@ -21,7 +101,7 @@ Two military scenarios and one diplomatic one emerge, with Pakistan playing a cr
 [Read Original Article Here](https://www.aljazeera.com/opinions/2026/3/31/three-scenarios-for-the-strait-of-hormuz)
 ---
 
-## Article 3: Why Trump faces an agonizing decision on obliterating Iran’s oil supply if he can’t get a deal
+## Article 13: Why Trump faces an agonizing decision on obliterating Iran’s oil supply if he can’t get a deal
 **Source:** Fox News | **Sentiment Score:** `-0.7655`
 
 Trump threatens to obliterate Iran's oil and power infrastructure on Truth Social while envoys reportedly pursue a nuclear deal through back-channel talks. In case you blinked and missed it, President Donald Trump is back to threatening Iran. And that seems to undercut the idea that his envoys are having very good talks, through intermediaries, with th…
@@ -29,7 +109,7 @@ Trump threatens to obliterate Iran's oil and power infrastructure on Truth Socia
 [Read Original Article Here](https://www.foxnews.com/media/why-trump-faces-agonizing-decision-obliterating-irans-oil-supply-he-cant-get-deal)
 ---
 
-## Article 4: ‘Dangerous escalation’: World reacts to Israel passing death penalty law
+## Article 14: ‘Dangerous escalation’: World reacts to Israel passing death penalty law
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.9709`
 
 Rights groups denounce Israeli legislation as a violation of international law that puts Palestinian prisoners at risk. Human rights groups and Palestinian leaders have condemned Israels passage of a law approving the use of the death penalty against Palestinians convicted of deadly attacks, calling the measure a viol…
@@ -37,7 +117,7 @@ Rights groups denounce Israeli legislation as a violation of international law t
 [Read Original Article Here](https://www.aljazeera.com/news/2026/3/30/dangerous-escalation-world-reacts-to-israel-passing-death-penalty-law)
 ---
 
-## Article 5: Rubio denies US punitive actions, blames Cuba for economic failures
+## Article 15: Rubio denies US punitive actions, blames Cuba for economic failures
 **Source:** Al Jazeera English | **Sentiment Score:** `0.2268`
 
 In exclusive interview with Al Jazeera, the US secretary of state downplays US role in the island nation's fuel crisis. US Secretary of State Marco Rubio has said the United States has done nothing punitive against the Cuban government, saying the current humanitarian situation on the island preceded recent actions by…
@@ -45,7 +125,7 @@ In exclusive interview with Al Jazeera, the US secretary of state downplays US r
 [Read Original Article Here](https://www.aljazeera.com/news/2026/3/30/rubio-denies-us-punitive-actions-blames-cuba-for-economic-failures)
 ---
 
-## Article 6: Exclusive: Federal prosecutors are exploring whether prediction market bets trip insider trading laws | CNN Politics
+## Article 16: Exclusive: Federal prosecutors are exploring whether prediction market bets trip insider trading laws | CNN Politics
 **Source:** CNN | **Sentiment Score:** `-0.5574`
 
 Federal prosecutors in Manhattan are exploring whether certain lucrative bets placed on prediction markets have violated insider trading and other laws, multiple sources told CNN. Federal prosecutors in Manhattan are exploring whether certain lucrative bets placed on prediction markets have violated insider trading and other laws, multiple sources told CNN. The chiefs of the …
@@ -53,7 +133,7 @@ Federal prosecutors in Manhattan are exploring whether certain lucrative bets pl
 [Read Original Article Here](https://www.cnn.com/2026/03/30/politics/prediction-markets-justice-department)
 ---
 
-## Article 7: Bessent says ‘more and more’ ships moving through Strait of Hormuz, could ease oil price pressure
+## Article 17: Bessent says ‘more and more’ ships moving through Strait of Hormuz, could ease oil price pressure
 **Source:** Fox News | **Sentiment Score:** `0.9571`
 
 Scott Bessent suggests the U.S. will retake Strait of Hormuz control, promising freedom of navigation to help stabilize global oil supply and costs. An increase in ship traffic through the Strait of Hormuz could help ease pressure on oil prices, Treasury Secretary Scott Bessent suggested Monday, signaling potential relief as markets fret over ris…
@@ -61,7 +141,7 @@ Scott Bessent suggests the U.S. will retake Strait of Hormuz control, promising 
 [Read Original Article Here](https://www.foxnews.com/media/bessent-says-more-more-ships-moving-through-hormuz-could-ease-oil-price-pressure)
 ---
 
-## Article 8: U.S. Stocks Advance and Oil Pushes Higher
+## Article 18: U.S. Stocks Advance and Oil Pushes Higher
 **Source:** The Wall Street Journal | **Sentiment Score:** `0.0772`
 
 U.S. stocks opened sharply higher after the Dow industrials and Nasdaq composite fell into correction territory last week. - Michael M. Santiago/Getty Images Oil prices extended gains Monday on signs that the war in Iran could last longer. Hopes of a ceasefire have faded in recent days with more U.S. troops arriving in…
@@ -69,7 +149,7 @@ U.S. stocks opened sharply higher after the Dow industrials and Nasdaq composite
 [Read Original Article Here](https://www.wsj.com/finance/oil-leaps-above-115-as-widening-war-stokes-growth-fears-2a3c90b7)
 ---
 
-## Article 9: Gavin Newsom bashes Elon Musk as ‘one of the great disappointments'
+## Article 19: Gavin Newsom bashes Elon Musk as ‘one of the great disappointments'
 **Source:** Fox News | **Sentiment Score:** `0.6705`
 
 California Gov. Gavin Newsom told Axios that Elon Musk has “put the brakes" on EV innovation and warned China is overtaking the United States in the electric vehicle market. California Gov. Gavin Newsom declared Elon Musk "one of the great disappointments" of the era and argued the Tesla leader has "put the brakes on his own innovation" in the electric vehicle space duri…
@@ -77,91 +157,11 @@ California Gov. Gavin Newsom told Axios that Elon Musk has “put the brakes" on
 [Read Original Article Here](https://www.foxnews.com/media/gavin-newsom-bashes-elon-musk-one-great-disappointments)
 ---
 
-## Article 10: Palestine aIly Ireland under fire for allowing weapons transfers to Israel
+## Article 20: Palestine aIly Ireland under fire for allowing weapons transfers to Israel
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.3818`
 
 Since the Iraq War, Shannon Airport has served as a key transit hub for the US military. It is now under scrutiny again. In November, three activists from Palestine Action Eire crashed a modified van through a barrier at Shannon Airport, drove onto the runway towards a United States military aircraft and sprayed green …
 
 [Read Original Article Here](https://www.aljazeera.com/news/2026/3/30/palestine-aily-ireland-under-fire-for-allowing-weapons-transfers-to-israel)
----
-
-## Article 11: Live updates: Iran war news, Trump threatens to ‘obliterate’ Iran’s energy sources, Tehran calls US plan ‘unrealistic’
-**Source:** CNN | **Sentiment Score:** `-0.3615`
-
-President Donald Trump said the US may blow up and completely obliterate Iran’s electric plants and oil wells if a deal to end the war is not reached. Follow for live updates. Job growth was lackluster last year in the United States, but signs of stabilization, if not a rebound, were starting to emerge. Now, the expanding conflict in the Middle East not only interrupts th…
-
-[Read Original Article Here](https://www.cnn.com/2026/03/30/world/live-news/iran-war-us-israel-trump)
----
-
-## Article 12: Rand Paul says he's '50-50' on running for president in 2028, 'thinking about it'
-**Source:** Fox News | **Sentiment Score:** `-0.5994`
-
-Sen. Rand Paul, R-Ky., told "CBS News Sunday Morning" that he is "50-50" on a possible 2028 presidential run based on his opposition to the war against Iran. Sen. Rand Paul, R-Ky., said he is "50-50" on potentially running for president in 2028 during an interview with "CBS News Sunday Morning." "Yeah, I don't know yet, so maybe they know something I don…
-
-[Read Original Article Here](https://www.foxnews.com/media/rand-paul-says-hes-50-50-running-president-2028-thinking-about-it)
----
-
-## Article 13: Cuba is not alone, deputy FM says as US threats grow
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.7184`
-
-Cuba's deputy foreign minister says island will resist US pressure as sanctions deepen, blackouts and tensions escalate. Cubas deputy foreign minister says the island nation will resist US pressure as sanctions deepen, blackouts continue, and tensions escalate.Cuba is facing widespread blackouts as United States sancti…
-
-[Read Original Article Here](https://www.aljazeera.com/video/talk-to-al-jazeera/2026/3/29/cuba-is-not-alone-deputy-fm-says-as-us-threats-grow)
----
-
-## Article 14: Europe’s response to Iran war risks becoming its ‘darkest hour’
-**Source:** Post Magazine | **Sentiment Score:** `-0.8834`
-
-The European Union (EU) is a bystander in the Iran war, but it might end up sustaining significant collateral damage. On one hand, public opinion across Europe is opposed to a conflict that circumvents the core principles of international law. On the other, t… The European Union (EU) is a bystander in the Iran war, but it might end up sustaining significant collateral damage. On one hand, public opinion across Europe is opposed to a conflict that circumven…
-
-[Read Original Article Here](https://www.scmp.com/opinion/world-opinion/article/3347867/europes-response-iran-war-risks-becoming-its-darkest-hour)
----
-
-## Article 15: North Korean laborers describe brutal forced labor in Russia: 'Working like a cow, earning nothing'
-**Source:** Fox News | **Sentiment Score:** `-0.7311`
-
-A North Korean forced labor survivor describes earning $800 a month but keeping only $10, with passports seized and no way to leave Russian work sites. "Wake up before 6 a.m. to the Russian winter. Walk to the construction site as a group. Work from 7 a.m. until 10, 11 p.m., sometimes even midnight. Without breaks. There is no set end time. You fini…
-
-[Read Original Article Here](https://www.foxnews.com/world/north-korean-laborers-describe-brutal-forced-labor-russia-working-like-cow-earning-nothing)
----
-
-## Article 16: Finance chief says Hong Kong remains stable as oil prices surge amid global turmoil
-**Source:** Post Magazine | **Sentiment Score:** `-0.8020`
-
-Hong Kong authorities are closely monitoring rising tensions in the Middle East and the resulting volatility in global oil prices, although the immediate impact on the city’s economy remains limited, the finance chief has said. Financial Secretary Paul Chan M… Hong Kong authorities are closely monitoring rising tensions in the Middle East and the resulting volatility in global oil prices, although the immediate impact on the citys economy remains limited, …
-
-[Read Original Article Here](https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3348287/finance-chief-says-hong-kong-remains-stable-oil-prices-surge-amid-global-turmoil)
----
-
-## Article 17: Pakistan secures Iran deal to send 20 ships through Strait of Hormuz
-**Source:** Al Jazeera English | **Sentiment Score:** `0.5106`
-
-Islamabad's diplomatic push bears fruit as the world watches for signs of a broader breakthrough. Iran has agreed to allow 20 Pakistani-flagged vessels to transit the Strait of Hormuz, in what Islamabad has called a meaningful step towards easing one of the worst energy crises in modern history.…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/3/28/pakistan-secures-iran-deal-to-send-20-ships-through-strait-of-hormuz)
----
-
-## Article 18: As war rages, Iranian politicians push for exit from nuclear weapons treaty
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.7430`
-
-While US-Israeli attacks hit key infrastructure, hardliners demand withdrawal from Nuclear Non-Proliferation Treaty. Tehran, Iran Iranian politicians are pushing to exit the country from the Treaty on the Non-Proliferation of Nuclear Weapons (NPT) as the United States and Israel ramp up their attacks to hit civilia…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/3/28/lawmakers-push-npt-exit-as-us-israel-hit-irans-nuclear-sites-steel-plants)
----
-
-## Article 19: Iran has a new demand to end the war – and it could bring in billions
-**Source:** CNN | **Sentiment Score:** `-0.4939`
-
-When an Iranian official this week laid out a list of demands to end the war started by the United States and Israel, he added an item that hadn’t been on... When an Iranian official this week laid out a list of demands to end the war started by the United States and Israel, he added an item that hadnt been on Tehrans list before: recognition of Irans sov…
-
-[Read Original Article Here](https://www.cnn.com/2026/03/28/middleeast/iran-strait-of-hormuz-toll-intl)
----
-
-## Article 20: Inside Iran’s military: missiles, militias and a force built for survival
-**Source:** Fox News | **Sentiment Score:** `-0.9278`
-
-Experts say Iran's military is built to survive, not win conventionally, as the Islamic Revolutionary Guard Corps retains missiles, proxies and naval threats despite U.S. strikes. Irans military is not designed to win a conventional war against the United States or Israel. It is designed to survive one, absorb damage and continue fighting over time, experts say. That strategy…
-
-[Read Original Article Here](https://www.foxnews.com/world/inside-irans-military-missiles-militias-force-built-survival)
 ---
 
