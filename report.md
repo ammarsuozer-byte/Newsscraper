@@ -1,11 +1,115 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-04-23 | **Status:** Automated
+**Date:** 2026-04-24 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: US halts shipment of Iraq’s oil dollars in bid to curb Iran-linked groups
+## Article 1: Four lessons why the 'Boom Belt' is making such a big noise with migration
+**Source:** Fox News | **Sentiment Score:** `0.8402`
+
+The Boom Belt, including Texas, Florida and Tennessee, gains wealth as high-income earners flee high-tax states like California and New York in droves. If you want to understand where Americas economy is heading, stop watching Washington and start watching a map of the United States. Because the biggest economic story in the country right now isnt …
+
+[Read Original Article Here](https://www.foxnews.com/opinion/four-lessons-boom-belt-making-big-noise-migration)
+---
+
+## Article 2: Can fish hook voters in India’s West Bengal elections?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.1531`
+
+In battle for India's West Bengal election, PM Modi's men campaigned with fish in hand to try to connect with voters. Waving a big Catla fish in his hands, Sharadwat Mukherjee went door to door canvassing for votes before Thursdays election to the state legislature in the eastern Indian state of West Bengal. Mukher…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/4/23/can-fish-hook-voters-in-indias-bengal-elections)
+---
+
+## Article 3: US Treasury Secretary Bessent says Gulf, Asian allies request swap lines
+**Source:** Al Jazeera English | **Sentiment Score:** `0.7003`
+
+Bessent pushed back on allegations that Trump family's financial ties with UAE are driving decision to offer swap line. United States Secretary of the Treasury Scott Bessent has said that several allies in the Gulf region and Asia have requested currency swap lines from the US to help them with the energy shocks and o…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/4/22/us-treasury-secretary-bessent-says-gulf-asian-allies-request-swap-lines)
+---
+
+## Article 4: Prediction market Kalshi docks three US candidates for betting on own races
+**Source:** Al Jazeera English | **Sentiment Score:** `0.3182`
+
+Penalties come amid calls for greater oversight; company pledges to proactively police 'insider trading' on platforms. Predictive market platform Kalshi has punished three unnamed United States political candidates for taking part in insider trading by betting on their own campaigns. In a statement on Wednesday, Kal…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/4/22/prediction-market-kalshi-docks-three-us-candidates-for-betting-on-own-races)
+---
+
+## Article 5: Fox News Poll: 56% doubt White House’s competence at managing government
+**Source:** Fox News | **Sentiment Score:** `-0.1838`
+
+A Fox News poll finds 56% of voters say the Trump administration has not been competent at managing the federal government, with 58% disapproving. A 56% majority of voters say the Trump administration has not been competent at managing the federal government, according to a Fox News poll released Wednesday. Two in 10 Republicans join most indep…
+
+[Read Original Article Here](https://www.foxnews.com/politics/fox-news-poll-56-doubt-white-houses-competence-managing-government)
+---
+
+## Article 6: Fox News Poll: Economic gloom, Trump ratings signal tough GOP midterm path
+**Source:** Fox News | **Sentiment Score:** `0.4939`
+
+Economic pessimism gives Democrats an edge in 2026 House races as 73% of voters rate the economy negatively and Trump approval sits at just 42%. The electorates economic pessimism is giving the Democratic Party an edge six months out from the November election. A new Fox News survey points to an environment conducive to a change in the majori…
+
+[Read Original Article Here](https://www.foxnews.com/politics/fox-news-poll-economic-gloom-trump-ratings-signal-tough-gop-midterm-path)
+---
+
+## Article 7: Iran blames Trump’s blockade for diplomatic impasse as fragile truce holds
+**Source:** Al Jazeera English | **Sentiment Score:** `0.0890`
+
+Iranian Parliament Speaker Mohammad Bagher Ghalibaf says US and Israel will not achieve their goals 'through bullying'. Iranian officials have blamed the United States for the impasse in the negotiations and the continued closure of the Strait of Hormuz, stressing that Tehran will not submit to bullying by Washington.…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/4/22/iran-blames-trumps-blockade-for-diplomatic-impasse-as-fragile-truce-holds)
+---
+
+## Article 8: Kalshi prediction site suspends three political candidates
+**Source:** CNN | **Sentiment Score:** `-0.7351`
+
+The prediction market suspended them from its platform on Wednesday for “political insider trading” after allegedly betting on their own campaigns. The prediction market Kalshi suspended three political candidates from its platform on Wednesday for political insider trading after an internal probe found that they bet on their own campaigns. The…
+
+[Read Original Article Here](https://www.cnn.com/2026/04/22/politics/kalshi-prediction-site-suspend-political-candidates)
+---
+
+## Article 9: Jeffries calls Trump 'dumbest person ever' to sit at 1600 Pennsylvania Avenue
+**Source:** Fox News | **Sentiment Score:** `-0.8689`
+
+Rep. Hakeem Jeffries calls Trump the dumbest person to ever sit at the White House, responding to the president calling him a low IQ person on Tuesday. Rep. Hakeem Jeffries, D-N.Y., called President Donald Trump the "dumbest person" to ever sit at the White House during an interview Tuesday. The president previously called Jeffries a "low IQ person…
+
+[Read Original Article Here](https://www.foxnews.com/media/jeffries-calls-trump-dumbest-person-ever-sit-1600-pennsylvania-avenue)
+---
+
+## Article 10: A 42bn-euro dilemma: What is stopping EU from holding Israel to account?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.1280`
+
+Trade, history, internal rifts: Inside European deadlock over suspending lucrative association agreement with Israel. Spain, Ireland and Slovenia have mounted a renewed push to suspend the European Unions trade and cooperation pact with Israel at a meeting of EU foreign ministers before being shot down by Germany an…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/4/22/a-42bn-euro-dilemma-what-is-stopping-eu-from-holding-israel-to-account)
+---
+
+## Article 11: Ukraine restarts Russian oil to Europe, unblocking 90-billion-euro EU loan
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.2023`
+
+Resumption of oil deliveries enables Hungary to lift veto, with EU's 27 members now on track to formally approve loan. The European Union is expected to sign off on a 90-billion-euro ($106bn) loan for Kyiv after a months-long standoff over the stalled operations of a war-damaged pipeline transporting Russian oil via …
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/4/22/ukraine-restarts-russian-oil-flows-to-europe-unblocking-90bn-eu-loan)
+---
+
+## Article 12: Trump envoy to Turkey doubles down after backlash, pushes ‘peace through strength’ policy
+**Source:** Fox News | **Sentiment Score:** `-0.4044`
+
+U.S. Ambassador to Turkey and Syria envoy Tom Barrack defends controversial remarks on Hezbollah, Turkey’s F-35 access and Middle East governance as pragmatic realism, not policy shifts. EXCLUSIVE: U.S. Ambassador Tom Barrack is pushing back after backlash over remarks seen as equating Israel with Hezbollah, insisting his comments reflect "realism" and not a change in U.S. policy. B…
+
+[Read Original Article Here](https://www.foxnews.com/world/trump-envoy-turkey-doubles-down-after-backlash-pushes-peace-through-strength-policy)
+---
+
+## Article 13: Iran calls US ship seizure ‘piracy’: Is it?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.5994`
+
+Since the early days of the war on Iran, the US has been targeting Iranian ships in international waters. Iran responded to the US capture of one of its tankers close to the Strait of Hormuz earlier this week by capturing two foreign commercial vessels on Wednesday and moving them to its coast. Iran call…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/4/22/iran-calls-us-ship-seizure-piracy-is-it)
+---
+
+## Article 14: US halts shipment of Iraq’s oil dollars in bid to curb Iran-linked groups
 **Source:** Al Jazeera English | **Sentiment Score:** `0.6705`
 
 A plane carrying nearly $500m in US banknotes was blocked by the US Treasury, according to The Wall Street Journal. The United States has halted shipments of US dollars to Iraq and paused some security cooperation programmes with the Iraqi military, increasing pressure on Baghdad to curb powerful Iran-aligned grou…
@@ -13,7 +117,7 @@ A plane carrying nearly $500m in US banknotes was blocked by the US Treasury, ac
 [Read Original Article Here](https://www.aljazeera.com/news/2026/4/22/us-halts-iraq-dollar-shipments-in-pressure-campaign-over-iran-linked-groups)
 ---
 
-## Article 2: Bitcoin rises on optimism over Trump’s extended Iran ceasefire
+## Article 15: Bitcoin rises on optimism over Trump’s extended Iran ceasefire
 **Source:** Bloomberg | **Sentiment Score:** `0.9382`
 
 Bitcoin rises 2.7% to $77,500 amid optimism from Trump's Iran ceasefire, boosting market confidence in cryptocurrencies. Bitcoin jumped along with equities on Wednesday after President Donald Trump said he would extend a ceasefire with Iran, bolstering market confidence. The original cryptocurrency rose as much as 2.7…
@@ -21,7 +125,7 @@ Bitcoin rises 2.7% to $77,500 amid optimism from Trump's Iran ceasefire, boostin
 [Read Original Article Here](https://www.bloomberg.com/news/articles/2026-04-22/bitcoin-rises-on-optimism-over-trump-s-extended-iran-ceasefire)
 ---
 
-## Article 3: Iran war: What’s happening on day 54 as Trump extends ceasefire?
+## Article 16: Iran war: What’s happening on day 54 as Trump extends ceasefire?
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.1027`
 
 Trump said the US would extend the ceasefire with Iran until it presents a proposal and talks conclude. President Donald Trump said the United States is extending the ceasefire until Tehran submits its latest proposal with conditions for ending the war, and until negotiations conclude, keeping diplomac…
@@ -29,7 +133,7 @@ Trump said the US would extend the ceasefire with Iran until it presents a propo
 [Read Original Article Here](https://www.aljazeera.com/news/2026/4/22/iran-war-whats-happening-on-day-54-as-trump-extends-ceasefire)
 ---
 
-## Article 4: Pricier condoms show war is impacting cost of nearly everything
+## Article 17: Pricier condoms show war is impacting cost of nearly everything
 **Source:** Bloomberg | **Sentiment Score:** `-0.7717`
 
 The surge in condom costs underscores how the West Asia war, which has already upended energy markets and raised prices for food to fertilizers, is disrupting virtually every aspect of life for consumers The fallout across industries from the Iran war has now hit condoms. Karex Bhd, which makes one out of every five condoms worldwide, is preparing to raise its prices by as much as 30 per cent as the…
@@ -37,7 +141,7 @@ The surge in condom costs underscores how the West Asia war, which has already u
 [Read Original Article Here](https://www.bloomberg.com/news/articles/2026-04-21/iran-war-has-boosted-costs-of-energy-food-and-now-condoms)
 ---
 
-## Article 5: China and Philippines taking ‘baby steps’ towards better relations: Manila’s ambassador
+## Article 18: China and Philippines taking ‘baby steps’ towards better relations: Manila’s ambassador
 **Source:** Post Magazine | **Sentiment Score:** `-0.7227`
 
 The Philippines' ambassador to China Jaime FlorCruz says both sides want stable ties, but closer economic relations must not be used as "leverage" in the South China Sea dispute. The Philippines is trying to gradually establish stable foundations for its relations with China before tackling tougher problems such as the long-running South China Sea dispute, according to the co…
@@ -45,7 +149,7 @@ The Philippines' ambassador to China Jaime FlorCruz says both sides want stable 
 [Read Original Article Here](https://www.scmp.com/news/china/diplomacy/article/3350870/china-and-philippines-taking-baby-steps-towards-better-relations-manilas-ambassador)
 ---
 
-## Article 6: Trump’s US Fed nominee Warsh vows independence, says he’s no ‘sock puppet’
+## Article 19: Trump’s US Fed nominee Warsh vows independence, says he’s no ‘sock puppet’
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.5267`
 
 Kevin Warsh's confirmation hearing shines spotlight on doubts over his independence as Trump pushes again for rate cuts. Kevin Warsh, United States President Donald Trumps pick to lead the Federal Reserve, has addressed concerns about his independence pending his appointment to the bank amid fears that Trump could sway…
@@ -53,115 +157,11 @@ Kevin Warsh's confirmation hearing shines spotlight on doubts over his independe
 [Read Original Article Here](https://www.aljazeera.com/economy/2026/4/21/trumps-us-fed-nominee-warsh-vows-independence-says-hes-no-sock-puppet)
 ---
 
-## Article 7: Over 50 House members accuse South Korea's new left-wing government of attacking US companies, favoring China
+## Article 20: Over 50 House members accuse South Korea's new left-wing government of attacking US companies, favoring China
 **Source:** Fox News | **Sentiment Score:** `-0.4019`
 
 More than 50 members of Congress blast South Korea over alleged favoritism toward Chinese businesses and regulatory attacks on American tech companies. FIRST ON FOX: Members of Congress blasted South Korean leadership over a "left-wing government closely aligned with China," that they accused of "attacking" American companies and showing favoritism …
 
 [Read Original Article Here](https://www.foxnews.com/politics/50-house-members-accuse-south-koreas-new-left-wing-government-attacking-us-companies-favoring-china)
----
-
-## Article 8: New House Democrat Analilia Mejia sworn in to fill seat vacated by Mikie Sherrill
-**Source:** Fox News | **Sentiment Score:** `0.9042`
-
-Democrat Analilia Mejia was sworn into Congress on Monday after decisively winning New Jersey's 11th District special election last week. Democrat Analilia Mejia was sworn in to the U.S. House of Representatives on Monday after decisively winning the special election last week in New Jersey's 11th Congressional District. Democrat Miki…
-
-[Read Original Article Here](https://www.foxnews.com/politics/new-house-democrat-analilia-mejia-sworn-fill-seat-vacated-mikie-sherrill)
----
-
-## Article 9: 3 takeaways from a fiery hearing to confirm Trump’s Fed chief pick | CNN Business
-**Source:** CNN | **Sentiment Score:** `-0.4588`
-
-Confirmation hearings for Federal Reserve chairs are usually staid, rubber-stamp affairs. Not this one. Confirmation hearings for Federal Reserve chairs are usually staid, rubber-stamp affairs. Not this one. Democrats and one key Republican from the Senate Banking Committee repeatedly attacked Preside…
-
-[Read Original Article Here](https://www.cnn.com/2026/04/21/business/takeaways-kevin-warsh-confirmation-hearing-fed)
----
-
-## Article 10: 'Narco-terrorist' family members targeted in Rubio's latest visa crackdown
-**Source:** Fox News | **Sentiment Score:** `0.0000`
-
-Secretary of State Rubio says 75 Sinaloa Cartel family members and associates face visa restrictions in the latest act against drug trafficking. Secretary of State Marco Rubio announced visa bans on 75 family members and associates tied to the Sinaloa cartel, expanding the Trump administration's crackdown beyond drug traffickers to those that…
-
-[Read Original Article Here](https://www.foxnews.com/politics/narco-terrorist-family-members-targeted-rubios-latest-visa-crackdown)
----
-
-## Article 11: Spanberger-backed redistricting vote culminates Dem ‘power grab’ in key swing state, says report
-**Source:** Fox News | **Sentiment Score:** `0.0258`
-
-A new report alleges Virginia Democrats under Gov. Spanberger are pursuing a power grab through redistricting and sweeping election law changes in 2025. FIRST ON FOX: A redistricting referendum backed by Virginia Democratic Gov. Abigail Spanberger is the culmination of a rapidly escalating "power grab" by Democrats in what has been a key swing state …
-
-[Read Original Article Here](https://www.foxnews.com/politics/spanberger-backed-redistricting-vote-culminates-dem-power-grab-key-swing-state-says-report)
----
-
-## Article 12: What was the Iran nuclear deal Trump dumped in search of ‘better’ terms?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.8126`
-
-Trump withdrew the US from the JCPOA in 2018, branding it 'the worst deal ever' and seeking stronger terms. United States President Donald Trump has said a nuclear agreement currently being negotiated with Iran will be far better than the 2015 Joint Comprehensive Plan of Action (JCPOA), which he withdrew f…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/4/21/what-was-the-iran-nuclear-deal-trump-dumped-in-search-of-better-terms)
----
-
-## Article 13: Strait of Hormuz: How a threat became a playbook
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.7184`
-
-How the Strait of Hormuz became a system of control, shaping power and the global economy. How the Strait of Hormuz became a system of control, shaping power and the global economy.For weeks, a US-Israel war on Iran pushed the Gulf to the brink. But the real battleground wasnt in the air. …
-
-[Read Original Article Here](https://www.aljazeera.com/video/featured-documentaries/2026/4/21/strait-of-hormuz-how-a-threat-became-a-playbook)
----
-
-## Article 14: LIZ PEEK: Warring Democrats will need more than Trump hatred to win in 2028
-**Source:** Fox News | **Sentiment Score:** `-0.3919`
-
-Democrats remain united against President Trump, but deep divisions between progressives and moderates threaten to fracture the party by 2028. To paraphrase the late President Richard Nixon, what will Democrats do when they dont have Donald Trump to kick around anymore? Its a valid question. Currently, shared hatred of Donald Trump is the …
-
-[Read Original Article Here](https://www.foxnews.com/opinion/liz-peek-warring-democrats-need-trump-hatred-win-2028)
----
-
-## Article 15: Warsh faces high-stakes Senate confirmation hearing to lead world’s most powerful central bank
-**Source:** Fox News | **Sentiment Score:** `-0.1779`
-
-Kevin Warsh heads into a high-stakes Senate confirmation hearing as Trump's pick to lead the Federal Reserve amid mounting economic and legal pressure. Kevin Warsh, President Donald Trump's  pick to lead the Federal Reserve for the next four years, heads into a high-stakes confirmation hearing Tuesday with lawmakers on Capitol Hill set to scrutiniz…
-
-[Read Original Article Here](https://www.foxnews.com/politics/warsh-faces-high-stakes-senate-confirmation-hearing-lead-worlds-most-powerful-central-bank)
----
-
-## Article 16: US, Iran exchange threats as fragile ceasefire set to expire
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.7650`
-
-The US and Iran trade threats as tensions escalate between the countries before their two-week ceasefire ends. Parliament Speaker Mohammad Bagher Ghalibaf has said Iran is prepared to reveal new cards on the battlefield after United States President Donald Trump threatened Tehran with problems like theyve nev…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/4/21/us-and-iran-exchange-threats-as-fragile-ceasefire-set-to-expire)
----
-
-## Article 17: Trump’s Board of Peace holds Gaza reconstruction talks with UAE’s DP World
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.2500`
-
-Israel has killed more than 700 people in Gaza since last year's US-brokered 'ceasefire'. Dubai-based logistics giant DP World has held talks with representatives linked to Donald Trumps so-called Board of Peace over managing supply chains and infrastructure projects in Gaza, according to…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/4/21/trumps-board-of-peace-holds-gaza-reconstruction-talks-with-uaes-dp-world)
----
-
-## Article 18: Iran war: What is happening on day 53 of the US-Israel conflict?
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.9578`
-
-Diplomatic efforts to end the US-Israel war on Iran are stalled as Tehran rejects talks under pressure. Diplomatic efforts to end the US-Israel war on Iran remain uncertain, with Tehran refusing to negotiate under what it calls the shadow of threats. United States President Donald Trump has said the b…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/4/21/iran-war-what-is-happening-on-day-53-of-the-us-israel-conflict)
----
-
-## Article 19: Democrats taking the Senate? Seriously? Despite Trump’s sinking polls, it’s probably a media fantasy
-**Source:** Fox News | **Sentiment Score:** `0.9331`
-
-Democrats winning the Senate is generating buzz, but the path requires nearly impossible wins in multiple reliably Republican states this cycle. Lets not get carried away here. The Democrats chances of winning the Senate are somewhere between nearly impossible and non-existent. And yet its suddenly the subject of considerable media chatter.…
-
-[Read Original Article Here](https://www.foxnews.com/media/democrats-taking-senate-seriously-despite-trumps-sinking-polls-its-probably-media-fantasy)
----
-
-## Article 20: Indian debt funds cut hedges as oil risks inflate rate-hike bets
-**Source:** Bloomberg | **Sentiment Score:** `-0.3182`
-
-The two-year swap rate is still trading near 6%, about 40 basis points above levels before the Iran conflict, showing markets continue to price in higher-for-longer interest rates Some Indian debt fund managers are cutting back on interest-rate hedges against their bond holdings, saying markets have already priced in an excessive rise in borrowing costs driven by a surge in oi…
-
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-04-21/indian-debt-funds-cut-hedges-as-oil-risks-inflate-rate-hike-bets)
 ---
 
