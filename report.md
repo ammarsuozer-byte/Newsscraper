@@ -1,11 +1,99 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-05-05 | **Status:** Automated
+**Date:** 2026-05-06 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: Out of control, unqualified illegal alien truckers endangering kids on US roads, insider warns: ‘Just madness’
+## Article 1: MORNING GLORY: Dems' Bernie-backed oyster farmer hands Susan Collins a massive 2026 advantage
+**Source:** Fox News | **Sentiment Score:** `0.7184`
+
+Maine's 2026 Senate race pits Republican Sen. Susan Collins against Democratic nominee Graham Platner, whose Nazi-era tattoo and bigoted posts are drawing increased scrutiny. "Extreme Makeover" is a brand of reality show that has succeeded both when applied to participants who needed to change their health habits, hygiene and clothing choices, as well as when applied to p…
+
+[Read Original Article Here](https://www.foxnews.com/opinion/morning-glory-dems-bernie-backed-oyster-farmer-hands-susan-collins-massive-2026-advantage)
+---
+
+## Article 2: LIZ PEEK: California voters fed up with Democrats may turn to Steve Hilton for change
+**Source:** Fox News | **Sentiment Score:** `-0.3818`
+
+Republican Steve Hilton could make history in deep blue California as he leads the governor's race, campaigning on lower taxes and common sense. In 2016, then-presidential candidate Trump famously asked black voters "What do you have to lose?" Trump challenged African-American voters to rethink their long-standing allegiance to the Democrat …
+
+[Read Original Article Here](https://www.foxnews.com/opinion/liz-peek-california-voters-fed-democrats-may-turn-steve-hilton-change)
+---
+
+## Article 3: Gangland wars killing dozens of bystanders, report Swedish police
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.8720`
+
+Deaths due to gang violence included people hit by stray bullets, cases of mistaken identity, and relatives of gang members. Twenty-three innocent bystanders have been killed and 30 wounded in gangland shootings in Sweden over the past three years, according to statistics that highlight the countrys battle to rein in viole…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/5/4/gangland-wars-killing-dozens-of-bystanders-report-swedish-police)
+---
+
+## Article 4: Brief alcohol ban in Damascus sparks concerns about President al-Sharaa's vision for Syria
+**Source:** Fox News | **Sentiment Score:** `-0.5267`
+
+Critics warn new restrictions could signal a shift toward more bans under President Ahmed al-Sharaa given his previous ties to jihadist terror groups. There are growing fears among some in Syria that the government of President Ahmed al-Sharaa has the aim of clamping down on the rights and freedoms of its civilians by promoting a more conservative …
+
+[Read Original Article Here](https://www.foxnews.com/world/brief-alcohol-ban-damascus-sparks-concerns-about-president-al-sharaas-vision-syria)
+---
+
+## Article 5: Cuban ambassador rejects ‘surrender’ talk, calls for US negotiations as sanctions tighten
+**Source:** Fox News | **Sentiment Score:** `-0.2960`
+
+Cuba's ambassador says Havana remains open to negotiations with Washington despite mounting U.S. sanctions targeting oil supplies and trade partners. Cuban Ambassador to the U.N. Ernesto Soberón Guzmán pushed back on suggestions that the communist regime could cave under mounting U.S. pressure, as the Trump administration ramps up sanctions amid a…
+
+[Read Original Article Here](https://www.foxnews.com/media/cuban-ambassador-rejects-surrender-talk-calls-us-negotiations-sanctions-tighten)
+---
+
+## Article 6: US official says China is ‘funding’ Iran, urges Beijing to help open Hormuz
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.1901`
+
+Scott Bessent says US has 'absolute control' of Hormuz, but calls on China to 'step up' with diplomacy to reopen strait. United States Treasury Secretary Scott Bessent has accused China of funding the largest state sponsor of terrorism, referring to Iran, saying that Beijing should help Washington in efforts to reopen …
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/5/4/us-official-says-china-is-funding-iran-urges-beijing-to-help-open-hormuz)
+---
+
+## Article 7: Does Trump hold ‘all the cards’ against Iran in the Strait of Hormuz?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.3400`
+
+Trump signals confidence in Iran standoff as tensions rise in the Strait of Hormuz. I have all the cards, posted the White House on its X account on Sunday, alongside an image of President Donald Trump holding playing cards from the Uno game, in a message appearing to signal Washing…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/5/4/does-trump-hold-all-the-cards-against-iran-in-the-strait-of-hormuz)
+---
+
+## Article 8: India loses its last left-wing government after five decades
+**Source:** Al Jazeera English | **Sentiment Score:** `0.4767`
+
+Kerala in India, which gave the world its first democratically elected communist government, has voted the left out. Bengaluru, India In the sultry August heat of 2007, Indias government under Prime Minister Manmohan Singh was sweating over the future of negotiations with the United States over a landmark nuclear d…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/5/4/india-loses-its-last-left-wing-government-after-five-decades)
+---
+
+## Article 9: Spanberger won't rule out taxes on gym memberships, streaming services: 'Should be discussed'
+**Source:** Fox News | **Sentiment Score:** `0.5574`
+
+Gov. Abigail Spanberger, D-Va., leaves door open to taxing services like gym memberships, digital subscriptions and dog grooming in a recent ABC interview. Virginia Gov. Abigail Spanberger left the door open to imposing taxes on services like gym memberships, digital subscriptions and dog grooming when asked about the possibility during a recent intervi…
+
+[Read Original Article Here](https://www.foxnews.com/politics/spanberger-wont-rule-taxes-gym-memberships-streaming-services)
+---
+
+## Article 10: Senate quietly bans lawmakers from betting on prediction markets
+**Source:** Fox News | **Sentiment Score:** `0.2500`
+
+Senators can no longer bet on prediction markets like Kalshi and Polymarket after the Senate unanimously passed new rules banning insider wagering. Senators can no longer use insider information to profit on emerging prediction market platforms. The Senate, before leaving Washington, D.C., for a weeklong recess, quietly passed legislation that …
+
+[Read Original Article Here](https://www.foxnews.com/politics/senate-quietly-bans-lawmakers-betting-prediction-markets)
+---
+
+## Article 11: Trump’s Middle East energy victories are a huge reminder of America's dominance
+**Source:** Fox News | **Sentiment Score:** `0.8442`
+
+President Trump's Middle East trip helped position the U.S. at the center of a massive global energy reset with Saudi Arabia, Qatar and the UAE. In May 2025, the first foreign trip of President Donald Trumps second term took him to Saudi Arabia, Qatar and the United Arab Emirates. Widely credited with cementing regional support for the milita…
+
+[Read Original Article Here](https://www.foxnews.com/opinion/trumps-middle-east-energy-victories-huge-reminder-americas-dominance)
+---
+
+## Article 12: Out of control, unqualified illegal alien truckers endangering kids on US roads, insider warns: ‘Just madness’
 **Source:** Fox News | **Sentiment Score:** `-0.9325`
 
 A trucking industry insider warns about unqualified CDL holders on U.S. highways, calling sham driving school abuse and lax standards "just madness." A trucking industry insider is warning about a deadly danger rampant on U.S. highways: unqualified, under-trained commercial truckers, many of whom are illegal immigrants and cannot read basic road s…
@@ -13,7 +101,7 @@ A trucking industry insider warns about unqualified CDL holders on U.S. highways
 [Read Original Article Here](https://www.foxnews.com/politics/out-control-unqualified-illegal-alien-truckers-endangering-kids-us-roads-insider-warns-just-madness)
 ---
 
-## Article 2: Former NYC Mayor Giuliani hospitalised in ‘critical condition’
+## Article 13: Former NYC Mayor Giuliani hospitalised in ‘critical condition’
 **Source:** Al Jazeera English | **Sentiment Score:** `0.8248`
 
 Spokesman says Giuliani in 'critical but stable' condition as President Trump hails 'true warrior'. Former New York Mayor Rudolph Giuliani has been admitted to hospital and is in critical but stable condition, his spokesperson says. Mayor Giuliani is a fighter who has faced every challenge in his …
@@ -21,7 +109,7 @@ Spokesman says Giuliani in 'critical but stable' condition as President Trump ha
 [Read Original Article Here](https://www.aljazeera.com/news/2026/5/4/former-nyc-mayor-giuliani-hospitalised-in-critical-condition-spokesman)
 ---
 
-## Article 3: Zelenskyy has no cards to play against Russia or the West
+## Article 14: Zelenskyy has no cards to play against Russia or the West
 **Source:** Al Jazeera English | **Sentiment Score:** `0.8519`
 
 The president seems unable to secure for Ukrainian people a gain that can compensate for a painful peace. Ukrainian President Volodymyr Zelenskyys artistic skills have earned him the reputation of a public relations genius acknowledged by both friends and foes. United States President Donald Trump, who h…
@@ -29,7 +117,7 @@ The president seems unable to secure for Ukrainian people a gain that can compen
 [Read Original Article Here](https://www.aljazeera.com/opinions/2026/5/3/zelenskyy-has-no-cards-to-play-against-russia-or-the-west)
 ---
 
-## Article 4: Was the Iran war the final blow in the collapse of Spirit Airlines?
+## Article 15: Was the Iran war the final blow in the collapse of Spirit Airlines?
 **Source:** Al Jazeera English | **Sentiment Score:** `0.1027`
 
 The shutdown of the budget airline after 34 years has left 17,000 staff members unemployed. Spirit Airlines, a budget carrier in the United States, has begun winding down operations, cancelling all flights, after talks with the Trump administration to secure a $500m bailout failed. Experts …
@@ -37,7 +125,7 @@ The shutdown of the budget airline after 34 years has left 17,000 staff members 
 [Read Original Article Here](https://www.aljazeera.com/news/2026/5/3/was-the-iran-war-the-final-blow-in-the-collapse-of-spirit-airlines)
 ---
 
-## Article 5: What’s Iran’s 14-point proposal to end the war? And will Trump accept it?
+## Article 16: What’s Iran’s 14-point proposal to end the war? And will Trump accept it?
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.7845`
 
 Trump is reviewing Iran's latest proposal to end the war, but the mistrust between the two sides is a big obstacle. Iran has offered a new 14-point proposal to the United States in the latest diplomatic step to reach a permanent end to the war, which has exposed the limits of US military dominance and shaken the g…
@@ -45,7 +133,7 @@ Trump is reviewing Iran's latest proposal to end the war, but the mistrust betwe
 [Read Original Article Here](https://www.aljazeera.com/news/2026/5/3/whats-irans-14-point-proposal-to-end-the-war-and-will-trump-accept-it)
 ---
 
-## Article 6: Strait of Hormuz blockade and other major naval sieges in modern times
+## Article 17: Strait of Hormuz blockade and other major naval sieges in modern times
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.5423`
 
 Naval blockades are among the oldest weapons of war, using sea control to cut supplies and force an enemy’s surrender. The Strait of Hormuz, a narrow waterway once carrying roughly a fifth of the worlds oil and gas, remains effectively closed after the United States and Iran imposed competing blockades. Naval blocka…
@@ -53,7 +141,7 @@ Naval blockades are among the oldest weapons of war, using sea control to cut su
 [Read Original Article Here](https://www.aljazeera.com/news/2026/5/3/strait-of-hormuz-blockade-and-other-major-naval-sieges-in-modern-times)
 ---
 
-## Article 7: Prices surge, jobs disappear as war strains Iran’s economy
+## Article 18: Prices surge, jobs disappear as war strains Iran’s economy
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.9231`
 
 New Supreme Leader Mojtaba Khamenei says the country must defeat its enemies in an economic and cultural struggle, as we Tehran, Iran Prices are surging in Iran, and millions of jobs have been lost or are on pause as the war with the US and Israel causes escalating economic damage. Food and medicine, cars, electrical …
@@ -61,7 +149,7 @@ New Supreme Leader Mojtaba Khamenei says the country must defeat its enemies in 
 [Read Original Article Here](https://www.aljazeera.com/economy/2026/5/2/prices-surge-jobs-disappear-as-war-strains-irans-economy)
 ---
 
-## Article 8: Who Is Nayib Bukele? El Salvador’s ‘coolest dictator’
+## Article 19: Who Is Nayib Bukele? El Salvador’s ‘coolest dictator’
 **Source:** Al Jazeera English | **Sentiment Score:** `0.0000`
 
 At 44, Bukele has built the world’s highest imprisonment rate and scrapped presidential term limits. What comes next? On Friday, March 25, 2022, hundreds of cellphones in the small, Central American nation of El Salvador glowed with the same text message: Adelante (go ahead). The heavily tattooed gangsters of Mara …
@@ -69,99 +157,11 @@ At 44, Bukele has built the world’s highest imprisonment rate and scrapped pre
 [Read Original Article Here](https://www.aljazeera.com/features/2026/5/2/who-is-nayib-bukele-el-salvadors-coolest-dictator)
 ---
 
-## Article 9: Lower valuations may see India outflows moderate: RBI Governor
+## Article 20: Lower valuations may see India outflows moderate: RBI Governor
 **Source:** Bloomberg | **Sentiment Score:** `0.1280`
 
 The rupee has declined more than 5% so far this year, ranking as Asia’s worst performer, while the benchmark Nifty 50 stock index has lost 8% Foreign outflows from Indian markets may slow this year as asset values have corrected, the head of the nations central bank said at an event Friday, according to a speech copy made available on its …
 
 [Read Original Article Here](https://www.bloomberg.com/news/articles/2026-05-01/lower-valuations-may-see-india-outflows-moderate-rbi-head-says)
----
-
-## Article 10: The weirdest aspect of the Iran war that has befuddled oil experts | CNN Business
-**Source:** CNN | **Sentiment Score:** `-0.9217`
-
-For two months, the economic narrative about the Iran war boiled down to this: Oil and gas prices are really high, exacerbating an affordability problem that could send America’s economy into the toilet. But prices aren’t as high as they should be, considerin… For two months, the economic narrative about the Iran war boiled down to this: Oil and gas prices are really high, exacerbating an affordability problem that could send Americas economy into the toil…
-
-[Read Original Article Here](https://www.cnn.com/2026/05/01/business/oil-market-price-high-low-iran)
----
-
-## Article 11: Havana slams new Trump sanctions as ‘collective punishment’ of Cuban people
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.8481`
-
-The Cuban government has firmly rejected the recent sanctions levied by US President Donald Trump. The Cuban government has firmly rejected new sanctions levied by United States President Donald Trump, calling them unilateral coercive measures intended to impose collective punishment on the Cuban …
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/5/2/havana-slams-new-trump-sanctions-as-collective-punishment-of-cuban-people)
----
-
-## Article 12: K-pop’s BTS comeback tour rallies South Korea’s global ‘soft power’ drive
-**Source:** Al Jazeera English | **Sentiment Score:** `0.1655`
-
-K-pop sensations BTS ignited a wave of interest in South Korean culture that now extends from food to cosmetics. Seoul Shekinah Yawra had no other option but to spend the night at a South Korean jjimjilbang, a 24-hour bathhouse, after every hotel near central Seoul sold out in late March. But sleep was seconda…
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/5/2/k-pops-bts-comeback-tour-rallies-south-koreas-global-soft-power-drive)
----
-
-## Article 13: Photos: Cuba holds May Day celebrations amid US threats
-**Source:** Al Jazeera English | **Sentiment Score:** `0.7845`
-
-March celebrating International Workers' Day coincided with announcement of further US sanctions on island. Cuban electrical and petroleum workers have marched in Havana to celebrate International Workers Day, or May Day, as the government pledges to stand firm against growing US pressure which is further …
-
-[Read Original Article Here](https://www.aljazeera.com/gallery/2026/5/1/photos-cuba-holds-may-day-celebrations-amid-us-threats)
----
-
-## Article 14: Trump announces 25 percent tariffs on European Union cars, trucks
-**Source:** Al Jazeera English | **Sentiment Score:** `0.4019`
-
-US president says EU 'not complying' with current trade deal; launches latest tariffs amid global economic uncertainty. United States President Donald Trump has said he will increase tariffs on automobiles from the European Union to 25 per cent. The announcement on Friday could jolt the world economy at a time when i…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/5/1/trump-announces-25-percent-tariffs-on-european-union-cars-trucks)
----
-
-## Article 15: May Day protests across Europe and Asia turn into anti-American, anti-Israel political battlegrounds
-**Source:** Fox News | **Sentiment Score:** `-0.2263`
-
-May Day demonstrations across multiple continents escalated into clashes as traditional labor protests increasingly became vehicles for anti-war and anti-Israel political movements. May Day demonstrations across Europe and Asia on Friday revealed how International Workers Day is increasingly transforming from a traditional labor rights event into a broader political battleground…
-
-[Read Original Article Here](https://www.foxnews.com/world/may-day-protests-across-europe-asia-turn-anti-american-anti-israel-political-battlegrounds)
----
-
-## Article 16: EU trade deal with South America’s Mercosur bloc takes provisional effect
-**Source:** Al Jazeera English | **Sentiment Score:** `0.3818`
-
-The long-awaited deal creates one of the world’s largest free trade areas with 720m potential consumers. The long-awaited trade deal between the European Union and South Americas Mercosur bloc has provisionally come into effect, boosting business ties amid tariff threats and deepening uncertainty around…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/5/1/eu-trade-deal-with-south-americas-mercosur-bloc-takes-provisional-effect)
----
-
-## Article 17: DAVID MARCUS: Leave May Day to America's haters. Labor Day is for the proud workers who built our country
-**Source:** Fox News | **Sentiment Score:** `0.9371`
-
-Leftist organizations rallying on May Day represent a Marxist globalization that threatens America's Labor Day tradition, the article argues. Here in the good old United States of America, we have a lovely holiday each September called Labor Day, on which we celebrate the contributions of the nations workers. We do not celebrate the commun…
-
-[Read Original Article Here](https://www.foxnews.com/opinion/david-marcus-leave-may-day-americas-haters-labor-day-proud-workers-who-built-our-country)
----
-
-## Article 18: Despite growth and pay rises, Greek workers are among the poorest in Europe
-**Source:** Al Jazeera English | **Sentiment Score:** `0.0258`
-
-Inflation has robbed them of a third of their income since the post-2009 global financial crisis, statistics show. Athens, Greece When the conservative New Democracy party came to power in Greece in 2019, it promised a work-driven economy that would grow by 4 percent a year and elevate living standards after a de…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/5/1/despite-growth-and-pay-rises-greek-workers-are-among-the-poorest-in-europe)
----
-
-## Article 19: Trump’s 'Economic Fury' squeezes Iran — but can Tehran outlast the pressure?
-**Source:** Fox News | **Sentiment Score:** `0.0772`
-
-Trump's escalating sanctions, naval blockade and financial enforcement against Iran test whether economic strain can force Iran's regime to bend. As the Trump administration escalates its campaign against Iran through sanctions, naval pressure and financial enforcement, a central question is emerging: Can unprecedented economic strain truly we…
-
-[Read Original Article Here](https://www.foxnews.com/world/trumps-economic-fury-squeezes-iran-can-tehran-outlast-pressure)
----
-
-## Article 20: Iran war: What’s happening on day 63 as Trump signals possible attacks
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.8779`
-
-Iran’s president calls the US siege 'intolerable' as Donald Trump says war may resume. Tensions remain high across the region, with Iran, the United States and Israel trading warnings as violence continues. Irans President Masoud Pezeshkian has described the US naval siege of Iranian …
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/5/1/iran-war-whats-happening-on-day-63-as-trump-signals-possible-attacks)
 ---
 
