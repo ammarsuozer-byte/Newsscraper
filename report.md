@@ -1,11 +1,123 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-05-14 | **Status:** Automated
+**Date:** 2026-05-15 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: Doug Burgum says Trump enters China summit in 'strongest position' of any US leader ever
+## Article 1: Nepal in a bind as US-China drone war reaches Everest
+**Source:** Al Jazeera English | **Sentiment Score:** `0.6705`
+
+Superpowers compete for technological foothold on world’s highest peak, pushing Nepal towards a geopolitical chessboard. Kathmandu, Nepal On May 1, a team of officials from the United States  led by President Donald Trumps special envoy for South and Central Asia, Sergio Gor  took a helicopter to the base camp of Mount…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/5/14/nepal-in-a-bind-as-us-china-drone-war-reaches-everest)
+---
+
+## Article 2: Trump’s upbeat China message collides with deepening Beijing rivalry
+**Source:** Fox News | **Sentiment Score:** `0.7096`
+
+President Trump and Chinese President Xi Jinping strike a warm tone in Beijing, emphasizing cooperation as trade and investment talks get underway. President Donald Trump opened his high-stakes meeting with Chinese President Xi Jinping by predicting a "fantastic future together" striking an unusually warm tone as his administration pursues new t…
+
+[Read Original Article Here](https://www.foxnews.com/politics/trumps-upbeat-china-message-collides-deepening-beijing-rivalry)
+---
+
+## Article 3: Marco Rubio says US will push China to take a more 'active role' in Iran negotiations ahead of Trump-Xi summit
+**Source:** Fox News | **Sentiment Score:** `0.8067`
+
+Secretary of State Rubio says the U.S. will attempt to convince Chinese leaders to play a more active role in pressuring Iran ahead of the Trump-Xi summit. Secretary of State Marco Rubio revealed that U.S. officials will attempt to persuade China to take a more "active role" in resolving the conflict in Iran as President Donald Trump prepares to meet wi…
+
+[Read Original Article Here](https://www.foxnews.com/media/marco-rubio-says-us-push-china-take-more-active-role-iran-negotiations-ahead-trump-xi-summit)
+---
+
+## Article 4: Trump administration offers $100m in aid to Cuba in exchange for reform
+**Source:** Al Jazeera English | **Sentiment Score:** `0.4939`
+
+Amid an oil blockade against the island, the US blames Cuba's communist leadership for 'standing in the way' of aid. The United States has offered $100m in humanitarian assistance to Cuba on the condition that the islands communist government agrees to meaningful reforms. The sum was made public in a statement fro…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/5/13/trump-administration-offers-100m-in-aid-to-cuba-in-exchange-for-reform)
+---
+
+## Article 5: Republicans break ranks, but Senate fails to curb Trump’s Iran war powers
+**Source:** Al Jazeera English | **Sentiment Score:** `0.2069`
+
+The bill falls short, but vote shows cracks are growing in the Republican support for the US-Israel war on Iran. Three Republican senators have joined Democrats in the United States Senate in voting to advance a bill to limit President Donald Trumps ability to strike Iran without congressional approval. While …
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/5/13/three-republicans-break-ranks-but-senate-fails-to-curb-trumps-war-powers)
+---
+
+## Article 6: Trump gets red-carpet welcome in China, but past Beijing trip shows pageantry only goes so far
+**Source:** Fox News | **Sentiment Score:** `0.2960`
+
+Trump arrives in Beijing with red carpet ceremony ahead of bilateral talks with Xi Jinping focused on trade tensions and the ongoing war with Iran. President Trump received a red-carpet welcome when he landed in Beijing on Wednesday, with a military honor guard, band and children waving American and Chinese flags ahead of high-stakes talks with …
+
+[Read Original Article Here](https://www.foxnews.com/politics/trump-gets-red-carpet-welcome-china-past-beijing-trip-shows-pageantry-only-goes-so-far)
+---
+
+## Article 7: Kevin Warsh confirmed as Fed chair, succeeding Jerome Powell | CNN Business
+**Source:** CNN | **Sentiment Score:** `0.4927`
+
+Kevin Warsh was confirmed Wednesday by the Senate to serve as the 17th chair of the Federal Reserve, handing the former Morgan Stanley banker and one-time Fed governor stewardship of the world’s most influential central bank at a moment of mounting global unc… Kevin Warsh was confirmed Wednesday by the Senate to serve as the 17th chair of the Federal Reserve, handing the former Morgan Stanley banker and one-time Fed governor stewardship of the worlds most …
+
+[Read Original Article Here](https://www.cnn.com/2026/05/13/economy/kevin-warsh-confirmation-trump-fed-chair)
+---
+
+## Article 8: Senate confirms Kevin Warsh as Fed chair as Trump's economic vision comes into focus
+**Source:** Fox News | **Sentiment Score:** `0.1027`
+
+Kevin Warsh was confirmed as the new Federal Reserve chair by the Senate, ushering in a new era at the central bank. The Senate cleared Kevin Warsh on Wednesday to lead the Federal Reserve, ushering in a new era at the central bank under President Donald Trump's nominee. Earlier in the week, Warsh was confirmed to…
+
+[Read Original Article Here](https://www.foxnews.com/politics/senate-confirms-kevin-warsh-fed-chair-trumps-economic-vision-comes-focus)
+---
+
+## Article 9: Trump-Xi summit: China’s help in Iran may require US concessions
+**Source:** Al Jazeera English | **Sentiment Score:** `0.2732`
+
+Analysts say China is likely to ask for change in US policy towards Taiwan if it were to pressure Iran reopen Hormuz. When President Donald Trump meets with his counterpart, Xi Jinping, a new item will be added to the long list of issues of mutual interest and potential disagreement between the United States and Chi…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/5/13/trump-xi-summit-chinas-help-in-iran-may-require-us-concessions)
+---
+
+## Article 10: Why Americans should be worried about President Trump’s China summit
+**Source:** Fox News | **Sentiment Score:** `-0.1027`
+
+A bipartisan Congressional effort seeks to block Chinese automakers from the U.S. market, citing national security and economic risks before a Trump-Xi summit. Americans should be worried about President Trumps upcoming summit with Chinese President Xi Jinping. Recent musings out of the White House sound like President Trump may be willing to allow Chinese …
+
+[Read Original Article Here](https://www.foxnews.com/opinion/americans-worried-president-trumps-china-summit)
+---
+
+## Article 11: Trump needs Xi much more than Xi needs Trump
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.4215`
+
+As the Iran war reshapes global power dynamics, Beijing enters the Trump-Xi summit with more leverage over Washington. In the past few months, the geopolitical chessboard has tilted dramatically, setting the stage for a highly anticipated yet asymmetrical summit between Donald Trump and Xi Jinping, now officially con…
+
+[Read Original Article Here](https://www.aljazeera.com/opinions/2026/5/13/trump-needs-xi-much-more-than-xi-needs-trump)
+---
+
+## Article 12: Why Trump decided to back Iraq’s prime minister-designate, Ali al-Zaidi
+**Source:** Al Jazeera English | **Sentiment Score:** `0.7096`
+
+Support from Washington is conditional on clear progress in curbing pro-Iran militia activity. The decision by United States President Donald Trump to back Ali al-Zaidi as Iraqs next prime minister may have surprised some quarters. But when one looks into whom Trump was trying to keep out, his…
+
+[Read Original Article Here](https://www.aljazeera.com/opinions/2026/5/13/why-trump-decided-to-back-iraqs-prime-minister-designate-ali-al-zaidi)
+---
+
+## Article 13: Trump faces slew of ‘bad options’ on Iran as diplomacy falters
+**Source:** Al Jazeera English | **Sentiment Score:** `0.9300`
+
+Trump faces mounting pressure amid stalled Iran peace talks as domestic discontent grows and geopolitical stakes rise. Optimism surrounding another set of peace proposals aimed at shaping a peace deal between Iran and the United States quickly faded this week as the two sides appeared to instead pull further apart, d…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/5/13/trump-faces-slew-of-bad-options-on-iran-as-diplomacy-falters)
+---
+
+## Article 14: President Trump must put American hostages first in high-stakes Beijing summit
+**Source:** Fox News | **Sentiment Score:** `-0.1280`
+
+As Trump prepares to meet Xi Jinping in Beijing, Nury Turkel urges the president to carry a list of detained Americans and demand their release. When President Trump traveled to China in 2017, he handed Xi Jinping a list of names he wanted freed. My parents were on it. That moment mattered. As Chinas internment campaign in the Xinjiang Uyghu…
+
+[Read Original Article Here](https://www.foxnews.com/opinion/president-trump-must-put-american-hostages-first-high-stakes-beijing-summit)
+---
+
+## Article 15: Doug Burgum says Trump enters China summit in 'strongest position' of any US leader ever
 **Source:** Fox News | **Sentiment Score:** `0.8225`
 
 Interior Secretary Doug Burgum says Trump enters China summit in the "strongest position" of any U.S. leader, citing energy dominance and food security. Interior Secretary Doug Burgum argued President Donald Trump is entering this weeks high-stakes summit with Chinese President Xi Jinping in the "strongest position" of any American leader. Burgum jo…
@@ -13,7 +125,7 @@ Interior Secretary Doug Burgum says Trump enters China summit in the "strongest 
 [Read Original Article Here](https://www.foxnews.com/media/doug-burgum-says-trump-enters-china-summit-strongest-position-any-us-leader-ever)
 ---
 
-## Article 2: India set to scale back Russian oil imports if US waiver lapses
+## Article 16: India set to scale back Russian oil imports if US waiver lapses
 **Source:** Bloomberg | **Sentiment Score:** `-0.7184`
 
 The US hasn’t clarified whether it will extend the waiver allowing countries including India to continue buying the barrels after May 16 Indian oil refiners may be forced to scale back imports of Russian crude if a US sanctions waiver is not extended beyond this weekend, with local processors grappling with the fallout from the Iran w…
@@ -21,7 +133,7 @@ The US hasn’t clarified whether it will extend the waiver allowing countries i
 [Read Original Article Here](https://www.bloomberg.com/news/articles/2026-05-13/india-set-to-scale-back-russian-oil-imports-if-us-waiver-lapses)
 ---
 
-## Article 3: Trump heads to Beijing for high-stakes Xi talks as Taiwan tensions, trade disputes test US strength
+## Article 17: Trump heads to Beijing for high-stakes Xi talks as Taiwan tensions, trade disputes test US strength
 **Source:** Fox News | **Sentiment Score:** `0.0000`
 
 President Donald Trump meets with Xi Jinping in Beijing for talks on Taiwan, trade, Iran and China's support for Russia amid rising U.S.–China tensions. President Donald Trump is set to arrive in Beijing Wednesday for high-stakes talks with Chinese President Xi Jinping, as the worlds two largest powers prepare to negotiate about Taiwan, trade and a f…
@@ -29,7 +141,7 @@ President Donald Trump meets with Xi Jinping in Beijing for talks on Taiwan, tra
 [Read Original Article Here](https://www.foxnews.com/politics/trump-heads-beijing-high-stakes-xi-talks-taiwan-tensions-trade-disputes-test-u-s-strength)
 ---
 
-## Article 4: Trump heads to China with the upper hand — and Xi knows it
+## Article 18: Trump heads to China with the upper hand — and Xi knows it
 **Source:** Fox News | **Sentiment Score:** `0.8442`
 
 President Trump's economic policies on trade, energy and manufacturing position the U.S. to negotiate with China from a place of unprecedented strength. For decades, China has held a simple advantage in negotiations with the United States by making itself economically indispensable. Beijing did so by leveraging its position in global supply chains cr…
@@ -37,7 +149,7 @@ President Trump's economic policies on trade, energy and manufacturing position 
 [Read Original Article Here](https://www.foxnews.com/opinion/trump-heads-china-upper-hand-xi-knows)
 ---
 
-## Article 5: China’s Xi expected to press Trump on Taiwan, tariffs during summit
+## Article 19: China’s Xi expected to press Trump on Taiwan, tariffs during summit
 **Source:** Al Jazeera English | **Sentiment Score:** `0.4215`
 
 Chinese President Xi Jinping likely to seek concessions on arms sales to Taiwan, analysts say. Taipei, Taiwan Chinese President Xi Jinping is expected to seek concessions on Taiwan and US tariffs when he meets United States President Donald Trump for a high-stakes summit taking place in the sh…
@@ -45,123 +157,11 @@ Chinese President Xi Jinping likely to seek concessions on arms sales to Taiwan,
 [Read Original Article Here](https://www.aljazeera.com/news/2026/5/13/chinas-xi-to-press-trump-on-taiwan-tariffs-during-summit)
 ---
 
-## Article 6: UK PM Starmer set to meet rival Streeting amid pledge to carry on governing
+## Article 20: UK PM Starmer set to meet rival Streeting amid pledge to carry on governing
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.6908`
 
 UK PM, who is battling to remain in his job amid the resignations of ministers, is expected to hold talks with Streeting. British Prime Minister Keir Starmer, fighting for his political survival after dozens of his own MPs called for him to resign, promised to press ahead with plans to reform the country before an expec…
 
 [Read Original Article Here](https://www.aljazeera.com/news/2026/5/13/uk-pm-starmer-set-to-meet-rival-streeting-amid-pledge-to-carry-on-governing)
----
-
-## Article 7: Trump and Xi to meet in Beijing: The key issues shaping the China summit
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.3400`
-
-Trump and Xi meet as trade, Taiwan and the Iran war dominate a high-stakes US-China summit. United States President Donald Trump has departed for Beijing ahead of a high-stakes summit with Chinese President Xi Jinping, after weeks of unsuccessful US efforts to persuade China to help bring I…
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/5/13/trump-and-xi-to-meet-in-beijing-the-key-issues-shaping-the-china-summit)
----
-
-## Article 8: Tens of thousands protest in Argentina over Milei university cuts
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.6249`
-
-Argentines protest Javier Milei’s deep cuts to tuition-free universities as staff wages plunge and funding law stalls. Tens of thousands of Argentines have taken to the streets in cities across the country to protest funding cuts by Javier Mileis government to the public university system. Huge crowds in central Bue…
-
-[Read Original Article Here](https://www.aljazeera.com/gallery/2026/5/13/tens-of-thousands-protest-in-argentina-over-milei-university-cuts)
----
-
-## Article 9: US-China head-to-head: Explained in 11 maps and charts
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.5994`
-
-Before President Trump’s visit to Beijing, Al Jazeera compares the US and China on economics, military and resources. US President Donald Trump will meet Chinese President Xi Jinping in Beijing on May 14 and 15, following weeks of delays due to the US-Israel war on Iran. The talks are expected to focus on trade rel…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/5/13/us-china-head-to-head-explained-in-11-maps-and-charts)
----
-
-## Article 10: Sam Altman says Elon Musk wanted 90 percent of OpenAI in high-stakes trial
-**Source:** Al Jazeera English | **Sentiment Score:** `0.2960`
-
-Landmark trial could shape future and leadership of OpenAI as company prepares for possible initial public offering. In a United States court, OpenAI chief executive Sam Altman has rejected claims from fellow tech mogul Elon Musk that he betrayed the artificial intelligence companys original vision. Tuesday marked…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/5/12/sam-altman-says-elon-musk-wanted-90-percent-of-openai-in-high-stakes-trial)
----
-
-## Article 11: Trump downplays US-Iran differences as he heads to Beijing to meet with Xi
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.5859`
-
-Trump gives conflicting messages on prominence of Iran war in upcoming talks, with his administration emphasising trade. United States President Donald Trump has departed the White House en route to Beijing, where he will meet with his Chinese counterpart Xi Jinping. Trump spoke briefly with reporters on Tuesday as he…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/5/12/trump-downplays-us-iran-differences-as-he-heads-to-beijing-to-meet-with-xi)
----
-
-## Article 12: US court pauses decision blocking Trump’s 10 percent global tariff
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.5859`
-
-A coalition of 24 states have argued that Trump's latest tariffs do not meet the standards of 1974 Trade Act. A federal appeals court in the United States has temporarily paused a lower court decision to block President Donald Trumps 10 percent global tariff. On Tuesday, a US federal appeals court issued a …
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/5/12/us-court-pauses-decision-blocking-trumps-10-percent-global-tariff)
----
-
-## Article 13: Ukraine hits Russia’s distant gas facilities after Moscow’s attacks kill 6
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.9100`
-
-The attack comes in retaliation for the Russian attacks that killed at least six in Ukraine, according to the president. Ukraine has struck gas facilities in southwest Russias Orenburg region, more than 1,500km (932 miles) from the Ukrainian border, according to President Volodymyr Zelenskyy. Zelenskyy said in his dai…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/5/12/russia-ukraine-latest)
----
-
-## Article 14: Kevin Warsh confirmed to US Federal Reserve board in close Senate vote
-**Source:** Al Jazeera English | **Sentiment Score:** `0.6124`
-
-Senator John Fetterman of Pennsylvania, a Democrat, joins Republicans to advance Warsh's confirmation. Kevin Warsh has been confirmed by the United States Senate to join the Federal Reserves Board of Governors ahead of an expected vote that will have US President Donald Trumps appointee lead the centr…
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/5/12/kevin-warsh-confirmed-to-us-federal-reserve-board-in-close-senate-vote)
----
-
-## Article 15: US faces rising costs with Iran war driving energy prices, inflation higher
-**Source:** Al Jazeera English | **Sentiment Score:** `0.5267`
-
-Consumer prices spike in April, driven by soaring energy costs, with petrol prices up nearly 30 percent since last year. United States consumer prices have risen for the second consecutive month, marking the biggest annual increase in almost three years, as energy prices surged on the back of the US-Israel war on Iran.…
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/5/12/us-faces-rising-costs-with-iran-war-driving-energy-prices-inflation-higher)
----
-
-## Article 16: Trump-Xi meeting: Could China, US form a ‘G2’?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.2023`
-
-The leaders' upcoming meeting in Beijing has revived the idea of a 'Group of Two' between the superpowers. US President Donald Trump is set to arrive in Beijing on Wednesday for a two-day summit with Chinas President Xi Jinping, marking the two leaders first face-to-face talks six months after reaching a …
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/5/12/trump-xi-meeting-could-china-us-form-a-g2)
----
-
-## Article 17: Can China counter US sanctions with its trade power?
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.4754`
-
-From sanctions to rare earths, the economic rivalry between the US and China is intensifying. From sanctions to rare earths, the economic rivalry between the US and China is intensifying.Signalling a more aggressive stance, China is now pushing back more openly against economic pressure from …
-
-[Read Original Article Here](https://www.aljazeera.com/video/counting-the-cost/2026/5/12/can-china-counter-us-sanctions-with-its-trade-power)
----
-
-## Article 18: Americans’ anger about the economy hits Trump and Republicans’ midterm prospects
-**Source:** CNN | **Sentiment Score:** `-0.2873`
-
-A new CNN poll conducted by SSRS finds that 77% – including a majority of Republicans – say that President Donald Trump’s policies have increased the cost of... Its President Donald Trumps economy and most Americans arent happy with it. A new CNN poll conducted by SSRS finds that 77% including a majority of Republicans say that Trumps policies have increase…
-
-[Read Original Article Here](https://www.cnn.com/2026/05/12/politics/cnn-poll-midterms-affordability-politics-impact)
----
-
-## Article 19: LIZ PEEK: Steve Hilton could pull off a California stunner if voters take the leap
-**Source:** Fox News | **Sentiment Score:** `0.1531`
-
-California's June 2 primary could make history as Republican Steve Hilton, endorsed by President Trump, leads a crowded field of Democratic rivals. In 2016, then-presidential candidate Trump famously asked Black voters, "What do you have to lose?" Trump challenged African American voters to rethink their long-standing allegiance to the Democrat…
-
-[Read Original Article Here](https://www.foxnews.com/opinion/liz-peek-steve-hilton-could-pull-california-stunner-voters-take-leap)
----
-
-## Article 20: Trump to confront Xi at high-stakes summit over China backing for Iran, Russia
-**Source:** Fox News | **Sentiment Score:** `0.4939`
-
-Trump is expected to press Xi on China's economic and material support for Iran at their upcoming summit, senior administration officials say. The Trump administration is ramping pressure on China over what U.S. officials describe as Beijings economic and material support for Iran and Russia ahead of President Donald Trumps upcoming summit …
-
-[Read Original Article Here](https://www.foxnews.com/politics/trump-confront-xi-high-stakes-summit-over-china-backing-iran-russia)
 ---
 
