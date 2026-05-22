@@ -1,167 +1,167 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-05-21 | **Status:** Automated
+**Date:** 2026-05-22 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: Congress must not derail the freight rail lifeline for America’s farmers
-**Source:** Fox News | **Sentiment Score:** `0.0516`
-
-Railroad and agricultural industry leaders share concerns about Congressional proposals they say could harm freight rail and the U.S. farm economy. At first glance, a railroad CEO and an agricultural industry leader might seem like an unlikely pairing. When you understand how closely Americas farm economy and freight rail depend on each other, t…
-
-[Read Original Article Here](https://www.foxnews.com/opinion/congress-must-derail-freight-rail-lifeline-americas-farmers)
----
-
-## Article 2: UK eases sanctions on Russian oil imports as fuel prices soar
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.4019`
-
-The move will allow the UK to import Russian crude oil refined in third countries, such as India and Turkiye. The United Kingdom government said it had eased sanctions on imports of Russian jet fuel and diesel refined in third countries, amid soaring fuel prices caused by the Iran war and prolonged closure o…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/5/20/uk-eases-sanctions-on-russian-oil-imports-as-fuel-prices-soar)
----
-
-## Article 3: Tehran declares readiness for ‘every scenario,’ tightens grip as Trump delays military action
-**Source:** Fox News | **Sentiment Score:** `0.5106`
-
-Iran’s parliamentary National Security and Foreign Policy Committee chief said Tehran is prepared for “every scenario” as President Donald Trump pauses new military strikes to “save people from being killed.” Irans Supreme Leader Mojtaba Khamenei used a series of posts on X Tuesday to frame Irans war with the United States and Israel in ideological and religious terms, invoking what one counterterrorism a…
-
-[Read Original Article Here](https://www.foxnews.com/live-news/iran-war-trump-news-strait-hormuz-blockade-ceasefire-tensions-may-20)
----
-
-## Article 4: Platner doesn’t want to wave the green flag with China, he prefers the white flag
-**Source:** Fox News | **Sentiment Score:** `0.7140`
-
-Progressive Maine Senate candidate Graham Platner advocates cooperating with China on clean energy, but that's naive about national security risks. The radical running to become Maines next Democratic senator has a plan for energy security. Its called "surrender to China." Graham Platner the progressive oyster farmer and Marine veteran who had …
-
-[Read Original Article Here](https://www.foxnews.com/opinion/platner-doesnt-want-wave-green-flag-china-prefers-white-flag)
----
-
-## Article 5: Are Trump and Xi making a genuine breakthrough or is China stringing us along … again?
-**Source:** Fox News | **Sentiment Score:** `-0.7579`
-
-President Trump's summit with Xi Jinping raises questions about whether talks can end Cold War 2.0 amid fentanyl failures and Chinese aggression. President Donald Trumps summit with Chinese President Xi Jinping last week was historic. Was it the pivotal moment that ends Cold War 2.0? There were few details announced during the event, but on S…
-
-[Read Original Article Here](https://www.foxnews.com/opinion/trump-xi-making-genuine-breakthrough-china-stringing-us-along-)
----
-
-## Article 6: Is Russia ‘simulating diplomacy’ because of war losses in Ukraine?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.5927`
-
-Putin has talked about a truce, but some analysts say it's a ploy to buy time while Moscow's soldiers are on back foot. While Kyiv has recently come under frequent bombardment, the residents of Moscow have largely felt safe. That might now be changing. list of 4 itemsend of list At least three people, including an …
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/5/20/is-russia-simulating-diplomacy-because-of-war-losses-in-ukraine)
----
-
-## Article 7: RBI intervenes as Rupee drops to record low
-**Source:** Bloomberg | **Sentiment Score:** `-0.7269`
-
-RBI intervenes as the rupee hits a record low, pressured by high oil prices and significant foreign investor withdrawals. Indias central bank intervened to shore up the struggling rupee as elevated oil prices pushed the currency to a record low. The Reserve Bank of India sold small amounts of dollars in the onshore cur…
-
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-05-20/inr-usd-indian-central-bank-intervenes-as-rupee-drops-to-record-low)
----
-
-## Article 8: India prepares to send oil tankers through Hormuz for new supply
-**Source:** Bloomberg | **Sentiment Score:** `0.6249`
-
-India plans to send oil tankers through the Strait of Hormuz for energy supply after government approval amid ongoing conflict. India is preparing to send vessels through the Strait of Hormuz to load up energy cargoes from suppliers in the Middle East, according to people familiar with the matter, the first time since the Ira…
-
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-05-20/india-prepares-to-send-oil-tankers-through-hormuz-for-new-supply)
----
-
-## Article 9: A look back at Stephen Colbert's most partisan moments as 'The Last Show' host
-**Source:** Fox News | **Sentiment Score:** `-0.2500`
-
-A look back at Stephen Colbert's most partisan moments as "The Late Show" host from dancing with Senate Minority Leader Chuck Schumer to starring at a Biden fundraiser. Stephen Colbert's stint as host of "The Late Show" comes to an end this week after a tenure marked by him becoming arguably the most rabidly partisan host in the late-night landscape. Colbert transf…
-
-[Read Original Article Here](https://www.foxnews.com/media/look-back-stephen-colberts-most-partisan-moments-the-last-show-host)
----
-
-## Article 10: Putin meets Xi: Why Russia and China need each other
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.2732`
-
-Vladimir Putin’s arrival was announced just a day after United States President Donald Trump left Beijing. Russian President Vladimir Putin arrived in China on Tuesday evening for a two-day visit centred on talks with Chinese President Xi Jinping, as Moscow and Beijing draw closer amid war, sanctions and …
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/5/19/putin-meets-xi-why-russia-and-china-need-each-other)
----
-
-## Article 11: High prices in Iran’s stunted housing market leave tenants with few options
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.2991`
-
-Tenants face bleak prospects as economic uncertainty persists amid a potential resumption of fighting. Tehran, Iran When Mohammad, a 29-year-old resident of western Tehran, renewed his tenancy contract earlier this week, the price increase did not come as a surprise. His landlord had raised the rent …
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/5/19/high-prices-in-iran-stunted-housing-market-leave-tenants-with-few-options)
----
-
-## Article 12: Putin arrives in China for talks with Chinese leader Xi Jinping
+## Article 1: How Chinese, Iranian companies profit in Russia-occupied Ukrainian regions
 **Source:** Al Jazeera English | **Sentiment Score:** `0.0000`
 
-Russian President Vladimir Putin has arrived in Beijing for talks with Chinese leader Xi Jinping. NewsFeed Russian President Vladimir Putin has arrived in Beijing for talks with Chinese leader Xi Jinping, less than a week after Donald Trumps China trip. Putins visit is aimed at deepening trade a…
+More than a dozen Chinese companies operate in Donetsk and Luhansk, according to a Ukrainian monitor. Kyiv, Ukraine In November 2023, representatives of two Chinese companies signed a deal to supply stone-crushing machinery for construction projects. Despite being inked in Moscow, the contract was n…
 
-[Read Original Article Here](https://www.aljazeera.com/video/newsfeed/2026/5/19/putin-arrives-in-china-for-talks-with-chinese-leader-xi-jinping)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/5/21/how-chinese-iranian-companies-profit-in-russia-occupied-ukrainian-regions)
 ---
 
-## Article 13: 30-year US Treasury yield hits highest level in 19 years | CNN Business
-**Source:** CNN | **Sentiment Score:** `-0.8402`
+## Article 2: Award-winning chef says popular retailer has elite beef at bargain prices
+**Source:** Fox News | **Sentiment Score:** `0.9661`
 
-A bond rout is deepening as inflation fears take hold of the Treasury market, threatening to raise borrowing costs across the US economy. A bond rout is deepening as inflation fears take hold of the Treasury market, threatening to raise borrowing costs across the US economy. The 30-year US Treasury yield just hit 5.2%, its highest lev…
+Walmart is an excellent place to buy USDA Prime beef, with pricing competitive with Costco stores, says a James Beard Award winner and former executive chef. A James Beard Award-winning chef says Walmart is one of the best places in America to buy USDA Prime beef praising the retailer for offering high-quality cuts at affordable prices. The endorsement c…
 
-[Read Original Article Here](https://www.cnn.com/2026/05/19/business/30-year-treasury-yield-bond-record)
+[Read Original Article Here](https://www.foxnews.com/food-drink/award-winning-chef-says-popular-retailer-has-elite-beef-bargain-prices)
 ---
 
-## Article 14: US extends sanctions waiver on Russian oil: Why it matters
-**Source:** Al Jazeera English | **Sentiment Score:** `0.5994`
+## Article 3: ‘Homeland or death’: How Cuba would defend itself against a US attack
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.4767`
 
-The US has extended its waiver on sanctioned Russian oil until June 17. The United States has announced another 30-day extension of a sanctions waiver for countries buying Russian oil and petroleum products currently already loaded on tankers at sea, as global energy mar…
+A US military operation in Cuba could be imminent, but Havana is not entirely defenceless, some analysts argue. Helen Yaffe, in her frequent, regular trips to Cuba for the last 30 years, remembers once when a Category Four hurricane barrelled its way to the island. The academic and podcaster was then living i…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/5/19/us-extends-sanctions-waiver-on-russian-oil-why-it-matters)
+[Read Original Article Here](https://www.aljazeera.com/features/2026/5/21/homeland-or-death-how-cuba-would-defend-itself-against-a-us-attack)
 ---
 
-## Article 15: China-Russia relations are as strong as ever thanks to Trump
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.7906`
+## Article 4: Colbert's final year marked by attacks on Trump, liberal talking points and celebs kissing his ring
+**Source:** Fox News | **Sentiment Score:** `-0.2500`
 
-The US president failed to ‘un-unite’ the two powers because he has repeated the same mistakes his predecessors made. Days before Donald Trump was elected for his second term as US president in 2024, he pledged to un-unite Russia and China as he accused his predecessor, Joe Biden, of bringing them closer together. B…
+Stephen Colbert transformed CBS' long-running late-night show into #Resistance television, dedicating monologues to attacking President Donald Trump and elevating Democrats. Marked by relentless attacks on President Donald Trump, left-wing talking points and celebrities kissing his ring, Stephen Colbert's final year with CBS comes to a close when the curtain falls on his…
 
-[Read Original Article Here](https://www.aljazeera.com/opinions/2026/5/19/china-russia-relations-are-as-strong-as-ever-thanks-to-trump)
+[Read Original Article Here](https://www.foxnews.com/media/colberts-final-year-marked-attacks-trump-liberal-talking-points-celebs-kissing-his-ring)
 ---
 
-## Article 16: RBI set to pay government record dividend to cushion war shock
-**Source:** Bloomberg | **Sentiment Score:** `0.5106`
+## Article 5: ‘Iron brothers’: How China and Pakistan built an unlikely 75-year bond
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.3182`
 
-India's central bank plans to transfer nearly 3 trillion rupees to the government, bolstering finances amid rising energy prices. The Reserve Bank of India may transfer a record surplus of nearly 3 trillion rupees ($31.2 billion) this week to the government, economists estimated, providing Asias third-largest economy a vital bu…
+From secret nuclear exchanges to a key diplomatic deal, Pakistan and China have long helped each other. What's next? Islamabad, Pakistan Nations and empires have fought each other over territory for centuries. In March 1963, Pakistan did something rare: It offered land five times the size of Hong Kong to another co…
 
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-05-19/india-set-for-record-central-bank-dividend-to-cushion-war-shock)
+[Read Original Article Here](https://www.aljazeera.com/features/2026/5/21/iron-brothers-how-china-and-pakistan-built-an-unlikely-75-year-bond)
 ---
 
-## Article 17: ‘China holds the cards’: Why Putin’s visit to Beijing after Trump matters
-**Source:** Al Jazeera English | **Sentiment Score:** `0.8020`
+## Article 6: The crises caused by the Iran war will hit the world in four waves
+**Source:** Al Jazeera English | **Sentiment Score:** `0.6106`
 
-Scant progress in US-China talks bolsters Putin, while for China, hosting back-to-back visits is a diplomatic flex. When Russian President Vladimir Putin lands in Beijing on Tuesday evening, his official agenda will be to join his Chinese counterpart, Xi Jinping, in commemorating a quarter-century-old agreement, t…
+The impact of the conflict will not stop at energy price hikes. It will spread to various sectors and last years. If tomorrow Iran, the United States and Israel were to announce a peace deal and the Strait of Hormuz were to reopen, the war would not be over. Wars do not end when the missiles stop flying. They e…
 
-[Read Original Article Here](https://www.aljazeera.com/features/2026/5/19/neutral-superpower-china-why-putin-visit-to-beijing-after-trump-matters)
+[Read Original Article Here](https://www.aljazeera.com/opinions/2026/5/21/the-crises-caused-by-the-iran-war-will-hit-the-world-in-four-waves)
 ---
 
-## Article 18: Auto industry braces for motor oil shortage | CNN Business
-**Source:** CNN | **Sentiment Score:** `-0.9517`
+## Article 7: Economic activity holds steady in May, Flash PMIs show
+**Source:** Bloomberg | **Sentiment Score:** `-0.1027`
 
-Wholesale motor oil prices are rising rapidly, and some industry executives are warning of imminent shortages caused by the war with Iran. Wholesale motor oil prices are rising rapidly, and some industry executives are warning of imminent shortages caused by the war with Iran. Damage to key facilities in the Middle East and the shutdow…
+To limit the economic shock, India has raised fuel prices, curbed gold imports and tightened currency-market rules Indias economic activity remained stable in May from a month ago, a flash survey by HSBC Holdings Plc showed Thursday. The manufacturing purchasing managers index fell slightly to 54.3 in May from 5…
 
-[Read Original Article Here](https://www.cnn.com/2026/05/19/business/motor-oil-shortage-prices-iran)
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-05-21/india-s-economic-activity-holds-steady-in-may-flash-pmis-show)
 ---
 
-## Article 19: LIZ PEEK: President Trump’s China trip sent an important message liberal media missed
-**Source:** Fox News | **Sentiment Score:** `-0.7184`
+## Article 8: Mayors want to keep handing out free cash after federal funds dried up
+**Source:** Fox News | **Sentiment Score:** `0.8176`
 
-Critics call Trump's Beijing trip a failure, but his surprise inclusion of American CEOs sent a powerful message about U.S. economic dominance to Xi. President Trumps critics proclaim the recent trip to Beijing a failure. The New York Times, for instance, says the president "left China without any breakthroughs", meanwhile mocking Trump for callin…
+Americans in over 100 cities received guaranteed income through ARPA-funded pilots. Now mayors in Evanston, Newark, and Salem push to make the programs permanent policy. Several mayors across the United States are scrambling to keep "no-strings-attached" cash programs alive as the federal pandemic relief funding that triggered the trend officially dries up. In the C…
 
-[Read Original Article Here](https://www.foxnews.com/opinion/liz-peek-president-trumps-china-trip-sent-important-message-liberal-media-missed)
+[Read Original Article Here](https://www.foxnews.com/media/mayors-want-keep-handing-out-free-cash-after-federal-funds-dried-up)
 ---
 
-## Article 20: STEPHEN MOORE: Government control of chip sales has a shocking downside
-**Source:** Fox News | **Sentiment Score:** `-0.4215`
+## Article 9: Fox News Poll: As economic pain deepens, disapproval of Trump hits new high
+**Source:** Fox News | **Sentiment Score:** `-0.5859`
 
-U.S. export controls on semiconductors act as a self-imposed tax, cutting chipmakers off from China and encouraging Beijing's domestic chip manufacturing. One of the goals of President Donald Trumps trip to China is to help ensure continued American tech dominance. One worry is that China steals our technology. But sometimes we foolishly handicap our …
+Voters grow increasingly pessimistic about the economy and Trump's handling of key issues as affordability dominates the political landscape in 2026. Voters are increasingly pessimistic about the economy and President Trumps handling of key issues, while a majority opposes continued U.S. military involvement in Iran even as most believe the U.S. i…
 
-[Read Original Article Here](https://www.foxnews.com/opinion/stephen-moore-government-control-chip-sales-shocking-downside)
+[Read Original Article Here](https://www.foxnews.com/politics/fox-news-poll-economic-pain-deepens-disapproval-trump-hits-new-high)
+---
+
+## Article 10: Bolivian president to reshuffle cabinet amid anti-government protests
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.8591`
+
+Bolivian President Rodrigo Paz is under pressure from protests against his government and poor economic conditions. Bolivias right-wing President Rodrigo Paz has said he will reorganise his cabinet as he faces calls to resign amid weeks of widespread protests. During a news conference on Wednesday, Paz said he wo…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/5/20/bolivian-president-to-reshuffle-cabinet-amid-anti-government-protests)
+---
+
+## Article 11: Jan. 6 rioters and election deniers celebrate Trump’s $1.8 billion compensation fund
+**Source:** CNN | **Sentiment Score:** `0.8689`
+
+Supporters of President Donald Trump who tried to overturn the 2020 election are among those eager to potentially cash in from Donald Trump’s $1.8 billion fund Supporters of President Donald Trump who tried to overturn the 2020 election are among those eager to potentially cash in from the $1.8 billion compensation fund for people the Trump administration b…
+
+[Read Original Article Here](https://www.cnn.com/2026/05/20/politics/trump-fund-january-6-election-deniers-want-money)
+---
+
+## Article 12: US indicts Cuba’s former leader Raul Castro: Why it matters
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.8885`
+
+The indictment against Raul Castro echoes earlier US criminal cases targeting Latin American leaders. The administration of United States President Donald Trump has issued criminal charges against former Cuban leader Raul Castro over the 1996 downing of two civilian planes, killing four. On Wednesda…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/5/20/us-indicts-cubas-former-leader-raul-castro-why-it-matters)
+---
+
+## Article 13: Trump-backed nominees dominate primary contests as president tightens party vice grip
+**Source:** Fox News | **Sentiment Score:** `0.9652`
+
+President Trump celebrated a sweeping primary night as his endorsed candidates won key GOP races in Kentucky, Georgia, Alabama, Idaho and Oregon. President Donald Trump was the biggest winner of Tuesdays wide slate of primary elections as the president celebrated a large swath of his preferred candidates winning GOP primaries or advancing to r…
+
+[Read Original Article Here](https://www.foxnews.com/politics/trump-backed-nominees-dominate-primary-contests-president-tightens-party-vicegrip)
+---
+
+## Article 14: Controlled reopening ends Iran’s lengthy stock market shutdown
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.1027`
+
+Stocks in companies hit by US and Israeli strikes, such as energy and steel firms, didn't take part in the reopening. Tehran, Iran A near-three-month closure of Irans stock market has ended with two days of a controlled reopening among some restrictions for investors. Although Tuesdays and Wednesdays sessions of th…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/5/20/controlled-reopening-ends-irans-lengthy-stock-market-shutdown)
+---
+
+## Article 15: Senate plots permanent end to government shutdowns with bipartisan push
+**Source:** Fox News | **Sentiment Score:** `0.1531`
+
+The Senate moves to prevent government shutdowns permanently with bipartisan legislation that would strip lawmakers of recess and travel privileges. FIRST ON FOX: The Senate is taking another step to prevent government shutdowns, this time to stop them from happening altogether.  Its a move that comes after Sen. John Kennedy, R-La., successfully…
+
+[Read Original Article Here](https://www.foxnews.com/politics/senate-plots-permanent-end-government-shutdowns-bipartisan-push)
+---
+
+## Article 16: What is the Power of Siberia 2 pipeline that Russia, China are planning?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.5719`
+
+Analysts say Russia wants to replace lost gas revenue while China seeks to diversify and secure its energy supplies. On the agenda at this weeks Russia-China summit between Presidents Vladimir Putin and Xi Jinping is the long-delayed Power of Siberia 2 (POS-2) project, a proposed 2,600km (1,616-mile) natural gas pi…
+
+[Read Original Article Here](https://www.aljazeera.com/features/2026/5/20/what-is-the-power-of-siberia-2-pipeline-that-russia-china-are-planning)
+---
+
+## Article 17: Fmr Dem Rep Barney Frank, sharp-tongued liberal trailblazer, Dodd-Frank co-author dies
+**Source:** Fox News | **Sentiment Score:** `-0.8689`
+
+Barney Frank, the liberal Massachusetts congressman behind the Dodd-Frank financial reform law and a gay rights pioneer, has died at age 86. Former Rep. Barney Frank, D-Mass., whose biting wit, liberal politics and mastery of financial policy made him one of the most recognizable members of Congress for more than three decades, has died a…
+
+[Read Original Article Here](https://www.foxnews.com/politics/fmr-dem-rep-barney-frank-sharp-tongued-liberal-trailblazer-dodd-frank-co-author-dies)
+---
+
+## Article 18: Cargo theft hits everything from LEGO to tequila. We need the Senate to help stop it
+**Source:** Fox News | **Sentiment Score:** `-0.1280`
+
+A $1 million LEGO heist in the Mojave Desert illustrates why Congress must pass CORCA to combat organized cargo theft costing Americans billions. At first glance, it looked like a mirage in the California desert: two trailers carrying $1 million worth of LEGO sets abandoned in the Mojave. But the scene was real. After a chase through the dese…
+
+[Read Original Article Here](https://www.foxnews.com/opinion/cargo-theft-hits-everything-lego-tequila-need-senate-help-stop)
+---
+
+## Article 19: Why are nearly 50,000 Samsung workers about to strike in South Korea?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.4131`
+
+Workers' union says protest over bonuses will continue for 18 days. South Korean chipmaker Samsung Electronics is facing one of the most serious workers strikes in its history, with a protest which could affect the overall economy and the groups global supply of semi…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/5/20/why-are-nearly-50000-samsung-workers-about-to-strike-in-south-korea)
+---
+
+## Article 20: Trump critic Massie defeated: Takeaways from US primary election results
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.2449`
+
+Here are the key takeaways from Tuesday’s US primaries in Alabama, Georgia, Idaho, Kentucky, Oregon and Pennsylvania. Congressman Thomas Massie, one of the most vocal critics of United States President Donald Trump, has lost his primary race to Trump-backed former Navy SEAL Ed Gallrein in a major political victory f…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/5/20/trump-critic-massie-defeated-takeaways-from-us-primary-election-results)
 ---
 
