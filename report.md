@@ -1,11 +1,123 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-06-02 | **Status:** Automated
+**Date:** 2026-06-03 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: French navy, backed by the UK, intercepts Russian oil tanker
+## Article 1: Republicans chase breakthroughs in multiple state primary elections and more top headlines
+**Source:** Fox News | **Sentiment Score:** `0.8892`
+
+Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox. Good morning and welcome to Fox News morning newsletter, Fox News First. And here's what you need to know to start your day ... TOP 3 1. Republicans chase historic breakthroughs in multi-state prim…
+
+[Read Original Article Here](https://www.foxnews.com/us/republicans-chase-breakthroughs-multiple-state-primary-elections-more-top-headlines)
+---
+
+## Article 2: Every world leader who has visited China in 2026 in one chart
+**Source:** Al Jazeera English | **Sentiment Score:** `0.1779`
+
+China has hosted 26 leaders from 23 countries this year, underscoring its growing diplomatic and economic influence. British Foreign Secretary Yvette Cooper is the latest senior official in a steady stream of world leaders visiting China this year. During her three-day trip this week, Cooper is expected to meet he…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/6/2/every-world-leader-who-has-visited-china-in-2026-in-one-chart)
+---
+
+## Article 3: LA business leader says crime, wildfire fallout fueling Pratt surge as voters seek change: 'People are angry'
+**Source:** Fox News | **Sentiment Score:** `-0.8779`
+
+Business leader John Putnam says Spencer Pratt's LA mayoral surge reflects voter frustration over crime, wildfires, and the city's business climate. SANTA MONICA, CA A business leader and former city council candidate is reacting to Spencer Pratts surge in the Los Angeles mayoral race by pointing to crime, the recent wildfires, and the inhospitab…
+
+[Read Original Article Here](https://www.foxnews.com/politics/la-business-leader-says-crime-wildfire-fallout-fueling-pratt-surge-voters-seek-change-people-angry)
+---
+
+## Article 4: How does Iran’s leadership view the emerging deal with the US?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.4310`
+
+Iranian authorities reject capitulation, but there are subtle differences between various factions. Tehran, Iran Irans leadership has not closed the door on a potential deal with the United States, but more hawkish voices on both sides are pushing for demands that are making any understanding elusi…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/6/2/how-does-irans-leadership-view-the-emerging-deal-with-the-us-2)
+---
+
+## Article 5: Somalia needs a political settlement before it is too late
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.3430`
+
+Somalia is entering a dangerous moment without a path to elections or a political transition. Somalia is entering one of the most dangerous moments in its recent history without an agreed path towards elections or a political transition. United States and United Kingdom-led talks between the …
+
+[Read Original Article Here](https://www.aljazeera.com/opinions/2026/6/2/somalia-needs-a-political-settlement-before-it-is-too-late)
+---
+
+## Article 6: Republicans can win the midterms if they just stop underselling success
+**Source:** Fox News | **Sentiment Score:** `0.8442`
+
+Republicans enter the 2026 midterms with a concrete record including the Working Families Tax Cut and the Big Beautiful Bill as key campaign assets. Republicans head into the 2026 midterms with a rare advantage: a concrete record of accomplishments to run on powered by President Donald Trumps second-term successes. Former Speaker of the House Ne…
+
+[Read Original Article Here](https://www.foxnews.com/opinion/republicans-win-midterms-stop-underselling-success)
+---
+
+## Article 7: From reality TV to city hall? Trump-backed Spencer Pratt soars in LA mayor race as Californians vote
+**Source:** Fox News | **Sentiment Score:** `-0.2023`
+
+Voters in California and Iowa head to polls Tuesday in primary races that could break longtime Republican losing streaks in key governor contests. Republicans are aiming to break longtime losing streaks by taking first steps toward winning elections for governor and Los Angeles mayor as voters in Democrat-dominated California head to the polls …
+
+[Read Original Article Here](https://www.foxnews.com/politics/reality-tv-city-hall-trump-backed-spencer-pratt-soars-la-mayor-race-californians-vote)
+---
+
+## Article 8: China opens its markets to African exports. Who benefits?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.8689`
+
+China's tariff-free access for many African products has renewed hopes of industrial growth. But trade remains uneven. Chinas tariff-free access for many African products has renewed hopes of industrial growth. But trade remains uneven.Beijing has recently removed tariffs on many imports from Africa for the next two …
+
+[Read Original Article Here](https://www.aljazeera.com/video/counting-the-cost/2026/6/2/china-opens-its-markets-to-african-exports-who-benefits)
+---
+
+## Article 9: Senegal president names government, boycotted by ally-turned-rival
+**Source:** Al Jazeera English | **Sentiment Score:** `0.6597`
+
+Ousted PM says his party, which holds the parliamentary majority, will not participate in the new government. Senegals President Bassirou Diomaye Faye has announced a new government featuring several members and allies of a party led by sacked prime minister and estranged ally Ousmane Sonko, who has pledged …
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/6/2/senegal-president-names-government-boycotted-by-ally-turned-rival)
+---
+
+## Article 10: RBI may have sold gold to save foreign reserves, BE report shows
+**Source:** Bloomberg | **Sentiment Score:** `-0.3612`
+
+The Reserve Bank of India likely sold about $12 billion in gold reserves and bought $7.5 billion in foreign-currency assets over two weeks ending May 22, according to BE’s senior economist Abhishek Gupta Indias central bank may have offloaded a portion of its gold holdings to shield its foreign-currency assets from the cascading fallout of the war in the Middle East, according to an analysis by Bloom…
+
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-06-02/rbi-may-have-sold-gold-to-save-foreign-reserves-be-report-shows)
+---
+
+## Article 11: Trump makes late-night endorsements in six states ahead of Tuesday primaries, including California
+**Source:** Fox News | **Sentiment Score:** `0.0258`
+
+President Trump made late-night endorsements ahead of Tuesday primaries in six states, backing candidates for California and Iowa governor races. President Trump has issued a series of endorsements ahead of Tuesdays primary elections in California, Iowa, Montana, New Jersey, New Mexico and South Dakota, including in gubernatorial, congressiona…
+
+[Read Original Article Here](https://www.foxnews.com/us/trump-makes-late-night-endorsements-six-states-ahead-tuesday-primaries-including-california)
+---
+
+## Article 12: Armenian PM rejects Russia’s demand for EU referendum as relations nosedive
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.5106`
+
+Russia is raising the pressure on Armenia as traditional ally looks to the West. Armenian Prime Minister Nikol Pashinyan has rejected a call from Moscow to hold an immediate referendum on leaving the Russian-led Eurasian Economic Union (EAEU) to join the European Union. The refu…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/6/1/armenian-pm-rejects-russias-demand-for-eu-referendum-as-relations-nosedive)
+---
+
+## Article 13: Indian PM Modi meets Myanmar military gov’t leader in New Delhi
+**Source:** Al Jazeera English | **Sentiment Score:** `0.9178`
+
+Myanmar opposition groups criticise India for hosting Min Aung Hlaing, but India says engagement is best way forward. India says it will continue engaging with Myanmar after Prime Minister Narendra Modi spoke with Min Aung Hlaing, the leader of the countrys military government, in New Delhi. Indian Foreign Secretar…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/6/1/indian-pm-modi-meets-myanmar-military-govt-leader-in-new-delhi)
+---
+
+## Article 14: Ukraine’s forcibly transferred children must not be a bargaining chip
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.8516`
+
+Russia must face more pressure to fulfil its legal obligations to return the Ukrainian children. It has been more than four years since Russia launched a full-scale invasion of Ukraine, expanding its occupation of Ukrainian lands, which started in 2014. In the chaos and violence of the first mon…
+
+[Read Original Article Here](https://www.aljazeera.com/opinions/2026/6/1/ukraines-forcibly-transferred-children-must-not-be-a-bargaining-chip)
+---
+
+## Article 15: French navy, backed by the UK, intercepts Russian oil tanker
 **Source:** Al Jazeera English | **Sentiment Score:** `0.5574`
 
 According to France, the tanker, which had sailed from Murmansk, was trying to 'skirt international sanctions'. The French navy with support from the United Kingdom has intercepted an oil tanker suspected of being part of Russias sanctions-busting shadow fleet. French President Emmanuel Macron announced the i…
@@ -13,7 +125,7 @@ According to France, the tanker, which had sailed from Murmansk, was trying to '
 [Read Original Article Here](https://www.aljazeera.com/news/2026/6/1/french-navy-backed-by-the-uk-intercepts-russian-oil-tanker)
 ---
 
-## Article 2: Ethiopia holds elections with PM Abiy’s party expected to dominate
+## Article 16: Ethiopia holds elections with PM Abiy’s party expected to dominate
 **Source:** Al Jazeera English | **Sentiment Score:** `0.4781`
 
 Voting will not take place in northern Tigray region and some parts of the Amhara region amid insecurity. Ethiopians have begun voting in parliamentary and regional elections, with Prime Minister Abiy Ahmeds party projected to win by a landslide, despite significant unrest in much of the country. More t…
@@ -21,7 +133,7 @@ Voting will not take place in northern Tigray region and some parts of the Amhar
 [Read Original Article Here](https://www.aljazeera.com/news/2026/6/1/ethiopia-holds-elections-with-pm-abiys-party-expected-to-dominate)
 ---
 
-## Article 3: Ex-US Fed Chair Powell warns against politicisation amid Trump’s attacks
+## Article 17: Ex-US Fed Chair Powell warns against politicisation amid Trump’s attacks
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.6486`
 
 Jerome Powell says the US central bank is undergoing a 'stress test' like other institutions in the current era. Former US Federal Reserve Chair Jerome Powell has warned against the politicisation of monetary policy amid President Donald Trumps repeated attacks on the independence of the central bank. In a spe…
@@ -29,7 +141,7 @@ Jerome Powell says the US central bank is undergoing a 'stress test' like other 
 [Read Original Article Here](https://www.aljazeera.com/economy/2026/6/1/ex-us-fed-chair-powell-warns-against-politicisation-amid-trumps-attacks)
 ---
 
-## Article 4: Pro-Trump candidate to face Petro ally in Colombia presidential runoff election after surprising performance | CNN
+## Article 18: Pro-Trump candidate to face Petro ally in Colombia presidential runoff election after surprising performance | CNN
 **Source:** CNN | **Sentiment Score:** `0.8126`
 
 In a surprisingly strong performance, right-wing outsider candidate Abelardo de la Espriella will face leftist candidate senator Iván Cepeda in a runoff to decide Colombia’s presidency, setting the stage for a battle over Colombia’s political future and the d… Sigue la cobertura en español In a surprisingly strong performance, right-wing outsider candidate Abelardo de la Espriella will face leftist candidate senator Iván Cepeda in a runoff to decide Colom…
@@ -37,7 +149,7 @@ In a surprisingly strong performance, right-wing outsider candidate Abelardo de 
 [Read Original Article Here](https://www.cnn.com/2026/05/31/americas/colombia-runoff-espriella-cepeda-latam-intl)
 ---
 
-## Article 5: As Ethiopia votes, its deepening human rights crisis must be addressed
+## Article 19: As Ethiopia votes, its deepening human rights crisis must be addressed
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.7783`
 
 Continuing internal conflicts and deepening repression are casting a long shadow over the general election. Ethiopia will hold its seventh national election on June 1. The National Election Board of Ethiopia (NEBE) gave a green light for the vote to proceed despite continuing internal conflicts and human r…
@@ -45,123 +157,11 @@ Continuing internal conflicts and deepening repression are casting a long shadow
 [Read Original Article Here](https://www.aljazeera.com/opinions/2026/5/31/as-ethiopia-votes-its-deepening-human-rights-crisis-must-be-addressed)
 ---
 
-## Article 6: Ethiopia’s election is about affirming national commitment to democracy
+## Article 20: Ethiopia’s election is about affirming national commitment to democracy
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.1558`
 
 A national vote alone can't address all challenges in the country, but it can be a step toward democratic consolidation. On June 1, more than 57 million Ethiopians are going to the polls in the countrys seventh national election since the adoption of the 1995 constitution. At a time when democratic systems across the w…
 
 [Read Original Article Here](https://www.aljazeera.com/opinions/2026/5/31/ethiopias-election-is-about-affirming-national-commitment-to-democracy-2)
----
-
-## Article 7: Ethiopia’s election: Parties, coalitions and candidates explained
-**Source:** Al Jazeera English | **Sentiment Score:** `0.4588`
-
-Over 50 million Ethiopians are registered to vote, with youth and women forming a significant share of the electorate. Addis Ababa, Ethiopia Ethiopians vote on Monday in a general election to choose members of parliament, who will in turn select the next prime minister. The National Election Board of Ethiopia (NEBE) …
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/5/31/ethiopias-election-parties-coalitions-and-candidates-explained)
----
-
-## Article 8: Colombians head to the polls to choose President Gustavo Petro’s successor
-**Source:** Al Jazeera English | **Sentiment Score:** `0.4939`
-
-The contest is largely a three-horse race between a left-wing senator, a businessman and a right-wing lawmaker. Polls have opened in the first round of Colombias presidential election, in which a left-wing lawmaker, an independent businessman and a right-wing senator are vying to succeed President Gustavo Petr…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/5/31/colombians-head-to-the-polls-to-choose-president-gustavo-petros-successor)
----
-
-## Article 9: Could Democrats be shut out of the California governor’s race?
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.6369`
-
-California is a Democrat stronghold, but thanks to the state's jungle primary, Republicans are frontrunners to advance. But some critics have asserted that Harris and other top-level Democrats may have avoided the race to dodge any association with California's heated political battles. In addition to its persistent …
-
-[Read Original Article Here](https://www.aljazeera.com/news/longform/2026/5/31/could-democrats-be-shut-out-of-the-california-governors-race)
----
-
-## Article 10: US quietly plays the long game on energy dominance against China
-**Source:** Post Magazine | **Sentiment Score:** `0.4460`
-
-Sun Tzu wrote that “fighting and winning all your battles is not the height of skill; subduing the enemy without fighting is the height of skill”. That maxim offers perhaps the clearest lens to interpret the logic of American grand strategy under US President… Sun Tzu wrote that fighting and winning all your battles is not the height of skill; subduing the enemy without fighting is the height of skill. That maxim offers perhaps the clearest lens to interpr…
-
-[Read Original Article Here](https://www.scmp.com/opinion/china-opinion/article/3355267/us-quietly-plays-long-game-energy-dominance-against-china)
----
-
-## Article 11: Big Tech is through harming our children. This is our time to fight back
-**Source:** Fox News | **Sentiment Score:** `-0.0790`
-
-America's hands-off approach to Big Tech is ending as lawsuits, state legislatures and federal bills target platforms harming children's mental health. For years, America treated the internet like a free speech "Wild West," assuming the online world should operate with almost no guardrails. Because of this, our nation has operated under two dangerou…
-
-[Read Original Article Here](https://www.foxnews.com/opinion/big-tech-harming-children-time-fight-back)
----
-
-## Article 12: Labour triumphs in Malta election, preliminary results show
-**Source:** Al Jazeera English | **Sentiment Score:** `0.8860`
-
-Labour Party secures historic fourth term in Malta amid geopolitical and economic instability concerns. Maltas Labour Party (PL) has won an unprecedented fourth term in a victory for Prime Minister Robert Abela, a sample of vote counts showed. Preliminary results gave the election to PL, officials at …
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/5/31/labour-triumphs-in-malta-election-preliminary-results-show)
----
-
-## Article 13: Anti-cartel hardliner channels Trump in bid to end Colombia's leftist era in pivotal election
-**Source:** Fox News | **Sentiment Score:** `0.7783`
-
-Colombia's next president could reshape U.S. counternarcotics cooperation as voters choose between security-first and dialogue-based approaches. A hardline, law-and-order candidate who promises to dismantle drug cartels and reset Colombias security doctrine is gaining traction with voters as Colombians vote in Sunday's presidential election.…
-
-[Read Original Article Here](https://www.foxnews.com/world/anti-cartel-hardliner-channels-trump-bid-end-colombias-leftist-era-pivotal-election)
----
-
-## Article 14: The strait may reopen, but global confidence may not return
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.6124`
-
-The next phase of the Strait of Hormuz crisis may be defined less by its closure than by conditional access. United States President Donald Trumps claim that a deal to reopen the Strait of Hormuz has been largely negotiated may calm markets temporarily. But the deeper significance of the current crisis lies…
-
-[Read Original Article Here](https://www.aljazeera.com/opinions/2026/5/31/the-strait-may-reopen-but-global-confidence-may-not-return)
----
-
-## Article 15: SpaceX, OpenAI windfall fuels bets on next-wave Asian AI winners
-**Source:** Bloomberg | **Sentiment Score:** `0.4939`
-
-The battle for AI leadership has driven massive expenditures on computing networks by the likes of Meta Platforms Inc. and Amazon.com Inc The hunt is on for companies that could benefit from the tailwinds of an unprecedented wave of stock offerings in the US, and investors are increasingly honing in on the Asian supply chain. Their th…
-
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-05-31/spacex-openai-windfall-fuels-bets-on-next-wave-asian-ai-winners)
----
-
-## Article 16: From nuclear submarines to trade, South Korea and US remain deadlocked ahead of talks
-**Source:** Post Magazine | **Sentiment Score:** `0.9001`
-
-South Korea and the United States are heading into talks in Seoul next week with different priorities over the implementation of last year’s summit agreement, with President Lee Jae Myung pushing for the supply of nuclear-powered submarines and Washington see… South Korea and the United States are heading into talks in Seoul next week with different priorities over the implementation of last years summit agreement, with President Lee Jae Myung pushing for …
-
-[Read Original Article Here](https://www.scmp.com/week-asia/politics/article/3355362/nuclear-submarines-trade-south-korea-and-us-remain-deadlocked-ahead-talks)
----
-
-## Article 17: Voters in Malta head to polls for early elections
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.7096`
-
-Maltese voters are at the polls after PM Robert Abela called a snap election. NewsFeed Maltese voters are at the polls after PM Robert Abela called a snap election, fearing the Iran war could stoke inflation and erode his support. With the economy and corruption among the key…
-
-[Read Original Article Here](https://www.aljazeera.com/video/newsfeed/2026/5/30/voters-in-malta-head-to-polls-for-early-elections)
----
-
-## Article 18: Bessent readies Trump $250 bill as one big hurdle stands between Treasury and making it reality
-**Source:** Fox News | **Sentiment Score:** `0.2023`
-
-Treasury says it is preparing a $250 commemorative note with Trump's portrait if Congress passes legislation allowing living people on U.S. currency. The Treasury Department is preparing a $250 note bearing President Donald Trumps portrait for the nations 250th anniversary, but the bill can only move forward only if Congress changes federal law ba…
-
-[Read Original Article Here](https://www.foxnews.com/politics/bessent-readies-trump-250-bill-one-big-hurdle-stands-between-treasury-making-reality)
----
-
-## Article 19: Voting ongoing in snap elections in Malta, governing party expected to win
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.1280`
-
-Malta's economy to dominate this year’s election, with rising rents and infrastructure at the forefront of debates. Voting has begun in Maltas snap parliamentary election, which will determine who governs the Mediterranean island nation for the next five years. Polling stations opened on Saturday in a contest wid…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/5/30/voting-ongoing-in-snap-elections-in-malta-governing-party-expected-to-win)
----
-
-## Article 20: Rwanda-Russia nuclear deal underscores Africa’s shifting power balance
-**Source:** Al Jazeera English | **Sentiment Score:** `0.5346`
-
-Rwanda turns to Russia for nuclear training and research, advancing ambitions in technology, healthcare and diplomacy. Kigali, Rwanda Rwandas new nuclear cooperation agreement with Russia may look technical on paper, focused on science, nuclear medicine and energy, but it signals a deeper shift in the geopolitical ba…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/5/30/rwanda-russia-nuclear-deal-underscores-africas-shifting-power-balance)
 ---
 
