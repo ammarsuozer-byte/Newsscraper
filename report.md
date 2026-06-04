@@ -1,11 +1,115 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-06-03 | **Status:** Automated
+**Date:** 2026-06-04 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: Republicans chase breakthroughs in multiple state primary elections and more top headlines
+## Article 1: UK-China ‘ice age’ thaws: Why the West needs Beijing
+**Source:** Al Jazeera English | **Sentiment Score:** `0.0000`
+
+British Foreign Secretary Yvette Cooper hails ‘candour and respect’ in new ties with Beijing, despite differences. Eight years after a British prime minister and foreign secretary made back-to-back visits to China, the Keir Starmer government is once again trying to reset relations with Beijing after a long perio…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/6/3/uk-china-ice-age-thaws-why-the-west-needs-beijing)
+---
+
+## Article 2: Democrat and Republican go head-to-head in California governor race
+**Source:** Al Jazeera English | **Sentiment Score:** `0.0000`
+
+California could have its first Republican governor since Arnold Schwarzenegger ended his two terms in 2011. Republican television commentator Steve Hilton and Democratic former cabinet secretary Xavier Becerra have taken an early lead in the primary race for California governor. On Tuesday, they emerged a…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/6/3/democrat-and-republican-go-head-to-head-in-california-governor-race)
+---
+
+## Article 3: STEPHEN MOORE: Foreign drug price controls are a hidden tax on Americans
+**Source:** Fox News | **Sentiment Score:** `0.3612`
+
+The U.S. pays more for drugs because foreign governments cap prices, creating trade distortions that shift pharmaceutical costs onto Americans. The United States spends far more on healthcare, on a per capita basis, than any other country in the world. There are many reasons why, including health insurance companies. But one reason has been …
+
+[Read Original Article Here](https://www.foxnews.com/opinion/stephen-moore-foreign-drug-price-controls-hidden-tax-americans)
+---
+
+## Article 4: What’s happening on day 96 of Iran war as US, Iran engage in new attacks
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.7506`
+
+Rubio says the US will lift sanctions on Iran only if it gives up enriched uranium, rejecting a Hormuz-linked deal. As the US-Israel war on Iran entered its 96th day, the conflict widened across the Gulf region, with both sides reporting new military actions. The United States military said on Wednesday it carrie…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/6/3/whats-happening-on-day-96-of-iran-war-as-us-iran-engage-in-new-attacks)
+---
+
+## Article 5: Asian stocks rise to record, Yen trades near 160: Markets Wrap
+**Source:** Bloomberg | **Sentiment Score:** `0.3400`
+
+The Asian gains came after the S&P 500 and Nasdaq 100 hit record highs, with an index of chipmakers rising nearly 6% Asian stocks climbed to a record as investors doubled down on the artificial-intelligence trade that has powered global equities to all-time highs. The yen hovered near 160 per dollar. The MSCI Asia…
+
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-06-02/asian-stocks-poised-to-gain-as-ai-rally-extends-markets-wrap)
+---
+
+## Article 6: Missing GOP congressman reveals he's 'more energized than ever' to return to Washington
+**Source:** Fox News | **Sentiment Score:** `0.8067`
+
+Rep. Tom Kean Jr. says he is more energized than ever and plans to return to in-person work within weeks after months away from Capitol Hill. Rep. Tom Kean Jr., R-N.J., said Tuesday he is "more energized than ever" and plans to return to in-person work "within a matter of weeks," issuing a new statement after months away from Capitol Hill …
+
+[Read Original Article Here](https://www.foxnews.com/politics/missing-congressman-says-hes-more-energized-than-ever-return-washington)
+---
+
+## Article 7: Plastic surgeon who testified for 1993 WTC bombing cleric wins NJ Dem primary
+**Source:** Fox News | **Sentiment Score:** `0.4215`
+
+New Jersey congressional candidate Adam Hamawy won a Democratic primary despite past ties to a cleric convicted in the 1993 WTC bombing. A pro-Palestinian plastic surgeon in New Jersey who testified as a witness in a major terrorism case on behalf of a convicted Islamic cleric won election in the New Jersey primary.  Adam Hisham Hama…
+
+[Read Original Article Here](https://www.foxnews.com/politics/plastic-surgeon-who-testified-1993-wtc-bombing-cleric-wins-nj-dem-primary)
+---
+
+## Article 8: Iranians speak out over possible Trump-regime deal
+**Source:** Fox News | **Sentiment Score:** `-0.7405`
+
+Iranians inside Iran express fear and frustration that a potential U.S.-Iran deal could leave the Islamic Republic intact despite economic devastation. Amid President Donald Trumps Monday announcement that a deal with Irans clerical regime is imminent to re-open the Strait of Hormuz and negotiate an end to Tehrans illicit nuclear weapons program, Ir…
+
+[Read Original Article Here](https://www.foxnews.com/world/iranians-speak-possible-trump-regime-deal)
+---
+
+## Article 9: SEE IT: LA voters split on Pratt's mayoral bid as one issue dominates Election Day
+**Source:** Fox News | **Sentiment Score:** `-0.3506`
+
+Los Angeles voters say homelessness is the top issue in the mayoral primary race featuring Karen Bass, Spencer Pratt and Nithya Raman as candidates. LOS ANGELES Outside a Bristol Farms market in LAs Westchester neighborhood, residents who spoke to Fox News Digital all agreed that homelessness is a top problem facing the city, but disagreed on whi…
+
+[Read Original Article Here](https://www.foxnews.com/politics/see-la-voters-split-pratts-mayoral-bid-one-issue-dominates-election-day)
+---
+
+## Article 10: US targets Brazil with new tariffs over trade practices
+**Source:** Al Jazeera English | **Sentiment Score:** `0.2960`
+
+The US plans new 25 percent tariffs on Brazilian imports, citing issues like deforestation and digital trade practices. The administration of United States President Donald Trump has proposed a new 25 percent tariff on imports from Brazil amid allegations of unfair trading practices. US Trade Representative Jamieson …
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/6/2/us-targets-brazil-with-new-tariffs-over-trade-practices)
+---
+
+## Article 11: Could Russia hit northern Europe if it gained control of Arctic’s Bear Gap?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.4404`
+
+Norwegian defence minister warns Russia could pose a grave risk and must not be allowed to control the corridor. A strategically important stretch of Arctic Ocean, known as the Bear Gap, has become the latest focus of concerns about Russias military ambitions in the far north. In an interview with UKs Times ne…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/6/2/could-russia-hit-northern-europe-if-it-gained-control-of-arctics-bear-gap)
+---
+
+## Article 12: Is the Taliban-Russia MoU good for Afghanistan?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.7650`
+
+The recently signed agreement is unlikely to advance the country's long-term national interests. The Memorandum of Understanding (MoU) on security cooperation signed by the Taliban and Russia on May 27 has generated considerable discussion, despite the fact that its contents remain undisclosed. …
+
+[Read Original Article Here](https://www.aljazeera.com/opinions/2026/6/2/is-the-taliban-russia-mou-good-for-afghanistan)
+---
+
+## Article 13: GOP urges SCOTUS to reject 'war on American energy' they say would hit families' wallets
+**Source:** Fox News | **Sentiment Score:** `-0.7003`
+
+More than 70 House Republicans pushed the Supreme Court to reject Boulder County's lawsuit seeking to hold oil companies liable for climate damages. FIRST ON FOX: More than 70 lawmakers are lining up against a Colorado county's effort to hold major oil companies financially liable for alleged climate change damages.  The group of House Republica…
+
+[Read Original Article Here](https://www.foxnews.com/politics/gop-urges-scotus-reject-war-american-energy-say-would-hit-families-wallets)
+---
+
+## Article 14: Republicans chase breakthroughs in multiple state primary elections and more top headlines
 **Source:** Fox News | **Sentiment Score:** `0.8892`
 
 Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox. Good morning and welcome to Fox News morning newsletter, Fox News First. And here's what you need to know to start your day ... TOP 3 1. Republicans chase historic breakthroughs in multi-state prim…
@@ -13,7 +117,7 @@ Get all the stories you need-to-know from the most powerful name in news deliver
 [Read Original Article Here](https://www.foxnews.com/us/republicans-chase-breakthroughs-multiple-state-primary-elections-more-top-headlines)
 ---
 
-## Article 2: Every world leader who has visited China in 2026 in one chart
+## Article 15: Every world leader who has visited China in 2026 in one chart
 **Source:** Al Jazeera English | **Sentiment Score:** `0.1779`
 
 China has hosted 26 leaders from 23 countries this year, underscoring its growing diplomatic and economic influence. British Foreign Secretary Yvette Cooper is the latest senior official in a steady stream of world leaders visiting China this year. During her three-day trip this week, Cooper is expected to meet he…
@@ -21,7 +125,7 @@ China has hosted 26 leaders from 23 countries this year, underscoring its growin
 [Read Original Article Here](https://www.aljazeera.com/news/2026/6/2/every-world-leader-who-has-visited-china-in-2026-in-one-chart)
 ---
 
-## Article 3: LA business leader says crime, wildfire fallout fueling Pratt surge as voters seek change: 'People are angry'
+## Article 16: LA business leader says crime, wildfire fallout fueling Pratt surge as voters seek change: 'People are angry'
 **Source:** Fox News | **Sentiment Score:** `-0.8779`
 
 Business leader John Putnam says Spencer Pratt's LA mayoral surge reflects voter frustration over crime, wildfires, and the city's business climate. SANTA MONICA, CA A business leader and former city council candidate is reacting to Spencer Pratts surge in the Los Angeles mayoral race by pointing to crime, the recent wildfires, and the inhospitab…
@@ -29,7 +133,7 @@ Business leader John Putnam says Spencer Pratt's LA mayoral surge reflects voter
 [Read Original Article Here](https://www.foxnews.com/politics/la-business-leader-says-crime-wildfire-fallout-fueling-pratt-surge-voters-seek-change-people-angry)
 ---
 
-## Article 4: How does Iran’s leadership view the emerging deal with the US?
+## Article 17: How does Iran’s leadership view the emerging deal with the US?
 **Source:** Al Jazeera English | **Sentiment Score:** `0.4310`
 
 Iranian authorities reject capitulation, but there are subtle differences between various factions. Tehran, Iran Irans leadership has not closed the door on a potential deal with the United States, but more hawkish voices on both sides are pushing for demands that are making any understanding elusi…
@@ -37,7 +141,7 @@ Iranian authorities reject capitulation, but there are subtle differences betwee
 [Read Original Article Here](https://www.aljazeera.com/news/2026/6/2/how-does-irans-leadership-view-the-emerging-deal-with-the-us-2)
 ---
 
-## Article 5: Somalia needs a political settlement before it is too late
+## Article 18: Somalia needs a political settlement before it is too late
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.3430`
 
 Somalia is entering a dangerous moment without a path to elections or a political transition. Somalia is entering one of the most dangerous moments in its recent history without an agreed path towards elections or a political transition. United States and United Kingdom-led talks between the …
@@ -45,7 +149,7 @@ Somalia is entering a dangerous moment without a path to elections or a politica
 [Read Original Article Here](https://www.aljazeera.com/opinions/2026/6/2/somalia-needs-a-political-settlement-before-it-is-too-late)
 ---
 
-## Article 6: Republicans can win the midterms if they just stop underselling success
+## Article 19: Republicans can win the midterms if they just stop underselling success
 **Source:** Fox News | **Sentiment Score:** `0.8442`
 
 Republicans enter the 2026 midterms with a concrete record including the Working Families Tax Cut and the Big Beautiful Bill as key campaign assets. Republicans head into the 2026 midterms with a rare advantage: a concrete record of accomplishments to run on powered by President Donald Trumps second-term successes. Former Speaker of the House Ne…
@@ -53,115 +157,11 @@ Republicans enter the 2026 midterms with a concrete record including the Working
 [Read Original Article Here](https://www.foxnews.com/opinion/republicans-win-midterms-stop-underselling-success)
 ---
 
-## Article 7: From reality TV to city hall? Trump-backed Spencer Pratt soars in LA mayor race as Californians vote
+## Article 20: From reality TV to city hall? Trump-backed Spencer Pratt soars in LA mayor race as Californians vote
 **Source:** Fox News | **Sentiment Score:** `-0.2023`
 
 Voters in California and Iowa head to polls Tuesday in primary races that could break longtime Republican losing streaks in key governor contests. Republicans are aiming to break longtime losing streaks by taking first steps toward winning elections for governor and Los Angeles mayor as voters in Democrat-dominated California head to the polls …
 
 [Read Original Article Here](https://www.foxnews.com/politics/reality-tv-city-hall-trump-backed-spencer-pratt-soars-la-mayor-race-californians-vote)
----
-
-## Article 8: China opens its markets to African exports. Who benefits?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.8689`
-
-China's tariff-free access for many African products has renewed hopes of industrial growth. But trade remains uneven. Chinas tariff-free access for many African products has renewed hopes of industrial growth. But trade remains uneven.Beijing has recently removed tariffs on many imports from Africa for the next two …
-
-[Read Original Article Here](https://www.aljazeera.com/video/counting-the-cost/2026/6/2/china-opens-its-markets-to-african-exports-who-benefits)
----
-
-## Article 9: Senegal president names government, boycotted by ally-turned-rival
-**Source:** Al Jazeera English | **Sentiment Score:** `0.6597`
-
-Ousted PM says his party, which holds the parliamentary majority, will not participate in the new government. Senegals President Bassirou Diomaye Faye has announced a new government featuring several members and allies of a party led by sacked prime minister and estranged ally Ousmane Sonko, who has pledged …
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/6/2/senegal-president-names-government-boycotted-by-ally-turned-rival)
----
-
-## Article 10: RBI may have sold gold to save foreign reserves, BE report shows
-**Source:** Bloomberg | **Sentiment Score:** `-0.3612`
-
-The Reserve Bank of India likely sold about $12 billion in gold reserves and bought $7.5 billion in foreign-currency assets over two weeks ending May 22, according to BE’s senior economist Abhishek Gupta Indias central bank may have offloaded a portion of its gold holdings to shield its foreign-currency assets from the cascading fallout of the war in the Middle East, according to an analysis by Bloom…
-
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-06-02/rbi-may-have-sold-gold-to-save-foreign-reserves-be-report-shows)
----
-
-## Article 11: Trump makes late-night endorsements in six states ahead of Tuesday primaries, including California
-**Source:** Fox News | **Sentiment Score:** `0.0258`
-
-President Trump made late-night endorsements ahead of Tuesday primaries in six states, backing candidates for California and Iowa governor races. President Trump has issued a series of endorsements ahead of Tuesdays primary elections in California, Iowa, Montana, New Jersey, New Mexico and South Dakota, including in gubernatorial, congressiona…
-
-[Read Original Article Here](https://www.foxnews.com/us/trump-makes-late-night-endorsements-six-states-ahead-tuesday-primaries-including-california)
----
-
-## Article 12: Armenian PM rejects Russia’s demand for EU referendum as relations nosedive
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.5106`
-
-Russia is raising the pressure on Armenia as traditional ally looks to the West. Armenian Prime Minister Nikol Pashinyan has rejected a call from Moscow to hold an immediate referendum on leaving the Russian-led Eurasian Economic Union (EAEU) to join the European Union. The refu…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/6/1/armenian-pm-rejects-russias-demand-for-eu-referendum-as-relations-nosedive)
----
-
-## Article 13: Indian PM Modi meets Myanmar military gov’t leader in New Delhi
-**Source:** Al Jazeera English | **Sentiment Score:** `0.9178`
-
-Myanmar opposition groups criticise India for hosting Min Aung Hlaing, but India says engagement is best way forward. India says it will continue engaging with Myanmar after Prime Minister Narendra Modi spoke with Min Aung Hlaing, the leader of the countrys military government, in New Delhi. Indian Foreign Secretar…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/6/1/indian-pm-modi-meets-myanmar-military-govt-leader-in-new-delhi)
----
-
-## Article 14: Ukraine’s forcibly transferred children must not be a bargaining chip
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.8516`
-
-Russia must face more pressure to fulfil its legal obligations to return the Ukrainian children. It has been more than four years since Russia launched a full-scale invasion of Ukraine, expanding its occupation of Ukrainian lands, which started in 2014. In the chaos and violence of the first mon…
-
-[Read Original Article Here](https://www.aljazeera.com/opinions/2026/6/1/ukraines-forcibly-transferred-children-must-not-be-a-bargaining-chip)
----
-
-## Article 15: French navy, backed by the UK, intercepts Russian oil tanker
-**Source:** Al Jazeera English | **Sentiment Score:** `0.5574`
-
-According to France, the tanker, which had sailed from Murmansk, was trying to 'skirt international sanctions'. The French navy with support from the United Kingdom has intercepted an oil tanker suspected of being part of Russias sanctions-busting shadow fleet. French President Emmanuel Macron announced the i…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/6/1/french-navy-backed-by-the-uk-intercepts-russian-oil-tanker)
----
-
-## Article 16: Ethiopia holds elections with PM Abiy’s party expected to dominate
-**Source:** Al Jazeera English | **Sentiment Score:** `0.4781`
-
-Voting will not take place in northern Tigray region and some parts of the Amhara region amid insecurity. Ethiopians have begun voting in parliamentary and regional elections, with Prime Minister Abiy Ahmeds party projected to win by a landslide, despite significant unrest in much of the country. More t…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/6/1/ethiopia-holds-elections-with-pm-abiys-party-expected-to-dominate)
----
-
-## Article 17: Ex-US Fed Chair Powell warns against politicisation amid Trump’s attacks
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.6486`
-
-Jerome Powell says the US central bank is undergoing a 'stress test' like other institutions in the current era. Former US Federal Reserve Chair Jerome Powell has warned against the politicisation of monetary policy amid President Donald Trumps repeated attacks on the independence of the central bank. In a spe…
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/6/1/ex-us-fed-chair-powell-warns-against-politicisation-amid-trumps-attacks)
----
-
-## Article 18: Pro-Trump candidate to face Petro ally in Colombia presidential runoff election after surprising performance | CNN
-**Source:** CNN | **Sentiment Score:** `0.8126`
-
-In a surprisingly strong performance, right-wing outsider candidate Abelardo de la Espriella will face leftist candidate senator Iván Cepeda in a runoff to decide Colombia’s presidency, setting the stage for a battle over Colombia’s political future and the d… Sigue la cobertura en español In a surprisingly strong performance, right-wing outsider candidate Abelardo de la Espriella will face leftist candidate senator Iván Cepeda in a runoff to decide Colom…
-
-[Read Original Article Here](https://www.cnn.com/2026/05/31/americas/colombia-runoff-espriella-cepeda-latam-intl)
----
-
-## Article 19: As Ethiopia votes, its deepening human rights crisis must be addressed
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.7783`
-
-Continuing internal conflicts and deepening repression are casting a long shadow over the general election. Ethiopia will hold its seventh national election on June 1. The National Election Board of Ethiopia (NEBE) gave a green light for the vote to proceed despite continuing internal conflicts and human r…
-
-[Read Original Article Here](https://www.aljazeera.com/opinions/2026/5/31/as-ethiopia-votes-its-deepening-human-rights-crisis-must-be-addressed)
----
-
-## Article 20: Ethiopia’s election is about affirming national commitment to democracy
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.1558`
-
-A national vote alone can't address all challenges in the country, but it can be a step toward democratic consolidation. On June 1, more than 57 million Ethiopians are going to the polls in the countrys seventh national election since the adoption of the 1995 constitution. At a time when democratic systems across the w…
-
-[Read Original Article Here](https://www.aljazeera.com/opinions/2026/5/31/ethiopias-election-is-about-affirming-national-commitment-to-democracy-2)
 ---
 
