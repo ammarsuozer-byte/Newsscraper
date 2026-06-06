@@ -1,11 +1,115 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-06-05 | **Status:** Automated
+**Date:** 2026-06-06 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: Itamar Ben-Gvir: The face of Israel’s hard right — or the face of Israel?
+## Article 1: Farm country loves Trump. His policies are making life difficult for this ally.
+**Source:** Politico | **Sentiment Score:** `0.3182`
+
+The president is set to become the latest in a series of GOP luminaries to campaign for Rep. Derrick Van Orden. One big bet at the center of Rep. Derrick Van Orden's reelection campaign this week is that the best salesman for some of Donald Trump's painful economic policies is the president himself. Some 17,0…
+
+[Read Original Article Here](https://www.politico.com/news/2026/06/05/trump-campaign-vulnerable-house-republican-wisconsin-race-00950981)
+---
+
+## Article 2: US raises pressure on Cuba as it sanctions President Diaz-Canel
+**Source:** Al Jazeera English | **Sentiment Score:** `0.2263`
+
+Measures come as Cuba continues to experience food shortages and blackouts. The United States has imposed sanctions on Cuban President Miguel Diaz-Canel, the latest of numerous measures adopted against the communist-led island. The sanctions, revealed on Thursday on the US …
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/6/5/us-raises-pressure-on-cuba-as-it-sanctions-president-diaz-canel)
+---
+
+## Article 3: STEPHEN MOORE: This tariff is an expensive gift to China and our families will pay for it
+**Source:** Fox News | **Sentiment Score:** `0.8100`
+
+Tinplate steel tariffs have raised canned food prices by driving up can costs, with imports now at 70 percent as U.S. producers scale back production. Im a free trader, but I also understand that for competitiveness and strategic reasons, President Trumps trade tariffs are used as leverage to help make trade freer and fairer. Hes a master negotiato…
+
+[Read Original Article Here](https://www.foxnews.com/opinion/stephen-moore-tariff-expensive-gift-china-families-pay)
+---
+
+## Article 4: China’s Xi headed to North Korea in bid to shore up ties
+**Source:** Al Jazeera English | **Sentiment Score:** `0.4588`
+
+The Chinese leader’s visit on June 8-9, his first in seven years, comes as Pyongyang strengthens relations with Russia. Chinese President Xi Jinping will visit North Korea on June 8-9 following an invitation from Kim Jong Un, according to state broadcaster CCTV. The visit, announced on Friday, comes as Beijing seeks …
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/6/5/chinas-xi-headed-to-north-korea-in-bid-to-shore-up-ties)
+---
+
+## Article 5: 18 House Republicans defy Trump to pass Ukraine aid package headed for veto fight
+**Source:** Fox News | **Sentiment Score:** `0.5267`
+
+The Republican-led House passed a sweeping Ukraine security package with military aid and Russia sanctions, rebuking the White House, which vowed a veto. The Republican-led House on Thursday passed a sweeping security package providing new military aid to Ukraine and imposing sanctions on Russia, delivering a sharp rebuke to the Trump administration, …
+
+[Read Original Article Here](https://www.foxnews.com/politics/house-republicans-defy-trump-pass-ukraine-aid-package-headed-veto-fight)
+---
+
+## Article 6: AI boom: Demand for data centers drives innovation by energy, tech industries to produce new power sources
+**Source:** Fox News | **Sentiment Score:** `0.8020`
+
+Artificial intelligence (AI) is driving a surge in electricity demand, prompting companies to invest in energy technologies, grid infrastructure and innovative data centers. Energy experts acknowledge the need for additional power sources, and theyre turning to new technology and infrastructure to address the demand. "As an industry, we are investing approximately $1.1 …
+
+[Read Original Article Here](https://www.foxnews.com/shows/special-report/ai-boom-demand-data-centers-drives-innovation-energy-tech-industries-produce-new-power-sources)
+---
+
+## Article 7: Iowa GOP governor nominee recounts viral clash that put Obama on the spot at 2009 town hall
+**Source:** Fox News | **Sentiment Score:** `0.0000`
+
+Iowa GOP gubernatorial nominee Zach Lahn's 2009 question that stumped Obama on Obamacare's public option has gone viral after his primary victory. The Republican nominee for governor in Iowa pulled back the curtain for Fox News Digital on the time he went viral for stumping Barack Obama at a 2009 town hall centered on the then-president's names…
+
+[Read Original Article Here](https://www.foxnews.com/politics/iowa-gop-governor-nominee-recounts-viral-clash-put-obama-spot-2009-town-hall)
+---
+
+## Article 8: ‘Unpatriotic’: Trump decries Republicans who voted to constrain Iran war
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.2500`
+
+Trump takes aim at lawmakers after House passes war powers resolution; advocates call on Senate to advance the measure. United States President Donald Trump has condemned lawmakers, including members of his Republican Party, for voting in favour of a resolution to rein in his ability to wage war with Iran. The statem…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/6/4/unpatriotic-trump-decries-republicans-who-voted-to-constrain-iran-war)
+---
+
+## Article 9: Supreme Court turns toward explosive final month with president's priorities at stake...
+**Source:** CNN | **Sentiment Score:** `0.7003`
+
+The Supreme Court is facing an extraordinary showdown with Donald Trump as the justices scramble to finish more than two dozen opinions before the end of the month — with a president who will lash out if any decisions don’t go his way. Summary <ul><li>The Supreme Court is racing to decide 26 cases this month, many involving Trump administration priorities.</li><li>Rulings on presidential firing power, birthright citizenship and ma…
+
+[Read Original Article Here](https://www.cnn.com/2026/06/03/politics/supreme-court-explosive-final-month-birthright-cook-voting-tps)
+---
+
+## Article 10: Rights group sues South African government over US arms exports
+**Source:** Al Jazeera English | **Sentiment Score:** `0.1531`
+
+Case challenges permits approved by South Africa’s arms control body, citing compliance failures and oversight gaps. Johannesburg, South Africa  A South African human rights organisation has filed a court case against the South African government, seeking to suspend arms export permits to the United States, arguing…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/6/4/rights-group-sues-south-african-government-over-us-arms-exports)
+---
+
+## Article 11: EXCLUSIVE VIDEO: Dems face major defeat after party ‘missed the queue’ in top targeted district: candidate
+**Source:** Fox News | **Sentiment Score:** `0.4466`
+
+Republican Eric Flores says Democrats have missed the queue with Hispanic voters in Texas District 34, citing faith, family values, and cost of living. EXCLUSIVE: Republican candidate Eric Flores believes that, despite national headwinds, Democrats are heading for a major defeat in a critical South Texas swing district after he said the party has "m…
+
+[Read Original Article Here](https://www.foxnews.com/politics/exclusive-video-young-hispanic-running-congress-predicts-dem-downfall-missed-que-)
+---
+
+## Article 12: EXCLUSIVE VIDEO: Dems face major defeat after party ‘missed the cue’ in top targeted district: candidate
+**Source:** Fox News | **Sentiment Score:** `0.4466`
+
+Republican Eric Flores says Democrats have missed the cue with Hispanic voters in Texas District 34, citing faith, family values, and cost of living. EXCLUSIVE: Republican candidate Eric Flores believes that, despite national headwinds, Democrats are heading for a major defeat in a critical South Texas swing district after he said the party has "m…
+
+[Read Original Article Here](https://www.foxnews.com/politics/exclusive-video-dems-face-major-defeat-after-party-missed-cue-top-targeted-district-candidate)
+---
+
+## Article 13: First US screwworm case in 60 years: Should America be worried?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.1531`
+
+The US Department of Agriculture says New World screwworm has been detected in a Texas calf. The New World screwworm, a flesheating parasite which infects cattle and other warmblooded animals, has been found in a calf in Texas, the US Department of Agriculture announced on Wednesday. The sc…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/6/4/first-us-screwworm-case-in-60-years-should-america-be-worried)
+---
+
+## Article 14: Itamar Ben-Gvir: The face of Israel’s hard right — or the face of Israel?
 **Source:** Al Jazeera English | **Sentiment Score:** `0.1877`
 
 Despite internal criticism, analysts argue Ben-Gvir holds a mirror to much of Israeli society. In recent weeks, Israels National Security Minister Itamar Ben-Gvir has shown the world a version of modern Israel it had preferred not to see. From telling the press that he would not allow a Unite…
@@ -13,7 +117,7 @@ Despite internal criticism, analysts argue Ben-Gvir holds a mirror to much of Is
 [Read Original Article Here](https://www.aljazeera.com/news/2026/6/4/itamar-ben-gvir-the-face-of-israels-hard-right-or-the-face-of)
 ---
 
-## Article 2: US House votes to end Trump’s Iran war: Does it matter?
+## Article 15: US House votes to end Trump’s Iran war: Does it matter?
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.8338`
 
 Four Republicans join Democrats in rare rebuke of president. But Congress still far from able to stop further attacks. The United States House of Representatives has voted in favour of measures to halt President Donald Trumps war on Iran as the conflict drags into a fourth month and both sides remain at loggerheads i…
@@ -21,7 +125,7 @@ Four Republicans join Democrats in rare rebuke of president. But Congress still 
 [Read Original Article Here](https://www.aljazeera.com/news/2026/6/4/us-house-votes-to-end-trumps-iran-war-does-it-matter)
 ---
 
-## Article 3: Who is Khalilur Rahman, Bangladesh FM who beat Cyprus to UNGA presidency?
+## Article 16: Who is Khalilur Rahman, Bangladesh FM who beat Cyprus to UNGA presidency?
 **Source:** Al Jazeera English | **Sentiment Score:** `0.4215`
 
 Rahman, a career diplomat who held several portfolios at the global body, beats Cyprus’s Ambassador Andreas Kakouris. Bangladeshi Foreign Minister Khalilur Rahman has been elected as the 81st president of the 193-member United Nations General Assembly (UNGA). He will assume office when the UNGA session opens in Sept…
@@ -29,7 +133,7 @@ Rahman, a career diplomat who held several portfolios at the global body, beats 
 [Read Original Article Here](https://www.aljazeera.com/news/2026/6/4/who-is-khalilur-rahman-bangladesh-fm-who-beat-cyprus-to-unga-presidency)
 ---
 
-## Article 4: Indonesia’s rupiah falls to record low against US dollar
+## Article 17: Indonesia’s rupiah falls to record low against US dollar
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.7650`
 
 Currency plunge comes as energy shock from the Iran war casts a cloud over Southeast Asian economies. Indonesias rupiah has hit its weakest level ever against the US dollar, breaching the psychological 18,000 threshold amid surging energy costs. The currency hit 18,028 against the greenback on Thurs…
@@ -37,7 +141,7 @@ Currency plunge comes as energy shock from the Iran war casts a cloud over South
 [Read Original Article Here](https://www.aljazeera.com/economy/2026/6/4/indonesias-rupiah-falls-to-record-low-against-us-dollar)
 ---
 
-## Article 5: Rupee support measures likely to give RBI room to hold for now
+## Article 18: Rupee support measures likely to give RBI room to hold for now
 **Source:** Bloomberg | **Sentiment Score:** `0.8883`
 
 The cabinet is likely considering steps this week to make it more attractive for foreign investors to buy the nations bonds India is taking steps to bolster its currency without the need to hike interest rates, giving the central bank room to focus on supporting an economy hit by soaring oil prices. The cabinet is likely…
@@ -45,7 +149,7 @@ The cabinet is likely considering steps this week to make it more attractive for
 [Read Original Article Here](https://www.bloomberg.com/news/articles/2026-06-04/rupee-support-measures-likely-to-give-rbi-room-to-hold-for-now)
 ---
 
-## Article 6: A question looms over Iran diplomacy: Is Trump being straight with the American people?
+## Article 19: A question looms over Iran diplomacy: Is Trump being straight with the American people?
 **Source:** CNN | **Sentiment Score:** `-0.0516`
 
 President Donald Trump’s ability to shock and outrage Washington elites is a superpower when it comes to solidifying his political base. President Donald Trump keeps telling Americans that diplomacy with Iran is going well, a deal is close and "it will all work out well in the end." But then, he's been saying that for months. Behind…
@@ -53,115 +157,11 @@ President Donald Trump’s ability to shock and outrage Washington elites is a s
 [Read Original Article Here](https://www.cnn.com/2026/06/03/politics/trump-iran-war-peace-deal-analysis)
 ---
 
-## Article 7: House Republicans advance anti-fraud legislation with child care oversight bill clearing chamber | Fox News Video
+## Article 20: House Republicans advance anti-fraud legislation with child care oversight bill clearing chamber | Fox News Video
 **Source:** Fox News | **Sentiment Score:** `0.3818`
 
 Fox News chief congressional correspondent Chad Pergram has the latest on the anti-fraud bills reaching the House on 'Special Report'. ©2026 Fox News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes.
 
 [Read Original Article Here](https://www.foxnews.com/video/6397486968112)
----
-
-## Article 8: Son of 1993 WTC bombing victim calls NJ Democrat primary winner 'disappointing' over terror ties
-**Source:** Fox News | **Sentiment Score:** `-0.9493`
-
-Son of 1993 World Trade Center bombing victim says he is disappointed after Democrat Adam Hamawy, who has ties to the Blind Sheikh, won NJ primary. Michael Macko, the son of a man killed in the 1993 World Trade Center (WTC) bombing, said he is disappointed after anacquaintance of a convicted terrorist involved in his fathers death won a New Jers…
-
-[Read Original Article Here](https://www.foxnews.com/media/son-1993-wtc-bombing-victim-calls-nj-democrat-primary-winner-disappointing-over-terror-ties)
----
-
-## Article 9: Trump suffers rare House defeat as bipartisan vote moves to withdraw troops from Iran conflict
-**Source:** Fox News | **Sentiment Score:** `-0.9325`
-
-The House voted to curb Trump's war powers in Iran after Democrats and several Republicans bucked the president in a rare bipartisan rebuke of his policy. President Donald Trump suffered a rare defeat in the House of Representatives on Wednesday after Democrats joined by a handful of Republicans voted to sharply curb his war powers in Iran.  Lawmakers…
-
-[Read Original Article Here](https://www.foxnews.com/politics/trump-suffers-rare-house-defeat-bipartisan-vote-moves-withdraw-troops-from-iran-conflict)
----
-
-## Article 10: Reporter's Notebook: Rebels threaten to upend GOP agenda amid growing frustrations with Trump
-**Source:** Fox News | **Sentiment Score:** `-0.8687`
-
-Republican frustrations with President Trump over war, economy, and primaries create a disaffected caucus that could stymie GOP legislation. You always knew Lady Elaine Fairchilde would sow chaos on Mr. Rogers Neighborhood when she uttered the incantation "boomerang-toomerang-soomerang!" Lady Elaine was the mischievous puppet on the show…
-
-[Read Original Article Here](https://www.foxnews.com/politics/reporters-notebook-rebels-threaten-upend-gop-agenda-amid-growing-frustrations-trump)
----
-
-## Article 11: The many lies Trump told the New York Post | CNN Politics
-**Source:** CNN | **Sentiment Score:** `0.0000`
-
-Another softball interview. Another series of obvious lies from the president. Summary <ul><li>President Donald Trump made false claims during a New York Post interview released Wednesday.</li><li>Trump falsely claimed the United States is the only country with mail-in ballots…
-
-[Read Original Article Here](https://www.cnn.com/2026/06/03/politics/new-york-post-trump-fact-check)
----
-
-## Article 12: Trump expands Cuba sanctions beyond US companies in major crackdown on foreign enablers
-**Source:** Fox News | **Sentiment Score:** `0.6115`
-
-Trump administration rolls out unprecedented secondary sanctions on Cuba targeting foreign firms doing business with military-linked conglomerate GAESA. The Trump administration is rolling out what experts describe as the most significant expansion of U.S. sanctions on Cuba in decades. The administration is attempting what supporters say is the firs…
-
-[Read Original Article Here](https://www.foxnews.com/world/trump-expands-cuba-sanctions-beyond-us-companies-major-crackdown-foreign-enablers)
----
-
-## Article 13: Iran faces a new energy imbalance, but its options are limited
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.6486`
-
-Iran’s government weighs limited energy control options in a strained economy, with the war impacting production. Tehran, Iran Iran is facing more energy constraints as its summer season begins, with the widespread use of air conditioning and other needs during hotter months contributing to an imbalance between …
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/6/3/iran-faces-a-new-energy-imbalance-but-its-options-are-limited)
----
-
-## Article 14: Lula says Brazil cannot ‘accept treatment’ after new US tariffs proposed
-**Source:** Al Jazeera English | **Sentiment Score:** `0.6504`
-
-Brazil's president says he was surprised by the proposed 25 percent tariffs, which came amid signs relations improving. Brazilian President Luiz Inacio Lula da Silva has decried newly proposed United States tariffs, saying he could not accept the treatment his country had received. The rebuke on Wednesday came a day …
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/6/3/lula-says-brazil-cannot-accept-treatment-after-new-us-tariffs-proposed)
----
-
-## Article 15: US cites forced labour concerns as grounds for new tariffs
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.7717`
-
-USTR's proposal comes from a Section 301 unfair trade practices investigation designed to help rebuild Trump's tariffs. The administration of US President Donald Trump has proposed new tariffs of up to 12.5 percent on imports from 60 economies after determining they had failed to curb trade in goods made with forced l…
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/6/3/us-cites-forced-labour-concerns-as-grounds-for-new-tariffs)
----
-
-## Article 16: What is the St Petersburg forum, Putin’s economic outreach to the world?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.1531`
-
-A Ukrainian drone strike targeted energy facilities near St Petersburg hours before the forum began. Some 20,000 guests from more than 130 countries are expected to attend the three-day St Petersburg International Economic Forum (SPIEF), an annual gathering often described as the Russian Davos. Thi…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/6/3/what-is-the-st-petersburg-forum-putins-economic-outreach-to-the-world)
----
-
-## Article 17: DAVID MARCUS: The age of the Democratic Party blocking fringe outsiders is officially over
-**Source:** Fox News | **Sentiment Score:** `0.7964`
-
-Democratic Party leadership loses control as socialist candidates like Graham Platner and Adam Hamawy win primaries, signaling a major leftward shift. There were two events on Tuesday that offered more proof of a national Democratic Party establishment that has lost control: One was a meeting, one an election, and both are harbingers of real danger…
-
-[Read Original Article Here](https://www.foxnews.com/opinion/david-marcus-age-democratic-party-blocking-fringe-outsiders-officially)
----
-
-## Article 18: Does UK’s new far-right party, Restore, pose a threat to Farage’s Reform?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.8070`
-
-Restore Britain’s manifesto has pledged to implement the 'most ambitious programme of mass deportations'. When Nigel Farage, leader of the far-right, anti-immigration party Reform UK, addressed the nation while bizarrely standing in a field this week, he was a man on a mission. It is time to respond wit…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/6/3/does-uks-new-far-right-party-restore-pose-a-threat-to-farages-reform)
----
-
-## Article 19: UK-China ‘ice age’ thaws: Why the West needs Beijing
-**Source:** Al Jazeera English | **Sentiment Score:** `0.0000`
-
-British Foreign Secretary Yvette Cooper hails ‘candour and respect’ in new ties with Beijing, despite differences. Eight years after a British prime minister and foreign secretary made back-to-back visits to China, the Keir Starmer government is once again trying to reset relations with Beijing after a long perio…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/6/3/uk-china-ice-age-thaws-why-the-west-needs-beijing)
----
-
-## Article 20: Democrat and Republican go head-to-head in California governor race
-**Source:** Al Jazeera English | **Sentiment Score:** `0.0000`
-
-California could have its first Republican governor since Arnold Schwarzenegger ended his two terms in 2011. Republican television commentator Steve Hilton and Democratic former cabinet secretary Xavier Becerra have taken an early lead in the primary race for California governor. On Tuesday, they emerged a…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/6/3/democrat-and-republican-go-head-to-head-in-california-governor-race)
 ---
 
