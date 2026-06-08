@@ -1,11 +1,67 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-06-07 | **Status:** Automated
+**Date:** 2026-06-08 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: US intercepts Iranian attacks as Israel continues to bomb Lebanon
+## Article 1: NATO's eastern flank races to rearm as Trump pressure exposes Western Europe's defense gap
+**Source:** Fox News | **Sentiment Score:** `-0.4297`
+
+Eastern European NATO allies closest to Russia are spending the most on defense, while Western Europe faces pressure to meet the alliance's 5% GDP goal. This is part six of a series examining the challenges confronting the NATO alliance . As President Donald Trump presses NATO allies to shoulder more of Europe's defense burden, countries closest to…
+
+[Read Original Article Here](https://www.foxnews.com/world/natos-eastern-flank-races-rearm-trump-pressure-exposes-western-europes-defense-gap)
+---
+
+## Article 2: Pro-US conservative faces leftist in Peru's high-stakes presidential runoff
+**Source:** Fox News | **Sentiment Score:** `0.0000`
+
+Keiko Fujimori and Roberto Sánchez face off in Peru's pivotal presidential runoff, a race that could determine the country's alignment with Washington or a leftward shift. Peruvians head to the polls in a pivotal presidential runoff June 7 in an election that could reshape not only the countrys future but also the balance of power across Latin America. Two candidates …
+
+[Read Original Article Here](https://www.foxnews.com/world/pro-us-conservative-faces-leftist-perus-high-stakes-presidential-runoff)
+---
+
+## Article 3: Kosovo votes again amid political deadlock, seeking EU and NATO progress
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.6597`
+
+Deadlock hampers Kosovo’s EU ambitions as voters head to polls amid economic struggles and political discord. Voters in Kosovo headed to the polls for an early parliamentary election, the third in 18 months, in an attempt to unlock a political impasse in the small Balkan nation that is striving to join the E…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/6/7/kosovo-votes-again-amid-political-deadlock-seeking-eu-and-nato-progress)
+---
+
+## Article 4: How have countries around the world responded to the US-Israel war on Iran?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.9493`
+
+The war, which has entered its 100th day, has triggered global energy crisis, drawing concerns from world leaders. Sunday marks 100 days since the United States and Israel launched war on Iran a conflict that has triggered a global energy crisis and darkened the global economic outlook. The war, which Iran has c…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/6/7/how-have-countries-around-the-world-responded-to-the-us-israel-war-on-iran)
+---
+
+## Article 5: The accomplishments of 100 days of war on Iran are undeniable
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.7351`
+
+The US has not just decimated Iran's nuclear programme and military, it has also degraded the power of its regime. Let us be clear about what happened on February 28. The United States, in concert with Israel, went to war with Iran. It was not the proxy war of attrition that Washington had tolerated for four deca…
+
+[Read Original Article Here](https://www.aljazeera.com/opinions/2026/6/7/the-accomplishments-of-100-days-of-war-on-iran-are-undeniable)
+---
+
+## Article 6: Pakistan’s Naqvi visits Iran with ‘special letter’ for supreme leader
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.0258`
+
+Mediator Pakistan ramps up diplomatic efforts to end US-Iran war as Gulf countries warn of escalation. Pakistans Interior Minister Mohsin Naqvi has travelled to Iran to deliver a special letter to Irans Supreme Leader Mojtaba Khamenei as part of diplomatic efforts to end the United States-Israeli war …
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/6/7/pakistans-naqvi-visits-iran-with-special-letter-for-supreme-leader)
+---
+
+## Article 7: By the numbers: 100 days of the US-Israel war on Iran
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.9004`
+
+From the human cost to the economy, Al Jazeera visualises how the US-Israel war on Iran has unfolded since February 28. Sunday marks 100 days into a war that US President Donald Trump said was going to finish very fast. Despite a ceasefire agreed on April 8, the Strait of Hormuz remains largely closed, sporadic fire …
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/6/7/by-the-numbers-100-days-of-the-us-israel-war-on-iran)
+---
+
+## Article 8: US intercepts Iranian attacks as Israel continues to bomb Lebanon
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.0772`
 
 US Central Command said seven ballistic missiles were fired towards Kuwait and Bahrain. The United States has announced that it has intercepted multiple Iranian ballistic missiles and drones that were launched towards the Strait of Hormuz and the Gulf as negotiations between the two sid…
@@ -13,7 +69,7 @@ US Central Command said seven ballistic missiles were fired towards Kuwait and B
 [Read Original Article Here](https://www.aljazeera.com/news/2026/6/6/us-intercepts-iranian-attacks-as-israel-continues-to-bomb-lebanon)
 ---
 
-## Article 2: Trump makes pitch to farmers hard-hit by tariffs, high prices in Wisconsin
+## Article 9: Trump makes pitch to farmers hard-hit by tariffs, high prices in Wisconsin
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.4767`
 
 Trump seeks to shore up support among rural voters hard-hit by tariffs, economic fallout of war with Iran. United States President Donald Trump has sought to reassure farmers hard-hit by tariffs and the economic fallout of the US-Israeli war with Iran during a visit to Wisconsin. The stop in Chippewa Fal…
@@ -21,7 +77,7 @@ Trump seeks to shore up support among rural voters hard-hit by tariffs, economic
 [Read Original Article Here](https://www.aljazeera.com/news/2026/6/5/trump-makes-pitch-to-farmers-hard-hit-by-tariffs-high-prices-in-wisconsin)
 ---
 
-## Article 3: Reporter's Notebook: GOP bets on fraud crackdown as economic woes surge ahead of midterms
+## Article 10: Reporter's Notebook: GOP bets on fraud crackdown as economic woes surge ahead of midterms
 **Source:** Fox News | **Sentiment Score:** `0.6946`
 
 House Republicans push anti-fraud bills as a midterm campaign strategy, but only pass one of three measures this week amid Democratic opposition. The GOPs campaign message about a porous border resonated with voters in 2024. Voters routinely listed border security as the first or second most important issue to them in multiple polls ahead of t…
@@ -29,7 +85,7 @@ House Republicans push anti-fraud bills as a midterm campaign strategy, but only
 [Read Original Article Here](https://www.foxnews.com/politics/reporters-notebook-gop-bets-fraud-crackdown-economic-woes-surge-ahead-midterms)
 ---
 
-## Article 4: Russia’s Putin says ‘no point’ meeting Ukraine’s Zelenskyy for now
+## Article 11: Russia’s Putin says ‘no point’ meeting Ukraine’s Zelenskyy for now
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.5267`
 
 The Russian leader insisted military action would only stop after Moscow achieves its 'goals'. Russias President Vladimir Putin has turned down an offer for in-person talks with his Ukrainian counterpart Volodymyr Zelenskyy, saying he sees no point in such a meeting for now. Putin delivered t…
@@ -37,7 +93,7 @@ The Russian leader insisted military action would only stop after Moscow achieve
 [Read Original Article Here](https://www.aljazeera.com/news/2026/6/5/russias-putin-says-no-point-meeting-ukraines-zelenskyy-for-now)
 ---
 
-## Article 5: Nasdaq, S&P 500 suffer worst day of year as AI stocks tumble and Fed rate-hike odds rise | CNN Business
+## Article 12: Nasdaq, S&P 500 suffer worst day of year as AI stocks tumble and Fed rate-hike odds rise | CNN Business
 **Source:** CNN | **Sentiment Score:** `-0.1531`
 
 Investors sold stocks, bonds, bitcoin and gold Friday after strong jobs data raised odds for Federal Reserve interest rate hikes, and Wall Street wrestled with weakness in AI stocks. Summary <ul><li>The Nasdaq fell more than 4% in its worst day since April 2025 as AI and semiconductor stocks tumbled sharply.</li><li>Strong jobs data raised concerns that the Federal Reserve may p…
@@ -45,7 +101,7 @@ Investors sold stocks, bonds, bitcoin and gold Friday after strong jobs data rai
 [Read Original Article Here](https://www.cnn.com/2026/06/05/markets/stock-market-sell-off-fed)
 ---
 
-## Article 6: Somalia declares order restored after two days of fighting in Mogadishu
+## Article 13: Somalia declares order restored after two days of fighting in Mogadishu
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.9001`
 
 Violence that paralysed two Mogadishu districts subsides, but opposition rejects president's rule and vows to fight on. Mogadishu, Somalia Fighting between government forces and opposition fighters that paralysed parts of Somalias capital, Mogadishu, for more than two days has eased, with the federal government declar…
@@ -53,7 +109,7 @@ Violence that paralysed two Mogadishu districts subsides, but opposition rejects
 [Read Original Article Here](https://www.aljazeera.com/news/2026/6/5/somalia-declares-order-restored-after-two-days-of-fighting-in-mogadishu)
 ---
 
-## Article 7: ‘Red meat is a dream’: Iran inflation hits highest level since World War II
+## Article 14: ‘Red meat is a dream’: Iran inflation hits highest level since World War II
 **Source:** Al Jazeera English | **Sentiment Score:** `0.0772`
 
 The war with the US is not the only factor driving prices skywards. Tehran, Iran In the popular Bastan market in the west of the Iranian capital, where the inviting smell of fresh bread and fruit mingle with the sight of colourful fabrics and clothing, the scene no l…
@@ -61,7 +117,7 @@ The war with the US is not the only factor driving prices skywards. Tehran, Iran
 [Read Original Article Here](https://www.aljazeera.com/news/2026/6/5/red-meat-is-a-dream-iran-inflation-hits-highest-level-since-world-war-ii)
 ---
 
-## Article 8: Jobs in Hospitality and Healthcare Propelled Hiring in May
+## Article 15: Jobs in Hospitality and Healthcare Propelled Hiring in May
 **Source:** The Wall Street Journal | **Sentiment Score:** `0.5908`
 
 Hiring beat expectations with 172,000 new jobs. The unemployment rate held steady at 4.3%. The U.S. labor market has climbed out of a rut. The country added more jobs than expected in May, posting strong payroll gains for the third month in a row. Despite uncertainties around the Iran war…
@@ -69,7 +125,7 @@ Hiring beat expectations with 172,000 new jobs. The unemployment rate held stead
 [Read Original Article Here](https://www.wsj.com/economy/consumers/may-jobs-report-unemployment-fde062e1)
 ---
 
-## Article 9: Republicans face ticking midterm clock as Iran fallout keeps pressure on gas prices
+## Article 16: Republicans face ticking midterm clock as Iran fallout keeps pressure on gas prices
 **Source:** Fox News | **Sentiment Score:** `-0.6597`
 
 GOP strategists say Trump must resolve the Iran conflict soon as gas prices surge 35% and households face $750 in added costs before midterms. As the Trump administration weighs diplomacy and military pressure against Iran, a political clock is ticking at home. Even if the Strait of Hormuz the global oil choke point largely shuttered since…
@@ -77,7 +133,7 @@ GOP strategists say Trump must resolve the Iran conflict soon as gas prices surg
 [Read Original Article Here](https://www.foxnews.com/politics/republicans-face-ticking-midterm-clock-iran-fallout-keeps-pressure-gas-prices)
 ---
 
-## Article 10: Farm country loves Trump. His policies are making life difficult for this ally.
+## Article 17: Farm country loves Trump. His policies are making life difficult for this ally.
 **Source:** Politico | **Sentiment Score:** `0.3182`
 
 The president is set to become the latest in a series of GOP luminaries to campaign for Rep. Derrick Van Orden. One big bet at the center of Rep. Derrick Van Orden's reelection campaign this week is that the best salesman for some of Donald Trump's painful economic policies is the president himself. Some 17,0…
@@ -85,7 +141,7 @@ The president is set to become the latest in a series of GOP luminaries to campa
 [Read Original Article Here](https://www.politico.com/news/2026/06/05/trump-campaign-vulnerable-house-republican-wisconsin-race-00950981)
 ---
 
-## Article 11: US raises pressure on Cuba as it sanctions President Diaz-Canel
+## Article 18: US raises pressure on Cuba as it sanctions President Diaz-Canel
 **Source:** Al Jazeera English | **Sentiment Score:** `0.2263`
 
 Measures come as Cuba continues to experience food shortages and blackouts. The United States has imposed sanctions on Cuban President Miguel Diaz-Canel, the latest of numerous measures adopted against the communist-led island. The sanctions, revealed on Thursday on the US …
@@ -93,7 +149,7 @@ Measures come as Cuba continues to experience food shortages and blackouts. The 
 [Read Original Article Here](https://www.aljazeera.com/news/2026/6/5/us-raises-pressure-on-cuba-as-it-sanctions-president-diaz-canel)
 ---
 
-## Article 12: STEPHEN MOORE: This tariff is an expensive gift to China and our families will pay for it
+## Article 19: STEPHEN MOORE: This tariff is an expensive gift to China and our families will pay for it
 **Source:** Fox News | **Sentiment Score:** `0.8100`
 
 Tinplate steel tariffs have raised canned food prices by driving up can costs, with imports now at 70 percent as U.S. producers scale back production. Im a free trader, but I also understand that for competitiveness and strategic reasons, President Trumps trade tariffs are used as leverage to help make trade freer and fairer. Hes a master negotiato…
@@ -101,67 +157,11 @@ Tinplate steel tariffs have raised canned food prices by driving up can costs, w
 [Read Original Article Here](https://www.foxnews.com/opinion/stephen-moore-tariff-expensive-gift-china-families-pay)
 ---
 
-## Article 13: China’s Xi headed to North Korea in bid to shore up ties
+## Article 20: China’s Xi headed to North Korea in bid to shore up ties
 **Source:** Al Jazeera English | **Sentiment Score:** `0.4588`
 
 The Chinese leader’s visit on June 8-9, his first in seven years, comes as Pyongyang strengthens relations with Russia. Chinese President Xi Jinping will visit North Korea on June 8-9 following an invitation from Kim Jong Un, according to state broadcaster CCTV. The visit, announced on Friday, comes as Beijing seeks …
 
 [Read Original Article Here](https://www.aljazeera.com/news/2026/6/5/chinas-xi-headed-to-north-korea-in-bid-to-shore-up-ties)
----
-
-## Article 14: 18 House Republicans defy Trump to pass Ukraine aid package headed for veto fight
-**Source:** Fox News | **Sentiment Score:** `0.5267`
-
-The Republican-led House passed a sweeping Ukraine security package with military aid and Russia sanctions, rebuking the White House, which vowed a veto. The Republican-led House on Thursday passed a sweeping security package providing new military aid to Ukraine and imposing sanctions on Russia, delivering a sharp rebuke to the Trump administration, …
-
-[Read Original Article Here](https://www.foxnews.com/politics/house-republicans-defy-trump-pass-ukraine-aid-package-headed-veto-fight)
----
-
-## Article 15: AI boom: Demand for data centers drives innovation by energy, tech industries to produce new power sources
-**Source:** Fox News | **Sentiment Score:** `0.8020`
-
-Artificial intelligence (AI) is driving a surge in electricity demand, prompting companies to invest in energy technologies, grid infrastructure and innovative data centers. Energy experts acknowledge the need for additional power sources, and theyre turning to new technology and infrastructure to address the demand. "As an industry, we are investing approximately $1.1 …
-
-[Read Original Article Here](https://www.foxnews.com/shows/special-report/ai-boom-demand-data-centers-drives-innovation-energy-tech-industries-produce-new-power-sources)
----
-
-## Article 16: Iowa GOP governor nominee recounts viral clash that put Obama on the spot at 2009 town hall
-**Source:** Fox News | **Sentiment Score:** `0.0000`
-
-Iowa GOP gubernatorial nominee Zach Lahn's 2009 question that stumped Obama on Obamacare's public option has gone viral after his primary victory. The Republican nominee for governor in Iowa pulled back the curtain for Fox News Digital on the time he went viral for stumping Barack Obama at a 2009 town hall centered on the then-president's names…
-
-[Read Original Article Here](https://www.foxnews.com/politics/iowa-gop-governor-nominee-recounts-viral-clash-put-obama-spot-2009-town-hall)
----
-
-## Article 17: ‘Unpatriotic’: Trump decries Republicans who voted to constrain Iran war
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.2500`
-
-Trump takes aim at lawmakers after House passes war powers resolution; advocates call on Senate to advance the measure. United States President Donald Trump has condemned lawmakers, including members of his Republican Party, for voting in favour of a resolution to rein in his ability to wage war with Iran. The statem…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/6/4/unpatriotic-trump-decries-republicans-who-voted-to-constrain-iran-war)
----
-
-## Article 18: Supreme Court turns toward explosive final month with president's priorities at stake...
-**Source:** CNN | **Sentiment Score:** `0.7003`
-
-The Supreme Court is facing an extraordinary showdown with Donald Trump as the justices scramble to finish more than two dozen opinions before the end of the month — with a president who will lash out if any decisions don’t go his way. Summary <ul><li>The Supreme Court is racing to decide 26 cases this month, many involving Trump administration priorities.</li><li>Rulings on presidential firing power, birthright citizenship and ma…
-
-[Read Original Article Here](https://www.cnn.com/2026/06/03/politics/supreme-court-explosive-final-month-birthright-cook-voting-tps)
----
-
-## Article 19: Rights group sues South African government over US arms exports
-**Source:** Al Jazeera English | **Sentiment Score:** `0.1531`
-
-Case challenges permits approved by South Africa’s arms control body, citing compliance failures and oversight gaps. Johannesburg, South Africa  A South African human rights organisation has filed a court case against the South African government, seeking to suspend arms export permits to the United States, arguing…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/6/4/rights-group-sues-south-african-government-over-us-arms-exports)
----
-
-## Article 20: EXCLUSIVE VIDEO: Dems face major defeat after party ‘missed the queue’ in top targeted district: candidate
-**Source:** Fox News | **Sentiment Score:** `0.4466`
-
-Republican Eric Flores says Democrats have missed the queue with Hispanic voters in Texas District 34, citing faith, family values, and cost of living. EXCLUSIVE: Republican candidate Eric Flores believes that, despite national headwinds, Democrats are heading for a major defeat in a critical South Texas swing district after he said the party has "m…
-
-[Read Original Article Here](https://www.foxnews.com/politics/exclusive-video-young-hispanic-running-congress-predicts-dem-downfall-missed-que-)
 ---
 
