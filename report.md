@@ -1,11 +1,99 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-06-08 | **Status:** Automated
+**Date:** 2026-06-09 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: NATO's eastern flank races to rearm as Trump pressure exposes Western Europe's defense gap
+## Article 1: Bitcoin steadies after $60,000 breach as Saylor hints at buying
+**Source:** Bloomberg | **Sentiment Score:** `0.5574`
+
+The original cryptocurrency climbed as much as 3.8% to nearly $64,200 and was trading around $63,000 at 7 a.m. in London Bitcoin steadied in Monday trading after dropping below $60,000 late last week as Strategy Inc. Chairman Michael Saylor hinted at further purchases. The original cryptocurrency climbed as much as 3.…
+
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-06-08/bitcoin-steadies-after-60-000-breach-as-saylor-hints-at-buying)
+---
+
+## Article 2: Asia’s stock markets dive amid Iran-Israel conflict, Wall Street jitters
+**Source:** Al Jazeera English | **Sentiment Score:** `0.6369`
+
+South Korea’s main index plunges nearly 9 percent, while stocks in Japan, Taiwan and Hong Kong also see sharp falls. Asias major stock markets have dropped sharply amid the resumption of conflict between Israel and Iran and growing expectations of interest rate hikes in the United States. South Koreas stock market…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/6/8/asias-stock-markets-dive-amid-iran-israel-conflict-wall-street-jitters)
+---
+
+## Article 3: Goldman Sachs no longer expects Fed interest-rate cut this year
+**Source:** Bloomberg | **Sentiment Score:** `0.3182`
+
+The Goldman Sachs report followed the release of firm US job growth data for May that suggested a resilient labour market, fuelling expectations for a rate hike this year Goldman Sachs Group Inc. economists no longer expect the Federal Reserve to cut interest rates this year due to a stronger-than-expected labour market. The bank pushed back its forecast for the Feds…
+
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-06-07/goldman-sachs-no-longer-expects-fed-interest-rate-cut-this-year-mq44uu26)
+---
+
+## Article 4: How Mexican cartels turned South African farms into meth production hubs
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.5859`
+
+Raids on South African farms have uncovered meth labs linked to Mexican networks, signalling a new cartel phase. Johannesburg, South Africa In the quiet mining town of Swartruggens, a small courthouse is preparing to decide whether five Mexicans accused of a major illegal drug operation will be granted bail or …
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/6/8/how-mexican-cartels-turned-south-african-farms-into-meth-production-hubs)
+---
+
+## Article 5: Trump rips Obama's 'stupid' Iran deal, claims former president thought 'he could bribe them'
+**Source:** Fox News | **Sentiment Score:** `-0.8176`
+
+Trump tears into Obama's Iran nuclear deal during interview, calling it a "stupid deal" and defending his military strikes against Tehran with B-2 bombers. President Donald Trump tore into former President Barack Obama's Iran nuclear deal on Sunday, accusing him of empowering Tehran while defending his own military action against Iran. "Obama signed th…
+
+[Read Original Article Here](https://www.foxnews.com/media/trump-rips-obamas-stupid-iran-deal-claims-former-president-thought-he-could-bribe-them)
+---
+
+## Article 6: She was a first lady at 19. Now she’s making her fourth attempt to win Peru’s presidency
+**Source:** CNN | **Sentiment Score:** `0.0772`
+
+This Sunday, at the age of 51, the eldest daughter of Peru’s late former president will make her fourth attempt at winning the presidency in a runoff electio... Lee el artículo en español Keiko Fujimori was 19 years old when she made her international debut at a 1994 event as Peru's first lady. Dressed in black, the young woman appeared shy and nervous in …
+
+[Read Original Article Here](https://www.cnn.com/2026/06/07/americas/peru-president-election-keiko-fujimori-intl-latam)
+---
+
+## Article 7: Authenticity is what American voters want
+**Source:** Al Jazeera English | **Sentiment Score:** `0.4215`
+
+Results in US Democratic primary races are showing that old establishment politics no longer work. At first glance, Graham Platner and Adam Hamawy share little in common. Platner, an oyster farmer and a United States Marine Corps veteran, carries his burly, tattooed frame with a gruff and outspoke…
+
+[Read Original Article Here](https://www.aljazeera.com/opinions/2026/6/7/authenticity-is-what-american-voters-want)
+---
+
+## Article 8: Peru polls open in Keiko Fujimori, Roberto Sanchez presidential runoff
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.8555`
+
+Race between right-wing Fujimori, leftwing Sanchez follows first round of voting marred by logistical issues. Polls have opened in Perus presidential run-off, culminating an election season marred by confusion and protest. Issues of crime, corruption and voter disillusionment following years of political tu…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/6/7/peru-polls-open-in-keiko-fujimori-roberto-sanchez-presidential-runoff)
+---
+
+## Article 9: Missiles and negotiations: Iran 100 days into the war with US and Israel
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.8360`
+
+Talks and attacks have continued for months, and could last much longer without a breakthrough. Tehran, Iran Iranian authorities remain defiant 100 days into the war launched by the United States and Israel as no lasting resolution appears in sight, and civilians bear the brunt of a conflict th…
+
+[Read Original Article Here](https://www.aljazeera.com/features/2026/6/7/missiles-and-negotiations-iran-100-days-into-the-war-with-us-and-israel)
+---
+
+## Article 10: 100 days into Iran war, Americans face higher prices
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.8225`
+
+On average, US households have spent $750 more in expenses due to the war, hitting middle and lower-income people hard. A hundred days into the US-Israel war on Iran, Americans are facing increasing financial pressure at the pump and at the grocery store in an economy already facing headwinds from United States Presid…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/6/7/100-days-into-iran-war-americans-face-higher-prices)
+---
+
+## Article 11: Chris Robinson, Bruce Springsteen face backlash as 'Americans have had enough' of being lectured: expert
+**Source:** Fox News | **Sentiment Score:** `-0.1027`
+
+PR experts say the backlash against Chris Robinson and Bruce Springsteen reflects growing fan fatigue with political lectures at live concerts. The Black Crowes' frontman Chris Robinson and rock icon Bruce Springsteen recently faced backlash over their political comments, which PR experts say reflect a growing frustration among Americans who…
+
+[Read Original Article Here](https://www.foxnews.com/entertainment/chris-robinson-bruce-springsteen-face-backlash-americans-have-had-enough-being-lectured-expert)
+---
+
+## Article 12: NATO's eastern flank races to rearm as Trump pressure exposes Western Europe's defense gap
 **Source:** Fox News | **Sentiment Score:** `-0.4297`
 
 Eastern European NATO allies closest to Russia are spending the most on defense, while Western Europe faces pressure to meet the alliance's 5% GDP goal. This is part six of a series examining the challenges confronting the NATO alliance . As President Donald Trump presses NATO allies to shoulder more of Europe's defense burden, countries closest to…
@@ -13,7 +101,7 @@ Eastern European NATO allies closest to Russia are spending the most on defense,
 [Read Original Article Here](https://www.foxnews.com/world/natos-eastern-flank-races-rearm-trump-pressure-exposes-western-europes-defense-gap)
 ---
 
-## Article 2: Pro-US conservative faces leftist in Peru's high-stakes presidential runoff
+## Article 13: Pro-US conservative faces leftist in Peru's high-stakes presidential runoff
 **Source:** Fox News | **Sentiment Score:** `0.0000`
 
 Keiko Fujimori and Roberto Sánchez face off in Peru's pivotal presidential runoff, a race that could determine the country's alignment with Washington or a leftward shift. Peruvians head to the polls in a pivotal presidential runoff June 7 in an election that could reshape not only the countrys future but also the balance of power across Latin America. Two candidates …
@@ -21,7 +109,7 @@ Keiko Fujimori and Roberto Sánchez face off in Peru's pivotal presidential runo
 [Read Original Article Here](https://www.foxnews.com/world/pro-us-conservative-faces-leftist-perus-high-stakes-presidential-runoff)
 ---
 
-## Article 3: Kosovo votes again amid political deadlock, seeking EU and NATO progress
+## Article 14: Kosovo votes again amid political deadlock, seeking EU and NATO progress
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.6597`
 
 Deadlock hampers Kosovo’s EU ambitions as voters head to polls amid economic struggles and political discord. Voters in Kosovo headed to the polls for an early parliamentary election, the third in 18 months, in an attempt to unlock a political impasse in the small Balkan nation that is striving to join the E…
@@ -29,7 +117,7 @@ Deadlock hampers Kosovo’s EU ambitions as voters head to polls amid economic s
 [Read Original Article Here](https://www.aljazeera.com/news/2026/6/7/kosovo-votes-again-amid-political-deadlock-seeking-eu-and-nato-progress)
 ---
 
-## Article 4: How have countries around the world responded to the US-Israel war on Iran?
+## Article 15: How have countries around the world responded to the US-Israel war on Iran?
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.9493`
 
 The war, which has entered its 100th day, has triggered global energy crisis, drawing concerns from world leaders. Sunday marks 100 days since the United States and Israel launched war on Iran a conflict that has triggered a global energy crisis and darkened the global economic outlook. The war, which Iran has c…
@@ -37,7 +125,7 @@ The war, which has entered its 100th day, has triggered global energy crisis, dr
 [Read Original Article Here](https://www.aljazeera.com/news/2026/6/7/how-have-countries-around-the-world-responded-to-the-us-israel-war-on-iran)
 ---
 
-## Article 5: The accomplishments of 100 days of war on Iran are undeniable
+## Article 16: The accomplishments of 100 days of war on Iran are undeniable
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.7351`
 
 The US has not just decimated Iran's nuclear programme and military, it has also degraded the power of its regime. Let us be clear about what happened on February 28. The United States, in concert with Israel, went to war with Iran. It was not the proxy war of attrition that Washington had tolerated for four deca…
@@ -45,7 +133,7 @@ The US has not just decimated Iran's nuclear programme and military, it has also
 [Read Original Article Here](https://www.aljazeera.com/opinions/2026/6/7/the-accomplishments-of-100-days-of-war-on-iran-are-undeniable)
 ---
 
-## Article 6: Pakistan’s Naqvi visits Iran with ‘special letter’ for supreme leader
+## Article 17: Pakistan’s Naqvi visits Iran with ‘special letter’ for supreme leader
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.0258`
 
 Mediator Pakistan ramps up diplomatic efforts to end US-Iran war as Gulf countries warn of escalation. Pakistans Interior Minister Mohsin Naqvi has travelled to Iran to deliver a special letter to Irans Supreme Leader Mojtaba Khamenei as part of diplomatic efforts to end the United States-Israeli war …
@@ -53,7 +141,7 @@ Mediator Pakistan ramps up diplomatic efforts to end US-Iran war as Gulf countri
 [Read Original Article Here](https://www.aljazeera.com/news/2026/6/7/pakistans-naqvi-visits-iran-with-special-letter-for-supreme-leader)
 ---
 
-## Article 7: By the numbers: 100 days of the US-Israel war on Iran
+## Article 18: By the numbers: 100 days of the US-Israel war on Iran
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.9004`
 
 From the human cost to the economy, Al Jazeera visualises how the US-Israel war on Iran has unfolded since February 28. Sunday marks 100 days into a war that US President Donald Trump said was going to finish very fast. Despite a ceasefire agreed on April 8, the Strait of Hormuz remains largely closed, sporadic fire …
@@ -61,7 +149,7 @@ From the human cost to the economy, Al Jazeera visualises how the US-Israel war 
 [Read Original Article Here](https://www.aljazeera.com/news/2026/6/7/by-the-numbers-100-days-of-the-us-israel-war-on-iran)
 ---
 
-## Article 8: US intercepts Iranian attacks as Israel continues to bomb Lebanon
+## Article 19: US intercepts Iranian attacks as Israel continues to bomb Lebanon
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.0772`
 
 US Central Command said seven ballistic missiles were fired towards Kuwait and Bahrain. The United States has announced that it has intercepted multiple Iranian ballistic missiles and drones that were launched towards the Strait of Hormuz and the Gulf as negotiations between the two sid…
@@ -69,99 +157,11 @@ US Central Command said seven ballistic missiles were fired towards Kuwait and B
 [Read Original Article Here](https://www.aljazeera.com/news/2026/6/6/us-intercepts-iranian-attacks-as-israel-continues-to-bomb-lebanon)
 ---
 
-## Article 9: Trump makes pitch to farmers hard-hit by tariffs, high prices in Wisconsin
+## Article 20: Trump makes pitch to farmers hard-hit by tariffs, high prices in Wisconsin
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.4767`
 
 Trump seeks to shore up support among rural voters hard-hit by tariffs, economic fallout of war with Iran. United States President Donald Trump has sought to reassure farmers hard-hit by tariffs and the economic fallout of the US-Israeli war with Iran during a visit to Wisconsin. The stop in Chippewa Fal…
 
 [Read Original Article Here](https://www.aljazeera.com/news/2026/6/5/trump-makes-pitch-to-farmers-hard-hit-by-tariffs-high-prices-in-wisconsin)
----
-
-## Article 10: Reporter's Notebook: GOP bets on fraud crackdown as economic woes surge ahead of midterms
-**Source:** Fox News | **Sentiment Score:** `0.6946`
-
-House Republicans push anti-fraud bills as a midterm campaign strategy, but only pass one of three measures this week amid Democratic opposition. The GOPs campaign message about a porous border resonated with voters in 2024. Voters routinely listed border security as the first or second most important issue to them in multiple polls ahead of t…
-
-[Read Original Article Here](https://www.foxnews.com/politics/reporters-notebook-gop-bets-fraud-crackdown-economic-woes-surge-ahead-midterms)
----
-
-## Article 11: Russia’s Putin says ‘no point’ meeting Ukraine’s Zelenskyy for now
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.5267`
-
-The Russian leader insisted military action would only stop after Moscow achieves its 'goals'. Russias President Vladimir Putin has turned down an offer for in-person talks with his Ukrainian counterpart Volodymyr Zelenskyy, saying he sees no point in such a meeting for now. Putin delivered t…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/6/5/russias-putin-says-no-point-meeting-ukraines-zelenskyy-for-now)
----
-
-## Article 12: Nasdaq, S&P 500 suffer worst day of year as AI stocks tumble and Fed rate-hike odds rise | CNN Business
-**Source:** CNN | **Sentiment Score:** `-0.1531`
-
-Investors sold stocks, bonds, bitcoin and gold Friday after strong jobs data raised odds for Federal Reserve interest rate hikes, and Wall Street wrestled with weakness in AI stocks. Summary <ul><li>The Nasdaq fell more than 4% in its worst day since April 2025 as AI and semiconductor stocks tumbled sharply.</li><li>Strong jobs data raised concerns that the Federal Reserve may p…
-
-[Read Original Article Here](https://www.cnn.com/2026/06/05/markets/stock-market-sell-off-fed)
----
-
-## Article 13: Somalia declares order restored after two days of fighting in Mogadishu
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.9001`
-
-Violence that paralysed two Mogadishu districts subsides, but opposition rejects president's rule and vows to fight on. Mogadishu, Somalia Fighting between government forces and opposition fighters that paralysed parts of Somalias capital, Mogadishu, for more than two days has eased, with the federal government declar…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/6/5/somalia-declares-order-restored-after-two-days-of-fighting-in-mogadishu)
----
-
-## Article 14: ‘Red meat is a dream’: Iran inflation hits highest level since World War II
-**Source:** Al Jazeera English | **Sentiment Score:** `0.0772`
-
-The war with the US is not the only factor driving prices skywards. Tehran, Iran In the popular Bastan market in the west of the Iranian capital, where the inviting smell of fresh bread and fruit mingle with the sight of colourful fabrics and clothing, the scene no l…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/6/5/red-meat-is-a-dream-iran-inflation-hits-highest-level-since-world-war-ii)
----
-
-## Article 15: Jobs in Hospitality and Healthcare Propelled Hiring in May
-**Source:** The Wall Street Journal | **Sentiment Score:** `0.5908`
-
-Hiring beat expectations with 172,000 new jobs. The unemployment rate held steady at 4.3%. The U.S. labor market has climbed out of a rut. The country added more jobs than expected in May, posting strong payroll gains for the third month in a row. Despite uncertainties around the Iran war…
-
-[Read Original Article Here](https://www.wsj.com/economy/consumers/may-jobs-report-unemployment-fde062e1)
----
-
-## Article 16: Republicans face ticking midterm clock as Iran fallout keeps pressure on gas prices
-**Source:** Fox News | **Sentiment Score:** `-0.6597`
-
-GOP strategists say Trump must resolve the Iran conflict soon as gas prices surge 35% and households face $750 in added costs before midterms. As the Trump administration weighs diplomacy and military pressure against Iran, a political clock is ticking at home. Even if the Strait of Hormuz the global oil choke point largely shuttered since…
-
-[Read Original Article Here](https://www.foxnews.com/politics/republicans-face-ticking-midterm-clock-iran-fallout-keeps-pressure-gas-prices)
----
-
-## Article 17: Farm country loves Trump. His policies are making life difficult for this ally.
-**Source:** Politico | **Sentiment Score:** `0.3182`
-
-The president is set to become the latest in a series of GOP luminaries to campaign for Rep. Derrick Van Orden. One big bet at the center of Rep. Derrick Van Orden's reelection campaign this week is that the best salesman for some of Donald Trump's painful economic policies is the president himself. Some 17,0…
-
-[Read Original Article Here](https://www.politico.com/news/2026/06/05/trump-campaign-vulnerable-house-republican-wisconsin-race-00950981)
----
-
-## Article 18: US raises pressure on Cuba as it sanctions President Diaz-Canel
-**Source:** Al Jazeera English | **Sentiment Score:** `0.2263`
-
-Measures come as Cuba continues to experience food shortages and blackouts. The United States has imposed sanctions on Cuban President Miguel Diaz-Canel, the latest of numerous measures adopted against the communist-led island. The sanctions, revealed on Thursday on the US …
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/6/5/us-raises-pressure-on-cuba-as-it-sanctions-president-diaz-canel)
----
-
-## Article 19: STEPHEN MOORE: This tariff is an expensive gift to China and our families will pay for it
-**Source:** Fox News | **Sentiment Score:** `0.8100`
-
-Tinplate steel tariffs have raised canned food prices by driving up can costs, with imports now at 70 percent as U.S. producers scale back production. Im a free trader, but I also understand that for competitiveness and strategic reasons, President Trumps trade tariffs are used as leverage to help make trade freer and fairer. Hes a master negotiato…
-
-[Read Original Article Here](https://www.foxnews.com/opinion/stephen-moore-tariff-expensive-gift-china-families-pay)
----
-
-## Article 20: China’s Xi headed to North Korea in bid to shore up ties
-**Source:** Al Jazeera English | **Sentiment Score:** `0.4588`
-
-The Chinese leader’s visit on June 8-9, his first in seven years, comes as Pyongyang strengthens relations with Russia. Chinese President Xi Jinping will visit North Korea on June 8-9 following an invitation from Kim Jong Un, according to state broadcaster CCTV. The visit, announced on Friday, comes as Beijing seeks …
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/6/5/chinas-xi-headed-to-north-korea-in-bid-to-shore-up-ties)
 ---
 
