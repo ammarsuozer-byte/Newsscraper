@@ -1,11 +1,131 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-06-18 | **Status:** Automated
+**Date:** 2026-06-19 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: While Mexico defends ‘sovereignty,’ cartels import a flesh-eating parasite into Texas
+## Article 1: India treads cautiously as Trump seeks fresh start with Modi
+**Source:** Bloomberg | **Sentiment Score:** `0.9382`
+
+India was one of the first in line to begin negotiating a trade deal with the US when Trump returned to the White House last year, but still an agreement remains elusive US President Donald Trump showered Indian Prime Minister Narendra Modi with praise in their first in-person meeting in more than a year. He called Modi a long-time friend and described him as a shre…
+
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-06-18/india-treads-cautiously-as-trump-seeks-fresh-start-with-modi)
+---
+
+## Article 2: Trump’s firing power faces twin Supreme Court tests, but one agency may get special treatment
+**Source:** Fox News | **Sentiment Score:** `0.3291`
+
+Two Supreme Court cases could fire up a battle over Trump's authority to remove federal officials, potentially reshaping presidential power. Two high-stakes Supreme Court battles over President Donald Trump's authority to remove federal officials could reshape the balance of power in Washington, but legal experts say the justices may draw…
+
+[Read Original Article Here](https://www.foxnews.com/politics/trumps-firing-power-faces-twin-supreme-court-tests-one-agency-may-get-special-treatment)
+---
+
+## Article 3: Barack Obama confronts the work that remains for Democrats — and for him | CNN Politics
+**Source:** CNN | **Sentiment Score:** `0.0258`
+
+Former President Barack Obama on Thursday is getting what he wanted for so long: his words carved into stone, a monument to his presidency entering the Chicago skyline. Summary <ul><li>As Barack Obama opens his $850 million presidential center in Chicago, he remains a primary unifying figure in the Democratic Party even as some criticize his time in office.</li><li…
+
+[Read Original Article Here](https://www.cnn.com/2026/06/18/politics/inside-barack-obama-strategy-presidential-library)
+---
+
+## Article 4: Ukraine hits Moscow refinery as Zelenskyy seeks Trump support to end war
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.6597`
+
+Russia's oil refineries have been heavily targeted, damaging its energy facilities and the country’s fuel crisis. Ukrainian drones have hit a Moscow oil refinery for the second time this week while Russia fired missiles at Kyiv, as President Volodymyr Zelenskyy seeks support from the United States and Europe to …
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/6/18/ukraine-hits-moscow-refinery-as-zelenskyy-seeks-trump-support-to-end-war)
+---
+
+## Article 5: How Sweden’s far right went from political pariah to powerbroker
+**Source:** Al Jazeera English | **Sentiment Score:** `0.7964`
+
+Once shunned by every major party, the Sweden Democrats have gone from political pariah to the heart of government. There is an expression in Swedish, to be let into the warmth meaning to be welcomed into the fold. In a country shaped by long, dark winters, the image speaks for itself. A decade ago, the Sweden De…
+
+[Read Original Article Here](https://www.aljazeera.com/features/2026/6/18/how-swedens-far-right-went-from-political-pariah-to-powerbroker)
+---
+
+## Article 6: Who benefits from Zimbabwe’s lithium boom?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.4144`
+
+New projects and foreign-backed mines are reshaping Zimbabwe’s lithium sector, with uneven local gains. Harare, Zimbabwe Zimbabwes lithium industry is dominated by a handful of large-scale mining projects, most of them backed by Chinese investment. Major producers include Bikita Minerals in Masvingo Pr…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/6/18/who-benefits-from-zimbabwes-lithium-boom)
+---
+
+## Article 7: Diplomat confirms that US and Iran have signed MoU electronically
+**Source:** Al Jazeera English | **Sentiment Score:** `0.7184`
+
+Foreign Ministry spokesperson Esmaeil Baghaei says the agreement has been finalised and signed with the US. Irans Ministry of Foreign Affairs spokesperson, Esmaeil Baghaei, has announced that a memorandum of understanding with the United States has been finalised and signed electronically by both sides. H…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/6/17/iran-confirms-that-mou-has-been-signed-electronically-by-both-sides)
+---
+
+## Article 8: Vance rejects claims Trump-Iran deal echoes Obama-era logic as hawks raise alarm
+**Source:** Fox News | **Sentiment Score:** `0.0000`
+
+Vice President JD Vance rejects comparisons between Trump's emerging Iran deal and Obama's JCPoA, saying the carrot-and-stick positions are switched. Vice President JD Vance is pushing back on comparisons between the emerging Trump-Vance Iran pact and claims that the agreement, released Wednesday, bears too much resemblance to President Barack Oba…
+
+[Read Original Article Here](https://www.foxnews.com/politics/vance-rejects-claims-trump-iran-deal-uses-obama-era-logic-hawks-raise-alarm)
+---
+
+## Article 9: Fox News Poll: Most rate the economy negatively, including half of Republicans
+**Source:** Fox News | **Sentiment Score:** `-0.8175`
+
+Fox News poll finds only 12% of voters say they are getting ahead financially, with 59% feeling pessimistic about the economy ahead of midterms. Its less than five months until the midterm elections and voters are not happy with whats in their wallets. Only 12% say they are getting ahead financially, most think the economy is in bad shape, m…
+
+[Read Original Article Here](https://www.foxnews.com/politics/fox-news-poll-most-rate-economy-negatively-including-half-republicans)
+---
+
+## Article 10: Huawei CFO’s admissions can be used at criminal trial, US judge rules
+**Source:** Al Jazeera English | **Sentiment Score:** `0.2023`
+
+CFO Meng Wanzhou said in 2021 that Huawei illegally conducted business in Iran. A top Huawei executives admission that the Chinese telecom company illegally conducted business in Iran can be used in the upcoming US trial against Huawei, a US judge has ruled. The ruling was file…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/6/17/huawei-cfos-admissions-can-be-used-at-criminal-trial-us-judge-rules)
+---
+
+## Article 11: Massachusetts Senate candidates trade sharp attacks in fiery debate as incumbent Markey skips event
+**Source:** Fox News | **Sentiment Score:** `-0.7717`
+
+Rep. Seth Moulton and Republican John Deaton clashed over Trump, immigration and Israel in a fiery Massachusetts Senate debate Tuesday night. The two candidates seeking to unseat Massachusetts Sen. Ed Markey sparred during a fiery debate Tuesday night, exchanging sharp attacks on a range of issues. Democratic Rep. Seth Moulton and Republi…
+
+[Read Original Article Here](https://www.foxnews.com/politics/massachusetts-senate-candidates-trade-sharp-attacks-fiery-debate-incumbent-markey-skips-event)
+---
+
+## Article 12: Fed holds rates steady, officials split over possible hikes this year
+**Source:** Bloomberg | **Sentiment Score:** `0.0258`
+
+The meeting, chaired for the first time by Kevin Warsh, signalled a shift in the Fed’s communication strategy as it grapples with rising inflation pressures from energy costs and geopolitical tensions Federal Reserve officials left interest rates unchanged and were split over whether they expect to raise rates this year. Policymakers new projections indicated nine officials foresee at least one q…
+
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-06-17/fed-holds-rates-steady-officials-split-over-hikes-this-year)
+---
+
+## Article 13: US Federal Reserve holds rates steady under new chair Warsh
+**Source:** Al Jazeera English | **Sentiment Score:** `0.1779`
+
+Heightened energy prices because of the US-Israel war with Iran has pushed US inflation to a three-year high. The United States Federal Reserve will hold interest rates steady at 3.5 to 3.75 percent amid heightened inflationary pressures on the US economy. The central bank announced the decision, which was …
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/6/17/us-federal-reserve-holds-rates-steady-under-new-chair-warsh)
+---
+
+## Article 14: Reporter's Notebook: Capitol Hill's legislative clock is ticking ahead of the midterms
+**Source:** Fox News | **Sentiment Score:** `-0.4588`
+
+Congress faces a potential government shutdown this fall as spending bills stall and Democrats refuse to cooperate ahead of midterm elections. Were deep enough into the season to have a sense of how the year is going for various clubs and players. We see which players are most expendable by the trade deadline. And we get an early line on w…
+
+[Read Original Article Here](https://www.foxnews.com/politics/reporters-notebook-capitol-hills-legislative-clock-ticking-ahead-midterms)
+---
+
+## Article 15: Hillary Clinton hammers Joe Biden for 2024 reelection bid despite supporting campaign: 'terrible mistake'
+**Source:** Fox News | **Sentiment Score:** `-0.8316`
+
+Hillary Clinton calls Biden's 2024 reelection bid a "terrible mistake" for himself, his legacy and the country during an interview Monday. Former Secretary of State and failed 2016 presidential candidate Hillary Clinton on Monday night trashed former president Joe Biden for his decision to run for reelection in 2024. "He made a terribl…
+
+[Read Original Article Here](https://www.foxnews.com/politics/hillary-clinton-hammers-joe-biden-2024-reelection-bid-despite-supporting-campaign-terrible-mistake-)
+---
+
+## Article 16: While Mexico defends ‘sovereignty,’ cartels import a flesh-eating parasite into Texas
 **Source:** Fox News | **Sentiment Score:** `-0.6369`
 
 New World screwworm returns to U.S. soil for the first time in 60 years as cartel-controlled corridors carry infested livestock northward from Mexico. As the New World screwworm returns to American soil for the first time since its eradication 60 years ago, Texas is now on the front line of Mexico's threat to U.S. sovereignty and national security.…
@@ -13,7 +133,7 @@ New World screwworm returns to U.S. soil for the first time in 60 years as carte
 [Read Original Article Here](https://www.foxnews.com/opinion/mexico-defends-sovereignty-cartels-import-flesh-eating-parasite-texas)
 ---
 
-## Article 2: G7 leaders to boost Ukraine air defences, tighten sanctions on Russia
+## Article 17: G7 leaders to boost Ukraine air defences, tighten sanctions on Russia
 **Source:** Al Jazeera English | **Sentiment Score:** `0.4215`
 
 A statement from the G7 summit in France says leaders are united in their 'unwavering support for Ukraine'. Leaders of the G7 have pledged at a summit in France to strengthen Ukraines air defences and increase pressure on Moscows war economy, including by tightening sanctions on the Russian oil and gas sec…
@@ -21,7 +141,7 @@ A statement from the G7 summit in France says leaders are united in their 'unwav
 [Read Original Article Here](https://www.aljazeera.com/news/2026/6/17/g7-leaders-to-boost-ukraine-air-defences-tighten-sanctions-on-russia)
 ---
 
-## Article 3: Oil prices continue slide amid hopes for peace, opening of Strait of Hormuz
+## Article 18: Oil prices continue slide amid hopes for peace, opening of Strait of Hormuz
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.7430`
 
 Brent crude drops to lowest price since early March, before signing of framework deal to end US-Israel war on Iran. Oil prices are continuing to drop, as hopes rise for a return to stability in global energy markets before the signing of a framework agreement on ending the United States-Israel war on Iran. Future…
@@ -29,7 +149,7 @@ Brent crude drops to lowest price since early March, before signing of framework
 [Read Original Article Here](https://www.aljazeera.com/economy/2026/6/17/oil-prices-continue-slide-amid-hopes-for-peace-opening-of-strait-of-hormuz)
 ---
 
-## Article 4: From JCPOA exit to the 2026 deal: How US-Iran ties soured under Trump
+## Article 19: From JCPOA exit to the 2026 deal: How US-Iran ties soured under Trump
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.1531`
 
 Ties between the US and Iran have been strained through both of Donald Trump's terms as US president. The United States and Iran are set to sign an initial agreement in Geneva on Friday to end the US-Israel war on Iran, begin a 60-day negotiation process, and resume traffic through the Strait of Horm…
@@ -37,131 +157,11 @@ Ties between the US and Iran have been strained through both of Donald Trump's t
 [Read Original Article Here](https://www.aljazeera.com/news/2026/6/16/from-jcpoa-exit-to-the-2026-deal-how-us-iran-ties-soured-under-trump)
 ---
 
-## Article 5: Hardliners and moderates: What do Iran’s factions think of deal with US?
+## Article 20: Hardliners and moderates: What do Iran’s factions think of deal with US?
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.2732`
 
 Factional divisions in Iran remain as leaders debate the implementation of deal with the US, amid fears of capitulation. Tehran, Iran The road leading to the signing the memorandum of understanding between the United States and Iran has been difficult. And the announcement on Sunday that a deal had been reached does n…
 
 [Read Original Article Here](https://www.aljazeera.com/news/2026/6/16/hardliners-and-moderates-what-do-irans-factions-think-of-deal-with-us)
----
-
-## Article 6: Vance reveals Trump lesson guiding Iran deal strategy as Tehran faces 60-day deadline
-**Source:** Fox News | **Sentiment Score:** `0.7579`
-
-Vance tells Fox News Digital the U.S.-Iran deal tests whether Tehran will trade decades of isolation for sanctions relief and renewed Western ties. Vice President JD Vance said Tehran is effectively entering a probationary period under the Trump administration's agreement to reopen the Strait of Hormuz, with Iran required to demonstrate through …
-
-[Read Original Article Here](https://www.foxnews.com/politics/vance-reveals-trump-lesson-guiding-iran-deal-strategy-tehran-faces-60-day-deadline)
----
-
-## Article 7: Will a US-Iran deal unlock $300bn in investment fund for Tehran?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.2263`
-
-The Trump administration has been adamant the investment fund is not a payout for Iranian enriched uranium. The US-Iran memorandum of understanding expected to be formally signed in Switzerland on Friday could allow for the establishment of a $300bn investment fund for Iran, as part of a broader settlement…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/6/16/will-a-us-iran-deal-unlock-300bn-in-investment-fund-for-tehran)
----
-
-## Article 8: Texas Dem's past grocery store remarks clash with affordability campaign: 'I don't have the time'
-**Source:** Fox News | **Sentiment Score:** `0.6705`
-
-Bobby Pulido, Democratic candidate in a competitive Texas Congressional race, said in 2010 he hasn't gone grocery shopping since his music career began. In a 2010 interview with a Mexican newspaper, Latin Grammy winner Bobby Pulido once said he hasnt gone shopping since becoming a music star. "While he was in college, Bobby Pulido set foot in a supe…
-
-[Read Original Article Here](https://www.foxnews.com/politics/texas-democrats-past-grocery-store-remarks-clash-affordability-campaign-dont-have-time)
----
-
-## Article 9: G7 leaders meet in France with Iran and Ukraine high on agenda
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.2732`
-
-French President Emmanuel Macron said Tuesday’s lunch summit would focus on reopening the Strait of Hormuz. Leaders of the G7 are expected to focus on the United States deal with Iran and the Russian war on Ukraine at their meeting in France, with US President Donald Trump likely to be urged to quickly fin…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/6/16/g7-leaders-meet-in-france-with-iran-and-ukraine-high-on-agenda)
----
-
-## Article 10: Iran war day 109: Tehran, Washington, sign MoU electronically
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.0258`
-
-Iran’s National Security Council said on Monday that the deal ends fighting on all fronts, including in Lebanon. US President Donald Trump has said a memorandum of understanding (MoU) with Iran has been all signed electronically, and the Strait of Hormuz will be completely open by Friday. US officials told the…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/6/16/iran-war-day-109-tehran-washington-sign-mou-electronically)
----
-
-## Article 11: Japan’s central bank raises interest rates to highest level since 1995
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.1027`
-
-Bank of Japan hikes benchmark rate to 1 percent, continuing shift away from decades of ultra-low borrowing costs. Japans central bank has raised interest rates to a three-decade high, citing price pressures stemming from the United States-Israel war on Iran. The Bank of Japan (BOJ) on Tuesday voted 7-1 to hike …
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/6/16/japans-central-bank-raises-interest-rates-to-highest-level-since-1995)
----
-
-## Article 12: UK seizes Russian ‘shadow fleet’ tanker – what that means
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.0258`
-
-UK's Royal Marines conduct first-of-its-kind operation in the English Channel, causing other tankers to turn around. British forces have seized a Russian-linked oil tanker suspected of breaching sanctions while transiting the English Channel on Sunday, in what Prime Minister Keir Starmer described as a significant …
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/6/16/uk-seizes-russian-shadow-fleet-tanker-what-that-means)
----
-
-## Article 13: JD Vance reveals details of US-Iran deal, addresses whether taxpayer money will go to Tehran
-**Source:** Fox News | **Sentiment Score:** `0.3182`
-
-Vice President JD Vance says the U.S.-Iran peace deal includes no American taxpayer money and requires a real inspections regime from Tehran. Vice President JD Vance said that the proposed U.S.-Iran deal will usher in a "new day" for the Middle East, while addressing whether U.S. taxpayer funds would be used to finance Irans potential $300…
-
-[Read Original Article Here](https://www.foxnews.com/media/jd-vance-reveals-details-us-iran-deal-addresses-whether-taxpayer-money-go-tehran)
----
-
-## Article 14: US fuel prices to take ‘months’ to normalise after US-Iran deal to end war
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.3291`
-
-Producers will need time to ramp up output, while port bottlenecks and heightened demand will keep US prices up. The preliminary deal to end US-Israel war on Iran has sent oil prices tumbling to a three-month low amid hopes that the Strait of Hormuz will reopen. But it could be months before American consumers…
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/6/16/us-fuel-prices-to-take-months-to-normalise-after-us-iran-deal-to-end-war)
----
-
-## Article 15: Trump’s agreement with Iran is the moment Netanyahu has been dreading
-**Source:** CNN | **Sentiment Score:** `0.8316`
-
-Israeli Prime Minister Benjamin Netanyahu huddled with his security cabinet in a bunker late Sunday night ready for the the potential of Iranian ballistic mi... Israeli Prime Minister Benjamin Netanyahu huddled with his security cabinet in a bunker late Sunday night, ready for the potential of Iranian ballistic missiles, when the phone rang. On the line was…
-
-[Read Original Article Here](https://www.cnn.com/2026/06/15/middleeast/trump-netanyahu-iran-agreement-latam-intl)
----
-
-## Article 16: EU officially launches Ukraine and Moldova accession process
-**Source:** Al Jazeera English | **Sentiment Score:** `0.8316`
-
-Kyiv sees EU accession as a security guarantee and alignment with Western values as it defends against Russian invasion. The European Union has officially launched the accession process for Ukraine and Moldova. The formal launch on Monday will require both countries to commit to years of political reforms. Ukraine mus…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/6/15/eu-officially-launches-ukraine-and-moldova-accession-processes)
----
-
-## Article 17: US won't move troops despite 'signed' Iran deal, as doubts linger over Tehran's next move
-**Source:** Fox News | **Sentiment Score:** `-0.7939`
-
-Trump administration maintains roughly 50,000 troops in the Middle East during 60-day Iran negotiation period despite signing new agreement with Iran. The Trump administration will keep its military buildup in the Middle East in place despite signing a new agreement with Iran, underscoring Washington's continued distrust of Iran as the two sides en…
-
-[Read Original Article Here](https://www.foxnews.com/politics/us-wont-move-troops-despite-signed-iran-deal-doubts-linger-over-tehrans-next-move)
----
-
-## Article 18: Trump touts Iran deal and Ukraine ambition as he arrives at G7
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.4939`
-
-Amid G7 tensions, Trump says Iran agreement is a step towards peace in the Middle East and beyond. President Donald Trump touted his preliminary deal to end the Iran war and suggested he will seek to end hostilities in Ukraine and Lebanon as he joined global leaders at the Group of Seven summit in…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/6/15/trump-touts-iran-deal-and-ukraine-ambition-as-he-arrives-at-g7)
----
-
-## Article 19: EU fails to agree on sanctions for far-right Israeli minister Ben-Gvir
-**Source:** Al Jazeera English | **Sentiment Score:** `0.1531`
-
-EU diplomacy chief Kaja Kallas confirms EU remains divided on sanctioning Israel European Union member states have failed to agree on proposals to sanction Israeli National Security Minister Itamar Ben-Gvir, the blocs foreign policy chief Kaja Kallas said. Speaking at a media co…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/6/15/eu-fails-to-agree-on-sanctions-for-far-right-israeli-minister-ben-gvir)
----
-
-## Article 20: As deal is agreed with US, not all in Iran are convinced that peace is here
-**Source:** Al Jazeera English | **Sentiment Score:** `0.7184`
-
-Iranians are sceptical that a US-Iran agreement will end their hardships. Tehran, Iran The world let out a collective sigh of relief when the United States and Iran announced that a memorandum of understanding had been agreed to end nearly four months of hostilities on Sun…
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/6/15/as-deal-is-agreed-with-us-not-all-in-iran-are-convinced-that-peace-is-here)
 ---
 
