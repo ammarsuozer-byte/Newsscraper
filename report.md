@@ -1,11 +1,123 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-06-26 | **Status:** Automated
+**Date:** 2026-06-27 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: As Ukraine seizes ‘first chance to win’, war horrors come home to Russia
+## Article 1: I was lucky enough to escape Cuban socialism. America’s 250th reminds me why
+**Source:** Fox News | **Sentiment Score:** `0.8225`
+
+A Cuban immigrant reflects on fleeing socialism and finding freedom in America as the nation prepares to celebrate its semiquincentennial birthday. As America prepares to celebrate its 250th birthday, I find myself reflecting not only on this nation's remarkable journey, but alsoon my own. I was born in Cuba under a socialist system that promis…
+
+[Read Original Article Here](https://www.foxnews.com/opinion/lucky-enough-escape-cuban-socialism-americas-250th-reminds-)
+---
+
+## Article 2: ‘Affordability crisis’: How the Western housing crisis spiralled
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.5574`
+
+Rising rents and prices outpacing wages provoke global debate: Is housing a basic right or an investment asset? In 2026, a mounting housing crisis in Western nations has finally forced its way onto the agenda of some of the worlds richest governments. In the UK, a landmark renters rights law took effect in En…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/6/26/affordability-crisis-how-the-western-housing-crisis-spiralled)
+---
+
+## Article 3: Iran war day 119: Israel hits Lebanon as IAEA says it will return to Iran
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.4767`
+
+Israeli and Lebanese delegations will continue their talks on Friday. Israel continues to attack southern Lebanon on Friday as Israeli Prime Minister Benjamin Netanyahu pledges that the Israeli military is not going to withdraw from occupied areas. Israel currently oc…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/6/26/iran-war-day-119-israel-hits-lebanon-as-iaea-says-it-will-return-to-iran)
+---
+
+## Article 4: RBI proposes wider access to Indian money markets in draft rules
+**Source:** Bloomberg | **Sentiment Score:** `0.0000`
+
+RBI proposes broader access to India's money markets, allowing shadow lenders and companies to enhance liquidity and participation. Reserve Bank of India (RBI) has proposed broader participation in the countrys money market to include shadow lenders, companies and other financial institutions, in a move aimed at deepening funding…
+
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-06-26/rbi-proposes-wider-access-to-indian-money-markets-in-draft-rules)
+---
+
+## Article 5: Slotkin says Democratic Party needs 'new leadership': 'Old models are no longer working'
+**Source:** Fox News | **Sentiment Score:** `0.7717`
+
+Sen Elissa Slotkin calls for new Democratic Party leadership, saying old models no longer work and the party must simplify its message to win back voters. Sen. Elissa Slotkin, D-Mich., said she believes the Democratic Party is in need of "new leadership," arguing that the party never completely recovered after its losses in the 2024 elections.  During…
+
+[Read Original Article Here](https://www.foxnews.com/politics/elissa-slotkin-democratic-party-new-leadership)
+---
+
+## Article 6: Who will control Africa’s AI infrastructure, and at what cost?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.4588`
+
+Data centres and AI systems are expanding across Africa, bringing new pressure on energy and resources. Johannesburg, South Africa  In April, African Union ministers gathered in Tangier, Morocco, to discuss artificial intelligence at a moment when governments across the continent are racing to develop …
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/6/26/who-will-control-africas-ai-infrastructure-and-at-what-cost)
+---
+
+## Article 7: Blue state leaders erupt after Supreme Court’s decision ending TPS protections for Haitians, Syrians
+**Source:** Fox News | **Sentiment Score:** `0.9643`
+
+Supreme Court rules 6-3 in favor of Trump administration in two key immigration cases on Temporary Protected Status and asylum, drawing opposition from blue state Democrats. The U.S. Supreme Court ruled in favor of the Trump administration in two key immigration cases on Thursday, drawing strong opposition from blue state Democrats and prompting a prominent House Republi…
+
+[Read Original Article Here](https://www.foxnews.com/politics/blue-state-leaders-erupt-supreme-courts-decision-ending-tps-protections-haitians-syrians)
+---
+
+## Article 8: Iran strikes vessel pausing UN efforts to evacuate ships from Hormuz | CNN
+**Source:** CNN | **Sentiment Score:** `-0.8658`
+
+A cargo vessel was hit by an Iranian drone strike in the Strait of Hormuz on Thursday, a US official told CNN, forcing the pause of an operation to evacuate thousands of seafarers on vessels that have been stuck in the Persian Gulf since the war broke out. A cargo vessel was hit by an Iranian drone strike in the Strait of Hormuz on Thursday, a US official told CNN, forcing the pause of an operation to evacuate thousands of seafarers on vessels that hav…
+
+[Read Original Article Here](https://www.cnn.com/2026/06/25/middleeast/un-pauses-hormuz-evacuation-after-us-says-iran-behind-attack-intl-latam)
+---
+
+## Article 9: Economic losses mount as Venezuela earthquake death toll grows
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.8020`
+
+Initial forecasts suggest damage could cost as much as 7 percent of the South American nation's GDP. The series of powerful earthquakes that struck Venezuela on Wednesday could cause economic losses equal to as much as 7 percent of the countrys gross domestic product (GDP), according to preliminary …
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/6/25/economic-losses-mount-as-venezuela-earthquake-death-toll-grows)
+---
+
+## Article 10: Escaping Darfur: Mothers face starvation under trees in Chad
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.2263`
+
+Fleeing scorched earth, Darfur’s mothers share harrowing tales of starvation and survival in Chad. Darfur, Sudan Under a lone tree in the Iridimi refugee camp in eastern Chad, 45-year-old Thuraya Mukhtar sits quietly, trying to piece together the remnants of a life that was safe before war tore it…
+
+[Read Original Article Here](https://www.aljazeera.com/features/2026/6/25/escaping-darfur-mothers-face-starvation-under-trees-in-chad)
+---
+
+## Article 11: Rep. Anna Paulina Luna says House floor will stay frozen until Senate passes SAVE America Act | Fox News Video
+**Source:** Fox News | **Sentiment Score:** `0.4648`
+
+The House floor remains effectively shut down after a group of conservatives vowed to block nearly all legislation until the Senate passes the SAVE America Act. (Credit: Nicholas Ballasy for Fox News Digital) ©2026 Fox News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes.
+
+[Read Original Article Here](https://www.foxnews.com/video/6399358718112)
+---
+
+## Article 12: IRGC warns against new Hormuz route for ships: What we know
+**Source:** Al Jazeera English | **Sentiment Score:** `0.2960`
+
+Experts say disagreements over shipping routes and transit fees could complicate efforts to reach a permanent agreement. Irans Islamic Revolutionary Guard Corps (IRGC) has warned commercial vessels to only use routes through the Strait of Hormuz approved by Tehran, reopening a point of friction in fragile negotiations …
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/6/25/irgc-warns-against-new-hormuz-route-for-ships-what-we-know)
+---
+
+## Article 13: Venezuela quakes: How will sanctions impact aid operations?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.9209`
+
+Financial sanctions are known to limit the flow of aid, but political influence is also a concern amid the devastation. Venezuela has declared a state of emergency after powerful back-to-back earthquakes collapsed buildings in cities that included the capital, Caracas, killing at least 164 people and wounding close to…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/6/25/venezuela-quakes-how-will-sanctions-impact-aid-operations)
+---
+
+## Article 14: Blue state governors join gun-grabbing efforts by targeting Glock pistols
+**Source:** Fox News | **Sentiment Score:** `-0.6908`
+
+Maryland, Connecticut and New York sign sweeping Glock bans within one week, following California's lead to restrict commonly owned handguns nationwide. In Maryland, the statute defines the term "machine gun convertible" pistol to effectively ban most Glock and Glock-style handguns on the market firearms owned by millions of Americans for lawful purp…
+
+[Read Original Article Here](https://www.foxnews.com/opinion/blue-state-governors-join-gun-grabbing-efforts-targeting-glock-pistols)
+---
+
+## Article 15: As Ukraine seizes ‘first chance to win’, war horrors come home to Russia
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.0516`
 
 President Putin has hinted at peace talks as the economy fails, people flee cities and toxic 'oil rains' fall. Kyiv, Ukraine For centuries, the Russian phrase behind the Urals Mountains meant safe from a foreign invasion. During the Napoleonic incursion of 1812 or the Nazi German assault in 1941, anywhere be…
@@ -13,7 +125,7 @@ President Putin has hinted at peace talks as the economy fails, people flee citi
 [Read Original Article Here](https://www.aljazeera.com/news/2026/6/25/as-ukraine-seizes-first-chance-to-win-war-horrors-come-home-to-russia)
 ---
 
-## Article 2: US says Iran will buy its goods: What could US-Iran trade look like?
+## Article 16: US says Iran will buy its goods: What could US-Iran trade look like?
 **Source:** Al Jazeera English | **Sentiment Score:** `0.6808`
 
 Before the 1979 revolution in Iran, Washington and Tehran had close trade ties. Could a peace deal revive them? The United States says it has come up with a spending plan for unfrozen Iranian assets, as negotiations to reach a final deal to end the war in the Middle East continue. President Donald Trumps admi…
@@ -21,7 +133,23 @@ Before the 1979 revolution in Iran, Washington and Tehran had close trade ties. 
 [Read Original Article Here](https://www.aljazeera.com/features/2026/6/25/us-says-iran-will-buy-its-goods-what-could-us-iran-trade-look-like)
 ---
 
-## Article 3: Japan unveils $2.3 trillion investment plan for next 14 years
+## Article 17: Volkswagen to Sell Majority Stake in Everllence Engine Unit to Bain Capital For $8.4 Billion
+**Source:** The Wall Street Journal | **Sentiment Score:** `0.7717`
+
+The sale of the 51% stake in the marine engine subsidiary to Bain Capital will streamline the automaker’s investment portfolio and boost its coffers. Everllence is experiencing high demand due to growth in energy transition and global infrastructure markets on top of rising electricity consumption driven by digitalization and data centers. - Compa…
+
+[Read Original Article Here](https://www.wsj.com/business/deals/volkswagen-to-sell-majority-stake-in-engine-unit-to-bain-capital-ae17cb9f)
+---
+
+## Article 18: Pizza Has Gone Cold. Domino’s Is Still Worth a Look.
+**Source:** The Wall Street Journal | **Sentiment Score:** `0.8519`
+
+The category’s sales are stagnant and its chains are faltering, but Domino’s can emerge as a winner The company's second-quarter results are due next month. - Brent Lewin/Bloomberg News Americans aren't as hungry for pizza. Neither is Wall Street. But there could be value in the sector's leftovers…
+
+[Read Original Article Here](https://www.wsj.com/business/hospitality/pizza-has-gone-cold-dominos-is-still-worth-a-look-38fab850)
+---
+
+## Article 19: Japan unveils $2.3 trillion investment plan for next 14 years
 **Source:** Bloomberg | **Sentiment Score:** `0.9169`
 
 Prime Minister Sanae Takaichi unveiled a long-term vision for Japan’s economic development featuring massive investment in artificial intelligence and semiconductors as well as other key sectors including defense, space and shipbuilding. Prime Minister Sanae Takaichi unveiled a long-term vision for Japans economic development featuring massive investment in artificial intelligence and semiconductors as well as other key sectors inclu…
@@ -29,139 +157,11 @@ Prime Minister Sanae Takaichi unveiled a long-term vision for Japan’s economic
 [Read Original Article Here](https://www.bloomberg.com/news/articles/2026-06-24/japan-unveils-2-3-trillion-investment-plan-for-next-14-years)
 ---
 
-## Article 4: Senate Democrat avoids answering where socialism has been 'beneficial' after far-left candidates win in NYC
+## Article 20: Senate Democrat avoids answering where socialism has been 'beneficial' after far-left candidates win in NYC
 **Source:** Fox News | **Sentiment Score:** `0.3182`
 
 Delaware Sen. Lisa Blunt Rochester avoided answering where socialism has ever worked when asked about socialist wins in the New York primary elections. Delaware Sen. Lisa Blunt Rochester avoided answering where socialism has been "beneficial" when giving her thoughts on the recent New York primary elections. Blunt Rochester was asked on CNBC's "Squ…
 
 [Read Original Article Here](https://www.foxnews.com/media/senate-democrat-avoids-answering-where-socialism-has-been-beneficial-after-far-left-candidates-win-nyc)
----
-
-## Article 5: Bitcoin’s retreating retail army exposes fresh fragility
-**Source:** Bloomberg | **Sentiment Score:** `-0.7096`
-
-Funds are shifting from crypto into AI as institutional demand loses steam. Investors have pulled more than US$6 billion from ETFs tracking Bitcoin, Laboure noted, the longest losing streak since 2024. ETF demand has become a key driver of Bitcoins price action, she added, m…
-
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-06-24/bitcoin-s-retreating-retail-army-exposes-fresh-market-fragility)
----
-
-## Article 6: Unearthed video exposes vulnerable House Dem's reversal on crucial issue impacting state
-**Source:** Fox News | **Sentiment Score:** `0.5859`
-
-Rep. Gabriel Vasquez's 2021 comments calling for limiting natural gas and fossil fuels resurface as he now pitches an all-of-the-above energy approach. A vulnerable Democratic New Mexico lawmaker once called for his state to walk away from the energy production that brings in almost a third of the states general fund, while now pitching an "all of t…
-
-[Read Original Article Here](https://www.foxnews.com/politics/unearthed-video-exposes-vulnerable-house-dems-reversal-crucial-issue-impacting-state)
----
-
-## Article 7: De la Espriella pledges to restore Colombia’s relations with Israel
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.4588`
-
-The far-right president-elect has pledged to rebuild ties with Israel and the US following tensions under Gustavo Petro. Colombias President-elect Abelardo de la Espriella has pledged to restore relations with Israel, after diplomatic ties were severed over the countrys genocidal campaign in Gaza. On Wednesday, de la …
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/6/24/de-la-espriella-pledges-to-restore-colombias-relations-with-israel)
----
-
-## Article 8: Swalwell friend Gallego defends campaign-funded Super Bowl, Miami trips: ‘Go where the money is’
-**Source:** Fox News | **Sentiment Score:** `0.5994`
-
-Sen. Ruben Gallego defends campaign-funded Super Bowl and Miami trips as legitimate fundraising efforts after scrutiny of his leadership PAC spending. Sen. Ruben Gallego, D-Ariz., defended his campaign-funded travel and fundraising events after recent reporting detailed luxury travel, childcare and event expenses paid through his political committe…
-
-[Read Original Article Here](https://www.foxnews.com/politics/swalwell-friend-gallego-defends-campaign-funded-super-bowl-miami-trips-go-where-money-is)
----
-
-## Article 9: Rubio says Iran cannot charge tolls in Hormuz: What we know
-**Source:** Al Jazeera English | **Sentiment Score:** `0.2732`
-
-Tehran says the strait 'will never return' to its prewar conditions and claims it can charge fees for services. US Secretary of State Marco Rubio has said Iran will not be permitted to charge tolls or fees for vessels transiting the Strait of Hormuz under any final agreement with Washington, exposing one of th…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/6/24/rubio-says-iran-cannot-charge-tolls-in-hormuz-what-we-know)
----
-
-## Article 10: Rubio tries to reassure Gulf allies on US-Iran deal details
-**Source:** Al Jazeera English | **Sentiment Score:** `0.6249`
-
-Rubio tours Gulf in bid to allay allies' security concerns over the US-Iran memorandum of understanding. United States Secretary of State Marco Rubio is on the second day of a visit to the Gulf region to reassure allies that a deal to end the Iran-US war would account for their security concerns. On We…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/6/24/rubio-tries-to-reassure-gulf-allies-on-us-iran-deal-details)
----
-
-## Article 11: What does Pakistan stand to gain from helping broker the US-Iran deal?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.7717`
-
-Pakistan sees strategic opportunity in the US-Iran thaw, including trade, energy access and renewed regional relevance. Islamabad, Pakistan  At the alpine resort of Burgenstock in Switzerland last weekend, United States Vice President JD Vance stood alongside Pakistani Prime Minister Shehbaz Sharif and Qatari Prime Mi…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/6/24/what-does-pakistan-stand-to-gain-from-helping-broker-the-us-iran-deal)
----
-
-## Article 12: Iranians cautiously optimistic about thorny deal with US
-**Source:** Al Jazeera English | **Sentiment Score:** `0.0258`
-
-Iran is watching closely as months of complex negotiations lie ahead amid internal political disputes. Tehran, Iran The memorandum of understanding (MoU) signed between Iran and the United States has survived its first few rocky days, producing a roadmap to a potential long-term resolution of the war …
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/6/24/iranians-cautiously-optimistic-about-thorny-deal-with-us)
----
-
-## Article 13: I’m an Arab Muslim — I still don’t understand the antisemitic BDS movement
-**Source:** Fox News | **Sentiment Score:** `0.0541`
-
-An Arab Muslim who chose peace over slogans lays out every Israeli invention BDS wants you to forget — and asks why no activist ever actually gives them up. I am an Arab. I am a Muslim. And I have spent years trying to understand the movement that calls itself BDS, Boycott, Divestment and Sanctions against Israel. I still dont. I understand grievances. …
-
-[Read Original Article Here](https://www.foxnews.com/opinion/im-arab-muslim-i-still-dont-understand-antisemitic-bds-movement)
----
-
-## Article 14: Trump rips NY Times as corrupt cowards – for reporting the same thing everyone else is about the Iran war
-**Source:** Fox News | **Sentiment Score:** `-0.7096`
-
-President Trump escalates his battle with press, targeting The New York Times over its coverage of the Iran conflict and threatening legal action. Its worth taking a closer look at President Trumps diatribe against The New York Times. The story by reporter Neil MacFarquhar is not unlike 500 other stories youve read, making the same point:  Wh…
-
-[Read Original Article Here](https://www.foxnews.com/opinion/trump-rips-ny-times-corrupt-cowards-reporting-same-thing-everyone-else-about-iran-war)
----
-
-## Article 15: GOP voters pick Trump-backed nominee in battle to flip crucial House seat
-**Source:** Fox News | **Sentiment Score:** `0.8126`
-
-Trump-backed state senator Peter Oberacker wins GOP primary in New York's 19th district, setting up a general election fight against Rep. Josh Riley. Peter Oberacker, a Trump-backed Republican New York state senator, won a GOP primary on Tuesday evening, securing the GOP nomination to challenge incumbent Rep. Josh Riley, D-N.Y. New Yorks 19th Con…
-
-[Read Original Article Here](https://www.foxnews.com/politics/gop-voters-pick-trump-backed-nominee-battle-flip-crucial-house-seat)
----
-
-## Article 16: Congress passes largest housing affordability bill in a generation | CNN Business
-**Source:** CNN | **Sentiment Score:** `0.9153`
-
-A landmark housing affordability bill is headed to President Donald Trump’s desk after winning overwhelming support in Congress this week, setting the stage for the most sweeping federal housing package in a generation. A landmark housing affordability bill is headed to President Donald Trumps desk after winning overwhelming support in Congress this week, setting the stage for the most sweeping federal housing packa…
-
-[Read Original Article Here](https://www.cnn.com/2026/06/23/economy/housing-affordability-bill-congress)
----
-
-## Article 17: Trump scores major win as Congress passes housing crackdown on Wall Street investors
-**Source:** Fox News | **Sentiment Score:** `0.4939`
-
-Congress passed the 21st Century ROAD to Housing Act in a bipartisan vote, targeting institutional investors and housing costs for Trump to sign. President Donald Trump scored a major legislative win after Congress cleared a sweeping housing bill aimed at expanding the nations supply of homes and lowering costs. House lawmakers voted 358-32 i…
-
-[Read Original Article Here](https://www.foxnews.com/politics/trump-scores-major-win-congress-passes-housing-crackdown-wall-street-investors)
----
-
-## Article 18: SpaceX shares drop below debut price before jumping amid $600bn sell-off
-**Source:** Al Jazeera English | **Sentiment Score:** `0.8555`
-
-SpaceX shares dip below debut price, erasing $600bn in value before recovering 2.4 percent amid tech market turbulence. SpaceX shares fell below its market debut price of $150 per share, wiping out $600bn in market value amid a broader tech sell-off rocking markets before jumping 2.4 percent. The dip in early trading…
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/6/23/spacex-shares-drop-below-debut-price-before-jumping-amid-600bn-sell-off)
----
-
-## Article 19: Missile strike kills three in Ukraine as Russia feels war’s economic strain
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.9468`
-
-Kyiv has previously accused Moscow of using cluster munitions, which, when dropped, scatter into smaller munitions. A Russian missile attack on the central Ukrainian city of Kryvyi Rih has killed at least three people, as Moscow struggles with the economic strain of the four-and-a-half-year Russia-Ukraine war. Ol…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/6/23/missile-strike-kills-three-in-ukraine-as-russia-feels-wars-economic-strain)
----
-
-## Article 20: What the US and Iran agreed – and disagreed – on first day of talks
-**Source:** Al Jazeera English | **Sentiment Score:** `0.7876`
-
-Leaders from Iran and the US have lauded progress on day one of Switzerland talks but disagree about crucial aspects. The United States has waived sanctions on Iranian oil for 60 days following the first day of talks for a peace deal, with US President Donald Trump saying he will do what I have to do if Iran does no…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/6/23/what-the-us-and-iran-agreed-and-disagreed-on-first-day-of-talks)
 ---
 
