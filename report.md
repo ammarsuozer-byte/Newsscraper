@@ -1,11 +1,123 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-07-10 | **Status:** Automated
+**Date:** 2026-07-11 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: UAE’s Orbitworks is putting a homegrown satellite constellation into orbit | CNN Business
+## Article 1: EU states do not need ‘consensus’ to hold Israel accountable
+**Source:** Al Jazeera English | **Sentiment Score:** `0.1326`
+
+As foreign ministers meet on Gaza and the West Bank, national governments cannot hide behind EU paralysis. On July 13, European Union foreign ministers are due to meet again at the Foreign Affairs Council in Brussels. The agenda includes an exchange of views on Gaza and the West Bank and is expected to co…
+
+[Read Original Article Here](https://www.aljazeera.com/opinions/2026/7/10/eu-states-do-not-need-consensus-to-hold-israel-accountable)
+---
+
+## Article 2: Trump calls terrorist Iranian a ‘cancer.’ Is he finally the one to remove it?
+**Source:** Fox News | **Sentiment Score:** `0.0000`
+
+Trump called the Islamic Republic a "cancer" at the NATO Summit in Ankara, signaling a potential shift from containment to dismantlement doctrine. President Donald Trumps remarks on the sidelines of the NATO Summit in Ankara, Turkey, may represent one of the most consequential shifts in Americas strategic language toward the Islamic Republic of…
+
+[Read Original Article Here](https://www.foxnews.com/opinion/trump-calls-terrorist-iranian-cancer-finally-one-remove-it)
+---
+
+## Article 3: Singapore’s Helios bets on Adani Enterprises, buys 770,000 shares in second quarter
+**Source:** Bloomberg | **Sentiment Score:** `0.8519`
+
+Helios Capital bets on Adani Enterprises, acquiring 770,000 shares, while diversifying its portfolio with other promising stocks. Helios Capital Management is betting on the flagship stock of Adani Group to be the next big winner for its funds in a market left behind in the global AI frenzy.  The Singaporebased asset manager b…
+
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-07-10/adani-flagship-is-the-next-big-india-pick-for-singapore-s-helios)
+---
+
+## Article 4: The US is building a new pressure architecture against Iran
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.5423`
+
+Trump’s NATO diplomacy is part of a wider effort to weaken Tehran by reshaping the region around it. Was Trumps presence at the NATO summit in Turkiye, amid escalating anti-Iranian rhetoric and orders to attack Iran, simply participation in a diplomatic meeting on European security? This question is…
+
+[Read Original Article Here](https://www.aljazeera.com/opinions/2026/7/10/the-us-is-building-a-new-pressure-architecture-against-iran)
+---
+
+## Article 5: South Korea’s SK Hynix raises $26.5bn in record-breaking US IPO
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.1280`
+
+South Korean chip giant makes largest-ever debut by a foreign firm in the US, eclipsing Alibaba's 2014 IPO. South Korean chip giant SK Hynix has raised a record-breaking $26.5bn ahead of its Wall Street debut amid soaring demand for semiconductors used in AI. SK Hynix said on Friday that it had sold 177.9…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/7/10/south-koreas-sk-hynix-raises-26-5bn-in-record-breaking-us-ipo)
+---
+
+## Article 6: China expands anti-sanctions toolkit, raising risks for foreign firms
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.2732`
+
+Beijing is rolling out measures to expand its ability to hit back at US and EU sanctions and export controls. China is expanding its toolkit to counter foreign sanctions and export controls, placing multinational companies in the line of fire as Beijing, Washington and Brussels exchange tit-for-tat punitive …
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/7/10/china-expands-anti-sanctions-toolkit-raising-risks-for-foreign-firms)
+---
+
+## Article 7: How Strait of Hormuz dispute led to latest US-Iran cycle of fighting
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.0516`
+
+Clashing interpretations of vague memorandum of understanding language on Hormuz at heart of escalation, analysts say. When Iran faced an all-out war against the United States and Israel, Tehran did not respond with missiles and drones alone; it shut down the Strait of Hormuz, a vital waterway for global energy. As …
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/7/9/how-strait-of-hormuz-dispute-led-to-latest-us-iran-cycle-of-fighting)
+---
+
+## Article 8: UK Labour’s Burnham apologises for response to Israel’s Gaza violence
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.5106`
+
+UK's likely next PM Burnham pushes for ceasefire, tougher sanctions over Gaza violence and settlement trade bans. The United Kingdoms likely incoming next prime minister, Andy Burnham, has apologised for the Labour Partys initial response to Israels actions in Gaza, saying we got it wrong while calling for furth…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/7/9/uk-labours-burnham-apologises-for-response-to-israels-gaza-violence)
+---
+
+## Article 9: Why the US Strategic Petroleum Reserve matters amid US-Iran tensions
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.5106`
+
+US oil reserves hit lowest levels since 1983 amid growing tensions with Iran and global supply concerns. Last month, the United States Strategic Petroleum Reserve (SPR) fell to its lowest level since 1983 as renewed tensions between the United States and Iran raised concerns about the stability of globa…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/7/9/why-the-us-strategic-petroleum-reserve-matters-amid-us-iran-tensions)
+---
+
+## Article 10: Biden-era enviro rule accused of strangling truckers, squeezing Americans lands on Trump chopping block
+**Source:** Fox News | **Sentiment Score:** `0.5574`
+
+The EPA proposes eliminating DEF-related engine deratements that force heavy-duty trucks and farm equipment into limp mode at five miles per hour. FIRST ON FOX: The Trump administration is proposing to slash Biden-era truck emissions regulations in a move officials say would save the trucking industry about $12 billion and ease supply chain cos…
+
+[Read Original Article Here](https://www.foxnews.com/politics/biden-era-enviro-rule-accused-strangling-truckers-squeezing-americans-lands-trump-chopping-block)
+---
+
+## Article 11: Jailed Catholic woman's hunger strike highlights Iran religious persecution — US demands action
+**Source:** Fox News | **Sentiment Score:** `-0.9732`
+
+Ghazal Marzban, a Catholic woman, is on hunger strike in Evin prison in Tehran as arrests of Christians jumped from 139 in 2024 to 254 in 2025. The State Department condemned Irans intensified repression of Christians, including a Catholic woman on hunger strike in a prison known as one of the most brutal in the theocratic state. The Trump …
+
+[Read Original Article Here](https://www.foxnews.com/world/jailed-catholic-womans-hunger-strike-highlights-iran-religious-persecution-us-demands-action)
+---
+
+## Article 12: Russia bans diesel exports after Ukrainian attacks, straining already tense global market | CNN Business
+**Source:** CNN | **Sentiment Score:** `-0.9346`
+
+Russia has fully banned exports of diesel after Ukrainian drone strikes on its refineries triggered widespread fuel shortages and as the global energy market braces for more disruption in the Strait of Hormuz. Russia has fully banned exports of diesel after Ukrainian drone strikes on its refineries triggered widespread fuel shortages and as the global energy market braces for more disruption in the Strait …
+
+[Read Original Article Here](https://www.cnn.com/2026/07/09/business/russia-diesel-ban-ukrainian-strikes-intl)
+---
+
+## Article 13: Trump targets Spain, NATO backs Ukraine: Is the alliance still united?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.4310`
+
+While NATO members have agreed to boost defence spending, Trump's attacks on Spain and Greenland have threatened unity. NATO concluded a two-day summit in Turkiyes Ankara on Wednesday afternoon, with members discussing defence budgets and support for Ukraine, but with simultaneous talk of unity and discord underscorin…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/7/9/trump-targets-spain-nato-backs-ukraine-is-the-alliance-still-united)
+---
+
+## Article 14: UK Labour leadership nominations begin: Who’s running and how it works
+**Source:** Al Jazeera English | **Sentiment Score:** `0.5994`
+
+Former Greater Manchester Mayor Andy Burnham is the frontrunner. If no rival emerges, he could become PM this month. British Prime Minister Keir Starmers announcement last month that he plans to step down as prime minister and leader of the Labour Party has set in motion the process to select his successor. The su…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/7/9/uk-labour-leadership-nominations-begin-whos-running-and-how-it-works)
+---
+
+## Article 15: UAE’s Orbitworks is putting a homegrown satellite constellation into orbit | CNN Business
 **Source:** CNN | **Sentiment Score:** `0.9360`
 
 The company is working to mass manufacture commercial satellites and help the United Arab Emirates build sovereign space capabilities. In recent years, the United Arab Emirates (UAE) has racked up impressive off-planet achievements, from sending an astronaut to space to reaching Mars orbit with its Hope Probe. Now, with countries a…
@@ -13,7 +125,7 @@ The company is working to mass manufacture commercial satellites and help the Un
 [Read Original Article Here](https://www.cnn.com/2026/07/09/business/uae-orbitworks-homegrown-satellites-spc-hnk)
 ---
 
-## Article 2: Trump holds Washington hostage over SAVE Act as midterm clock ticks on GOP control
+## Article 16: Trump holds Washington hostage over SAVE Act as midterm clock ticks on GOP control
 **Source:** Fox News | **Sentiment Score:** `0.7404`
 
 Trump ties the SAVE America Act to $350 billion in defense spending, pressuring Senate Republicans to overcome the filibuster before midterms. President Donald Trump is turning the stalled SAVE America Act into a leverage fight on Capitol Hill, tying the bill to unrelated Republican priorities as the party races to use its congressional maj…
@@ -21,7 +133,7 @@ Trump ties the SAVE America Act to $350 billion in defense spending, pressuring 
 [Read Original Article Here](https://www.foxnews.com/politics/trump-holds-washington-hostage-over-save-act-midterm-clock-ticks-gop-control)
 ---
 
-## Article 3: Inside King’s College London’s crackdown on pro-Palestine students
+## Article 17: Inside King’s College London’s crackdown on pro-Palestine students
 **Source:** Al Jazeera English | **Sentiment Score:** `0.7003`
 
 King’s College London, which has ties to the defence industry, has disciplined at least 26 students in two years. Names marked with an asterisk* have been changed to protect identities London, United Kingdom Khadija* was just seven weeks into her degree when she received an early-morning phone call from her uni…
@@ -29,7 +141,7 @@ King’s College London, which has ties to the defence industry, has disciplined
 [Read Original Article Here](https://www.aljazeera.com/news/2026/7/9/kcl-pro-palestine-tensions)
 ---
 
-## Article 4: Iran’s Strait of Hormuz scheme could derail one Gulf nation’s bright future
+## Article 18: Iran’s Strait of Hormuz scheme could derail one Gulf nation’s bright future
 **Source:** Fox News | **Sentiment Score:** `0.7430`
 
 Oman jumped 19 places in the Index of Economic Freedom, but recent talks with Tehran over Strait of Hormuz tolls could jeopardize that progress. In the maelstrom of noise over Iranian action in the Strait of Hormuz, there has been much less discussion of the country on the other side of the contested waterway: Oman. Over the course of the co…
@@ -37,7 +149,7 @@ Oman jumped 19 places in the Index of Economic Freedom, but recent talks with Te
 [Read Original Article Here](https://www.foxnews.com/opinion/irans-strait-hormuz-scheme-could-derail-gulf-nation-bright-future)
 ---
 
-## Article 5: Why is the cryptocurrency market slumping?
+## Article 19: Why is the cryptocurrency market slumping?
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.0772`
 
 Bitcoin is falling, yet cryptocurrency is spreading beyond investing into politics, sanctions and global finance. Bitcoin is falling, yet cryptocurrency is spreading beyond investing into politics, sanctions and global finance.The cryptocurrency market is now worth more than $2.23 trillion. Yet, Bitcoin has los…
@@ -45,123 +157,11 @@ Bitcoin is falling, yet cryptocurrency is spreading beyond investing into politi
 [Read Original Article Here](https://www.aljazeera.com/video/counting-the-cost/2026/7/9/why-is-the-cryptocurrency-market-slumping)
 ---
 
-## Article 6: US moves to delist Syria as a ‘state sponsor of terrorism’
+## Article 20: US moves to delist Syria as a ‘state sponsor of terrorism’
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.3612`
 
 President Trump announces a move to delist Syria, citing efforts by Ahmed al-Sharaa to unify the country. The United States says it will remove Syrias designation as a state sponsor of terrorism, a decades-old label that severely impeded investment, in a new vote of confidence in President Ahmed al-Shara…
 
 [Read Original Article Here](https://www.aljazeera.com/news/2026/7/8/us-moves-to-delist-syria-as-a-state-sponsor-of-terrorism)
----
-
-## Article 7: Democrat Rahm Emanuel tells Israel to no longer expect unconditional US aid
-**Source:** Al Jazeera English | **Sentiment Score:** `0.1531`
-
-Former Obama official is expected to run for president in 2028, with speech reflecting shifting Democratic sentiments. Democrat Rahm Emanuel, a former Chicago mayor who is expected to launch a 2028 presidential bid, has told Israel that it should no longer expect unconditional aid from the United States. His address…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/7/8/democrat-rahm-emanuel-tells-israel-to-no-longer-expect-unconditional-us-aid)
----
-
-## Article 8: US summer travel slumps under rising fares and fuel expenses
-**Source:** Al Jazeera English | **Sentiment Score:** `0.4522`
-
-US summer trips decline as 45 percent of Americans skip holidays due to soaring airfares and car travel expenses. The global travel industry, already weighed down by the ongoing tensions between the US, Israel and Iran, is being buffeted by more headwinds as United States President Donald Trump declared that the…
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/7/8/us-summer-travel-slumps-under-rising-fares-and-fuel-expenses)
----
-
-## Article 9: Fact check: Trump’s false claims at his NATO press conference
-**Source:** CNN | **Sentiment Score:** `-0.4215`
-
-President Donald Trump delivered another series of false claims at a press conference Wednesday at the NATO summit in Ankara. President Donald Trump delivered another series of false claims at a press conference Wednesday at the NATO summit in Ankara. His comments included some of the long-debunked lies he told the press w…
-
-[Read Original Article Here](https://www.cnn.com/2026/07/08/politics/fact-check-trump-nato-press-conference)
----
-
-## Article 10: Far-left candidate's past anti-meat activism clashes with campaign pivot in cattle country
-**Source:** Fox News | **Sentiment Score:** `0.0000`
-
-The Democratic candidate's history of veganism and climate action clashes with Colorado 8th district, a leading beef cattle and dairy producer. Manny Rutinel, a state legislator and Democratic candidate for Congress in Colorados 8th Congressional District, has a long track record of activism against ranching and other animal-related business…
-
-[Read Original Article Here](https://www.foxnews.com/politics/far-left-candidates-past-anti-meat-activism-clashes-campaign-pivot-cattle-country)
----
-
-## Article 11: Trump envoy warns China's power move at sea is threat 'we cannot afford to ignore'
-**Source:** Fox News | **Sentiment Score:** `0.3818`
-
-US Ambassador to UK Warren Stephens warned that China is weaponizing port infrastructure and supply chains as tools of political coercion against nations. China is using control over global seas as a tool of "political coercion," the U.S. ambassador to the United Kingdom warned, as President Donald Trump is restating his interest in Greenland for that …
-
-[Read Original Article Here](https://www.foxnews.com/politics/trump-envoy-warns-chinas-power-move-sea-threat-cannot-afford-ignore)
----
-
-## Article 12: Trump says 'Iran lies and cheats' as IRGC emerges as dominant force in negotiations with US
-**Source:** Fox News | **Sentiment Score:** `-0.9467`
-
-Trump declared the Iran deal effectively over after Tehran targeted U.S. military sites in Bahrain and Kuwait, threatening new infrastructure strikes. As President Donald Trump voiced growing frustration Wednesday with Iranian negotiators, accusing them of lying and cheating, the latest escalation has exposed an even more fundamental problem for Wa…
-
-[Read Original Article Here](https://www.foxnews.com/world/trump-says-iran-lies-cheats-irgc-emerges-dominant-force-negotiations-us)
----
-
-## Article 13: The Strait of Hormuz is now at the centre of Iranian and US calculus
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.7430`
-
-The fate of the strait is directly linked to what happens next to the world economy. On Tuesday, two tankers were attacked as they transited the Strait of Hormuz via a passage in Omani waters. Gulf countries responded by sharply condemning the attacks and blaming Iran. The United Sta…
-
-[Read Original Article Here](https://www.aljazeera.com/opinions/2026/7/8/the-strait-of-hormuz-is-now-at-the-centre-of-iranian-and-us-calculus)
----
-
-## Article 14: Far-right leader Le Pen starts campaign, faces mixed reactions in France
-**Source:** Al Jazeera English | **Sentiment Score:** `0.1280`
-
-A court ruling has allowed Le Pen to campaign despite embezzlement conviction, sparking heated debates across France. Far-right leader Marine Le Pen has launched her presidential campaign in western France, the day after an appeals court enabled her to run despite confirming her conviction for embezzling European Un…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/7/8/far-right-leader-le-pen-starts-campaign-faces-mixed-reactions-in-france)
----
-
-## Article 15: ‘There are risks’: Ex-India judge behind damning UN report on Gaza children
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.3612`
-
-Before he exposed Israel's deliberate targeting of Gaza children, Srinivasan Muralidhar took on Indian authorities. New Delhi, India In 2020, the Indian government transferred Srinivasan Muralidhar, a judge in New Delhi, to another court in the middle of the night in an alleged move to stop him from acting against…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/7/8/there-are-risks-ex-india-judge-behind-damning-un-report-on-gaza-children)
----
-
-## Article 16: Former acting DHS secretary warns Chinese criminal organizations are infiltrating America's hemp industry
-**Source:** Fox News | **Sentiment Score:** `-0.5994`
-
-Former acting DHS Secretary Chad Wolf urges Congress to investigate Chinese-linked actors' role in THC hemp products and illegal marijuana operations. Former acting Homeland Security Secretary Chad Wolf sent a letter to House lawmakers Tuesday urging them to investigate the "growing role that Chinese-linked actors and foreign criminal organizations…
-
-[Read Original Article Here](https://www.foxnews.com/politics/former-acting-dhs-secretary-warns-chinese-criminal-organizations-infiltrating-americas-hemp-industry)
----
-
-## Article 17: Why have US-Iran strikes resumed and what does it mean for peace?
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.7783`
-
-Both sides have accused each other of violating the memorandum of understanding signed in June. The United States launched dozens of strikes on Iran early on Wednesday in what it said was retaliation for Tehrans attacks on commercial ships in the highly contested Strait of Hormuz, sparking wide…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/7/8/why-have-us-iran-strikes-resumed-and-what-does-it-mean-for-peace-talks)
----
-
-## Article 18: Why have half a million Russians gone bankrupt amid Ukraine war?
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.7964`
-
-European intelligence report warns of strain on Russia's banks, but experts say a full-blown crisis is unlikely Half a million Russians declared bankruptcy last year as the countrys banking institutions bear the brunt of the cost of the war in Ukraine, a European intelligence report says this week. As the war…
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/7/8/why-have-half-a-million-russians-gone-bankrupt-amid-ukraine-war)
----
-
-## Article 19: Iran’s economy faces long road to recovery as fragile truce tested
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.4404`
-
-The devastation that industrial facilities have taken from two wars in a year might take years to reverse, say analysts. Tehran, Iran Three weeks after Iran and the United States signed a memorandum of understanding to extend their ceasefire, their truce remains fragile. Three tankers have been hit in the Strait of Ho…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/7/8/irans-economy-faces-long-road-to-recovery-as-fragile-truce-tested)
----
-
-## Article 20: Syria grapples with unrest as government faces old and new threats
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.4767`
-
-Damascus shaken by twin blasts during Macron's visit, marking heightened threats to Syria's fragile stability Damascus was rocked on Tuesday by explosions during a visit by French President Emmanuel Macron, the first European Union leader to visit the country since forces led by President Ahmed al-Sharaa dep…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/7/8/syria-grapples-with-unrest-as-government-faces-old-and-new-threats)
 ---
 
