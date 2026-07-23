@@ -1,11 +1,139 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-07-22 | **Status:** Automated
+**Date:** 2026-07-23 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: LIZ PEEK: The Trump economy is doing better than the media want to admit
+## Article 1: State Department rips revolutionary socialist Nicaraguan regime as far-left leader ends country's elections
+**Source:** Fox News | **Sentiment Score:** `-0.5423`
+
+Daniel Ortega declared Nicaragua will never hold elections again, prompting the State Department to condemn the Murillo-Ortega dictatorship. Nicaragua's co-president is taking intense heat from the State Department after the socialist revolutionary declared that the Central American country he rules alongside his wife will no longer hold …
+
+[Read Original Article Here](https://www.foxnews.com/politics/state-department-rips-revolutionary-socialist-nicaraguan-regime-far-left-leader-ends-countrys-elections)
+---
+
+## Article 2: The battle for Congress gets a Wall Street-style scoreboard powered by real-money bets
+**Source:** Fox News | **Sentiment Score:** `0.6289`
+
+Kalshi's new Midterms Hub combines live prediction markets with polling, fundraising data and historical results to track House, Senate and governor races. EXCLUSIVE: As the race for control of Congress heats up, prediction markets are emerging as an increasingly influential complement to traditional polling, offering real-time election forecasts that s…
+
+[Read Original Article Here](https://www.foxnews.com/politics/battle-congress-wall-street-style-scoreboard-powered-real-money-bets)
+---
+
+## Article 3: Rubio says US remains open to Iran talks but warns there 'will be consequences'
+**Source:** Fox News | **Sentiment Score:** `-0.8462`
+
+Secretary of State Marco Rubio warned Iran faces consequences for violating commitments, saying Tehran demands illegal control over the Strait of Hormuz. Secretary of State Marco Rubio said Wednesday that the United States remains willing to negotiate with Iran but warned there "will be consequences" if Tehran continues to violate its commitments. Sp…
+
+[Read Original Article Here](https://www.foxnews.com/politics/rubio-says-us-remains-open-iran-talks-warns-will-be-consequences)
+---
+
+## Article 4: Can Pakistan-administered Kashmir’s election overcome a violent summer?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.5423`
+
+After months of protests and a crackdown, Pakistan-administered Kashmir heads into elections clouded by uncertainty. Muzaffarabad, Pakistan-administered Kashmir: The traffic crawled beneath densely strung election bunting. Overhead hung the Pakistan Muslim League-Nawazs (PMLN) green tigers. Further down, Pakistan …
+
+[Read Original Article Here](https://www.aljazeera.com/features/2026/7/22/can-pakistan-administered-kashmirs-election-overcome-a-violent-summer)
+---
+
+## Article 5: India weighs letting airport owners run airlines to curb duopoly
+**Source:** Bloomberg | **Sentiment Score:** `0.2500`
+
+India considers allowing airport owners to operate airlines, potentially disrupting the duopoly held by IndiGo and Air India. India has initiated talks on a policy change that would allow airport operators to own and run airlines, according to people familiar with the matter, potentially clearing a path for the Adani Group …
+
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-07-22/india-weighs-letting-airport-owners-run-airlines-to-curb-duopoly)
+---
+
+## Article 6: Canada reportedly scraps joint bridge celebration with US after Trump renews tariff threat
+**Source:** Fox News | **Sentiment Score:** `-0.4215`
+
+Canada canceled a joint celebration for the Gordie Howe International Bridge, connecting Detroit to Windsor, Ontario, after President Donald Trump renewed tariff threats. Canada on Tuesday called off a joint celebration with the United States to mark the opening of the Gordie Howe International Bridge, following renewed tariff threats from President Donald Trump. The…
+
+[Read Original Article Here](https://www.foxnews.com/world/canada-reportedly-scraps-joint-bridge-celebration-us-trump-renews-tariff-threat)
+---
+
+## Article 7: Carney says he and Trump have agreed to ‘intensify’ trade negotiations
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.2732`
+
+Relations between Canada and its largest trading partner have been tested by Trump's repeated jibes, threats and tariffs Canadian Prime Minister Mark Carney said he and United States President Donald Trump have agreed to intensify trade negotiations, but warned he would consider all options if the tariffs Trump threate…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/7/21/carney-says-he-and-trump-have-agreed-to-intensify-trade-negotiations)
+---
+
+## Article 8: Trump just expanded his tariff playbook with a powerful trade weapon no president has ever used
+**Source:** Fox News | **Sentiment Score:** `-0.7096`
+
+Trump invoked Section 338 of the 1930 Tariff Act for the first time in history, imposing 50% tariffs on Canadian goods from wine to hockey sticks. President Donald Trump is opening a new chapter in his playbook by invoking a tariff authority that no previous president has ever used a move that could reshape future trade wars. Trump used a litt…
+
+[Read Original Article Here](https://www.foxnews.com/politics/trump-expanded-tariff-playbook-powerful-trade-weapon-no-president-used)
+---
+
+## Article 9: Netherlands to sanction trade with illegal Israeli settlements
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.8591`
+
+Dutch ban on Israeli goods from occupied territory comes as efforts to implement EU-wide sanctions remain stalled. The Netherlands is set to ban imports of goods from illegal Israeli settlements in the occupied Palestinian territories. The Dutch government announced the final approval of a decree on Tuesday. It …
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/7/21/netherlands-to-sanction-trade-with-illegal-israeli-settlements)
+---
+
+## Article 10: Trump may have endorsed Darline Graham, but GOP Senate hopefuls aren’t backing down
+**Source:** Fox News | **Sentiment Score:** `-0.1280`
+
+Trump's endorsement of Darline Graham faces a major test as Russell Fry, Ralph Norman, and others jump into the South Carolina GOP Senate nomination race. As the starting gun in the Republican race to succeed the late Sen. Lindsey Graham of South Carolina is officially fired, the showdown is shaping up as the latest test of President Donald Trump's imm…
+
+[Read Original Article Here](https://www.foxnews.com/politics/trump-may-have-endorsed-darline-graham-gop-senate-hopefuls-arent-backing-down)
+---
+
+## Article 11: Iranians struggle to get by amid US war and domestic woes
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.6705`
+
+People are facing mounting pressures, including rising living costs, electricity cuts and bombarded infrastructure. Tehran, Iran Each trip to the supermarket brings an unpleasant surprise for Leyla, a pensioner who lives in western Tehran. You find yourself comparing prices to just a few weeks or months ago, she …
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/7/21/iranians-struggle-to-get-by-amid-us-war-and-domestic-woes)
+---
+
+## Article 12: US eyes new tariffs as existing trade duties near expiration
+**Source:** Al Jazeera English | **Sentiment Score:** `0.4215`
+
+US Trade Rep Jamieson Greer hints at new tariffs on 60 trading partners as Trump's temporary tariffs expire on Friday. United States Trade Representative Jamieson Greer says a new round of tariffs could be on the way as US President Donald Trumps latest global duties are set to expire on Friday unless Congress acts.…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/7/21/us-eyes-new-tariffs-as-existing-trade-duties-near-expiration)
+---
+
+## Article 13: Trump’s new 50 percent Canada tariffs: What products are affected and why?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.7351`
+
+US leader imposes new sweeping tariffs on Canada, straining already tense ties with its second-largest trading partner. United States President Donald Trump has imposed new 50 percent tariffs on a range of Canadian goods, threatening to further strain ties with its second-largest trade partner. The tariffs, announced…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/7/21/trumps-new-50-percent-canada-tariffs-what-products-are-affected-and-why)
+---
+
+## Article 14: Dem Senate hopeful ripped as 'absentee legislator' after missing nearly 60% of votes
+**Source:** Fox News | **Sentiment Score:** `-0.4767`
+
+Ashley Hinson blasted Josh Turek for missing 58% of Iowa House votes while collecting over $20,000 in per diem as the Iowa Senate race heats up. A Democrat Senate hopeful viewed as critical to Senate Minority Leader Chuck Schumers bid to retake Senate control is drawing criticism over his attendance record. Rep. Ashley Hinson, R-Iowa, the Re…
+
+[Read Original Article Here](https://www.foxnews.com/politics/dem-senate-hopeful-ripped-absentee-legislator-after-missing-nearly-60-votes)
+---
+
+## Article 15: Fox News Power Rankings: Voters say they’re in economic pain, but will Democrats gain?
+**Source:** Fox News | **Sentiment Score:** `0.0000`
+
+A majority now disapprove of Trump's handling of the economy, with healthcare and housing topping voter cost concerns ahead of the 2026 midterms. About a year and a half ago, President Trump ended his comeback campaign by telling a Michigan audience he would make America affordable  again. Voters listened. Trump swept the swing states, made …
+
+[Read Original Article Here](https://www.foxnews.com/politics/fox-news-power-rankings-voters-say-theyre-economic-pain-democrats-gain)
+---
+
+## Article 16: Iran war: Look beyond stocks to understand state of economy, experts say
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.5423`
+
+Yields on 10-year US Treasury bills, a bellwether for inflation, are up 60 basis points since the start of the Iran war. The US-Israel war on Iran is escalating again and oil prices are on the rise, but experts say the real clues to the state of the economy lie beyond indices and those price points. The markets have b…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/7/21/iran-war-look-beyond-stocks-to-understand-state-of-economy-experts-say)
+---
+
+## Article 17: LIZ PEEK: The Trump economy is doing better than the media want to admit
 **Source:** Fox News | **Sentiment Score:** `-0.3182`
 
 Real wages are rising and income inequality is shrinking under Trump, yet 61% of Americans remain pessimistic about the economy's direction. President Donald Trump has a good story to tell on the economy; he should be telling it, because its a sure bet the liberal media will not. Consider the big picture: unemployment is low, real wages …
@@ -13,7 +141,7 @@ Real wages are rising and income inequality is shrinking under Trump, yet 61% of
 [Read Original Article Here](https://www.foxnews.com/opinion/liz-peek-trump-economy-doing-better-media-admit)
 ---
 
-## Article 2: Farage, Reform in ‘trouble’, as UK braces for crypto influence in politics
+## Article 18: Farage, Reform in ‘trouble’, as UK braces for crypto influence in politics
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.2263`
 
 Farage's crisis after revelations of substantial crypto donations prompts broader political questions over donor clout. Nigel Farage and his right-wing Reform UK party have been hit by a series of scandals following the disclosure of an undeclared personal gift of 5 million pounds ($6.7m) to the embattled politician b…
@@ -21,7 +149,7 @@ Farage's crisis after revelations of substantial crypto donations prompts broade
 [Read Original Article Here](https://www.aljazeera.com/news/2026/7/21/farage-reform-in-trouble-as-uk-braces-for-crypto-influence-in-politics)
 ---
 
-## Article 3: ‘Critic to Israel’: Document reveals how Israel scrutinised global NGOs
+## Article 19: ‘Critic to Israel’: Document reveals how Israel scrutinised global NGOs
 **Source:** Al Jazeera English | **Sentiment Score:** `0.5574`
 
 An internal government file obtained by Al Jazeera shows how Israel collected data on groups it suspected supported BDS. An official document obtained by Al Jazeera shows how Israel collected information on charities in 2013, singling out some of the worlds most well-known humanitarian organisations for their perceived…
@@ -29,139 +157,11 @@ An internal government file obtained by Al Jazeera shows how Israel collected da
 [Read Original Article Here](https://www.aljazeera.com/news/2026/7/21/critic-to-israel-document-reveals-how-israel-scrutinised-global-ngos)
 ---
 
-## Article 4: Goldman says Brent could top $120 if Hormuz disruptions persist
+## Article 20: Goldman says Brent could top $120 if Hormuz disruptions persist
 **Source:** Bloomberg | **Sentiment Score:** `-0.6124`
 
 Global energy markets have been jolted this month — with Brent surging back above $91 a barrel Brent crude could rally to more than $120 a barrel by the fourth quarter if disruptions to flows through the Strait of Hormuz persist, according to Goldman Sachs Group Inc., although thats not the ba…
 
 [Read Original Article Here](https://www.bloomberg.com/news/articles/2026-07-21/goldman-says-brent-could-top-120-if-hormuz-disruptions-persist)
----
-
-## Article 5: On Sebastia’s hilltop, Israelis and Palestinians are fighting over who owns the past and controls the present
-**Source:** CNN | **Sentiment Score:** `0.0000`
-
-From a remote hilltop just north of Nablus, the view stretches across the occupied West Bank. Israeli settlements, Palestinian villages, and the winding road... From a remote hilltop just north of Nablus, the view stretches across the occupied West Bank. Israeli settlements, Palestinian villages and the winding roads and checkpoints that connect and divide t…
-
-[Read Original Article Here](https://www.cnn.com/2026/07/21/middleeast/sebastias-israelis-palestinians-unesco-site-fight-intl)
----
-
-## Article 6: Who is driving diplomacy in the Horn of Africa and the Red Sea, and why?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.7650`
-
-A series of diplomatic consultations in Cairo underscores the Horn of Africa's growing strategic importance. Cairo, Egypt A series of diplomatic consultations in Cairo involving Egypt, Somalia, Eritrea and a senior US envoy reflects growing efforts to coordinate approaches to security challenges in the Horn…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/7/21/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why)
----
-
-## Article 7: New York far-left group claims reparations 'owed' as Blacks' median wealth 'nearly 15 times less' than Whites
-**Source:** Fox News | **Sentiment Score:** `0.3906`
-
-The NYCLU says Black New Yorkers hold nearly 15 times less median wealth than White residents, citing redlining and slavery's legacy in a new report. A prominent civil rights organization is pushing for statewide reparations, arguing that a historical debt is owed to Black New Yorkers due to deep wealth disparities rooted in the state's ties to sl…
-
-[Read Original Article Here](https://www.foxnews.com/media/new-york-far-left-group-claims-reparations-owed-blacks-median-wealth-nearly-15-times-less-whites)
----
-
-## Article 8: Trump imposes 50% US tariffs on some Canadian goods, citing discrimination
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.7717`
-
-Tariffs apply to Canadian wine, hockey sticks, cement, and other products, sparking fears of escalating trade tensions. US President Donald Trump will impose new 50 percent tariffs on many Canadian goods, claiming discriminatory treatment by Ottawa against US alcohol, automobile and dairy products. The tariffs, order…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/7/21/trump-imposes-50-us-tariffs-on-some-canadian-goods-citing-discrimination)
----
-
-## Article 9: Trump’s new 50% tariffs on Canada risk igniting a fresh trade war | CNN Business
-**Source:** CNN | **Sentiment Score:** `-0.8225`
-
-President Donald Trump is invoking a 1930 trade law to impose whopping 50% tariffs on certain Canadian goods. The move threatens a broader trade war with the United States’ second-top trading partner. President Donald Trump is invoking a 1930 trade law to impose whopping 50% tariffs on certain Canadian goods. The move threatens a broader trade war with the United States second-top trading partner.…
-
-[Read Original Article Here](https://www.cnn.com/2026/07/20/business/canada-tariffs-50-percent-trump)
----
-
-## Article 10: 5 things to know about Graham Platner ally poised to take on Susan Collins
-**Source:** Fox News | **Sentiment Score:** `-0.0516`
-
-Troy Jackson, a former Republican turned progressive, backs "Medicare-for-all" and abolishing ICE as he nears the Democratic Senate nomination in Maine. Former Maine Senate President Troy Jackson is on a glide path to replace now ex-candidate Graham Platner as the Democratic Senate nominee in the high-stakes showdown to face off with longtime Republi…
-
-[Read Original Article Here](https://www.foxnews.com/politics/5-things-know-about-graham-platner-ally-poised-take-susan-collins)
----
-
-## Article 11: US bases, ICE facilities targeted in Cuba-linked 24-hour activist mobilization plan
-**Source:** Fox News | **Sentiment Score:** `-0.8176`
-
-A rapid-response plan calls for protests at military bases, ICE facilities and federal buildings within 24 hours of any U.S. attack on Cuba. A new State Department report argues that Cuba has cultivated a network of American activist organizations that can be mobilized against U.S. policy, citing a publicly posted plan for protests at U.S…
-
-[Read Original Article Here](https://www.foxnews.com/politics/us-bases-ice-facilities-targeted-cuba-linked-24-hour-activist-mobilization-plan)
----
-
-## Article 12: Since Islamabad MoU: What’s changed for the US, Iran and the Gulf?
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.4939`
-
-We explain how the war has changed for all the parties since their MoU unravelled and as the conflict has escalated. For the ninth consecutive night, the United States mounted attacks on Irans defence facilities and maritime capabilities into the early hours of Monday, with Tehran hitting back in tit-for-tat strike…
-
-[Read Original Article Here](https://www.aljazeera.com/features/2026/7/20/since-islamabad-mou-whats-changed-for-the-us-iran-and-the-gulf)
----
-
-## Article 13: Don’t believe Andy Burnham’s PR machine
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.6705`
-
-As his empty Gaza apology clearly demonstrates, he will not bring the radical change Labour really needs. On Monday, former Mayor of Manchester Andy Burnham is officially stepping into office as British prime minister after public pressure forced Keir Starmer to resign from the post. The change comes at …
-
-[Read Original Article Here](https://www.aljazeera.com/opinions/2026/7/20/dont-believe-andy-burnhams-pr-machine)
----
-
-## Article 14: Trump Jr.’s 1789 fund invests in companies that have scored billions in federal funding | CNN Politics
-**Source:** CNN | **Sentiment Score:** `-0.1779`
-
-Companies backed by 1789 Capital, Trump Jr.’s investment firm, have increased their federal funding under the Trump administration, CNN found. A short drive from President Donald Trumps Mar-a-Lago Club, in a small office a block from the beach, sits the headquarters of 1789 Capital, a firm founded just a few years ago with plans to invest i…
-
-[Read Original Article Here](https://www.cnn.com/2026/07/20/politics/trump-jr-investments-federal-funding-invs)
----
-
-## Article 15: AMB. GORDON SONDLAND: Europe can’t condemn Iran, then complain when Trump finally acts to stop it
-**Source:** Fox News | **Sentiment Score:** `-0.9552`
-
-Iran's nuclear program, proxy warfare through Hezbollah and Houthis, and ballistic missiles all threaten Europe, yet leaders avoid hard decisions. European leaders have spent years warning that Iran must never be permitted to acquire a nuclear weapon. They have condemned Tehrans ballistic-missile program, its financing of terrorism, its use of …
-
-[Read Original Article Here](https://www.foxnews.com/opinion/amb-gordon-sondland-europe-cant-condemn-iran-then-complain-when-trump-finally-acts-stop-it)
----
-
-## Article 16: Bezos backs AI startup to discover new materials for chipmaking
-**Source:** Bloomberg | **Sentiment Score:** `0.6124`
-
-Chad Edwards, CuspAI’s co-founder and chief executive, said much of that funding will go towards supporting labs with foundry partners in Cambridge, Singapore and the San Francisco Bay area Producing the worlds most in-demand semiconductors requires enormous amounts of energy and access to rare minerals. CuspAI, a two-year-old British startup, has raised nearly half a billion dollars on…
-
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-07-20/bezos-backs-startup-focused-on-material-discovery-for-chipmaking)
----
-
-## Article 17: RBI intervenes to support rupee as currency nears record low
-**Source:** Bloomberg | **Sentiment Score:** `-0.8720`
-
-RBI intervenes in forex markets to stabilize the rupee as it approaches record lows amid rising crude oil prices. Indias central bank stepped into the foreign exchange markets to support the rupee after the currency weakened toward a record low as a renewed surge in crude prices weighed on sentiment. The Reserv…
-
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-07-20/rbi-intervenes-to-support-rupee-as-currency-nears-record-low)
----
-
-## Article 18: Andy Burnham to become UK’s PM on Monday: What happens next?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.2960`
-
-Andy Burnham will become UK prime minister. Here's how the transition of power will unfold. Andy Burnham, nicknamed the King of the North, will become the UKs next prime minister on Monday after winning the Labour leadership following Keir Starmers resignation. Burnham left Westminster nea…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/7/20/andy-burnham-to-become-uks-pm-on-monday-what-happens-next)
----
-
-## Article 19: Platner ally Troy Jackson locks down delegates as top rivals for Democratic Senate nomination drop out
-**Source:** Fox News | **Sentiment Score:** `0.5859`
-
-Troy Jackson locked up delegates after rivals Shenna Bellows and Nirav Shah dropped out of the race to replace Graham Platner against Susan Collins. Former Maine Senate President Troy Jackson appears to have locked up enough delegates to win the abbreviated race to replace now ex-candidate Graham Platner as the Democratic Senate nominee in the hi…
-
-[Read Original Article Here](https://www.foxnews.com/politics/platner-ally-troy-jackson-locks-down-delegates-top-rivals-democratic-senate-nomination-drop-out)
----
-
-## Article 20: Andy Burnham’s in-tray: The challenges facing the new UK PM
-**Source:** Al Jazeera English | **Sentiment Score:** `0.7845`
-
-Andy Burnham will become Britain's next prime minister on Monday, with huge challenges and opportunities. Andy Burnham, who becomes the United Kingdoms next prime minister on Monday, faces a roster of challenges as the countrys seventh leader in a decade. Burnham was overwhelmingly backed as Labour lead…
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/7/19/andy-burnhams-in-tray-the-challenges-facing-the-new-uk-pm)
 ---
 
