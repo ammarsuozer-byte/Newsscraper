@@ -1,11 +1,91 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-08-11 | **Status:** Automated
+**Date:** 2026-08-12 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: Global stock rally extends, oil advances on Iran: Markets Wrap
+## Article 1: Markets are still trying to figure out the Fed’s next move | CNN Business
+**Source:** CNN | **Sentiment Score:** `-0.2732`
+
+Volatile job numbers, stubborn inflation and changes to the Fed’s communications style are all stirring up uncertainty in markets and raising the stakes for upcoming economic data releases — including this week’s inflation report. Will the Federal Reserve raise interest rates or hold them steady at its meeting next month? For the market, its a coin flip: Odds of a rate hike in September are near 50%, while odds of keeping rat…
+
+[Read Original Article Here](https://www.cnn.com/2026/08/11/business/fed-markets-kevin-warsh)
+---
+
+## Article 2: Intel raises $20 billion in upsized share sale to fund AI plans
+**Source:** Bloomberg | **Sentiment Score:** `0.9136`
+
+Intel raises $20 billion in a share sale to boost AI initiatives, reflecting strong investor demand amid tech industry growth. Intel Corp. raised $20 billion in an upsized share sale, a third more than it was targeting when it announced the deal Monday morning. The chipmaker priced the offering at $95 per share, according t…
+
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-08-10/intel-is-said-to-near-share-sale-upsize-to-raise-20-billion)
+---
+
+## Article 3: HDFC leads Indian private banks’ push to raise billions overseas
+**Source:** Bloomberg | **Sentiment Score:** `0.0258`
+
+HDFC Bank plans to raise as much as $1 billion through a dollar bond sale and is in talks with foreign lenders to arrange the sale that could take place in the next few weeks Indias private lenders, including the largest, HDFC Bank Ltd., are planning to raise up to $3 billion through dollar bonds or loans, according to people familiar with the matter, tapping a central ba…
+
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-08-11/hdfc-leads-indian-private-banks-push-to-raise-billions-overseas)
+---
+
+## Article 4: RBI chief urges lenders to accelerate AI spend
+**Source:** Bloomberg | **Sentiment Score:** `-0.6124`
+
+The central bank Governor, however, warned that AI use entailed risks including biased or opaque decision, besides data privacy and cybersecurity threats Indian lenders need to accelerate adoption of artificial intelligence by investing in technology and infrastructure besides training workers to upskill, central bank Governor Sanjay Malhotra said Tue…
+
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-08-11/india-s-banking-regulator-urges-lenders-to-accelerate-ai-spend)
+---
+
+## Article 5: Trump bets economic pressure can squeeze Iran as regime’s own failures deepen the pain
+**Source:** Fox News | **Sentiment Score:** `-0.4767`
+
+President Donald Trump says he is "low-keying it" with Iran as sanctions and a naval blockade compound Tehran's financial crisis and inflation. President Donald Trump is signaling, at least for now, he is prepared to let mounting economic pressure on Iran do more of the work rather than immediately expand military action against Tehran. "We…
+
+[Read Original Article Here](https://www.foxnews.com/world/trump-bets-economic-pressure-can-squeeze-iran-regimes-own-failures-deepen-pain)
+---
+
+## Article 6: Oil prices, stocks surge as Hormuz closure drags on
+**Source:** Al Jazeera English | **Sentiment Score:** `0.8674`
+
+US petrol prices dropped nine cents last week but could again surge if the strait closure continues, analysts warn. Oil prices are surging as hopes dwindle that the Strait of Hormuz may reopen. The increase follows a dip last week as Tehran called on the United States to meet several demands, including ending mili…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/8/10/oil-prices-stocks-surge-as-hormuz-closure-drags-on)
+---
+
+## Article 7: Darline Graham details how she'd forge own path in Senate while carrying on brother Lindsey's legacy
+**Source:** Fox News | **Sentiment Score:** `0.8625`
+
+Darline Graham says she shares South Carolina families' struggles with gas, groceries and health care as she campaigns ahead of Tuesday's special election. Sen. Darline Graham, R-S.C., isn't trying to be a carbon copy of her late brother Lindsey, but as she vies for the opportunity to fill his Senate seat long-term, she's determined to carry on his lega…
+
+[Read Original Article Here](https://www.foxnews.com/media/darline-graham-details-forge-own-path-senate-carrying-brother-lindsey-legacy)
+---
+
+## Article 8: What’s behind Trump’s shift to economic pressure on Iran? Will it work?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.9201`
+
+Months into the war, Trump is returning to squeezing Iran's economy rather than military offensive for now. More than 23 weeks into the war on Iran, United States President Donald Trump has signalled he would rather rely on squeezing Tehrans economy than returning to a military offensive, as he had warned …
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/8/10/whats-behind-trumps-shift-to-economic-pressure-on-iran-will-it-work)
+---
+
+## Article 9: Vulnerable battleground Dem embraces 'no tax on tips' after voting against Trump bill
+**Source:** Fox News | **Sentiment Score:** `0.1280`
+
+Gabriel Vasquez voted against the big beautiful bill's no tax on tips provision, then called for a permanent version through his TIPS Act weeks later. Rep. Gabriel Vasquez, D-N.M., voted against the package that implemented President Donald Trumps "no tax on tips" law despite calling for a permanent implementation of the policy just a month later.…
+
+[Read Original Article Here](https://www.foxnews.com/politics/battleground-democrat-embraces-no-tax-tips-voting-against-trump-bill)
+---
+
+## Article 10: A quiet rush for gold is sweeping the globe — here's why countries are stockpiling it
+**Source:** Fox News | **Sentiment Score:** `-0.8779`
+
+A record 45% of central banks plan to add gold reserves as governments worldwide brace for persistent inflation and geopolitical uncertainty. As wars spread, trade tensions escalate and inflation remains stubbornly high, governments around the world are quietly buying more gold, a sign many are preparing for a future they believe will be m…
+
+[Read Original Article Here](https://www.foxnews.com/politics/quiet-rush-gold-sweeping-globe-why-countries-stockpiling)
+---
+
+## Article 11: Global stock rally extends, oil advances on Iran: Markets Wrap
 **Source:** Bloomberg | **Sentiment Score:** `0.8481`
 
 Global stocks traded near a record high as Asian shares tracked Wall Street higher after soft US jobs data eased expectations for a Federal Reserve interest-rate hike Global stocks traded near a record high as Asian shares tracked Wall Street higher after soft US jobs data eased expectations for a Federal Reserve interest-rate hike. Oil extended gains as Iran reje…
@@ -13,7 +93,7 @@ Global stocks traded near a record high as Asian shares tracked Wall Street high
 [Read Original Article Here](https://www.bloomberg.com/news/articles/2026-08-09/stock-market-today-dow-s-p-live-updates)
 ---
 
-## Article 2: Trump signals shift to economic pressure on Iran over new military strikes
+## Article 12: Trump signals shift to economic pressure on Iran over new military strikes
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.0258`
 
 US relying on sanctions and naval blockade as oil prices stabilise, easing economic strain on American consumers. United States President Donald Trump has said Washington is relying on economic pressure rather than new military strikes to push Iran towards making a deal. We are low-keying it, Trump said in an A…
@@ -21,7 +101,7 @@ US relying on sanctions and naval blockade as oil prices stabilise, easing econo
 [Read Original Article Here](https://www.aljazeera.com/economy/2026/8/10/trump-signals-shift-to-economic-pressure-on-iran-over-new-military-strikes)
 ---
 
-## Article 3: Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz
+## Article 13: Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.7003`
 
 Brent crude prices rise as Tehran says critical waterway will not reopen without major US concessions. Oil prices are climbing higher as Irans latest demands for reopening the Strait of Hormuz dampen hopes for a return to stability in global energy markets. Brent crude, the international benchmark, r…
@@ -29,7 +109,7 @@ Brent crude prices rise as Tehran says critical waterway will not reopen without
 [Read Original Article Here](https://www.aljazeera.com/economy/2026/8/10/oil-prices-climb-as-iranian-demands-cloud-outlook-for-strait-of-hormuz)
 ---
 
-## Article 4: India’s NPCI targets 15-20 overseas markets to expand UPI globally
+## Article 14: India’s NPCI targets 15-20 overseas markets to expand UPI globally
 **Source:** Bloomberg | **Sentiment Score:** `0.3182`
 
 NPCI plans to expand UPI across 15-20 overseas markets, targeting Indian diaspora payments while exploring Japan, Malaysia, Bahrain and AI-enabled transactions. The operator of Indias ubiquitous mobile payments network plans to tap the countrys vast overseas diaspora as a springboard for global expansion, aiming to make the platform a preferred way to transa…
@@ -37,7 +117,7 @@ NPCI plans to expand UPI across 15-20 overseas markets, targeting Indian diaspor
 [Read Original Article Here](https://www.bloomberg.com/news/articles/2026-08-10/india-s-upi-payments-developer-targets-diaspora-for-growth)
 ---
 
-## Article 5: What now as Israel rejects Trump’s 15-point plan for Gaza?
+## Article 15: What now as Israel rejects Trump’s 15-point plan for Gaza?
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.1280`
 
 As Netanyahu demands 'genuine' Hamas disarmament before considering pull-out from Gaza, a look at what happens next. Israeli Prime Minister Benjamin Netanyahu has rejected United States President Donald Trumps 15-point plan for Gaza, saying that Israeli forces will not withdraw until Hamas is genuinely disarmed. I…
@@ -45,7 +125,7 @@ As Netanyahu demands 'genuine' Hamas disarmament before considering pull-out fro
 [Read Original Article Here](https://www.aljazeera.com/news/2026/8/9/what-now-as-israel-rejects-trumps-15-point-plan-for-gaza)
 ---
 
-## Article 6: The Mecca pact is not just another regional alliance
+## Article 16: The Mecca pact is not just another regional alliance
 **Source:** Al Jazeera English | **Sentiment Score:** `0.6486`
 
 It could set the stage for a profound transformation of regional security in the Gulf. The joint defence agreement signed by Saudi Arabia, Turkiye, and Pakistan in Mecca on Friday is not another entry in a region already crowded with alliances and communiques. Its significance lies les…
@@ -53,7 +133,7 @@ It could set the stage for a profound transformation of regional security in the
 [Read Original Article Here](https://www.aljazeera.com/opinions/2026/8/9/the-mecca-pact-is-not-just-another-regional-alliance)
 ---
 
-## Article 7: Is Danielle Smith About to Break Up Canada?
+## Article 17: Is Danielle Smith About to Break Up Canada?
 **Source:** Politico | **Sentiment Score:** `-0.4696`
 
 The Alberta premier called a referendum that could begin the process of secession from Canada. Will she regret it? What on earth was Danielle Smith thinking? The premier of oil-rich Alberta, Smith has long delighted in ticking off her enemies in Canada's faraway capital of Ottawa. She's a conservative populist k…
@@ -61,7 +141,7 @@ The Alberta premier called a referendum that could begin the process of secessio
 [Read Original Article Here](https://www.politico.com/news/magazine/2026/08/09/canada-alberta-separatists-danielle-smith-01018071)
 ---
 
-## Article 8: Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?
+## Article 18: Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?
 **Source:** Al Jazeera English | **Sentiment Score:** `0.9378`
 
 The Iranian president calls for an end to deadlock with the US, declaring it the right moment for a lasting agreement. Iranian President Masoud Pezeshkian has called for an end to what he describes as a state of neither war nor peace with the United States as negotiators seek an agreement to end the war. Pezeshkian …
@@ -69,7 +149,7 @@ The Iranian president calls for an end to deadlock with the US, declaring it the
 [Read Original Article Here](https://www.aljazeera.com/news/2026/8/9/why-is-pezeshkian-urging-an-end-to-irans-no-war-no-peace-status)
 ---
 
-## Article 9: It won’t be Trump who kills the ICC
+## Article 19: It won’t be Trump who kills the ICC
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.7506`
 
 It would be the International Criminal Court’s alleged supporters who refuse to take action to defend it. The International Criminal Court (ICC) is once again under attack from the United States. The reason behind Washingtons efforts to dismantle the institution is simple: an insistence that the US enjoy…
@@ -77,91 +157,11 @@ It would be the International Criminal Court’s alleged supporters who refuse t
 [Read Original Article Here](https://www.aljazeera.com/opinions/2026/8/9/it-wont-be-trump-who-kills-the-icc)
 ---
 
-## Article 10: Ghana’s cashew apples get a second life
+## Article 20: Ghana’s cashew apples get a second life
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.2023`
 
 A fruit long left to rot could become a new source of income for Ghana’s cashew farmers. Sunyani, Ghana At harvest time in Ghanas cashew-growing communities, the ground beneath the trees tells a familiar story. While farmers carefully collect the nuts that will be sold to buyers, the fl…
 
 [Read Original Article Here](https://www.aljazeera.com/news/2026/8/9/ghanas-cashew-apples-get-a-second-life)
----
-
-## Article 11: Trump has squandered Republicans’ typical advantages in 2 key areas
-**Source:** CNN | **Sentiment Score:** `-0.5515`
-
-President Donald Trump’s political stature is so poor right now that he has squandered the Republican Party’s typical advantage on both the economy and natio... President Donald Trump's political stature is so poor right now that he has squandered the Republican Party's advantage on two major issues that almost always favor the GOP: the economy and national …
-
-[Read Original Article Here](https://www.cnn.com/2026/08/09/politics/trump-poll-economy-national-security)
----
-
-## Article 12: Serbia and Ukraine pledge closer economic ties, eye free trade deal
-**Source:** Al Jazeera English | **Sentiment Score:** `0.8834`
-
-Serbia says it will help rebuild Ukrainian cities and provide aid as the two countries deepen cooperation. Serbia and Ukraine have agreed to deepen economic cooperation, with both sides pledging to finalise a long-stalled free trade agreement by the end of the year as Serbian President Aleksandar Vucic ho…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/8/8/serbia-and-ukraine-pledge-closer-economic-ties-eye-free-trade-deal)
----
-
-## Article 13: Colorado's socialist surge shakes up the Democratic establishment
-**Source:** Fox News | **Sentiment Score:** `-0.8126`
-
-A veteran Colorado political insider warned the Democratic Socialists' rise in Denver mirrors the MAGA movement and could become a cancer for Democrats. Democratic socialist candidate Melat Kiros shocked Colorados Democratic establishment when she defeated 15-term incumbent Rep. Diana DeGette in the state's June primary. The double-digit win exposed …
-
-[Read Original Article Here](https://www.foxnews.com/media/colorados-socialist-surge-shakes-democratic-establishment)
----
-
-## Article 14: ‘It’s been chaotic’: Trump’s immigration crackdown prompts worries from industry groups | CNN Politics
-**Source:** CNN | **Sentiment Score:** `-0.8074`
-
-Industry groups ranging from construction to agriculture are raising concerns with the Trump administration over its ongoing immigration crackdown, arguing it is undercutting President Donald Trump’s agenda and weakening the economy, according to multiple gro… Industry groups ranging from construction to agriculture are raising concerns with the Trump administration over its ongoing immigration crackdown, arguing it is undercutting President Donald Trumps …
-
-[Read Original Article Here](https://www.cnn.com/2026/08/08/politics/immigration-enforcement-worksites-industry-lobbying)
----
-
-## Article 15: FDA investigates nationwide foodborne outbreaks | Fox News Video
-**Source:** Fox News | **Sentiment Score:** `0.1280`
-
-Fox News senior correspondent Jonathan Serrie reports on the CDC’s efforts to secure a complex global supply chain on ‘Special Report.' ©2026 Fox News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes.
-
-[Read Original Article Here](https://www.foxnews.com/video/6403025830112)
----
-
-## Article 16: Trump ally 'El Tigre' sworn in as Colombia's new president amid continent's rightward shift
-**Source:** Fox News | **Sentiment Score:** `-0.6249`
-
-Abelardo de la Espriella inherits soaring violence, a fragmented Congress and a USD 34 billion financing gap as he vows to rebuild U.S. ties. Colombia entered a new political chapter as conservative President Abelardo de la Espriella was sworn into office Friday, pledging to reverse much of former President Gustavo Petros left-wing agenda …
-
-[Read Original Article Here](https://www.foxnews.com/world/trump-ally-el-tigre-sworn-colombias-new-president-amid-continents-rightward-shift)
----
-
-## Article 17: US intel assesses Putin could launch attack aimed at testing NATO unity
-**Source:** CNN | **Sentiment Score:** `0.3400`
-
-Recent US intelligence assessments indicate Russian President Vladimir Putin could try to test NATO’s resolve by launching a limited attack on an allied coun... Recent US intelligence assessments indicate Russian President Vladimir Putin could try to test NATO's resolve by launching a limited attack on an allied country within the next few years, according t…
-
-[Read Original Article Here](https://www.cnn.com/2026/08/07/politics/us-intelligence-russia-putin-nato-attack)
----
-
-## Article 18: Senate passes Russia sanctions bill
-**Source:** CNN | **Sentiment Score:** `0.5859`
-
-The Senate on Friday passed a major Russia sanctions bill, named for the late Sen. Lindsey Graham, who played a key role in the painstaking negotiations over the legislation that lasted over a year. The Senate on Friday passed a major Russia sanctions bill, named for the late Sen. Lindsey Graham, who played a key role in the painstaking negotiations over the legislation that lasted over a year.…
-
-[Read Original Article Here](https://www.cnn.com/2026/08/07/politics/senate-russia-sanctions-bill)
----
-
-## Article 19: Lindsey Graham's final mission to punish Putin clears Senate after yearlong fight
-**Source:** Fox News | **Sentiment Score:** `0.6249`
-
-The sanctions bill targets Russia's oil and gas revenue with up to 500% tariffs on Russian imports and penalties on countries buying Russian energy. Its taken well over a year of stops, starts, promises and derailments, but the Senate has at last advanced a bone-crushing package of sanctions against Russia, capping off one of the late Sen. Lindse…
-
-[Read Original Article Here](https://www.foxnews.com/politics/lindsey-grahams-final-mission-punish-putin-clears-senate-after-yearlong-fight)
----
-
-## Article 20: Hun Manet is refining Cambodia’s authoritarian model
-**Source:** Al Jazeera English | **Sentiment Score:** `0.8712`
-
-The PM has made repression less visible and more sophisticated, strengthening the authoritarian system he inherited. When Hun Sen handed Cambodias premiership to his eldest son, Hun Manet, in August 2023, many diplomats and regional observers saw the succession as an opportunity for change. The carefully stage-mana…
-
-[Read Original Article Here](https://www.aljazeera.com/opinions/2026/8/7/hun-manet-is-refining-cambodias-authoritarian-model)
 ---
 
