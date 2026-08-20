@@ -1,11 +1,131 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-08-19 | **Status:** Automated
+**Date:** 2026-08-20 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: MCX plans India coal and ore exchanges to boost price discovery
+## Article 1: Max Miller insists he can win again — but warns in court filings he’s bleeding union support and cash
+**Source:** Politico | **Sentiment Score:** `-0.3818`
+
+The Ohio Republican’s Democratic opponent, ironworker Brian Poindexter, has centered workers’ rights in his campaign. GOP Rep. Max Miller is fretting that the loss of support from a key constituency could damage his reelection prospects even as his party base continues to stand with him in spite of serious allegatio…
+
+[Read Original Article Here](https://www.politico.com/news/2026/08/19/max-miller-insists-he-can-win-again-but-warns-in-court-filings-hes-bleeding-union-support-and-cash-01041212)
+---
+
+## Article 2: Energy stocks hit record as oil rises on fading deal hopes
+**Source:** Bloomberg | **Sentiment Score:** `0.4588`
+
+The S&P 500 Energy Sector Index climbed 1.8% on Tuesday, marking the first all-time high for the gauge since March 27 Energy stocks closed at the first record since March as investors see diminishing prospects for a near-term ceasefire in the Iran war that could ease the standoff in the crucial Strait of Hormuz. Th…
+
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-08-18/energy-stocks-soar-to-record-as-oil-rises-on-trump-s-hard-line)
+---
+
+## Article 3: UAE imposes indefinite trade embargo on Iran over alleged missile attacks
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.7351`
+
+Iran denies launching missiles at the UAE, suggesting the incident was a 'false flag operation'. The United Arab Emirates has imposed an indefinite trade embargo on Iran after accusing Iranian forces of firing two ballistic missiles at the country, an allegation Tehran denies. In a statement ea…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/8/19/uae-imposes-indefinite-trade-embargo-on-iran-over-alleged-missile-attacks)
+---
+
+## Article 4: Democrats pick their fighter for uphill bid to flip deep-red Senate seat
+**Source:** Fox News | **Sentiment Score:** `-0.2732`
+
+James Byrd defeated Billy Benavidez in Wyoming's Democratic primary for the open Senate seat after Cynthia Lummis announced she won't seek reelection. Former state representative James Byrd advanced Tuesday against former golf club greenskeeper Billy Benavidez in Wyomings Democratic primary race for the newly opened Senate seat. Incumbent Republic…
+
+[Read Original Article Here](https://www.foxnews.com/politics/democrats-pick-fighter-uphill-bid-flip-deep-red-senate-seat)
+---
+
+## Article 5: US refineries taking in half of Venezuela’s oil output, official says
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.1280`
+
+US official says Venezuela is sending 500,000 of its 1.25 million barrels per day output to Gulf Coast refineries. Venezuela is exporting about half of its oil output to the United States, according to a senior US official, seven months after Washington abducted President Nicolas Maduro and installed an interim g…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/8/19/venezuela-oil-exports-surge-with-us-refineries-taking-in-half-of-output)
+---
+
+## Article 6: Your favorite cocktail could be an unexpected casualty of Trump's looming trade fight
+**Source:** Fox News | **Sentiment Score:** `-0.9186`
+
+President Donald Trump's 50% tariff threat on Canadian spirits could devastate U.S. bars and restaurants while pressuring Canada to restock bourbon. President Donald Trump's latest trade fight with Canada could soon spill into your cocktail glass, with a looming 50% tariff on Canadian spirits putting bars, restaurants and liquor stores on edge. …
+
+[Read Original Article Here](https://www.foxnews.com/politics/your-favorite-cocktail-could-unexpected-casualty-trumps-looming-trade-fight)
+---
+
+## Article 7: Rubio’s GOP successor clears key hurdle to finish his six-year Senate term
+**Source:** Fox News | **Sentiment Score:** `-0.4588`
+
+Trump-backed Sen. Ashley Moody, R-Fla., defeated her challengers in Florida's GOP Senate primary to keep Marco Rubio's former seat through 2029. Sen. Ashley Moody, R-Fla., won Floridas GOP Senate primary Tuesday, clearing a key hurdle in her bid to finish the final two years of Secretary of State Marco Rubios six-year Senate term. The Trump-…
+
+[Read Original Article Here](https://www.foxnews.com/politics/rubios-gop-successor-clears-key-hurdle-finish-his-six-year-senate-term)
+---
+
+## Article 8: Iran’s gutted ranks leave loyalists filling critical posts — with one glaring problem
+**Source:** Fox News | **Sentiment Score:** `-0.5267`
+
+Iran appoints IRGC veterans of the Islamic Revolution and Iran-Iraq War to top posts, raising questions about its shrinking circle of commanders. Iran is rebuilding the upper ranks of its military and security establishment after months of wartime losses by turning largely to familiar veterans figures whose careers in some cases stretch back t…
+
+[Read Original Article Here](https://www.foxnews.com/world/irans-gutted-ranks-leave-loyalists-filling-critical-posts-one-glaring-problem)
+---
+
+## Article 9: Iran prepares to keep economy alive as US threatens further sanctions
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.4019`
+
+Iran’s authorities say they could shift to offensive operations as Washington considers further sanctions. Amid trade embargoes, asset freezes and attacks on ships as part of a naval blockade, Washington has announced a plan to enact a new wave of restrictions on Iran, targeting its economy. Treasury Sec…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/8/18/iran-prepares-to-keep-economy-alive-as-us-threatens-further-sanctions)
+---
+
+## Article 10: Trump’s affordability plan faces conservative pushback as pocketbook issues loom over midterms
+**Source:** Fox News | **Sentiment Score:** `0.9022`
+
+Advancing American Freedom says government zoning rules and energy regulations are why Americans can't afford homes, and offers 10 policy fixes. FIRST ON FOX: As Americans grapple with soaring housing, food and energy costs, both parties are racing to convince voters they have the answer to the affordability crunch ahead of the high-stakes mi…
+
+[Read Original Article Here](https://www.foxnews.com/politics/trumps-affordability-plan-faces-conservative-pushback-pocketbook-issues-loom-midterms)
+---
+
+## Article 11: Hichilema re-elected as Zambia president amid opposition concerns over vote
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.1406`
+
+Hakainde Hichilema’s second term will test whether economic recovery can deliver real change for Zambians. Lusaka, Zambia Hakainde Hichilema has been re-elected as Zambias president after defeating opposition challenger Brian Mundubile by more than one million votes, but his victory comes amid opposition …
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/8/18/hichilema-re-elected-as-zambia-president-amid-opposition-concerns-over-vote)
+---
+
+## Article 12: Fox News Power Rankings: As Democrats turn left, Black voters tap the brakes
+**Source:** Fox News | **Sentiment Score:** `0.9186`
+
+Trump's declining approval rating is pushing Hispanic and young voters back to Democrats, but Black voter erosion remains a major challenge. President Trumps return to office was made possible in part because of increasing support  from three traditionally Democratic groups: Hispanic voters (41% supported Trump, a 6-point improvement fro…
+
+[Read Original Article Here](https://www.foxnews.com/politics/fox-news-power-rankings-democrats-turn-left-black-voters-tap-brakes)
+---
+
+## Article 13: Why has Trump threatened to bomb Oman – for a second time?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.6124`
+
+The US president threatened to bomb Oman over Hormuz, with US-Iran peace negotiations in a deadlock. United States President Donald Trump has threatened to bomb Oman if it gets in the way of a peace deal between the US and Iran. Oman is currently negotiating with Iran over the reopening of the crit…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/8/18/why-has-trump-threatened-to-bomb-oman-for-a-second-time)
+---
+
+## Article 14: Omar's GOP challenger comes out firing with vow to clean up 'mess' in deep blue district: 'People are fed up'
+**Source:** Fox News | **Sentiment Score:** `-0.5719`
+
+John Nagel, a 30-year state trooper who won the Republican primary, says Minnesota voters of all backgrounds are fed up with fraud under Ilhan Omar. MINNEAPOLIS Rep. Ilhan Omar, D-Minn., officially has a Republican challenger who is making the case that Minnesota voters are "fed up" with fraud and dysfunction and are ready for a change as he look…
+
+[Read Original Article Here](https://www.foxnews.com/politics/omars-gop-challenger-comes-firing-vow-clean-mess-deep-blue-district-people-fed)
+---
+
+## Article 15: To win in November, Republicans need to take a page from Obama’s playbook
+**Source:** Fox News | **Sentiment Score:** `0.2382`
+
+Republicans face a tough November with Trump's approval below 40%, but Barack Obama's 2012 reelection playbook offers a potential path forward. If history is any guide, Republicans could be in store for a beating at the ballot box in November. President Donald Trumps average approval rating has dipped below 40%, while his disapproval rating…
+
+[Read Original Article Here](https://www.foxnews.com/opinion/win-november-republicans-take-page-obamas-playbook)
+---
+
+## Article 16: MCX plans India coal and ore exchanges to boost price discovery
 **Source:** Bloomberg | **Sentiment Score:** `0.8555`
 
 Sellers and buyers will be allowed to trade physical delivery contracts through centralized electronic platforms, creating a more transparent pricing system and improving supply chain efficiency Multi Commodity Exchange of India Ltd. plans to invest as much as 2 billion rupees ($21 million) to start coal and minerals trading platforms as the government opens up the sectors to improve price d…
@@ -13,7 +133,7 @@ Sellers and buyers will be allowed to trade physical delivery contracts through 
 [Read Original Article Here](https://www.bloomberg.com/news/articles/2026-08-17/mcx-plans-india-coal-mineral-exchanges-to-boost-price-discovery)
 ---
 
-## Article 2: Top Russian economist ousted after warning of growing costs of Ukraine war
+## Article 17: Top Russian economist ousted after warning of growing costs of Ukraine war
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.5423`
 
 Andrey Klepach, top economist at Russia's state development bank VEB, had warned Russia was lagging behind rivals. Andrey Klepach has been removed as the chief economist at Russias state development bank VEB, Russian media reported, after a speech was made public in which he warned that Russias economy was being …
@@ -21,7 +141,7 @@ Andrey Klepach, top economist at Russia's state development bank VEB, had warned
 [Read Original Article Here](https://www.aljazeera.com/news/2026/8/18/top-russian-economist-ousted-after-warning-of-growing-costs-of-ukraine-war)
 ---
 
-## Article 3: Canada battles the clock, politics in scramble to avert Trump’s tariffs
+## Article 18: Canada battles the clock, politics in scramble to avert Trump’s tariffs
 **Source:** Al Jazeera English | **Sentiment Score:** `0.2732`
 
 Canadian officials are making a last-ditch effort to negotiate a reprieve from 50-percent tariffs. As trade negotiations with the United States enter the eleventh hour, Canada is in a scramble to avert hefty tariffs targeting billions of dollars of its exports. Absent a last-minute deal, US Presi…
@@ -29,7 +149,7 @@ Canadian officials are making a last-ditch effort to negotiate a reprieve from 5
 [Read Original Article Here](https://www.aljazeera.com/economy/2026/8/18/canada-battles-the-clock-politics-in-scramble-to-avert-trumps-tariffs)
 ---
 
-## Article 4: Can China’s new Arctic Sea route to Europe replace Middle East chokepoints?
+## Article 19: Can China’s new Arctic Sea route to Europe replace Middle East chokepoints?
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.7579`
 
 Beijing's new 'Ice Silk Road' cuts through a melting Arctic, and could prompt fresh tensions with the US, say analysts. China has announced a new shipping route through the Arctic Ocean, which could ease the way for global trade amid the Middle East crisis that has paralysed critical waterways, including the Bab al-Ma…
@@ -37,131 +157,11 @@ Beijing's new 'Ice Silk Road' cuts through a melting Arctic, and could prompt fr
 [Read Original Article Here](https://www.aljazeera.com/news/2026/8/18/can-chinas-new-arctic-sea-route-to-europe-replace-middle-east-chokepoints)
 ---
 
-## Article 5: Iran deal clock hits zero as Trump demands ‘white flag’ with new pressure campaign looming
+## Article 20: Iran deal clock hits zero as Trump demands ‘white flag’ with new pressure campaign looming
 **Source:** Fox News | **Sentiment Score:** `0.7650`
 
 Treasury Secretary Scott Bessent promises unprecedented economic isolation of Iran as the 60-day nuclear deal deadline passes with no final agreement. The 60-day window for the United States and Iran to reach a final agreement expired Monday with no deal announced, as President Donald Trump hardened his rhetoric toward Tehran and his administration…
 
 [Read Original Article Here](https://www.foxnews.com/world/iran-deal-clock-hits-zero-trump-demands-white-flag-new-pressure-campaign-looming)
----
-
-## Article 6: Netanyahu’s Likud Party holds primaries ahead of Israel’s general elections
-**Source:** Al Jazeera English | **Sentiment Score:** `0.6597`
-
-On Monday, Israel's governing party will determine its candidate list for the next election. Israels governing Likud Party will hold primaries to choose candidates for the countrys upcoming crunch general election. Likuds primaries are among the most heated and unruly events in the Israeli …
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/8/17/netanyahus-likud-party-holds-primaries-ahead-of-israels-general-elections)
----
-
-## Article 7: How Russian dissidents are being punished by both Russia and Europe
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.2023`
-
-While Moscow is stripping citizenship rights, European states are curbing access to legal status for Russian emigres. Earlier this month, Russian President Vladimir Putin signed into law new legislation that targets Russians living abroad who oppose his regime. The law restricts the provision of consular services to…
-
-[Read Original Article Here](https://www.aljazeera.com/opinions/2026/8/17/how-russian-dissidents-are-being-punished-by-both-russia-and-europe)
----
-
-## Article 8: Russian state economist fired after stark warning about Moscow’s economic future
-**Source:** Fox News | **Sentiment Score:** `-0.9758`
-
-VEB.RF, Russian state development bank, economist Andrei Klepach warned Russia is losing the war of attrition before his firing, as the European Union prepares sweeping sanctions. A prominent Russian state economist was fired after publicly warning that Moscow is losing an economic "war of attrition" with the West and could eventually face a social crisis, as the European Unio…
-
-[Read Original Article Here](https://www.foxnews.com/world/russian-state-economist-fired-after-stark-warning-about-moscows-economic-future)
----
-
-## Article 9: Andy Beshear calls socialism a 'failed experiment' as poll finds Dems view it more favorably than capitalism
-**Source:** Fox News | **Sentiment Score:** `0.5980`
-
-Democratic Kentucky Gov. Andy Beshear called socialism a "failed experiment," but said he supported abolishing the electoral college and overturning Citizens United. Democratic Kentucky Gov. Andy Beshear called socialism a "failed experiment" on Sunday, addressing a new poll that found socialism was viewed more favorably than capitalism by Democrats. CBS News' E…
-
-[Read Original Article Here](https://www.foxnews.com/media/andy-beshear-calls-socialism-failed-experiment-poll-finds-dems-view-more-favorably-than-capitalism)
----
-
-## Article 10: Now Trump threatens Oman...
-**Source:** CNN | **Sentiment Score:** `0.4939`
-
-Meanwhile, US envoy Jared Kushner is meeting Israeli Prime Minister Benjamin Netanyahu to revive the president’s stalled Gaza peace plan. Follow for live updates. US President Donald Trump reiterated today the number one Goal is, and always will be, that Iran cannot have, in any way, shape, or form, a Nuclear Weapon, as weve reported. He is the latest America…
-
-[Read Original Article Here](https://www.cnn.com/2026/08/17/world/live-news/iran-war-trump)
----
-
-## Article 11: Jason Arday’s death is institutional murder
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.8225`
-
-Arday was subjected to a vicious campaign fuelled by anti-Black racism. On August 14, Jason Arday, the youngest Black scholar to be appointed professor at Cambridge University, was found unresponsive in his home in London. Just three weeks earlier, he had resigned from h…
-
-[Read Original Article Here](https://www.aljazeera.com/opinions/2026/8/17/jason-ardays-death-is-institutional-murder)
----
-
-## Article 12: Is China encroaching upon Indian territory in Arunachal Pradesh?
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.8316`
-
-India and China are tangled in yet another border dispute, angering locals in the eastern state of Arunachal Pradesh. New Delhi, India China has denied the Indian army access to key patrolling points and encroached on land in the Indian border state of Arunachal Pradesh, according to a fact-finding team of regional …
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/8/17/is-china-encroaching-upon-indian-territory-in-arunachal-pradesh-2)
----
-
-## Article 13: Will India’s ‘Cockroach’ movement force Modi’s BJP to rethink its politics?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.0000`
-
-Modi's BJP once controlled media narratives in India, but this might be changing with the 'Cockroach' movement. New Delhi, India On the night of August 4, in a counting hall in the eastern Indian city of Patna, some 1,000km (620 miles) from the national capital, Prime Minister Narendra Modis Bharatiya Janata P…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/8/17/has-indias-cockroach-movement-forced-modis-bjp-to-recalibrate-agenda)
----
-
-## Article 14: It’s not the economy, stupid. Americans vote based on their personal economy
-**Source:** Fox News | **Sentiment Score:** `0.7227`
-
-Politicians cite GDP and inflation data, but voters judge the economy by grocery prices, gas prices, mortgage rates and what's left in their wallet. Every election season, politicians suddenly become economists. They start talking about GDP, inflation rates, job creation, trade deficits and economic growth. They point to charts showing why the e…
-
-[Read Original Article Here](https://www.foxnews.com/opinion/not-economy-stupid-americans-vote-based-personal-economy)
----
-
-## Article 15: Indian lenders set record with $8 billion in dollar bond sales
-**Source:** Bloomberg | **Sentiment Score:** `0.7351`
-
-RBI surprised traders on Friday by closing a special window for attracting foreign-currency deposits a month ahead of schedule, leading to a selloff in shorter-tenor India bonds Indian financial institutions have sold a record amount of dollar bonds so far this year, as lenders rush to capitalize on a central bank facility that lowers hedging costs on overseas borrowings. T…
-
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-08-17/indian-lenders-set-record-with-8-billion-in-dollar-bond-sales)
----
-
-## Article 16: Japan’s economy slows, missing growth forecasts
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.4767`
-
-GDP rises 0.3 percent in the second quarter as consumption and capital spending sag. Japans economy has slowed in the second quarter of the year amid moribund consumption and capital spending, according to official figures. Gross domestic product (GDP) grew 0.3 percent in the April-…
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/8/17/japans-economy-slows-missing-growth-forecasts)
----
-
-## Article 17: Dollar weakens as traders pare Fed rate-hike bets: Markets Wrap
-**Source:** Bloomberg | **Sentiment Score:** `-0.4588`
-
-Pressure on the dollar increased after US government data on Friday showed retail sales fell in July by the most in more than a year as consumers pulled back on purchases The dollar fell against most of its major peers after weak US economic data reduced bets on a Federal Reserve interest-rate hike next month. A Bloomberg gauge of the dollar slipped 0.1 per cent, hea…
-
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-08-16/stock-market-today-dow-s-p-live-updates)
----
-
-## Article 18: Goldman says markets too hawkish on betting Fed will hike rates
-**Source:** Bloomberg | **Sentiment Score:** `-0.4939`
-
-Goldman Sachs warns that market expectations for Fed rate hikes are overly aggressive amid cooling inflation and weaker economic data. Market bets on Federal Reserve interest-rate hikes are still too aggressive given that inflation in the worlds biggest economy is cooling, according to Goldman Sachs Group Inc.  A rate increase at t…
-
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-08-17/goldman-says-markets-too-hawkish-on-betting-fed-will-hike-rates)
----
-
-## Article 19: Two visions of America are emerging as midterms draw near. Voters must decide which one is real
-**Source:** CNN | **Sentiment Score:** `-0.2732`
-
-In Atlanta on Sunday, Georgia Sen. Jon Ossoff delivered an acidic takedown of President Donald Trump Two rallies, nearly 1,000 miles and two days apart, laid out the increasingly stark choice confronting midterm election voters and a looming moment of reckoning over the nation's future course. In A…
-
-[Read Original Article Here](https://www.cnn.com/2026/08/17/politics/trump-ossoff-midterm-elections)
----
-
-## Article 20: Hakeem Jeffries rejects Medicare for All, DSA agenda as Ro Khanna calls health plan 'most important priority'
-**Source:** Fox News | **Sentiment Score:** `-0.7717`
-
-Hakeem Jeffries rejected Medicare for All and the Democratic Socialists of America's agenda on "Meet the Press" while Rep. Ro Khanna broke ranks. House Minority Leader Hakeem Jeffries, D-N.Y., rejected support for Medicare for All and the Democratic Socialists of America's (DSA) agenda Sunday, saying Democrats should prioritize affordability a…
-
-[Read Original Article Here](https://www.foxnews.com/media/hakeem-jeffries-rejects-medicare-all-dsa-agenda-ro-khanna-calls-health-plan-most-important-priority)
 ---
 
