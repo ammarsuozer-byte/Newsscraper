@@ -1,11 +1,139 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-08-20 | **Status:** Automated
+**Date:** 2026-08-21 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: Max Miller insists he can win again — but warns in court filings he’s bleeding union support and cash
+## Article 1: Are Hormuz ships more willing to defy Iran or the US? What data shows
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.6448`
+
+Most ships are trying to mask identities while trying to cross the strait. But more seem scared of Iran than of the US. US President Donald Trump has insisted that his military remains in control of traffic through the Strait of Hormuz, and suggested this past week that the US might even seek to take charge of the ter…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/8/20/are-hormuz-ships-more-willing-to-defy-iran-or-the-us-what-data-shows)
+---
+
+## Article 2: Oil flows nearly tripled before US-Iran MoU expired, analysis shows
+**Source:** Al Jazeera English | **Sentiment Score:** `0.4215`
+
+Some 374 million barrels of oil exited the Gulf during 60-day window covered by MoU, Kpler data shows. Oil flows through the Strait of Hormuz nearly tripled while the Memorandum of Understanding (MoU) between the United States and Iran was in effect, though it remained far below pre-war levels, accord…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/8/20/oil-flows-nearly-tripled-before-us-iran-mou-expired)
+---
+
+## Article 3: Alina Habba shuts down speculation she could replace Karoline Leavitt as White House press secretary
+**Source:** Fox News | **Sentiment Score:** `0.4215`
+
+Alina Habba publicly dismissed speculation she would replace Karoline Leavitt as White House press secretary, shifting Kalshi odds dramatically. One of the betting favorites to replace Karoline Leavitt as White House press secretary declared Wednesday that she is not in the running for the job. The 28-year-old White House press secretary, fr…
+
+[Read Original Article Here](https://www.foxnews.com/politics/alina-habba-shuts-down-speculation-replace-karoline-leavitt-white-house-press-secretary)
+---
+
+## Article 4: Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance
+**Source:** Al Jazeera English | **Sentiment Score:** `0.5859`
+
+Trump's order to scale back military drills rattles Seoul, reviving doubts over US security guarantees. Seoul, South Korea The order arrived not through diplomatic channels but via a post on social media, just hours before the annual joint military exercises between South Korea and the United States we…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance)
+---
+
+## Article 5: Nigeria’s election campaign begins with Tinubu’s reform test
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.3291`
+
+Rising costs fuel anger, but President Bola Tinubu’s machinery and opposition divisions may shape the race. Abuja, Nigeria Every morning, Shukurat Oyedele unlocks her small plastic goods shop near Offa Garage in Ilorin, north-central Nigeria, even when she expects few customers. On the quietest days, the …
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/8/20/nigerias-election-campaign-begins-with-tinubus-reform-test)
+---
+
+## Article 6: Thousands of North Korean IT workers are infiltrating corporate America
+**Source:** Fox News | **Sentiment Score:** `-0.5719`
+
+North Korean operatives use stolen identities, AI and laptop farms to write résumés, help answer interview questions and land U.S. jobs. Thousands of North Korean operatives posing as IT workers are applying for remote jobs at U.S. companies, and many are getting hired.  Using stolen American identities, U.S.-based "laptop farms" and…
+
+[Read Original Article Here](https://www.foxnews.com/tech/thousands-north-korean-it-workers-infiltrating-corporate-america)
+---
+
+## Article 7: Iran’s hardline parliament raises concerns with ‘foreign infiltration’ plan
+**Source:** Al Jazeera English | **Sentiment Score:** `0.4215`
+
+Citizens and entities would have to seek authorisation to contact universities or talk to foreign media. Tehran, Iran Irans hardline-dominated parliament has approved the broad outlines of a plan presented as a means of combatting foreign infiltration, with a consequential focus on academia, media and t…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/8/19/irans-hardline-parliament-raises-concerns-with-foreign-infiltration-plan)
+---
+
+## Article 8: US Department of Justice defends prosecution of Comey over seashell post
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.6486`
+
+The ex-FBI chief faces accusations of transmitting threats and exploiting controversy to market his upcoming novel. The United States Department of Justice (DOJ) has defended its prosecution of former Federal Bureau of Investigation (FBI) Director James Comey after a social media post of seashells arranged in 86 4…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/8/19/us-department-of-justice-defends-prosecution-of-comey-over-seashell-post)
+---
+
+## Article 9: US pressure on Israel needed for peace in Syria
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.6486`
+
+With Israeli elections approaching, analysts say Netanyahu needs a new escalation, undermining deconfliction efforts. A day after a suspected Israeli attack on the Abu al-Duhur airbase near Idlib, northwest Syria, US Ambassador to Turkiye Tom Barrack has suggested creating a deconfliction mechanism between Turkiye, …
+
+[Read Original Article Here](https://www.aljazeera.com/features/2026/8/19/us-pressure-on-israel-needed-for-peace-in-syria)
+---
+
+## Article 10: US and Canada reach ‘very fair’ trade agreement, Trump says
+**Source:** Al Jazeera English | **Sentiment Score:** `0.0498`
+
+New trade deal ensures no tariffs for US farmers and businesses exporting to Canada, Trump announces United States President Donald Trump said the US has reached a very fair trade deal with Canada that will include no tariffs on exports by US farmers and businesses to Canada. We have no tariffs goi…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/8/19/us-and-canada-reach-very-fair-trade-agreement-trump-says)
+---
+
+## Article 11: Cuba’s economic freefall is hiding a national security threat just miles from Florida: report
+**Source:** Fox News | **Sentiment Score:** `-0.4588`
+
+A new report says Cuba's ties with Russia, China, and Iran create intelligence and military threats just 90 miles from the Florida coastline. A new report warns that Cubas relationships with Russia, China and Iran could provide Americas adversaries with a strategic foothold just 90 miles from Florida, arguing that the islands deepening eco…
+
+[Read Original Article Here](https://www.foxnews.com/world/cubas-economic-freefall-hiding-national-security-threat-just-miles-from-florida-report)
+---
+
+## Article 12: Iran loses key economic lifeline in Middle East that Trump's sanctions couldn't reach as deadlock persists
+**Source:** Fox News | **Sentiment Score:** `-0.7783`
+
+The United Arab Emirates suspended all trade with Iran after accusing Tehran of firing ballistic missiles toward maritime traffic in the region. The United Arab Emirates suspended all trade, commercial exchanges and financial transactions with Iran after accusing Tehran of firing ballistic missiles toward maritime traffic. The action severs …
+
+[Read Original Article Here](https://www.foxnews.com/politics/iran-loses-key-economic-lifeline-in-middle-east-that-trumps-sanctions-couldnt-reach-as-deadlock-persists)
+---
+
+## Article 13: Second Ukrainian national arrested over 2022 Nord Stream pipeline blast
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.8625`
+
+The suspect was arrested in Croatia a year after another, an ex-army officer, was held and transferred to Germany. A second Ukrainian suspect alleged to have been involved in the 2022 Nord Stream pipeline blasts has been arrested in Croatia and will be extradited to Germany, German prosecutors said on Wednesday.…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/8/19/second-ukrainian-national-arrested-over-2022-nord-stream-pipeline-blast)
+---
+
+## Article 14: UAE trade embargo could shut Iran’s key economic escape route: Here’s why
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.5994`
+
+The UAE announced the embargo, accusing Iran of launching missiles into its territory. The United Arab Emirates announced an indefinite trade embargo on Iran on Wednesday, accusing Iranian forces of firing two ballistic missiles at its territory. Iran denied launching missiles and desc…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/8/19/uae-trade-embargo-could-shut-irans-key-economic-escape-route-heres-why)
+---
+
+## Article 15: ‘Tit for tat’: Why is Trump cozying up to North Korea’s Kim Jong Un again?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.3597`
+
+Analysts say Trump's attempted rapprochement with Kim Jong Un is driven by political signals to Pyongyang and Seoul. US President Donald Trump has again praised the leader of nuclear-armed North Korea while rebuking key ally Seoul for failing to help Washington fight Iran, reigniting one of the most contentious dip…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/8/19/tit-for-tat-why-is-trump-cozying-up-to-north-koreas-kim-jong-un-again)
+---
+
+## Article 16: Inside the tension that drove Trump’s South Korea alliance from ‘historic new era’ to military pullback
+**Source:** Fox News | **Sentiment Score:** `0.8020`
+
+Trump scales back Ulchi Freedom Shield drills to pressure Seoul on investment delays while dangling an incentive for Kim Jong Un to reopen diplomacy. President Donald Trump is scaling back major joint military exercises with South Korea after Seoul declined to support U.S. operations against Iran, a sharp U-turn with an ally his administration pub…
+
+[Read Original Article Here](https://www.foxnews.com/politics/tension-drove-trumps-south-korea-alliance-historic-new-era-military-pullback)
+---
+
+## Article 17: Max Miller insists he can win again — but warns in court filings he’s bleeding union support and cash
 **Source:** Politico | **Sentiment Score:** `-0.3818`
 
 The Ohio Republican’s Democratic opponent, ironworker Brian Poindexter, has centered workers’ rights in his campaign. GOP Rep. Max Miller is fretting that the loss of support from a key constituency could damage his reelection prospects even as his party base continues to stand with him in spite of serious allegatio…
@@ -13,7 +141,7 @@ The Ohio Republican’s Democratic opponent, ironworker Brian Poindexter, has ce
 [Read Original Article Here](https://www.politico.com/news/2026/08/19/max-miller-insists-he-can-win-again-but-warns-in-court-filings-hes-bleeding-union-support-and-cash-01041212)
 ---
 
-## Article 2: Energy stocks hit record as oil rises on fading deal hopes
+## Article 18: Energy stocks hit record as oil rises on fading deal hopes
 **Source:** Bloomberg | **Sentiment Score:** `0.4588`
 
 The S&P 500 Energy Sector Index climbed 1.8% on Tuesday, marking the first all-time high for the gauge since March 27 Energy stocks closed at the first record since March as investors see diminishing prospects for a near-term ceasefire in the Iran war that could ease the standoff in the crucial Strait of Hormuz. Th…
@@ -21,7 +149,7 @@ The S&P 500 Energy Sector Index climbed 1.8% on Tuesday, marking the first all-t
 [Read Original Article Here](https://www.bloomberg.com/news/articles/2026-08-18/energy-stocks-soar-to-record-as-oil-rises-on-trump-s-hard-line)
 ---
 
-## Article 3: UAE imposes indefinite trade embargo on Iran over alleged missile attacks
+## Article 19: UAE imposes indefinite trade embargo on Iran over alleged missile attacks
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.7351`
 
 Iran denies launching missiles at the UAE, suggesting the incident was a 'false flag operation'. The United Arab Emirates has imposed an indefinite trade embargo on Iran after accusing Iranian forces of firing two ballistic missiles at the country, an allegation Tehran denies. In a statement ea…
@@ -29,139 +157,11 @@ Iran denies launching missiles at the UAE, suggesting the incident was a 'false 
 [Read Original Article Here](https://www.aljazeera.com/news/2026/8/19/uae-imposes-indefinite-trade-embargo-on-iran-over-alleged-missile-attacks)
 ---
 
-## Article 4: Democrats pick their fighter for uphill bid to flip deep-red Senate seat
+## Article 20: Democrats pick their fighter for uphill bid to flip deep-red Senate seat
 **Source:** Fox News | **Sentiment Score:** `-0.2732`
 
 James Byrd defeated Billy Benavidez in Wyoming's Democratic primary for the open Senate seat after Cynthia Lummis announced she won't seek reelection. Former state representative James Byrd advanced Tuesday against former golf club greenskeeper Billy Benavidez in Wyomings Democratic primary race for the newly opened Senate seat. Incumbent Republic…
 
 [Read Original Article Here](https://www.foxnews.com/politics/democrats-pick-fighter-uphill-bid-flip-deep-red-senate-seat)
----
-
-## Article 5: US refineries taking in half of Venezuela’s oil output, official says
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.1280`
-
-US official says Venezuela is sending 500,000 of its 1.25 million barrels per day output to Gulf Coast refineries. Venezuela is exporting about half of its oil output to the United States, according to a senior US official, seven months after Washington abducted President Nicolas Maduro and installed an interim g…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/8/19/venezuela-oil-exports-surge-with-us-refineries-taking-in-half-of-output)
----
-
-## Article 6: Your favorite cocktail could be an unexpected casualty of Trump's looming trade fight
-**Source:** Fox News | **Sentiment Score:** `-0.9186`
-
-President Donald Trump's 50% tariff threat on Canadian spirits could devastate U.S. bars and restaurants while pressuring Canada to restock bourbon. President Donald Trump's latest trade fight with Canada could soon spill into your cocktail glass, with a looming 50% tariff on Canadian spirits putting bars, restaurants and liquor stores on edge. …
-
-[Read Original Article Here](https://www.foxnews.com/politics/your-favorite-cocktail-could-unexpected-casualty-trumps-looming-trade-fight)
----
-
-## Article 7: Rubio’s GOP successor clears key hurdle to finish his six-year Senate term
-**Source:** Fox News | **Sentiment Score:** `-0.4588`
-
-Trump-backed Sen. Ashley Moody, R-Fla., defeated her challengers in Florida's GOP Senate primary to keep Marco Rubio's former seat through 2029. Sen. Ashley Moody, R-Fla., won Floridas GOP Senate primary Tuesday, clearing a key hurdle in her bid to finish the final two years of Secretary of State Marco Rubios six-year Senate term. The Trump-…
-
-[Read Original Article Here](https://www.foxnews.com/politics/rubios-gop-successor-clears-key-hurdle-finish-his-six-year-senate-term)
----
-
-## Article 8: Iran’s gutted ranks leave loyalists filling critical posts — with one glaring problem
-**Source:** Fox News | **Sentiment Score:** `-0.5267`
-
-Iran appoints IRGC veterans of the Islamic Revolution and Iran-Iraq War to top posts, raising questions about its shrinking circle of commanders. Iran is rebuilding the upper ranks of its military and security establishment after months of wartime losses by turning largely to familiar veterans figures whose careers in some cases stretch back t…
-
-[Read Original Article Here](https://www.foxnews.com/world/irans-gutted-ranks-leave-loyalists-filling-critical-posts-one-glaring-problem)
----
-
-## Article 9: Iran prepares to keep economy alive as US threatens further sanctions
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.4019`
-
-Iran’s authorities say they could shift to offensive operations as Washington considers further sanctions. Amid trade embargoes, asset freezes and attacks on ships as part of a naval blockade, Washington has announced a plan to enact a new wave of restrictions on Iran, targeting its economy. Treasury Sec…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/8/18/iran-prepares-to-keep-economy-alive-as-us-threatens-further-sanctions)
----
-
-## Article 10: Trump’s affordability plan faces conservative pushback as pocketbook issues loom over midterms
-**Source:** Fox News | **Sentiment Score:** `0.9022`
-
-Advancing American Freedom says government zoning rules and energy regulations are why Americans can't afford homes, and offers 10 policy fixes. FIRST ON FOX: As Americans grapple with soaring housing, food and energy costs, both parties are racing to convince voters they have the answer to the affordability crunch ahead of the high-stakes mi…
-
-[Read Original Article Here](https://www.foxnews.com/politics/trumps-affordability-plan-faces-conservative-pushback-pocketbook-issues-loom-midterms)
----
-
-## Article 11: Hichilema re-elected as Zambia president amid opposition concerns over vote
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.1406`
-
-Hakainde Hichilema’s second term will test whether economic recovery can deliver real change for Zambians. Lusaka, Zambia Hakainde Hichilema has been re-elected as Zambias president after defeating opposition challenger Brian Mundubile by more than one million votes, but his victory comes amid opposition …
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/8/18/hichilema-re-elected-as-zambia-president-amid-opposition-concerns-over-vote)
----
-
-## Article 12: Fox News Power Rankings: As Democrats turn left, Black voters tap the brakes
-**Source:** Fox News | **Sentiment Score:** `0.9186`
-
-Trump's declining approval rating is pushing Hispanic and young voters back to Democrats, but Black voter erosion remains a major challenge. President Trumps return to office was made possible in part because of increasing support  from three traditionally Democratic groups: Hispanic voters (41% supported Trump, a 6-point improvement fro…
-
-[Read Original Article Here](https://www.foxnews.com/politics/fox-news-power-rankings-democrats-turn-left-black-voters-tap-brakes)
----
-
-## Article 13: Why has Trump threatened to bomb Oman – for a second time?
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.6124`
-
-The US president threatened to bomb Oman over Hormuz, with US-Iran peace negotiations in a deadlock. United States President Donald Trump has threatened to bomb Oman if it gets in the way of a peace deal between the US and Iran. Oman is currently negotiating with Iran over the reopening of the crit…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/8/18/why-has-trump-threatened-to-bomb-oman-for-a-second-time)
----
-
-## Article 14: Omar's GOP challenger comes out firing with vow to clean up 'mess' in deep blue district: 'People are fed up'
-**Source:** Fox News | **Sentiment Score:** `-0.5719`
-
-John Nagel, a 30-year state trooper who won the Republican primary, says Minnesota voters of all backgrounds are fed up with fraud under Ilhan Omar. MINNEAPOLIS Rep. Ilhan Omar, D-Minn., officially has a Republican challenger who is making the case that Minnesota voters are "fed up" with fraud and dysfunction and are ready for a change as he look…
-
-[Read Original Article Here](https://www.foxnews.com/politics/omars-gop-challenger-comes-firing-vow-clean-mess-deep-blue-district-people-fed)
----
-
-## Article 15: To win in November, Republicans need to take a page from Obama’s playbook
-**Source:** Fox News | **Sentiment Score:** `0.2382`
-
-Republicans face a tough November with Trump's approval below 40%, but Barack Obama's 2012 reelection playbook offers a potential path forward. If history is any guide, Republicans could be in store for a beating at the ballot box in November. President Donald Trumps average approval rating has dipped below 40%, while his disapproval rating…
-
-[Read Original Article Here](https://www.foxnews.com/opinion/win-november-republicans-take-page-obamas-playbook)
----
-
-## Article 16: MCX plans India coal and ore exchanges to boost price discovery
-**Source:** Bloomberg | **Sentiment Score:** `0.8555`
-
-Sellers and buyers will be allowed to trade physical delivery contracts through centralized electronic platforms, creating a more transparent pricing system and improving supply chain efficiency Multi Commodity Exchange of India Ltd. plans to invest as much as 2 billion rupees ($21 million) to start coal and minerals trading platforms as the government opens up the sectors to improve price d…
-
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-08-17/mcx-plans-india-coal-mineral-exchanges-to-boost-price-discovery)
----
-
-## Article 17: Top Russian economist ousted after warning of growing costs of Ukraine war
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.5423`
-
-Andrey Klepach, top economist at Russia's state development bank VEB, had warned Russia was lagging behind rivals. Andrey Klepach has been removed as the chief economist at Russias state development bank VEB, Russian media reported, after a speech was made public in which he warned that Russias economy was being …
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/8/18/top-russian-economist-ousted-after-warning-of-growing-costs-of-ukraine-war)
----
-
-## Article 18: Canada battles the clock, politics in scramble to avert Trump’s tariffs
-**Source:** Al Jazeera English | **Sentiment Score:** `0.2732`
-
-Canadian officials are making a last-ditch effort to negotiate a reprieve from 50-percent tariffs. As trade negotiations with the United States enter the eleventh hour, Canada is in a scramble to avert hefty tariffs targeting billions of dollars of its exports. Absent a last-minute deal, US Presi…
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/8/18/canada-battles-the-clock-politics-in-scramble-to-avert-trumps-tariffs)
----
-
-## Article 19: Can China’s new Arctic Sea route to Europe replace Middle East chokepoints?
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.7579`
-
-Beijing's new 'Ice Silk Road' cuts through a melting Arctic, and could prompt fresh tensions with the US, say analysts. China has announced a new shipping route through the Arctic Ocean, which could ease the way for global trade amid the Middle East crisis that has paralysed critical waterways, including the Bab al-Ma…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/8/18/can-chinas-new-arctic-sea-route-to-europe-replace-middle-east-chokepoints)
----
-
-## Article 20: Iran deal clock hits zero as Trump demands ‘white flag’ with new pressure campaign looming
-**Source:** Fox News | **Sentiment Score:** `0.7650`
-
-Treasury Secretary Scott Bessent promises unprecedented economic isolation of Iran as the 60-day nuclear deal deadline passes with no final agreement. The 60-day window for the United States and Iran to reach a final agreement expired Monday with no deal announced, as President Donald Trump hardened his rhetoric toward Tehran and his administration…
-
-[Read Original Article Here](https://www.foxnews.com/world/iran-deal-clock-hits-zero-trump-demands-white-flag-new-pressure-campaign-looming)
 ---
 
