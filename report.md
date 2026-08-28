@@ -1,167 +1,167 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-08-27 | **Status:** Automated
+**Date:** 2026-08-28 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: Millions of barrels of Iranian oil sit beyond Trump blockade as he vows ‘zero leakage’
-**Source:** Fox News | **Sentiment Score:** `-0.8316`
+## Article 1: US President Trump signs order renaming Lake Ontario to ‘Lake America’
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.0258`
 
-Nearly 40 million barrels of Iranian crude sit on tankers near Malaysia, posing a test for Trump's "zero-leakage" sanctions campaign against Tehran. Far from the U.S. warships enforcing a blockade at the mouth of the Persian Gulf, nearly 40 million barrels of Iranian crude are sitting aboard tankers in waters near Malaysia, east of Singapore. Th…
+The rebrand comes as the US and Canada engage in a cross-border trade war after Trump increased tariffs last week. Amid a spiraling trade war with Canada, United States President Donald Trump says he is renaming a body of water shared between the two countries. At a Tuesday news conference in the Oval Office, Tr…
 
-[Read Original Article Here](https://www.foxnews.com/politics/millions-barrels-iranian-oil-sit-beyond-trump-blockade-vows-zero-leakage)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/8/27/us-president-trump-signs-order-renaming-lake-ontario-to-lake)
 ---
 
-## Article 2: US inflation remains sticky in July
-**Source:** Al Jazeera English | **Sentiment Score:** `0.2500`
+## Article 2: Trade war between US and Canada could cost 90,000 jobs
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.2732`
 
-Inflation has worsened since the US and Israel attacked Iran, sending energy prices spiralling. Inflation in the United States is holding steady well above the Federal Reserves 2 percent target for the 65th straight month, intensifying the debate about whether the US central bank should hold or…
+Trump’s new 50% tariffs could put nearly 90,000 Canadian jobs at risk. Trumps new 50% tariffs could put nearly 90,000 Canadian jobs at risk but Americans could also foot the bill in other ways.  As Al Jazeeras Emma Withrow explains, with Canada now retaliating, both si…
 
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/8/26/us-inflation-remains-sticky-in-july)
+[Read Original Article Here](https://www.aljazeera.com/video/newsfeed/2026/8/27/trade-war-between-us-and-canada-could-cost-90000-jobs)
 ---
 
-## Article 3: Why Hormuz remains high risk for ships despite US claims of mine-clearing
-**Source:** Al Jazeera English | **Sentiment Score:** `0.4767`
+## Article 3: Riley Gaines endorses Ken Paxton for Senate, cites fight to protect women's sports
+**Source:** Fox News | **Sentiment Score:** `0.2732`
 
-Analysts say mine clearance alone is unlikely to make shipping 'safe' in the Strait of Hormuz. US President Donald Trump has claimed that the US Navy has removed or detonated all sea mines in the Strait of Hormuz the vital waterway in the Gulf which Iran effectively closed after the US and Isr…
+Riley Gaines endorsed Ken Paxton in the Texas Senate race, citing his NCAA lawsuit and contrasting his record with James Talarico on transgender athletes. Womens sports advocate Riley Gaines endorsed Texas Attorney General Ken Paxton in his U.S. Senate race against Democratic state Rep. James Talarico, pointing to the candidates sharply different recor…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/8/26/why-hormuz-remains-high-risk-for-ships-despite-us-claims-of-mine-clearing)
+[Read Original Article Here](https://www.foxnews.com/outkick-sports/riley-gaines-endorses-ken-paxton-senate-cites-fight-protect-womens-sports)
 ---
 
-## Article 4: Iran emphasises self-sufficiency in battle against US economic war
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.3291`
+## Article 4: Trump floats renaming the Atlantic and Pacific oceans after rebranding historic lake
+**Source:** Fox News | **Sentiment Score:** `0.5574`
 
-Iranian authorities believe they can withstand US sanctions, but warn of a tough year ahead. Tehran, Iran Iranian authorities are adamant that their countrys domestic capacities will be able to keep the countrys economy afloat, despite new economic sanctions targeting Iran unveiled by the Un…
+President Donald Trump joked the Atlantic and Pacific oceans could be next after signing the executive order renaming Lake Ontario to Lake America immediately. President Donald Trump on Thursday signed an executive order renaming Lake Ontario "Lake America," then joked that the Atlantic and Pacific oceans could be next. "As you know, we took something call…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/8/26/iran-emphasises-self-sufficiency-battle-against-us-economic-war)
+[Read Original Article Here](https://www.foxnews.com/politics/trump-floats-renaming-atlantic-pacific-oceans-after-rebranding-historic-lake)
 ---
 
-## Article 5: Why a Christian group is suing the Dutch government for West Bank trade ban
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.8020`
+## Article 5: Trump signs executive order to change Lake Ontario to ‘Lake America’ | CNN Politics
+**Source:** CNN | **Sentiment Score:** `-0.8625`
 
-The Israeli Product Centre says it has not been given enough time to sell off its stock. Dutch group Christians for Israel is taking the government to court in the Netherlands over its plans to introduce a ban on importing goods from illegal Israeli settlements in the occupied West Bank …
+President Donald Trump signed an executive order Thursday afternoon to change the name of Lake Ontario to “Lake America,” his latest escalation as he engages in a tense trade war with Canada. President Donald Trump signed an executive order Thursday afternoon to change the name of Lake Ontario to Lake America, his latest escalation as he engages in a tense trade war with Canada. Lake of …
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/8/26/why-a-christian-group-is-suing-the-dutch-government-for-west-bank-trade-ban)
+[Read Original Article Here](https://www.cnn.com/2026/08/27/politics/trump-canada-lake-ontario-america)
 ---
 
-## Article 6: Trump tells Al Jazeera “not in a hurry” for Iran to return to talks
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.6249`
+## Article 6: Trump renames Lake Ontario ‘Lake America’ amid intensifying US-Canada trade dispute
+**Source:** Fox News | **Sentiment Score:** `-0.5859`
 
-"I have no time schedule," Trump says when asked when he expects Iran to return to the negotiating table. United States President Donald Trump told Al Jazeera he has no time schedule for when he expects Iran to return to the negotiating table to end the conflict the US began months ago. I have no time s…
+President Donald Trump signed an order to rename Lake Ontario as 'Lake America,' asserting the U.S. holds most of its volume as trade tensions with Canada escalate. President Donald Trump on Thursday signed an order renaming Lake Ontario to Lake America, a move that came amid a trade war with Canada.  "This is a lake that has most of its volume in the United St…
 
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/8/26/trump-tells-al-jazeera-not-in-a-hurry-for-iran-to-return-to-talks)
+[Read Original Article Here](https://www.foxnews.com/politics/trump-renames-lake-ontario-lake-america-amid-intensifying-us-canada-trade-dispute)
 ---
 
-## Article 7: Iran, Oman agree on temporary Hormuz route: What we know
-**Source:** Al Jazeera English | **Sentiment Score:** `0.0000`
+## Article 7: Democrats hand Trump one power they spent years fighting
+**Source:** Fox News | **Sentiment Score:** `-0.6705`
 
-Iran’s deputy foreign minister announced a temporary shipping corridor in the Strait of Hormuz. Iran and Oman have agreed on a temporary maritime route for ships travelling through the Strait of Hormuz, Irans Deputy Foreign Minister Kazem Gharibabadi said on Tuesday. He, however, warned that t…
+Senate Democrats voted to give Trump limited tariff authority in exchange for Russia sanctions, a move some warn he could exploit against trade partners. After raging against a key tool in President Donald Trumps economic arsenal, Senate Democrats quietly green-lit the authority before they left Washington, D.C. Democrats have bashed Trumps use of ta…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/8/26/iran-oman-agree-on-temporary-hormuz-route-what-we-know)
+[Read Original Article Here](https://www.foxnews.com/politics/democrats-hand-trump-one-power-spent-years-fighting)
 ---
 
-## Article 8: ‘Captain Canada’ firebrand unloads on Trump with profane one-liner as trade war escalates
-**Source:** Fox News | **Sentiment Score:** `-0.4576`
+## Article 8: Burnham’s expected UK ban on Israeli settlement goods draws broad support
+**Source:** Al Jazeera English | **Sentiment Score:** `0.0772`
 
-Ontario Premier Doug Ford told President Donald Trump to "kiss my as*" on CP24 after Trump mocked him as less impressive than late brother Rob Ford. A simmering trade rift between President Donald Trump and Canadian officials burst into the open Monday as Ontario premier Doug Ford sharply escalated his attacks on the president amid a widening tar…
+A Labour lawmaker tells Al Jazeera sanctions would uphold British morals and legal obligations. London, United Kingdom UK Prime Minister and Labour leader Andy Burnham is expected to soon approve a ban on goods linked to Israeli settlements after the Israeli government issued tenders to build m…
 
-[Read Original Article Here](https://www.foxnews.com/politics/captain-canada-firebrand-unloads-trump-profane-one-liner-trade-war-escalates)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/8/27/do-more-than-just-condemn)
 ---
 
-## Article 9: One US dollar now costs 2 million rials in Iran, and here’s what it can buy
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.6124`
+## Article 9: Is Iran war diplomacy ramping up, as Qatar, Oman, Pakistan officials visit?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.5423`
 
-Sanctions and the US-Israel war on Iran have left the country's people unable to keep pace with rising prices. The Iranian rial has fallen to a new all-time low against the US dollar, dropping past 2 million rials to $1 on the free market after Washington launched its toughest sanctions yet in efforts to stra…
+There are signs both sides could be ready to de-escalate, at least militarily, analysts say. Qatari Prime Minister Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani is visiting Tehran on Thursday for talks about de-escalating tensions and reviving failed negotiations between Iran and the U…
 
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/8/26/one-us-dollar-now-costs-2-million-rials-in-iran-and-heres-what-it-can-buy)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/8/27/is-iran-war-diplomacy-ramping-up-as-qatar-oman-pakistan-officials-visit)
 ---
 
-## Article 10: Ukrainian drone attacks kill 3 as fire destroys Wildberries warehouse
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.8779`
+## Article 10: US counters China as Beijing’s ‘shock wave’ hits African economies
+**Source:** Fox News | **Sentiment Score:** `0.0258`
 
-Tambov Governor Yevgeny Pervyshov says Wildberries ‌logistics centre "completely ​destroyed by fire". Separate Ukrainian drone strikes across Russia have killed at least three people, while another attack triggered a massive blaze at a warehouse belonging to Russian e-commerce giant Wildberries in th…
+China's state-subsidized imports are crippling African manufacturing, a top State Department official says. The U.S. aims to offer alternatives and secure critical minerals supply. A top State Department official has hit out at China for what analysts are calling the China shock wave effect now crippling African economies. African manufacturing is reportedly being battered by …
 
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/8/26/ukrainian-drone-attacks-kill-3-as-fire-destroys-wildberries-warehouse)
+[Read Original Article Here](https://www.foxnews.com/world/us-counters-china-beijings-shock-wave-hits-african-economies)
 ---
 
-## Article 11: Trump’s Economic D-Day can hammer Iran, but will Tehran ever surrender?
-**Source:** Fox News | **Sentiment Score:** `-0.9584`
+## Article 11: How far will the US-Canada trade war go?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.9287`
 
-Scott Bessent's "Economic D-Day" Iran sanctions echo World War II's D-Day, but history shows punishing Tehran and forcing surrender are vastly different. I lived in Europe for years, studying World War II not only in books but on the ground, walking battlefields and cemeteries and listening to veterans who had fought their way across the continent. F…
+Canada and the US risk a full-scale trade war after a breakdown in talks. Canada and the US risk a full-scale trade war after a breakdown in talks.Canadas Prime Minister Mark Carney is holding firm in his trade dispute with the US. His nation and China are the only two co…
 
-[Read Original Article Here](https://www.foxnews.com/opinion/trumps-economic-d-day-hammer-iran-tehran-surrender)
+[Read Original Article Here](https://www.aljazeera.com/video/counting-the-cost/2026/8/27/how-far-will-the-us-canada-trade-war-go)
 ---
 
-## Article 12: JONATHAN TURLEY: Abdul El-Sayed’s wealth-tax fantasy could wreck the Michigan economy
-**Source:** Fox News | **Sentiment Score:** `-0.8945`
+## Article 12: How a 95 percent drop in Hormuz traffic changed global shipping
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.9136`
 
-Democratic Senate candidate Abdul El-Sayed frames extreme wealth as an existential threat, but critics warn his tax plan could trigger an exodus of top earners from Michigan. Dr. Abdul El-Sayed is tackling a new national crisis: the excess of money held by some tragically wealthy citizens. In his interview this week with Fox News Jesse Watters, the Michigan Democratic Se…
+A crisis in one narrow passage has disrupted an industry that carries about 80 percent of the world’s trade. Six months into the United States-Israel war on Iran, the closure of the Strait of Hormuz continues to drive one of the worst maritime shipping disruptions in decades. Traffic through the 33km (21-m…
 
-[Read Original Article Here](https://www.foxnews.com/opinion/jonathan-turley-abdul-el-sayed-wealth-tax-fantasy-wreck-michigan-economy)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/8/27/how-a-95-percent-drop-in-hormuz-traffic-changed-global-shipping)
 ---
 
-## Article 13: Republicans were already nervous about November. Then Trump restarted his trade war.
-**Source:** Politico | **Sentiment Score:** `-0.8070`
+## Article 13: Trump gives every nation an easy choice: Do business with America or terrorist Iran
+**Source:** Fox News | **Sentiment Score:** `-0.7650`
 
-The president's actions are set to reverberate especially hard in a handful of states crucial to the party’s hopes of keeping their Senate majority. Republicans were already struggling to defuse simmering voter frustrations over the cost of living ahead of the midterms. Then President Donald Trump rekindled his trade wars. Trump's latest actions…
+President Donald Trump's Operation Economic Outcast sanctions aim to collapse Iran's economy as the rial hits a record 2 million to the dollar. When President Donald Trump announced last week that he would subject Iran to unprecedented economic pressure, critics crowed that this shift was tantamount to an admission that the Operation Epic Fu…
 
-[Read Original Article Here](https://www.politico.com/news/2026/08/26/trumps-trade-moves-add-to-gops-midterm-anxieties-01050201)
+[Read Original Article Here](https://www.foxnews.com/opinion/trump-gives-every-nation-easy-choice-do-business-america-terrorist-iran)
 ---
 
-## Article 14: Trump’s Korean gambit exposes a shifting East Asian order
-**Source:** Al Jazeera English | **Sentiment Score:** `0.7783`
+## Article 14: ‘We will retaliate like an earthquake:’ How Iran could respond to Trump’s economic ‘D-Day’
+**Source:** CNN | **Sentiment Score:** `-0.4939`
 
-Growing doubts about the US security umbrella are forcing new strategic calculations across the region. When President Donald Trump ordered the Pentagon to cut the annual United States-South Korea Ulchi Freedom Shield (UFS) military exercise planned for mid-August from 11 days to five, he laid bare the…
+As Washington launches its latest plan to cripple Iran’s economy, the Islamic Republic has threatened a regional and global response designed to raise the st... As Washington launches its latest plan to cripple Iran's economy, the Islamic Republic has threatened a regional and global response designed to raise the stakes for the United States and the world.…
 
-[Read Original Article Here](https://www.aljazeera.com/opinions/2026/8/26/trumps-korean-gambit-exposes-a-shifting-east-asian-order)
+[Read Original Article Here](https://www.cnn.com/2026/08/27/middleeast/how-iran-could-respond-to-trumps-economic-d-day-intl)
 ---
 
-## Article 15: India takes growth pitch abroad as foreign money pulls back
-**Source:** Bloomberg | **Sentiment Score:** `-0.1280`
+## Article 15: Iran, Oman agree to share Strait of Hormuz revenue
+**Source:** Bloomberg | **Sentiment Score:** `0.8074`
 
-The ministers’ sojourns come just days before gross domestic product data is likely to show India’s economy accelerated at a brisk near-8% pace last quarter India is taking its growth story to global investors, seeking fresh capital as foreign money flees the countrys markets and student protests expose some of the challenges facing its young population.…
+“Agreements have been reached regarding each country’s share of the strait’s waters and Iran and Oman’s revenue share,” IRGC spokesman said Irans military said it reached a revenue-sharing agreement with Oman on the Strait of Hormuz, as Tehran and Washingtons standoff over control of the crucial waterway continues.  Agreements have been…
 
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-08-26/india-takes-growth-pitch-abroad-as-foreign-money-pulls-back)
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-08-26/iran-oman-agree-to-share-strait-of-hormuz-revenue-irgc-says)
 ---
 
-## Article 16: Trump threatens Iran’s partners: How do secondary sanctions work?
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.8316`
+## Article 16: Qatar’s prime minister to visit Tehran, seeking to revive US-Iran talks
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.7184`
 
-The US has used threats of secondary sanctions, whereby countries trading with a sanctioned country also face sanctions. The United States has announced a slew of new economic sanctions against Iran and threatened countries it trades with, aiming to choke Tehrans economy as the months-long conflict remains deadlocked.…
+Sheikh Mohammed's visit comes as US-Israel war on Iran nears its sixth month with no diplomatic breakthrough in sight. Qatari Prime Minister Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani is due to visit Tehran on Thursday for talks on de-escalating tensions and reviving dialogue between Iran and the United Stat…
 
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/8/26/trump-threatens-irans-partners-how-do-secondary-sanctions-work)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/8/27/qatars-prime-minister-to-visit-tehran-seeking-to-revive-us-iran-talks)
 ---
 
-## Article 17: Gold consolidates after 5-day rally as investors eye Fed rate clues
-**Source:** Bloomberg | **Sentiment Score:** `0.5859`
+## Article 17: Federal Reserve Governor Lisa Cook denounces Trump’s mortgage fraud claims
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.5753`
 
-Gold maintains a five-day gain as traders await insights on the Fed's interest-rate strategy amid rising inflation concerns. Gold consolidated after a five-day rally, with investors turning their focus to the Federal Reserves interest-rate path ahead of the annual Jackson Hole gathering this week. Bullion edged down to ne…
+The Trump administration has doubled down on its accusations against Cook, despite a Supreme Court ruling in her favour. Federal Reserve Governor Lisa Cook has warned the administration of United States President Donald Trump that it has no legal basis to fire her from her leadership position at the central bank. Her …
 
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-08-25/gold-holds-five-day-gain-as-oil-drop-eases-inflation-concerns)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/8/27/federal-reserve-governor-lisa-cook-denounces-trumps-mortgage-fraud-claims)
 ---
 
-## Article 18: Top official says Iran, Oman have agreed new temporary route in Hormuz
-**Source:** Al Jazeera English | **Sentiment Score:** `0.7351`
+## Article 18: RBI ramps up rupee support as rise in forex reserves gives comfort
+**Source:** Bloomberg | **Sentiment Score:** `0.6705`
 
-Deputy foreign minster says the route's entry as well as part of the exit would run through Iranian territorial waters. A top Iranian official says Iran and Oman have agreed on a new temporary route for shipping in the Strait of Hormuz, but insisted that the waterway will not reopen until the United States fulfils its…
+The extra money strengthens the RBI’s hand just as pressure starts to mount again on Asia’s worst-performing currency this quarter Indias central bank is intensifying efforts to support the rupee, emboldened by a jump in its foreign-exchange reserves to contest the pressure from higher oil prices. The Reserve Bank of India has …
 
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/8/26/top-official-says-iran-oman-have-agreed-new-temporary-hormuz-route)
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-08-27/rbi-is-showing-up-whenever-rupee-weakens-in-intervention-shift)
 ---
 
-## Article 19: Nasdaq Futures Fall Before Nvidia, Oil Declines: Markets Wrap
-**Source:** Bloomberg | **Sentiment Score:** `0.7184`
+## Article 19: Brazil’s Flavio Bolsonaro to institute debt ceiling if elected president
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.3612`
 
-Futures contracts for the Nasdaq 100 Index fell 0.5%, with chip bellwether Nvidia set to announce quarterly earnings later Wednesday; S&P 500 futures also slipped US equity-index futures dropped as investors turned cautious before Nvidia Corp.s earnings, with the results set to test confidence in the artificial intelligence trade. Asian bonds rose as oil exten…
+A debt ceiling would trigger automatic spending cuts, which conservatives could use to pare back social programmes. An economic adviser for the campaign of Senator Flavio Bolsonaro has said that the candidate will institute a debt ceiling if he wins Brazils presidency in October. Adolfo Sachsida, a lawyer and eco…
 
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-08-25/asian-stocks-set-to-gain-as-oil-extends-declines-markets-wrap)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/8/26/brazils-flavio-bolsonaro-to-institute-debt-ceiling-if-elected-president)
 ---
 
-## Article 20: Indian exports face little risk from tougher US sanctions on Iran
-**Source:** Bloomberg | **Sentiment Score:** `0.3400`
+## Article 20: JONATHAN TURLEY: Social media addiction will easily outlast Meta's massive multibillion dollar settlement
+**Source:** Fox News | **Sentiment Score:** `0.7717`
 
-India's exports to Iran remain stable amid US sanctions, primarily driven by basmati rice and pharmaceuticals, ensuring trade continuity. Stricter US sanctions on Iran are unlikely to hit local exports as the Persian Gulf nations bilateral trade with India is largely limited to pharmaceuticals and agricultural commodities, led by basma…
+Meta's proposed $17 billion social media settlement may actually benefit the company, given potential penalties that were estimated at $1.4 trillion. It is not every day that a company can settle a case for over $17 billion and celebrate. However, Metas proposed settlement of claims brought by a coalition originally led by 29 states on Wednesday i…
 
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-08-25/india-exports-face-little-risk-from-tougher-us-sanctions-on-iran)
+[Read Original Article Here](https://www.foxnews.com/opinion/jonathan-turley-social-media-addiction-outlast-metas-massive-multibillion-dollar-settlement)
 ---
 
