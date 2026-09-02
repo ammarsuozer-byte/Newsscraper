@@ -1,11 +1,155 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-09-01 | **Status:** Automated
+**Date:** 2026-09-02 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: U.S. Stock Futures Little Changed as Markets Weigh Warsh’s Hawkish Remarks
+## Article 1: ‘Hit them hard’: Does Trump have another ‘new’ Iran strategy, can it work?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.9578`
+
+Trump signals harsher response as US-Iran hostilities escalate, raising fears of prolonged conflict in the Gulf region. Following the first strikes in the US-Iran war for a month, this week, United States President Donald Trump appeared to signal a new phase in the war, which marked its first six months on Friday last…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/1/hit-them-hard-does-trump-have-another-new-iran-strategy-can-it-work)
+---
+
+## Article 2: Trump says Iran is ‘dead’ as Tehran is nearing the brink and more top headlines
+**Source:** Fox News | **Sentiment Score:** `0.7372`
+
+Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox. Good morning and welcome to Fox News' morning newsletter, Fox News First. And here's what you need to know to start your day ... TOP 3 1. Trump says Iran is dead as Tehran is nearing the brink 2.A…
+
+[Read Original Article Here](https://www.foxnews.com/us/trump-says-iran-tehran-nearing-brink-more-top-headlines)
+---
+
+## Article 3: Abroad and at odds: How the war has divided Iranians in the diaspora
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.3612`
+
+Many Iranians in the diaspora remain caught in the paradox of opposing  the war and the government in Tehran. Peyvand Khorsandi was only four years old when he and his family left Iran for the United Kingdom in 1976, three years before the Islamic revolution. His father, Hadi, a well-known Iranian satirist …
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/1/abroad-and-at-odds-how-the-war-has-divided-iranians-in-the-diaspora)
+---
+
+## Article 4: James Talarico described capitalism as ‘oppressive system’ in 2020 comments
+**Source:** CNN | **Sentiment Score:** `-0.3182`
+
+Six years before becoming Texas Democrats’ US Senate nominee, James Talarico described capitalism as an “oppressive system” during a Sierra Club event, grouping it with White supremacy and climate change and saying ending the ways all three worked together wa… Six years before becoming Texas Democrats US Senate nominee, James Talarico described capitalism as an oppressive system during a Sierra Club event, grouping it with White supremacy and climate chang…
+
+[Read Original Article Here](https://www.cnn.com/2026/09/01/politics/james-talarico-progressive-comments-kfile)
+---
+
+## Article 5: Trump says Iran is ‘DEAD’ — experts point to the real sign Tehran is nearing the brink
+**Source:** Fox News | **Sentiment Score:** `-0.9337`
+
+US strikes on Iranian launchers near the Strait of Hormuz triggered ballistic missile retaliation as Brent crude climbed above $90 a barrel Monday. President Donald Trump declared Iran a "Failed Nation" Monday, claiming the country is economically and militarily broken as renewed fighting with the U.S. raises questions about how much leverage Te…
+
+[Read Original Article Here](https://www.foxnews.com/world/trump-says-iran-dead-experts-point-real-sign-tehran-nearing-brink)
+---
+
+## Article 6: Bankers in the running for CEO job at HDFC Bank
+**Source:** Bloomberg | **Sentiment Score:** `0.7425`
+
+While an internal candidate could ensure continuity, appointment of an external candidate would throw up cultural and integration challenges, an analyst said HDFC Bank Ltd., Indias most valuable lender with a market capitalisation of $115 billion, has fast-tracked the search for a chief executive officer after incumbent Sashidhar Jagdishan decided not to …
+
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-08-31/early-candidates-for-the-ceo-job-at-india-s-most-valuable-bank)
+---
+
+## Article 7: Fears of a Canadian trade war are overblown. So far, it’s more of a skirmish
+**Source:** Fox News | **Sentiment Score:** `-0.4767`
+
+USMCA-compliant firms now face higher tariffs than competitors that built in Shenzhen as Section 338 duties stack on top of the trade agreement's rates. Listening to most of the media and Canadas prime minister, youd think the U.S. and its northern neighbor were in a full-blown trade war after new tariffs were announced days ago. Au contraire: Anyone…
+
+[Read Original Article Here](https://www.foxnews.com/opinion/fears-canadian-trade-war-overblown-skirmish)
+---
+
+## Article 8: Luxembourg drops approval for Israel bonds issue: What that means
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.2732`
+
+Israel’s future borrowing in EU markets remains uncertain as Luxembourg moves to let bond prospectus expire. Luxembourg is not renewing its authorisation for the issue of Israel bonds since it expired on Monday, leaving Israel with an uncertain future over its ability to borrow via investors in European mar…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/9/1/luxembourg-drops-approval-for-israel-bonds-issue-what-that-means)
+---
+
+## Article 9: Oil prices climb as US, Iranian attacks stoke fears of escalation
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.7269`
+
+After peaking at $94.40 a barrel on August 21, Brent has been trading in the range of $86-$91 since the MoU lapsed. Oil prices are climbing amid fears of escalation in the Middle East following the first exchanges of fire between the United States and Iran in more than a month over the weekend. Brent crude, the i…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/9/1/oil-prices-climb-as-us-iranian-attacks-stoke-fears-of-escalation)
+---
+
+## Article 10: Israeli forces raze West Bank homes as EU weighs ban on settlement goods
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.8779`
+
+Pogroms in the occupied West Bank continue, with Israeli forces demolishing homes and settlers attacking residents. Israeli forces have demolished more Palestinian homes in the occupied West Bank, as settlers attacked residents of the village of Burqa in an escalation of violence ahead of Israeli elections in Octo…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/1/israeli-forces-raze-west-bank-homes-as-eu-weighs-ban-on-settlement-goods)
+---
+
+## Article 11: Anthropic’s mega-IPO plan looms over packed US listing calendar
+**Source:** Bloomberg | **Sentiment Score:** `0.2023`
+
+Some firms are reported to be finding it hard to get the attention of long-term investors at a time when Anthropic’s offer is looming around the corner Anthropic PBCs IPO is casting a long shadow over companies US listing plans, as they try to find room for their deals to grab attention after the September 7 Labor Day holiday. The Claude developer …
+
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-08-31/anthropic-s-mega-ipo-plan-looms-over-packed-us-listing-calendar)
+---
+
+## Article 12: John Ternus to lead Apple into the age of AI
+**Source:** Al Jazeera English | **Sentiment Score:** `0.6310`
+
+Incoming CEO inherits company that leads the smartphone market but trails rivals in AI. John Ternus takes over as Apples chief executive on Tuesday, inheriting a company that towers over the smartphone market but trails its rivals in artificial intelligence. One of his biggest challeng…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/9/1/john-ternus-to-lead-apple-into-the-age-of-ai)
+---
+
+## Article 13: US brings back Russia’s Siluanov to G20 finance talks, angering Europe
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.2500`
+
+Anton Siluanov holds talks with US counterpart as European officials object to Russia's return to G20 talks. Russian Finance Minister Anton Siluanov has made a surprise appearance at United States-hosted G20 finance talks in North Carolina, sparking frustration and dismay among European ministers and offici…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/1/us-brings-back-russias-siluanov-to-g20-finance-talks-angering-europe)
+---
+
+## Article 14: Putin and Xi affirm strategic alliance amid ‘unpredictable’ world
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.1779`
+
+The Russian and Chinese leaders met on the sidelines of the SCO summit. Chinese President Xi Jinping and Russian counterpart Vladimir Putin have reaffirmed their strategic alliance amid growing global uncertainty, as they met on the sidelines of the Shanghai Cooperation …
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/8/31/putin-and-xi-affirm-strategic-alliance-amid-unpredictable-world)
+---
+
+## Article 15: Trump's Canada tariff fight reaches critical point as House GOP summons trade chief
+**Source:** Fox News | **Sentiment Score:** `-0.3400`
+
+Jamieson Greer meets House Republicans as Trump's escalating trade war with Canada and 50% tariffs become a growing flashpoint for lawmakers. FIRST ON FOX: President Donald Trump's top trade advisor will huddle with House Republicans on Wednesday as the commander-in-chief's tariff strategy is quickly becoming a flashpoint on the campaign t…
+
+[Read Original Article Here](https://www.foxnews.com/politics/trumps-canada-tariff-fight-reaches-critical-point-house-gop-summons-trade-chief)
+---
+
+## Article 16: ‘Backwards and poor’: Trump issues dire warning to communities blocking critical technology
+**Source:** Fox News | **Sentiment Score:** `-0.9081`
+
+President Donald Trump warned communities rejecting data centers risk becoming "backwards and poor" as states battle over AI boom energy and water costs. President Donald Trump took aim Monday at the growing backlash against data centers, warning that communities that shut the door on the facilities risk missing out on the jobs and economic gains of A…
+
+[Read Original Article Here](https://www.foxnews.com/politics/backwards-poor-trump-issues-dire-warning-communities-blocking-critical-technology)
+---
+
+## Article 17: Modi calls on Putin to end Russia-Ukraine war at SCO summit
+**Source:** Bloomberg | **Sentiment Score:** `-0.5994`
+
+Prime Minister Narendra Modi met Vladimir Putin in Bishkek, while India continued to balance its longstanding ties with Russia, Iran and the US Indian Prime Minister Narendra Modi called on President Vladimir Putin to end Russias war in Ukraine during a meeting on the sidelines of the Shanghai Cooperation Organization summit in Kyrgyzstan. …
+
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-08-31/modi-meets-iran-s-president-with-putin-talks-to-follow-at-sco)
+---
+
+## Article 18: Iran could face economic collapse in months, US Treasury’s Bessent warns
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.1027`
+
+Treasury Secretary Scott Bessent weighs in on the US's economic pressure campaign at a meeting of G20 finance ministers. United States Treasury Secretary Scott Bessent says Iran is taking the USs newly imposed sanctions seriously as tensions between the US and Iran reach the six-month mark. On Monday, Bessent said Ira…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/8/31/iran-could-face-economic-collapse-in-months-us-treasurys-bessent-warns)
+---
+
+## Article 19: U.S. Stock Futures Little Changed as Markets Weigh Warsh’s Hawkish Remarks
 **Source:** The Wall Street Journal | **Sentiment Score:** `0.8658`
 
 The Federal Reserve Chairman said inflation remained too high and that better readings this summer hadn’t convinced him that underlying trends had meaningful... Market pricing now implies about a 60% chance of a Fed rate increase in September, Capital Economics said. - Jeenah Moon/Reuters U.S. stock futures and Treasury yields were little changed in Europea…
@@ -13,155 +157,11 @@ The Federal Reserve Chairman said inflation remained too high and that better re
 [Read Original Article Here](https://www.wsj.com/finance/investing/u-s-stock-futures-little-changed-as-markets-weigh-warshs-hawkish-remarks-5a036994)
 ---
 
-## Article 2: The looming failure of Operation Economic Outcast
+## Article 20: The looming failure of Operation Economic Outcast
 **Source:** Al Jazeera English | **Sentiment Score:** `0.3612`
 
 The latest package of US sanctions on Iran is unlikely to achieve Washington’s objectives. Last week, Pakistan announced that it will not comply with the latest sanctions the United States imposed on Iran and will continue trading with its neighbour. The news came just days after China mad…
 
 [Read Original Article Here](https://www.aljazeera.com/opinions/2026/8/31/the-looming-failure-of-operation-economic-outcast)
----
-
-## Article 3: Iran attacks Jordan, UAE after US bombs Larak Island: What’s the latest?
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.2960`
-
-The retaliatory attacks came after the US targeted two Iranian launchers on Larak Island in the Strait of Hormuz. Iran says it has attacked US bases in Jordan and US military assets in the United Arab Emirates in retaliation for strikes on Larak Island in the first active exchange between the two sides since lat…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/8/31/iran-attacks-jordan-uae-after-us-bombs-larak-island-whats-the-latest)
----
-
-## Article 4: The data center fight could decide the next president and cost America the AI race
-**Source:** Fox News | **Sentiment Score:** `-0.7351`
-
-Rising electric bills and data center construction spark bipartisan pushback from governors, but restricting AI infrastructure could cost America its lead. Its the fall of 2028. A debate moderator turns to two presidential nominees who spent their governorships fighting over data centers. "Chinas AI lead is now a fact," she says. "In 2026, you decided t…
-
-[Read Original Article Here](https://www.foxnews.com/opinion/data-center-fight-could-decide-next-president-cost-america-ai-race)
----
-
-## Article 5: Xi, Modi and Putin set to meet for SCO summit: What’s on the agenda?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.5574`
-
-The two-day summit aims to promote a vision of a multipolar world and mutual trade ties amid Trump's unilateralism. Leaders of the Shanghai Cooperation Organisation (SCO), including Chinese President Xi Jinping, his Russian counterpart, Vladimir Putin, and Indian Prime Minister Narendra Modi, are set to gather in …
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/8/31/xi-modi-and-putin-set-to-meet-for-sco-summit-whats-on-the-agenda)
----
-
-## Article 6: Nord Stream bombings put Ukraine’s ties with Germany under pressure
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.8625`
-
-The blasts strain ties with Ukraine and have exposed the risks of relying on Russian gas, analysts say. Kyiv, Ukraine The 2022 destruction of the Nord Stream pipelines, whose construction cost $19bn, epitomised the failure of change through trade, Berlins policy of softening Moscows hardline leadership…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/8/31/why-the-2022-nord-stream-bombings-muddle-berlin-kyiv-ties)
----
-
-## Article 7: PV Krishna Reddy, MD of Megha Engineering, taps $700-million private credit for Megha buyout
-**Source:** Bloomberg | **Sentiment Score:** `0.6369`
-
-A consortium of lenders including Davidson Kempner Capital Management, Elham Credit Partners and Varde Partners has begun preliminary work on the structure of the financing A key shareholder of Megha Engineering &amp; Infrastructures Ltd. is seeking to raise about $700 million from global private credit investors to buy out his uncles stake in the company, according to …
-
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-08-31/indian-billionaire-taps-700-million-private-credit-for-megha-buyout)
----
-
-## Article 8: India boosts efforts to drain surplus cash as dollar flows swell
-**Source:** Bloomberg | **Sentiment Score:** `0.3612`
-
-The latest move marks a shift towards larger and longer-tenor operations as the RBI seeks to absorb liquidity generated by its measures to attract foreign inflows to shore up the rupee The Reserve Bank of India (RBI) has stepped up efforts to drain excess liquidity as a surge in foreign-currency inflows swells cash in the financial system. The RBI will conduct a 15-day variable ra…
-
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-08-28/india-boosts-efforts-to-drain-surplus-cash-as-dollar-flows-swell)
----
-
-## Article 9: US plans to sanction another bank to keep economic pressure on Iran
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.5267`
-
-Washington has recently stepped up efforts to economically pressure Tehran amid the deadlocked truce talks. Washington plans to impose sanctions on another bank this week as it steps up its campaign to economically isolate Tehran amid the deadlocked truce talks, the US Treasury chief has said. In an inter…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/8/31/us-plans-to-sanction-another-bank-to-keep-economic-pressure-on-iran)
----
-
-## Article 10: Google Maps changes Lake Ontario to ‘Lake America’ in US searches | CNN Politics
-**Source:** CNN | **Sentiment Score:** `0.7430`
-
-Anyone in the United States looking to navigate to Lake Ontario on Google Maps can no longer find it as of this weekend. Anyone in the United States searching for Lake Ontario on Google Maps can no longer find it as of this weekend. Users in the country will now see the smallest of the Great Lakes identified as Lake A…
-
-[Read Original Article Here](https://www.cnn.com/2026/08/30/politics/google-maps-changes-lake-ontario-to-lake-america)
----
-
-## Article 11: Google Maps renames Lake Ontario after Trump’s decree on ‘Lake America’
-**Source:** Al Jazeera English | **Sentiment Score:** `0.0258`
-
-Tech giant says name to remain Lake Ontario for Canadian users, change reflects decision by US government agency. Google has changed the name of Lake Ontario to Lake America on its maps in the United States after an order by US President Donald Trump to rename the body of water as trade tensions escalate with Ca…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/8/30/google-maps-renames-lake-ontario-after-trumps-decree-on-lake-america)
----
-
-## Article 12: 'Like something out of 'Saturday Night Live': Ontario premier laughs off ‘Lake America’ executive order
-**Source:** Politico | **Sentiment Score:** `-0.6705`
-
-Doug Ford said: "It's been Lake Ontario for hundreds of years. It's going to continue being Lake Ontario.” Ontario Premier Doug Ford on Sunday addressed the rising tensions between the U.S. and Canada, including the recent rounds of personal insults he and President Donald Trump hurled at each other earli…
-
-[Read Original Article Here](https://www.politico.com/news/2026/08/30/doug-ford-lake-america-ontario-01056411)
----
-
-## Article 13: Iceland votes to reject EU accession talks: What happens next?
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.5106`
-
-The referendum result halts Iceland's bid to reopen EU membership talks, with 52.5 percent voting against the proposal. Voters in Iceland have rejected a proposal to resume negotiations on joining the European Union, dealing a setback to the governments push for closer ties with the 27-country bloc. With almost all v…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/8/30/iceland-votes-to-reject-eu-accession-talks-what-happens-next)
----
-
-## Article 14: Banque Misr, Egypt’s second-largest, hit by US sanctions: What to know
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.5574`
-
-Move comes as Washington steps up its efforts to economically pressure Iran amid deadlock in truce talks. The United States has said it will cut off the UAE operations of Banque Misr from the US financial system after accusing Egypts second-biggest bank of doing business with the Iranian government.  Tr…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/8/30/banque-misr-egypts-second-largest-hit-by-us-sanctions-what-to-know)
----
-
-## Article 15: Dem Senate hopeful pivots on data centers as rising power costs collide with campaign
-**Source:** Fox News | **Sentiment Score:** `0.7604`
-
-Roy Cooper celebrated data center growth as North Carolina governor, but his Senate campaign now targets their energy use as a rate hike driver. Despite having once applauded the growth of data centers during his tenure as North Carolina governor, Democratic Senate nominee Roy Cooper is now pitching voters with ways to reel in their expansion…
-
-[Read Original Article Here](https://www.foxnews.com/politics/roy-cooper-changes-tune-data-centers-rising-power-costs-collide-senate-campaign)
----
-
-## Article 16: How has life changed for Iranians six months into the war?
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.6369`
-
-Common Iranians are under increasing pressure, with no relief expected in the short term. Tehran, Iran More than six months into the US-Israel war on Iran, the quality of life for most Iranians has deteriorated. Irans military and political establishment has managed to adapt to the chang…
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/8/30/how-has-life-changed-for-iranians-six-months-into-the-war)
----
-
-## Article 17: The World’s Drinks Order Is In. Distillers Were Expecting More.
-**Source:** The Wall Street Journal | **Sentiment Score:** `0.0000`
-
-It’s the corporate equivalent of ordering too much alcohol for a party where half the guests turn out to be dry. Except with billions of dollars at stake. Barrels of cognac in a cellar in southwest France. U.S. tariffs on EU imports are hurting European distillers with high exposure to the U.S. market. - christophe archambault/AFP/Getty Images It's th…
-
-[Read Original Article Here](https://www.wsj.com/business/retail/the-worlds-drinks-order-is-in-distillers-were-expecting-more-8ad379b3)
----
-
-## Article 18: No, Tehran is not winning | CNN Politics
-**Source:** CNN | **Sentiment Score:** `-0.1779`
-
-As the latest phase of the war unfolds, Iran is losing its leverage in Hormuz Brett McGurk is a CNN global affairs analyst who served in senior national security positions under Presidents George W. Bush, Barack Obama, Donald Trump and Joe Biden. A conventional wisdom has beg…
-
-[Read Original Article Here](https://www.cnn.com/2026/08/30/politics/iran-losing-leverage-hormuz-mcgurk)
----
-
-## Article 19: The home front: How Israel, Iran, and US leaders have been hit by the war
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.8020`
-
-Six months into the US-Israel war on Iran, the governments in the three countries are fighting political wars at home. Six months ago, the United States and Israel struck targets across Tehran, killing Supreme Leader Ayatollah Ali Khamenei and other Iranian leaders. It fulfilled a long-held ambition of Israeli Prime…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/8/30/the-home-front-how-israel-iran-and-us-leaders-have-been-hit-by-the-war)
----
-
-## Article 20: Canada unveils huge new Lake Ontario sign in snub to Trump
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.6597`
-
-Canada unveils huge new Lake Ontario sign in snub to Trump Ontario premier Doug Ford has unveiled a massive billboard-size Lake Ontario sign in response to Trump ordering US federal agencies to refer to it as Lake America amid a trade war between Canada and …
-
-[Read Original Article Here](https://www.aljazeera.com/video/newsfeed/2026/8/30/canada-unveils-huge-new-lake-ontario-sign-in-snub-to-trump)
 ---
 
