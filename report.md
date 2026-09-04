@@ -1,167 +1,167 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-09-03 | **Status:** Automated
+**Date:** 2026-09-04 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: The verdict is in on Trump’s ‘Lake America’ and Canada trade war. It’s not good
-**Source:** CNN | **Sentiment Score:** `-0.5994`
+## Article 1: Why has the Netherlands moved $10bn of its gold from the US?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.5859`
 
-President Donald Trump has dropped another clunker in the laps of his fellow Republicans in the run-up to the 2026 midterm elections. President Donald Trump has dropped another clunker in the laps of his fellow Republicans in the run-up to the 2026 midterm elections. His new trade war with Canada and his related move to change the…
+The Netherlands has $83.7bn worth of gold in domestic and foreign reserves. The Netherlands has moved billions of dollars of its gold reserves out of the United States and Canada, and transferred them to the United Kingdom amid global geopolitical tensions. On Wednesday, th…
 
-[Read Original Article Here](https://www.cnn.com/2026/09/02/politics/trump-lake-america-canada-polls)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/3/why-has-the-netherlands-moved-10bn-of-its-gold-from-the-us)
 ---
 
-## Article 2: China has found a new illicit drug market. America must shut it down
-**Source:** Fox News | **Sentiment Score:** `-0.8779`
+## Article 2: India's Modi-Iran meeting comes amid US warnings of sanctions on Tehran's trading partners
+**Source:** Fox News | **Sentiment Score:** `-0.7845`
 
-Chinese chemical manufacturers linked to fentanyl precursors are now shipping unapproved retatrutide peptides into U.S. homes via customs fraud. China has found another vulnerability in Americas borders and supply chain - and it's being exploited. An illicit pipeline is bringing an experimental injectable drug from Chinese chemical manufactu…
+Trump administration Iran sanctions threaten India's commercial and energy ties with Tehran, putting India-U.S. relations to the test over secondary sanctions. The Trump administration is ramping up economic sanctions on Iran through "Operation Economic Outcast," while also threatening dire secondary sanctions against countries that continue Iran-related bu…
 
-[Read Original Article Here](https://www.foxnews.com/opinion/china-found-new-illicit-drug-market-america-must-shut-down)
+[Read Original Article Here](https://www.foxnews.com/world/indias-modi-iran-meeting-comes-amid-us-warnings-sanctions-tehrans-trading-partners)
 ---
 
-## Article 3: The US is gobbling up Venezuelan oil, but will it lower fuel prices?
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.4684`
+## Article 3: Kyrgyzstan hosts pivotal SCO summit amid global geopolitical shifts
+**Source:** Al Jazeera English | **Sentiment Score:** `0.8016`
 
-Analysts say Venezuelan crude is hard to extract and refine, and likely can't replace oil stuck in the Strait of Hormuz. When United States President Donald Trump announced the biggest oil deal in world history with Venezuela on August 28, he claimed it would more than double US oil reserves and substantially lower gas…
+Kyrgyzstan balances ties with global powers while leveraging its geography to secure economic and political opportunities. Bishkek, Kyrgyzstan   It was a round table of some of the most influential men in the world. Representing Russia, China, India, Iran, Pakistan and when they extended to the Shanghai Cooperation Organ…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/2/the-us-is-gobbling-up-venezuelan-oil-but-will-it-lower-fuel-prices)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/3/kyrgyzstan-hosts-pivotal-sco-summit-amid-global-geopolitical-shifts)
 ---
 
-## Article 4: Trump and Rubio’s bold Venezuela oil pact could finally crush communism’s grip
-**Source:** Fox News | **Sentiment Score:** `-0.6956`
+## Article 4: Inflation is a drug and Washington is high on it | CNN Business
+**Source:** CNN | **Sentiment Score:** `0.0000`
 
-Critics call it colonialism, but the U.S.-Venezuela oil partnership aims to block Cuba, China, and Russia from recapturing the failed state. For more than a quarter century, Venezuela was not merely poorly governed. It was captured by Cuban communist intelligence services. Russian arms entrenched it. Chinese loans stripped the country of …
+High prices have turned Americans against the economy, and they’re starting to unleash real consequences for Washington and the financial markets. High prices have turned Americans against the economy, and theyre starting to unleash real consequences for Washington and the financial markets. Historic inflation led voters to oust Democrats from…
 
-[Read Original Article Here](https://www.foxnews.com/opinion/trump-rubio-bold-venezuela-oil-pact-could-finally-crush-communisms-grip)
+[Read Original Article Here](https://www.cnn.com/2026/09/03/business/inflation-bonds-washington)
 ---
 
-## Article 5: Why Greece is betting on Israel’s Achilles Shield
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.0258`
+## Article 5: Banks commit ₹24,000 crore to Aditya Birla Group for Shell renewables acquisition
+**Source:** Bloomberg | **Sentiment Score:** `0.5859`
 
-The defence deal between the two countries fits into a larger shift in regional alliances amid the US-Israel war on Iran. On Monday, Greece and Israel signed a $3.5bn defence deal to build an integrated, multilayered defence network to protect Greek territory dubbed the Achilles Shield. The package brings together the D…
+Aditya Birla Group has received ₹24,000 crore in bank commitments for a ₹14,000 crore loan to acquire Shell’s renewable energy assets in India. A unit of Indian billionaire Kumar Mangalam Birlas conglomerate has received as much as 24,000 crore ($2.5 billion) in commitments from at least four banks for an acquisition loan, 70% more than what…
 
-[Read Original Article Here](https://www.aljazeera.com/opinions/2026/9/2/why-greece-is-betting-on-israels-achilles-shield)
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-09-03/billionaire-birla-unit-s-buyout-loan-draws-2-5-billion-in-bids)
 ---
 
-## Article 6: CEO’s refusal to overhaul bank fuelled surprise HDFC shake-up
-**Source:** Bloomberg | **Sentiment Score:** `-0.1045`
+## Article 6: Yair Netanyahu, Israeli PM’s son, angers UK right over Falklands comment
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.2023`
 
-HDFC Bank's CEO Sashidhar Jagdishan steps down amid tensions over proposed changes from new Chair Rajiv Kumar, sparking surprise. Just two months into his tenure as chair of HDFC Bank Ltd., Rajiv Kumar wasted little time in pushing for changes at Indias most valuable bank.  He outlined several measures to Chief Executive Offic…
+Accusing the UK government of ‘hypocrisy’, Yair Netanyahu backs Argentina’s claims to the British-held Falkland Islands. Comments by Yair Netanyahu, the son of Israeli Prime Minister Benjamin Netanyahu, backing Argentinas claim to the British-controlled Falkland Islands have caused an unlikely row with Britains right w…
 
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-09-01/ceo-s-refusal-to-overhaul-bank-fueled-surprise-hdfc-shakeup)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/3/yair-netanyahu-israeli-pms-son-angers-uk-right-over-falklands-comment)
 ---
 
-## Article 7: India’s diaspora deposit flows surpass $100 billion: Reports
-**Source:** Bloomberg | **Sentiment Score:** `0.8750`
+## Article 7: EU foreign ministers fail to break deadlock over Israel and Ukraine
+**Source:** Al Jazeera English | **Sentiment Score:** `0.3291`
 
-India's diaspora deposits exceed $100 billion, boosting RBI reserves to a record $729.3 billion and strengthening currency support. Inflows under the Reserve Bank of Indias special overseas deposit facility have topped the $100 billion mark, the Financial Express newspaper reported Wednesday, citing officials it did not identify.…
+EU officials met in Ireland but failed to agree on imposing trade sanctions on Israel or military support for Ukraine. Wicklow, Ireland We have reached an impasse, said Irelands Foreign Minister Helen McEntee at a gathering of European Union officials on Tuesday, summing up the blocs increasingly fractured position o…
 
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-09-02/india-s-diaspora-deposit-flows-surpass-100-billion-fe-reports)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/3/eu-foreign-ministers-fail-to-break-deadlock-over-israel-and-ukraine)
 ---
 
-## Article 8: Syria’s restrained approach to Israel carries risks
-**Source:** Al Jazeera English | **Sentiment Score:** `0.2263`
+## Article 8: Johnson downplays GOP's midterm woes as Democrats eye House takeover: 'I am very bullish'
+**Source:** Fox News | **Sentiment Score:** `0.6597`
 
-Damascus's restraint could encourage more Israeli encroachment and lose the trust of the Syrian public. Last week, Israel attacked Syrian territory yet again. Israeli forces shelled a hilltop near Beit Jinn in the western Damascus countryside, while soldiers raided a village in Quneitra province. The …
+With Election Day two months away, Democrats eye Senate and House majorities as inflation, gas prices, and Trump's approval ratings batter the GOP. With two months to go until Election Day, and early voting kicking off later this month in half a dozen states, Democrats are increasingly optimistic they can recapture congressional majorities. Wit…
 
-[Read Original Article Here](https://www.aljazeera.com/opinions/2026/9/2/syrias-restrained-approach-to-israel-carries-risks)
+[Read Original Article Here](https://www.foxnews.com/politics/johnson-downplays-gops-midterm-woes-democrats-eye-house-takeover)
 ---
 
-## Article 9: Top US lawmaker Mike Johnson says lying is part of some Iranians’ religion
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.7184`
+## Article 9: China’s support for Iran shows its limits as US ramps up pressure on Tehran
+**Source:** Al Jazeera English | **Sentiment Score:** `0.6705`
 
-The Republican House speaker defends the US-Israel war on Iran and praises Trump's 'steady hands at the wheel'. Mike Johnson, the speaker of the United States House of Representatives, has suggested that lying is part of Iranians religion as he defended President Donald Trumps decision to launch a war on Iran.…
+Beijing's support for Tehran is balanced against other relationships in the region, analysts say. China has long been a rare partner to Iran, with the economic heft to blunt the United States efforts to strangle the Iranian economy. Yet even as China opposes US President Donald Trumps latest pre…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/2/top-us-lawmaker-mike-johnson-says-lying-is-part-of-some-iranians-religion)
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/9/3/chinas-support-for-iran-shows-its-limits-as-us-ramps-up-pressure-on-tehran)
 ---
 
-## Article 10: Scandal-plagued 'Squad' rep cruises to Democratic nomination with no GOP roadblocks in view
-**Source:** Fox News | **Sentiment Score:** `-0.6059`
+## Article 10: Trump threatens more strikes as death toll in Iran rises to 18
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.9571`
 
-Ayanna Pressley faces no challengers in the Massachusetts 7th district, but controversies over her husband's federal contract and finances loom large. Rep. Ayanna Pressley, D-Mass., is officially the Democratic nominee for Massachusetts' 7th Congressional District after facing no challengers in Tuesday's primary. But despite controversies involvin…
+Trump says US can hit Iran 'anytime we want' as Tehran says deadly strikes, including on wedding party, a war crime. United States President Donald Trump has threatened more attacks on Iran, warning that Washington could hit Iran anytime we want, as the death toll from the latest US strikes climbed to 18, with at l…
 
-[Read Original Article Here](https://www.foxnews.com/politics/scandal-plagued-squad-rep-cruises-democratic-nomination-no-gop-roadblocks-view)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/3/trump-threatens-more-strikes-as-death-toll-in-iran-rises-to-19)
 ---
 
-## Article 11: US urges G20 to cut trade imbalances, focus on China
-**Source:** Al Jazeera English | **Sentiment Score:** `0.8062`
+## Article 11: Morocco’s ruling allies turn on each other before election campaign begins
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.8176`
 
-US Treasury Secretary Bessent urges other G20 countries to do more to protect their economies from Chinese imports. United States Treasury Secretary Scott Bessent is urging some of his G20 counterparts to take a page from the Trump administrations playbook of using tariffs and other measures to crack down on trade…
+Political tensions rise as Moroccans prepare for the polls, with the official campaign start still days away. Moroccos governing allies are trading accusations, politicians are switching camps and a leaked recording has exposed tensions at the top of the ruling coalition all before the official campaign begi…
 
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/9/1/us-urges-g20-to-cut-trade-imbalances-focus-on-china)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/3/moroccos-ruling-allies-turn-on-each-other-before-election-campaign-begins)
 ---
 
-## Article 12: US energy secretary will travel to Venezuela to unveil oil arrangement
-**Source:** Al Jazeera English | **Sentiment Score:** `0.8931`
+## Article 12: The primary is over now come the primetime mistakes
+**Source:** Fox News | **Sentiment Score:** `0.5106`
 
-Venezuela's National Assembly voted to back the 65-billion-barrel oil deal, despite no details being publicly released. United States Energy Secretary Chris Wright is set to travel to Venezuela, after the South American country has approved a deal that will see the US seize effective control of a large portion of its …
+Not every candidate is Deion Sanders at Primetime — Abdul El-Sayed and Darline Graham face questions about whether they're ready for the Senate. Theres a reason football great Deion Sanders was known as "Primetime." Sanders epitomized his sobriquet with electric performances on Monday Night Football and in the playoffs. But not every politic…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/1/us-energy-secretary-will-travel-to-venezuela-to-unveil-oil-arrangement)
+[Read Original Article Here](https://www.foxnews.com/politics/primary-over-now-come-primetime-mistakes)
 ---
 
-## Article 13: MapQuest is No. 1 on the App Store after refusing to change Lake Ontario’s name | CNN Business
-**Source:** CNN | **Sentiment Score:** `0.5402`
+## Article 13: Far-left writer ripped in viral debate over 'absurd' claim that capitalism is tied to White supremacy
+**Source:** Fox News | **Sentiment Score:** `0.1027`
 
-The most popular iPhone app in the US is one that few people have thought about since dial-up internet: MapQuest. The most popular iPhone app in the US is one that few people have thought about since dial-up internet: MapQuest. The mapping service is making a comeback on US App Stores after refusing to change L…
+Jemele Hill doubled down on her claim linking capitalism to white supremacy after a CNN panel clash with Kmele Foster over the issue. Liberal Atlantic writer Jemele Hill doubled down after suggesting that capitalism was linked to White supremacy, during a heated clash with another panelist on CNN on Tuesday. "It's one thing to not…
 
-[Read Original Article Here](https://www.cnn.com/2026/09/01/business/mapquest-number-one-app-refusal-lake-america)
+[Read Original Article Here](https://www.foxnews.com/media/far-left-writer-ripped-viral-debate-absurd-claim-capitalism-tied-white-supremacy)
 ---
 
-## Article 14: Canada’s Carney says US must ‘start being serious’ to resolve trade dispute
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.5859`
+## Article 14: DAVID MARCUS: Canada sees Trump trade war as ‘life and death’ while Americans barely notice
+**Source:** Fox News | **Sentiment Score:** `0.3818`
 
-Carney and Trump continue to trade barbs amid ongoing threats against Canadian sovereignty and economic disputes. Canadian Prime Minister Mark Carney has reprimanded the United States for what he describes as a flippant approach to the ongoing trade dispute between the two countries. On Tuesday, Carney hit back…
+Expert Gary Mar warns Canada faces bigger sticks in a tariff battle with the United States as the Sept. 7 trade deal deadline approaches fast. Gary Mar is a guy who knows a thing or two about trade between the United States and Canada. As the president of the Canada West Foundation and a former minister dealing with trade for the Province o…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/1/canadas-carney-says-us-must-start-being-serious-to-resolve-trade-dispute)
+[Read Original Article Here](https://www.foxnews.com/opinion/david-marcus-canada-sees-trump-trade-war-life-death-americans-barely-notice)
 ---
 
-## Article 15: Hakainde Hichilema returns as Zambia’s president following disputed vote
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.3182`
+## Article 15: US judge rejects bid to break up Google’s ad business
+**Source:** Al Jazeera English | **Sentiment Score:** `0.2837`
 
-Incumbent is inaugurated with his main rival in last month's election jailed and the courts shuttered. President Hakainde Hichilema has been sworn in for a second term as Zambias president following his victory in disputed elections. As Hichilema was inaugurated at the National Heroes Stadium in the …
+Justice Department had argued Google could not be trusted to run the online advertising exchange. Alphabets Google has escaped a breakup of its advertising technology business, marking the third time in recent years that United States antitrust enforcers have tried to force a Big Tech breakup and…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/1/hakainde-hichilema-returns-as-zambias-president-following-disputed-vote)
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/9/2/us-judge-rejects-bid-to-break-up-googles-ad-business)
 ---
 
-## Article 16: John Ternus succeeds Tim Cook as Apple CEO after 15 years
-**Source:** Al Jazeera English | **Sentiment Score:** `0.7003`
+## Article 16: EU ministers in Ireland tackle Israeli settlement trade and Ukraine defence
+**Source:** Al Jazeera English | **Sentiment Score:** `0.1779`
 
-Apple gears up for innovation under Ternus before a new product launch event that could include foldable phones. John Ternus has officially taken over as the chief executive officer of Apple, succeeding Tim Cook, who ended a 15-year tenure leading the tech giant. Ternus, who took the helm on Tuesday, had been …
+EU ministers in Ireland have announced a mission to support Lebanon’s army but remain divided on sanctions on Israel. EU ministers meeting in Ireland have announced a mission to support Lebanons army but remain at an impasse over measures targeting Israeli settlements. Disagreements also persist over how to provide …
 
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/9/1/john-ternus-succeeds-tim-cook-as-apple-ceo-after-15-years)
+[Read Original Article Here](https://www.aljazeera.com/video/newsfeed/2026/9/2/09-02-26-reported-ireland-talks)
 ---
 
-## Article 17: Ousted UK Prime Minister Keir Starmer to quit domestic politics
-**Source:** Al Jazeera English | **Sentiment Score:** `0.0772`
+## Article 17: Putin and Iran 'need each other desperately,' expert says, as Russia voices support for regime
+**Source:** Fox News | **Sentiment Score:** `0.1779`
 
-Departed Labour Party leader now plans to focus on international affairs. Former British Prime Minister Keir Starmer has announced he is to stand down as a member of parliament. Starmer said on Tuesday that it was the right time to resign as the MP for the Holborn and St …
+Vladimir Putin declared full solidarity with Iran as an expert said both nations "need each other desperately" during the escalating U.S.-Iran conflict. The relationship between Iran and Russia is growing as both sides "need each other desperately," an expert told Fox News Digital on Wednesday after Russian President Vladimir Putin voiced support for…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/1/ousted-uk-prime-minister-keir-starmer-to-quit-domestic-politics)
+[Read Original Article Here](https://www.foxnews.com/world/putin-iran-need-each-other-desperately-expert-says-russia-voices-support-regime)
 ---
 
-## Article 18: Majority of Americans reject Trump’s renaming of Lake Ontario to Lake America, poll finds
-**Source:** Fox News | **Sentiment Score:** `-0.7269`
+## Article 18: Trump revives Iran regime change speculation with cryptic call for people to ‘rise up'
+**Source:** Fox News | **Sentiment Score:** `-0.5859`
 
-A Reuters/Ipsos poll shows 63% of Americans oppose Trump's executive order renaming Lake Ontario to Lake America amid the U.S.-Canada trade war. A new poll has found that a majority of Americans oppose President Donald Trumps decisions to rename Lake Ontario to Lake America and impose higher tariffs on Canadian goods. In the 3-day Reuters/Ip…
+Trump asking when Iranians will “rise up and fight" revives questions over whether the administration’s Iran strategy is shifting beyond economic pressure and negotiations President Donald Trump revived speculation over regime change in Iran Tuesday night, openly asking when Iranians would "rise up and fight" as his administration intensified military and economic pres…
 
-[Read Original Article Here](https://www.foxnews.com/politics/majority-americans-reject-trumps-renaming-lake-ontario-lake-america-poll-finds)
+[Read Original Article Here](https://www.foxnews.com/world/trump-revives-iran-regime-change-speculation-cryptic-call-people-rise-up)
 ---
 
-## Article 19: Is Trump wooing Russia again – and why?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.5719`
+## Article 19: Bessent warns Iran's outside backers to 'stay away' as Trump seeks to 'asphyxiate' Tehran's economy
+**Source:** Fox News | **Sentiment Score:** `-0.2263`
 
-CIA chief's Moscow visit and Russian finance minister attending a G20 meeting in the US signal renewed dialogue. United States President Donald Trumps administration appears to be taking steps to increase contact with key figures in Moscow, even as Russias war in Ukraine continues and US-backed peace efforts re…
+Treasury Secretary Scott Bessent warned nations still propping up Tehran to "stay away" as new sanctions target the nation on multiple fronts. Treasury Secretary Scott Bessent issued a stark warning to Iran's global lifelines Wednesday, telling those still propping up Tehran to "stay away" as the Trump administration moves to economically "…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/1/is-trump-wooing-russia-again-and-why)
+[Read Original Article Here](https://www.foxnews.com/media/bessent-warns-irans-outside-backers-stay-away-trump-seeks-asphyxiate-tehrans-economy)
 ---
 
-## Article 20: Who is Alejandro Betancourt, ex-Chavez ally now Trump’s Venezuela oil man?
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.1280`
+## Article 20: China’s Xi visits Egypt’s el-Sisi: Why it matters
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.1027`
 
-The controversial tycoon will lead the joint oil venture as the Trump administration seeks to reshape energy markets. Controversial Venezuelan businessman Alejandro Betancourt, who amassed massive fortunes under former socialist President Hugo Chavez and who has faced investigations into alleged money laundering, ha…
+Xi Jinping's historic Egypt visit aims to strengthen China-Egypt ties amid rising Middle East tensions. Chinese President Xi Jinping is visiting Egypt for the first time in a decade, as Cairo looks to foster deeper economic and military ties with Beijing while maintaining its long-standing relationship…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/1/who-is-alejandro-betancourt-ex-chavez-ally-now-trumps-venezuela-oil-man)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/2/chinas-xi-visits-egypts-el-sisi-why-it-matters)
 ---
 
