@@ -1,11 +1,139 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-09-08 | **Status:** Automated
+**Date:** 2026-09-09 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: Range Rover Maker to Cut 4,000 Jobs as Trump’s Tariffs Bite
+## Article 1: UK announces sanctions on illegal Israeli settlements
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.8402`
+
+Britain will ⁠introduce an import ban on goods ⁠from ​Israeli settlements, Ed Miliband tells parliament. United Kingdom Foreign Minister Ed Miliband has announced sanctions on illegal Israeli settlements in the occupied West Bank. Britain will introduce an import ban on goods from Israeli settlements, …
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/8/uk-announces-sanctions-on-illegal-israeli-settlements)
+---
+
+## Article 2: As Sweden heads to polls, Israel and Palestine policies are on the ballot
+**Source:** Al Jazeera English | **Sentiment Score:** `0.0000`
+
+With the left-wing coalition ahead in polling, the current right-wing government's policies could soon be up for debate. Stockholm, Sweden This Sunday, Sweden will vote in a knife-edge general election that could change the countrys stance on Israel. In 2014, Sweden became the first European Union member state to reco…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/8/as-sweden-heads-to-polls-israel-and-palestine-policies-are-on-the-ballot)
+---
+
+## Article 3: What to watch in the US’s New Hampshire and Rhode Island primary elections
+**Source:** Al Jazeera English | **Sentiment Score:** `0.6369`
+
+Some of the US midterm election's biggest themes will play out in these New England states' most notable races. Voters in two US states New Hampshire and Rhode Island will head to the polls this week to select Democratic and Republican candidates for this Novembers United States midterm elections. In whats be…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/8/what-to-watch-in-the-uss-new-hampshire-and-rhode-island-primary-elections)
+---
+
+## Article 4: Brazil’s oil exports surge as China seeks alternatives to Iranian crude | CNN Business
+**Source:** CNN | **Sentiment Score:** `-0.7650`
+
+Brazilian oil production and exports have hit record highs this year, largely due to increased demand from China as the US-Iran war continues to reshape global trade and geopolitical relationships. Brazilian oil production and exports have hit record highs this year, largely due to increased demand from China as the US-Iran war continues to reshape global trade and geopolitical relationships. …
+
+[Read Original Article Here](https://www.cnn.com/2026/09/08/business/oil-brazil-china)
+---
+
+## Article 5: Kenya offers amnesty for migrants after Burundians rush to leave
+**Source:** Al Jazeera English | **Sentiment Score:** `0.0000`
+
+Government spokesman urges undocumented nationals from other East African countries to formally register at embassies. Kenya has offered a temporary amnesty to undocumented East African migrants after hundreds of Burundians rushed to their countrys embassy in Nairobi seeking travel documents to return home. Kenyan P…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/8/kenya-offers-amnesty-for-migrants-after-burundians-rush-to-leave)
+---
+
+## Article 6: GOP faces brutal midterm headwinds as Republicans paint election as ‘competition with communism’
+**Source:** Fox News | **Sentiment Score:** `-0.3818`
+
+President Donald Trump headlines the first-ever GOP midterm convention in Dallas as Republicans fight to hold slim congressional majorities amid inflation. DALLAS With less than two months to go until the midterm elections, President Donald Trump and Republicans gather in Texas this week for the first ever GOP midterm convention, as they aim to energize…
+
+[Read Original Article Here](https://www.foxnews.com/politics/gop-faces-brutal-midterm-headwinds-republicans-paint-election-competition-communism)
+---
+
+## Article 7: Key swing state voters to settle dueling Senate primary fights in crucial open-seat race
+**Source:** Fox News | **Sentiment Score:** `0.2732`
+
+Karishma Manzur's socialist surge threatens Chris Pappas in the New Hampshire Senate primary as the far-left notches wins across the country. MANCHESTER, N.H. - The Democratic and Republican Senate nominations are up for grabs on Tuesday in swing state New Hampshire, in a race that may determine if Republicans keep control of the chamber i…
+
+[Read Original Article Here](https://www.foxnews.com/politics/key-swing-state-voters-settle-dueling-senate-primary-fights-crucial-open-seat-race)
+---
+
+## Article 8: Five reasons the Democrat Party will only keep making a hard left turn
+**Source:** Fox News | **Sentiment Score:** `0.8519`
+
+The Democratic Party's leftward shift is driven by super PACs, union campaign finance and government spending trends that make moderation unlikely. The direction of the Democrat Party is the talk of the 2026 midterms. Will it go farther left or somehow moderate? The simple answer is that Democrat Party will move even farther left. As the nation…
+
+[Read Original Article Here](https://www.foxnews.com/opinion/five-reasons-democrat-party-keep-making-hard-left-turn)
+---
+
+## Article 9: Canada’s retaliatory tariffs on $20bn of US goods take effect
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.3818`
+
+Trade tensions soar as Canada matches US tariffs 'dollar-for-dollar', impacting 700 products and multiple industries. Canadas retaliatory tariffs on imports from the United States have taken effect, escalating the trade dispute between the two countries. Tariffs ranging from 15 percent to 50 percent will apply to n…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/8/canadas-retaliatory-tariffs-on-20bn-of-us-goods-take-effect)
+---
+
+## Article 10: REC raises ₹500 crore through India’s first tokenised bond
+**Source:** Bloomberg | **Sentiment Score:** `0.5994`
+
+REC raises Rs 500 crore through India’s first tokenized bond, with HDFC Bank, ICICI Bank and other investors participating in the issue. Top lenders HDFC Bank Ltd. and ICICI Bank Ltd. are among buyers of Indias first tokenised bond offered by state-run REC Ltd., according to people familiar with the matter, signaling interest for such…
+
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-09-07/top-indian-banks-buy-state-power-lender-rec-s-tokenized-bond)
+---
+
+## Article 11: Cuba says no negotiations with US despite ‘genocidal’ blockade
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.6908`
+
+Cuba reports record losses from the US embargo as foreign minister describes months of punishing blackouts. Cuba says it is not currently negotiating with the United States, as the Trump administration continues its campaign of economic pressure on the island. Foreign Minister Bruno Rodríguez said on Mond…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/9/7/cuba-says-no-negotiations-with-us-despite-genocidal-blockade)
+---
+
+## Article 12: Trump’s blockade pushes Iran toward military escalation
+**Source:** CNN | **Sentiment Score:** `-0.9723`
+
+As Washington abandons talks with Iran for an aggressive economic pressure campaign, a cornered Tehran is now threatening military escalation and a wider war... As Washington abandons talks with Iran for an aggressive economic pressure campaign, a cornered Tehran is now threatening military escalation and a wider war to force negotiators back to the table. …
+
+[Read Original Article Here](https://www.cnn.com/2026/09/07/middleeast/trump-blockade-iran-military-escalation-intl-latam)
+---
+
+## Article 13: ‘Rhetoric differs’: How the UK’s relationship with Israel took a downturn
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.9190`
+
+The UK is planning to take new steps against illegal Israeli settlements as Palestinians suffer more violence. The United Kingdom is expected to announce trade restrictions on illegal Israeli settlements in the occupied West Bank, the latest sign, some analysts say, that UK-Israeli relations have taken anothe…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/7/uk-relationship-with-israel)
+---
+
+## Article 14: AfD is rising, but it can still be stopped
+**Source:** Al Jazeera English | **Sentiment Score:** `0.8126`
+
+The German mainstream still has a window of opportunity to act and reverse a dangerous trend to the far right. The victory of far-right Alternative for Germany (AfD) in the elections of the East German state Saxony-Anhalt is a dramatic moment for Germany. The party won 44 percent of the vote, securing 39 seat…
+
+[Read Original Article Here](https://www.aljazeera.com/opinions/2026/9/7/afd-is-rising-but-it-can-still-be-stopped)
+---
+
+## Article 15: Germany’s AfD wins in key state: Is far-right on cusp of national rule?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.6908`
+
+The AfD, classified as 'far-right extremist' by Germany's intelligence agency, is projected to come first in 2029. For the first time since World War II, a far-right party is within reach of power at state level in Germany, after coming first in Saxony-Anhalt on Sunday. The Alternative for Germany (AfD) won 44 p…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/7/germanys-afd-wins-in-key-state-is-far-right-on-cusp-of-national-rule)
+---
+
+## Article 16: Will Trump succeed in restarting Russia-Ukraine peace talks?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.5499`
+
+The Witkoff-Kushner visit to Moscow and Kyiv did not produce a breakthrough, but it can help begin a new process. The visit by White House envoys Steve Witkoff and Jared Kushner to Moscow and Kyiv has left more questions than answers. Details of what was discussed in both meetings are scant, but all participants…
+
+[Read Original Article Here](https://www.aljazeera.com/opinions/2026/9/7/will-trump-succeed-in-restarting-russia-ukraine-peace-talks)
+---
+
+## Article 17: Range Rover Maker to Cut 4,000 Jobs as Trump’s Tariffs Bite
 **Source:** The Wall Street Journal | **Sentiment Score:** `-0.1280`
 
 Jaguar Land Rover faces headwinds from intensifying Chinese competition and U.S. tariffs and said that it must simplify its organization. JLR is targeting more than $2 billion of savings over the next two years. - Ronaldo Schemidt/AFP/Getty Images Jaguar Land Rover is cutting 4,000 jobs as the automaker contends with President Trump's…
@@ -13,7 +141,7 @@ Jaguar Land Rover faces headwinds from intensifying Chinese competition and U.S.
 [Read Original Article Here](https://www.wsj.com/business/autos/tata-motors-owned-jlr-plans-redundancy-program-as-it-targets-over-2b-in-savings-4f8fccdb)
 ---
 
-## Article 2: Could Trump’s Iran trade war threaten Spain’s saffron-infused paella?
+## Article 18: Could Trump’s Iran trade war threaten Spain’s saffron-infused paella?
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.8225`
 
 US threats to punish Iran’s trade partners could disrupt Spain’s saffron supply, pressuring paella chefs and exporters. Madrid, Spain Fields of purple flowers contain crimson stigmas that make saffron, an essential spice in Spains national dish, paella. Saffron gives the rice-based dish its distinctive yellow colour …
@@ -21,7 +149,7 @@ US threats to punish Iran’s trade partners could disrupt Spain’s saffron sup
 [Read Original Article Here](https://www.aljazeera.com/news/2026/9/7/could-trumps-iran-trade-war-threaten-spains-saffron-infused-paella)
 ---
 
-## Article 3: Can Iran enforce a restricted zone in the Strait of Hormuz?
+## Article 19: Can Iran enforce a restricted zone in the Strait of Hormuz?
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.8735`
 
 Iran unveils plans for a restricted zone, but will Tehran be able to enforce it amid escalating tensions with the US? Iran says it plans to establish a new restricted zone around the Strait of Hormuz, a global energy chokepoint, after Tehran and Washington traded attacks on ships in the crucial waterway in what expe…
@@ -29,139 +157,11 @@ Iran unveils plans for a restricted zone, but will Tehran be able to enforce it 
 [Read Original Article Here](https://www.aljazeera.com/news/2026/9/7/can-iran-enforce-a-restricted-zone-in-the-strait-of-hormuz)
 ---
 
-## Article 4: Germany’s far-right party AfD surges to historic victory in state election
-**Source:** Fox News | **Sentiment Score:** `0.7506`
+## Article 20: China’s Foreign Exchange Reserves Continue to Climb
+**Source:** The Wall Street Journal | **Sentiment Score:** `-0.4588`
 
-German Chancellor Friedrich Merz's party faces a disastrous blow as AfD aims for Germany's first far-right state government since World War II. The far-right party Alternative for Germany, or AfD, was projected to win a strong victory in a regional election on Sunday, in a major blow to German Chancellor Friedrich Merz's center-right party, …
+China’s foreign-exchange reserves edged higher in August against the backdrop of a weaker dollar and a surging trade surplus, renewing concerns about the yua... Monday's data came as policymakers worldwide weighed actions against inexpensive Chinese exports they say benefit from unfair government subsidies. - Jason Lee/Reuters China's foreign-exchange reser…
 
-[Read Original Article Here](https://www.foxnews.com/world/germanys-far-right-party-afd-surges-historic-victory-state-election)
----
-
-## Article 5: DAVID MARCUS: Congress set to protect AM radio and American discourse
-**Source:** Fox News | **Sentiment Score:** `0.7650`
-
-WFMD in Frederick, Maryland, marks 90 years on AM radio as Congress prepares to vote on a bill requiring AM antennas in every new car sold. In 2026, the WFMD radio station in Frederick, Maryland, is celebrating its 90th year on the AM airwaves, and thanks to a bipartisan bill set for a vote in Congress this week, every new car sold in Am…
-
-[Read Original Article Here](https://www.foxnews.com/opinion/david-marcus-congress-set-protect-am-radio-american-discourse)
----
-
-## Article 6: After 'Lake America,' Trump suggests a new name for the state of New Mexico
-**Source:** Fox News | **Sentiment Score:** `0.5574`
-
-The White House reposted Trump's Truth Social image showing New Mexico crossed out and rebranded as "America" days after the Lake America order. The White House on Sunday amplified President Donald Trump's call to rebrand New Mexico as "New America," reposting an image from the president's Truth Social account showing the state's name crossed…
-
-[Read Original Article Here](https://www.foxnews.com/politics/lake-america-trump-suggests-new-name-state-new-mexico)
----
-
-## Article 7: Iran touts military response as US maintains blockade, hits tankers
-**Source:** Al Jazeera English | **Sentiment Score:** `0.3182`
-
-Tehran says time for proportionate retaliation is over after a US strike on Iranian tankers inside the blockade line. Tehran, Iran The United States continues to rely on a mix of military force and economic sanctions against Iran, which has so far only prompted authorities in Tehran to consider more forceful respons…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/6/iran-touts-military-response-as-us-maintains-blockade-hits-tankers)
----
-
-## Article 8: Germany’s far-right AfD projected to win eastern state but unclear if it will be able to govern | CNN
-**Source:** CNN | **Sentiment Score:** `-0.6124`
-
-‌The far-right Alternative for Germany surged into first place in state elections in Saxony-Anhalt on Sunday but it was unclear whether it would be able to form a government on its own, according to exit polls after voting closed. The far-right Alternative for Germany surged into first place in state elections in Saxony-Anhalt on Sunday but it was unclear whether it would be able to form a government on its own, according to e…
-
-[Read Original Article Here](https://www.cnn.com/2026/09/06/europe/germany-afd-state-election-majority-intl)
----
-
-## Article 9: Bessent predicts oil prices could drop as low as $40 after Iran conflict ends and supply floods market
-**Source:** Fox News | **Sentiment Score:** `-0.3818`
-
-Treasury Secretary Scott Bessent predicted oil prices could drop to between $40 and $50 after the Iran conflict ends, citing massive supply ready to hit the market. Treasury Secretary Scott Bessent predicted oil prices could fall to between $40 and $50 per barrel once the Iran conflict ends, arguing that abundant supply is poised to hit the market after constrai…
-
-[Read Original Article Here](https://www.foxnews.com/media/bessent-predicts-oil-prices-drop-low-40-iran-conflict-ends-supply-floods-market)
----
-
-## Article 10: US envoys meet Putin: What’s behind latest diplomacy on Russia-Ukraine war?
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.1779`
-
-Steve Witkoff and Jared Kushner met Putin and headed to Kyiv as part of Trump's new efforts to broker agreement. US envoys Steve Witkoff and Jared Kushner have held talks with President Vladmir Putin in Moscow, in what appears to be new efforts by the Trump administration to end the Russia-Ukraine war. US Pres…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/6/putin-meets-us-envoys-whats-behind-latest-diplomacy-on-russia-ukraine-war)
----
-
-## Article 11: 8 everyday things that would quit working without data centers
-**Source:** Fox News | **Sentiment Score:** `-0.1779`
-
-Data centers power everything from streaming and gaming to AI chatbots and fraud detection. Here's how they quietly run the apps you use daily. Data centers are the largely unseen infrastructure behind modern life, powering everything from the apps on your phone and shows you stream to online shopping, banking and artificial intelligence. I…
-
-[Read Original Article Here](https://www.foxnews.com/politics/8-everyday-things-would-quit-working-without-data-centers)
----
-
-## Article 12: ‘Destroying the American way of life’: El-Sayed’s political orbit complicates effort to moderate his image
-**Source:** Fox News | **Sentiment Score:** `0.0000`
-
-Abdul El-Sayed claims he's not a socialist, but Bernie Sanders, Alexandria Ocasio-Cortez and Democratic Socialists of America ties tell a different story. Michigan Democratic Senate candidate Abdul El-Sayed is seeking to appear more moderate to voters while, at the same time, maintaining ties to individuals who take positions far to the left of anythin…
-
-[Read Original Article Here](https://www.foxnews.com/politics/destroying-american-way-life-el-sayeds-political-orbit-complicates-effort-moderate-his-image)
----
-
-## Article 13: Netanyahu boasts about bombing Qatar, says Gaza funds used for aid
-**Source:** Al Jazeera English | **Sentiment Score:** `0.2263`
-
-Israeli PM says money he facilitated Qatar in sending to Gaza was recommended by Israeli security agencies. Israeli Prime Minister Benjamin Netanyahu has boasted about bombing Qatar, while dismissing domestic accusations that funds sent to Gaza were used for anything other than aid. In an interview with I…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/6/netanyahu-boasts-about-bombing-qatar-says-gaza-funds-used-for-aid)
----
-
-## Article 14: World’s biggest money managers are rebuilding gold positions
-**Source:** Bloomberg | **Sentiment Score:** `0.8442`
-
-Major money managers are increasing gold holdings, anticipating long-term value despite Fed's inflation measures and rising interest rates. Some of the worlds biggest money managers have rebuilt their gold holdings after prices dropped, betting that long-term drivers of the precious metal will endure even as the US Federal Reserve takes …
-
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-09-04/world-s-biggest-money-managers-are-rebuilding-gold-positions)
----
-
-## Article 15: Wisconsin businesses say they 'dodged a bullet,' rejecting high taxes as democratic socialist lost primary
-**Source:** Fox News | **Sentiment Score:** `-0.6369`
-
-WMC's Kurt Bauer says Wisconsin businesses "dodged a bullet" after Francesca Hong lost to David Crowley, but warns concerns remain on taxes. Wisconsin businesses "dodged a bullet" after democratic socialist candidate Francesca Hong lost the Democratic primary to a more moderate candidate, according to the CEO and president of Wisconsin Ma…
-
-[Read Original Article Here](https://www.foxnews.com/media/wisconsin-businesses-say-dodged-bullet-rejecting-high-taxes-democratic-socialist-lost-primary)
----
-
-## Article 16: Iran President Pezeshkian calls for unity as US ramps up economic pressure
-**Source:** Al Jazeera English | **Sentiment Score:** `0.8126`
-
-Amid rising public discontent, Iranian authorities say adversaries are focused on encouraging domestic unrest. Tehran, Iran President Masoud Pezeshkian has insisted that officials and Iranians will stand united in the face of United States economic pressure, saying national cohesion was enough to neutralise a…
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/9/5/iran-president-pezeshkian-calls-for-unity-as-us-ramps-up-economic-pressure)
----
-
-## Article 17: MARK HALPERIN: Social media damaged a generation. Are we about to let AI do the same?
-**Source:** Fox News | **Sentiment Score:** `-0.5719`
-
-The social media crisis offers a cautionary lesson as AI companies build chatbot products that could intimately interact with children unchecked. Imagine: two hundred aliens land on Earth, with thousands and thousands more of them expected in looming, unstoppable waves. And imagine, too, that we know some of the aliens are here to help us, to…
-
-[Read Original Article Here](https://www.foxnews.com/opinion/mark-halperin-social-media-damaged-generation-let-ai-same)
----
-
-## Article 18: Trump’s Treasury threat will only accelerate the dollar’s decline
-**Source:** Post Magazine | **Sentiment Score:** `-0.8316`
-
-US President Donald Trump’s thinly veiled threat to hold a gun to the heads of countries that refuse to maintain or expand their holdings of US Treasury bonds would be absurd coming from anyone other than the highly erratic US president. Nevertheless, it must… US President Donald Trumps thinly veiled threat to hold a gun to the heads of countries that refuse to maintain or expand their holdings of US Treasury bonds would be absurd coming from anyone other …
-
-[Read Original Article Here](https://www.scmp.com/opinion/world-opinion/article/3366316/trumps-treasury-threat-will-only-accelerate-dollars-decline)
----
-
-## Article 19: UK art show explores Muslim life, Europe’s Islamic history and Islamophobia
-**Source:** Al Jazeera English | **Sentiment Score:** `0.4215`
-
-Shahed Saleem's exhibition presents colourful tapestries depicting fateful moments for British and European Muslims. London, United Kingdom Underneath a 536-year-old Islamic-inspired Spanish roof in east London hang three tapestries linking the citys Muslim communities to Europes longstanding Muslim histories. Amo…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/5/i-was-born-here-london-exhibition)
----
-
-## Article 20: China expands currency swap with Egypt as trade ties reach new heights
-**Source:** Post Magazine | **Sentiment Score:** `0.6597`
-
-Egypt’s expanded currency swap with China may help bring the yuan into wider use in trade and investment, but experts say any reduced reliance on the US dollar will not happen in a hurry. Chinese President Xi Jinping and his Egyptian counterpart Abdel-Fattah … Egypts expanded currency swap with China may help bring the yuan into wider use in trade and investment, but experts say any reduced reliance on the US dollar will not happen in a hurry. Chinese Pre…
-
-[Read Original Article Here](https://www.scmp.com/news/china/diplomacy/article/3366430/china-expands-currency-swap-egypt-trade-ties-reach-new-heights)
+[Read Original Article Here](https://www.wsj.com/economy/chinas-foreign-exchange-reserves-continue-to-climb-def2bb7d)
 ---
 
