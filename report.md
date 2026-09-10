@@ -1,167 +1,167 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-09-09 | **Status:** Automated
+**Date:** 2026-09-10 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: UK announces sanctions on illegal Israeli settlements
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.8402`
+## Article 1: How has Israel hit back against sanctions by the UK, others?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.8020`
 
-Britain will ⁠introduce an import ban on goods ⁠from ​Israeli settlements, Ed Miliband tells parliament. United Kingdom Foreign Minister Ed Miliband has announced sanctions on illegal Israeli settlements in the occupied West Bank. Britain will introduce an import ban on goods from Israeli settlements, …
+Israel announced four countermeasures including the closure of the British consulate in East Jerusalem. Israel has announced four retaliatory measures against the UK in response to its decision to ban the import of all goods produced in illegal Israeli settlements in the occupied West Bank, calling the…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/8/uk-announces-sanctions-on-illegal-israeli-settlements)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/9/how-has-israel-hit-back-against-sanctions-by-the-uk-others)
 ---
 
-## Article 2: As Sweden heads to polls, Israel and Palestine policies are on the ballot
-**Source:** Al Jazeera English | **Sentiment Score:** `0.0000`
+## Article 2: Republican midterm convention 2026: What to know about Trump’s Dallas event
+**Source:** Al Jazeera English | **Sentiment Score:** `0.6705`
 
-With the left-wing coalition ahead in polling, the current right-wing government's policies could soon be up for debate. Stockholm, Sweden This Sunday, Sweden will vote in a knife-edge general election that could change the countrys stance on Israel. In 2014, Sweden became the first European Union member state to reco…
+Trump and JD Vance headline the unusual two-day Republican convention before the November midterm elections. The United States Republican Party and its talisman President Donald Trump is descending on Dallas, Texas, to host a rare convention before the midterm elections in November. Usually reserved for pr…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/8/as-sweden-heads-to-polls-israel-and-palestine-policies-are-on-the-ballot)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/9/republican-midterm-convention-2026-what-to-know-about-trumps-dallas-event)
 ---
 
-## Article 3: What to watch in the US’s New Hampshire and Rhode Island primary elections
-**Source:** Al Jazeera English | **Sentiment Score:** `0.6369`
+## Article 3: What are the holes in the UK’s ban on imports from Israeli settlements?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.8020`
 
-Some of the US midterm election's biggest themes will play out in these New England states' most notable races. Voters in two US states New Hampshire and Rhode Island will head to the polls this week to select Democratic and Republican candidates for this Novembers United States midterm elections. In whats be…
+Over a year, the UK imported just £6m ($8.1m) in goods recorded as Palestinian, including Israeli settlement goods. Britain has announced a ban on imports of goods produced in illegal settlements in the occupied West Bank as part of a wider package of measures targeting expanding Israeli settlements and intensifyi…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/8/what-to-watch-in-the-uss-new-hampshire-and-rhode-island-primary-elections)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/9/what-are-the-holes-in-the-uks-ban-on-imports-from-israeli-settlements)
 ---
 
-## Article 4: Brazil’s oil exports surge as China seeks alternatives to Iranian crude | CNN Business
-**Source:** CNN | **Sentiment Score:** `-0.7650`
+## Article 4: Has Iran captured an unmanned US submarine? What we know
+**Source:** Al Jazeera English | **Sentiment Score:** `0.4215`
 
-Brazilian oil production and exports have hit record highs this year, largely due to increased demand from China as the US-Iran war continues to reshape global trade and geopolitical relationships. Brazilian oil production and exports have hit record highs this year, largely due to increased demand from China as the US-Iran war continues to reshape global trade and geopolitical relationships. …
+Tehran lauds capturing Dive-LD vessel, while Washington insists that the submersible ‘had malfunctioned a day ago’. Irans Islamic Revolutionary Guard Corps (IRGC) said its naval forces have captured an unmanned United States submarine near the Strait of Hormuz, as Tehran and Washington continue to exchange tit-for…
 
-[Read Original Article Here](https://www.cnn.com/2026/09/08/business/oil-brazil-china)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/9/has-iran-captured-an-unmanned-us-submarine-what-we-know)
 ---
 
-## Article 5: Kenya offers amnesty for migrants after Burundians rush to leave
-**Source:** Al Jazeera English | **Sentiment Score:** `0.0000`
+## Article 5: The losers of the US-Canada trade war
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.9300`
 
-Government spokesman urges undocumented nationals from other East African countries to formally register at embassies. Kenya has offered a temporary amnesty to undocumented East African migrants after hundreds of Burundians rushed to their countrys embassy in Nairobi seeking travel documents to return home. Kenyan P…
+The losers of the US-Canada trade war Read moreWhy is toilet paper suddenly part of a trade fight, and whats getting caught in the crossfire of this tit-for-tat US-Canada tariff war? Al Jazeeras Yasmeen ElTahan explains.
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/8/kenya-offers-amnesty-for-migrants-after-burundians-rush-to-leave)
+[Read Original Article Here](https://www.aljazeera.com/video/money-works/2026/9/9/the-losers-of-the-us-canada-trade-war)
 ---
 
-## Article 6: GOP faces brutal midterm headwinds as Republicans paint election as ‘competition with communism’
-**Source:** Fox News | **Sentiment Score:** `-0.3818`
+## Article 6: ‘Overdue first step’: UK reacts to gov’t ban on Israeli settlement trade
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.4215`
 
-President Donald Trump headlines the first-ever GOP midterm convention in Dallas as Republicans fight to hold slim congressional majorities amid inflation. DALLAS With less than two months to go until the midterm elections, President Donald Trump and Republicans gather in Texas this week for the first ever GOP midterm convention, as they aim to energize…
+UK bans imports from illegal Israeli settlements in a strong policy move after recognising a Palestinian state last year. The United Kingdom has announced it will ban imports originating from illegal Israeli settlements in the occupied West Bank, marking one of Londons strongest policy moves on Israel-Palestine since it…
 
-[Read Original Article Here](https://www.foxnews.com/politics/gop-faces-brutal-midterm-headwinds-republicans-paint-election-competition-communism)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/9/overdue-first-step-uk-reacts-to-govt-ban-on-israeli-settlement-trade)
 ---
 
-## Article 7: Key swing state voters to settle dueling Senate primary fights in crucial open-seat race
-**Source:** Fox News | **Sentiment Score:** `0.2732`
+## Article 7: Republicans head to Dallas with one mission: Defy history and win big
+**Source:** Fox News | **Sentiment Score:** `0.7906`
 
-Karishma Manzur's socialist surge threatens Chris Pappas in the New Hampshire Senate primary as the far-left notches wins across the country. MANCHESTER, N.H. - The Democratic and Republican Senate nominations are up for grabs on Tuesday in swing state New Hampshire, in a race that may determine if Republicans keep control of the chamber i…
+Trump will headline the first-ever Republican Convention in Dallas, where the party plans to showcase tax cuts, border security, and its 2026 agenda. Dallas is about to become the center of the political universe. Republicans from across America are heading to the great state of Texas for the first-ever Republican Convention. We have one mission:…
 
-[Read Original Article Here](https://www.foxnews.com/politics/key-swing-state-voters-settle-dueling-senate-primary-fights-crucial-open-seat-race)
+[Read Original Article Here](https://www.foxnews.com/opinion/republicans-head-dallas-one-mission-defy-history-win-big)
 ---
 
-## Article 8: Five reasons the Democrat Party will only keep making a hard left turn
-**Source:** Fox News | **Sentiment Score:** `0.8519`
+## Article 8: Can the 'best showman in politics' deliver again? GOP bets on Trump at historic midterm convention
+**Source:** Fox News | **Sentiment Score:** `0.4767`
 
-The Democratic Party's leftward shift is driven by super PACs, union campaign finance and government spending trends that make moderation unlikely. The direction of the Democrat Party is the talk of the 2026 midterms. Will it go farther left or somehow moderate? The simple answer is that Democrat Party will move even farther left. As the nation…
+Donald Trump headlines the first-ever GOP midterm convention in Dallas, aiming to energize low-propensity MAGA voters ahead of key 2026 races. DALLAS The stakes couldnt be much higher for President Donald Trump and Republicans. With less than two months until the midterm elections and early voting just weeks away Trump and the GOP descend …
 
-[Read Original Article Here](https://www.foxnews.com/opinion/five-reasons-democrat-party-keep-making-hard-left-turn)
+[Read Original Article Here](https://www.foxnews.com/politics/best-showman-politics-deliver-gop-bets-trump-historic-midterm-convention)
 ---
 
-## Article 9: Canada’s retaliatory tariffs on $20bn of US goods take effect
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.3818`
+## Article 9: Traffic drama threatens to end Dem governor's tenure as voters head to polls in Rhode Island
+**Source:** Fox News | **Sentiment Score:** `-0.8519`
 
-Trade tensions soar as Canada matches US tariffs 'dollar-for-dollar', impacting 700 products and multiple industries. Canadas retaliatory tariffs on imports from the United States have taken effect, escalating the trade dispute between the two countries. Tariffs ranging from 15 percent to 50 percent will apply to n…
+Democratic Gov. Dan McKee could become the first elected governor in 12 years to lose renomination as Rhode Island's primary centers on a bridge crisis. Democratic Gov. Dan McKee of Rhode Island is fighting for his political life in the smallest U.S. state's primary elections on Wednesday as he faces potential downfall stemming from the nearly three-…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/8/canadas-retaliatory-tariffs-on-20bn-of-us-goods-take-effect)
+[Read Original Article Here](https://www.foxnews.com/politics/traffic-drama-threatens-end-dem-governor-tenure-voters-head-polls-rhode-island)
 ---
 
-## Article 10: REC raises ₹500 crore through India’s first tokenised bond
-**Source:** Bloomberg | **Sentiment Score:** `0.5994`
+## Article 10: In Michigan, GOP Senate candidate makes a Canadian-sized gamble on trade
+**Source:** Politico | **Sentiment Score:** `-0.3506`
 
-REC raises Rs 500 crore through India’s first tokenized bond, with HDFC Bank, ICICI Bank and other investors participating in the issue. Top lenders HDFC Bank Ltd. and ICICI Bank Ltd. are among buyers of Indias first tokenised bond offered by state-run REC Ltd., according to people familiar with the matter, signaling interest for such…
+Former Rep. Mike Rogers is trying to stake out a nuanced position on President Donald Trump's trade war with Canada, which will have a disproportionate effec... GOP candidates in states bordering Canada are running far away from President Donald Trump on trade. Michigan Republican Senate nominee Mike Rogers, however, is taking a more nuanced but politically …
 
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-09-07/top-indian-banks-buy-state-power-lender-rec-s-tokenized-bond)
+[Read Original Article Here](https://www.politico.com/news/2026/09/09/in-michigan-gop-senate-candidate-makes-a-canadian-sized-gamble-on-trade-01068113)
 ---
 
-## Article 11: Cuba says no negotiations with US despite ‘genocidal’ blockade
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.6908`
+## Article 11: ‘Totally reliant on Mother Nature’: UK drought raises water security fears
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.1779`
 
-Cuba reports record losses from the US embargo as foreign minister describes months of punishing blackouts. Cuba says it is not currently negotiating with the United States, as the Trump administration continues its campaign of economic pressure on the island. Foreign Minister Bruno Rodríguez said on Mond…
+Record heatwaves have troubled British farmers, raising concerns over reservoir levels and food supply. London, United Kingdom In a wheat field near High Wycombe in the rolling English countryside, Alex Nelms watched the harvest on his farm die in a matter of days. His crop had looked strong until the…
 
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/9/7/cuba-says-no-negotiations-with-us-despite-genocidal-blockade)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/9/uk-drought-raises-fears-over-water-security)
 ---
 
-## Article 12: Trump’s blockade pushes Iran toward military escalation
-**Source:** CNN | **Sentiment Score:** `-0.9723`
+## Article 12: Global oil prices hit $100 per barrel as Middle East conflict roils markets | CNN Business
+**Source:** CNN | **Sentiment Score:** `-0.9100`
 
-As Washington abandons talks with Iran for an aggressive economic pressure campaign, a cornered Tehran is now threatening military escalation and a wider war... As Washington abandons talks with Iran for an aggressive economic pressure campaign, a cornered Tehran is now threatening military escalation and a wider war to force negotiators back to the table. …
+Global oil prices are back at $100 per barrel, rising to their highest levels since July as fighting in the Middle East raises concerns about prolonged disruptions to oil supply. Global oil prices are back at $100 per barrel, rising to their highest levels since July as fighting in the Middle East raises concerns about prolonged disruptions to oil supply. Brent crude, the gl…
 
-[Read Original Article Here](https://www.cnn.com/2026/09/07/middleeast/trump-blockade-iran-military-escalation-intl-latam)
+[Read Original Article Here](https://www.cnn.com/2026/09/09/economy/oil-price-iran-war)
 ---
 
-## Article 13: ‘Rhetoric differs’: How the UK’s relationship with Israel took a downturn
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.9190`
+## Article 13: What ‘right’ and ‘left’ mean in Israel today
+**Source:** Al Jazeera English | **Sentiment Score:** `0.0258`
 
-The UK is planning to take new steps against illegal Israeli settlements as Palestinians suffer more violence. The United Kingdom is expected to announce trade restrictions on illegal Israeli settlements in the occupied West Bank, the latest sign, some analysts say, that UK-Israeli relations have taken anothe…
+In Israel, the left-right divide is shaped less by economics than by positions on Palestinian statehood and occupation. For readers outside Israel, the words right and left can be misleading when applied to Israeli politics. In Europe or the United States, those labels are usually organised around taxation, welfare, l…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/7/uk-relationship-with-israel)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/9/what-right-and-left-mean-in-israel-today)
 ---
 
-## Article 14: AfD is rising, but it can still be stopped
-**Source:** Al Jazeera English | **Sentiment Score:** `0.8126`
+## Article 14: Medicine shortages grow in Iran as US tightens sanctions, blockade
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.0665`
 
-The German mainstream still has a window of opportunity to act and reverse a dangerous trend to the far right. The victory of far-right Alternative for Germany (AfD) in the elections of the East German state Saxony-Anhalt is a dramatic moment for Germany. The party won 44 percent of the vote, securing 39 seat…
+Many Iranians cannot access or afford life-saving drugs, but authorities say pharmaceutical sector will not collapse. Tehran, Iran Farah, a 59-year-old resident of Irans capital Tehran, used to fill her autoimmune prescription with a Swiss-made drug. Now she takes the Iranian-made version and worries that, too, may …
 
-[Read Original Article Here](https://www.aljazeera.com/opinions/2026/9/7/afd-is-rising-but-it-can-still-be-stopped)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/9/medicine-shortages-grow-in-iran-as-us-tightens-sanctions-blockade)
 ---
 
-## Article 15: Germany’s AfD wins in key state: Is far-right on cusp of national rule?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.6908`
+## Article 15: State of play: Retiring Dem senator’s daughter holds slight lead in closely watched race
+**Source:** Fox News | **Sentiment Score:** `0.0000`
 
-The AfD, classified as 'far-right extremist' by Germany's intelligence agency, is projected to come first in 2029. For the first time since World War II, a far-right party is within reach of power at state level in Germany, after coming first in Saxony-Anhalt on Sunday. The Alternative for Germany (AfD) won 44 p…
+Stefany Shaheen and Maura Sullivan remain locked in a too-close-to-call New Hampshire primary as Chris Pappas vacates the seat for a Senate bid. Two candidates Stefany Shaheen, the daughter of retiring Sen. Jeanne Shaheen, D-N.H., and Maura Sullivan, an Obama-era official remained locked in a Democratic primary race early Wednesday morning in…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/7/germanys-afd-wins-in-key-state-is-far-right-on-cusp-of-national-rule)
+[Read Original Article Here](https://www.foxnews.com/politics/retiring-dem-senators-daughter-holds-slight-lead-closely-watched-race)
 ---
 
-## Article 16: Will Trump succeed in restarting Russia-Ukraine peace talks?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.5499`
+## Article 16: India takes muted approach to BRICS summit as geopolitical tensions rise
+**Source:** Bloomberg | **Sentiment Score:** `-0.4033`
 
-The Witkoff-Kushner visit to Moscow and Kyiv did not produce a breakthrough, but it can help begin a new process. The visit by White House envoys Steve Witkoff and Jared Kushner to Moscow and Kyiv has left more questions than answers. Details of what was discussed in both meetings are scant, but all participants…
+India is keeping its BRICS summit low-key amid strained US ties, tensions with China and a more challenging geopolitical environment. Three years ago, New Delhi put on a spectacle when world leaders descended on Indias capital for the Group of 20 summit. Colorful murals of Indian mythology adorned the city alongside elaborate statu…
 
-[Read Original Article Here](https://www.aljazeera.com/opinions/2026/9/7/will-trump-succeed-in-restarting-russia-ukraine-peace-talks)
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-09-09/india-shuns-pomp-in-favor-of-restraint-at-subdued-brics-summit)
 ---
 
-## Article 17: Range Rover Maker to Cut 4,000 Jobs as Trump’s Tariffs Bite
-**Source:** The Wall Street Journal | **Sentiment Score:** `-0.1280`
+## Article 17: ‘Energiser’ or ‘circus’: US voters weigh in on Trump’s midterm convention
+**Source:** Al Jazeera English | **Sentiment Score:** `0.8720`
 
-Jaguar Land Rover faces headwinds from intensifying Chinese competition and U.S. tariffs and said that it must simplify its organization. JLR is targeting more than $2 billion of savings over the next two years. - Ronaldo Schemidt/AFP/Getty Images Jaguar Land Rover is cutting 4,000 jobs as the automaker contends with President Trump's…
+The atypical event underscores the significance of Texas, long a Republican stronghold, in November's midterm elections. Dallas, Texas At a farmers market, 58-year-old Cody Johnson said he still believed in United States President Donald Trumps ability to energise voters. That belief serves as a cornerstone of the Rep…
 
-[Read Original Article Here](https://www.wsj.com/business/autos/tata-motors-owned-jlr-plans-redundancy-program-as-it-targets-over-2b-in-savings-4f8fccdb)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/9/energiser-or-circus-us-voters-weigh-in-on-trumps-midterm-convention)
 ---
 
-## Article 18: Could Trump’s Iran trade war threaten Spain’s saffron-infused paella?
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.8225`
+## Article 18: Ex-GOP senator clears hurdle in crucial comeback bid as Republicans try to flip key Senate seat
+**Source:** Fox News | **Sentiment Score:** `0.1531`
 
-US threats to punish Iran’s trade partners could disrupt Spain’s saffron supply, pressuring paella chefs and exporters. Madrid, Spain Fields of purple flowers contain crimson stigmas that make saffron, an essential spice in Spains national dish, paella. Saffron gives the rice-based dish its distinctive yellow colour …
+John E. Sununu defeated Scott Brown for the GOP Senate nomination in New Hampshire, a key race that could determine Republican majority control. Former Sen. John E. Sununu on Tuesday won the GOP Senate nomination in swing state New Hampshire, in a race that may determine if Republicans keep control of the chamber in the midterm elections. Su…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/7/could-trumps-iran-trade-war-threaten-spains-saffron-infused-paella)
+[Read Original Article Here](https://www.foxnews.com/politics/ex-gop-senator-clears-hurdle-crucial-comeback-bid-republicans-try-flip-key-senate-seat)
 ---
 
-## Article 19: Can Iran enforce a restricted zone in the Strait of Hormuz?
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.8735`
+## Article 19: US increases pressure on Iran with sanctions targeting aviation sector
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.0516`
 
-Iran unveils plans for a restricted zone, but will Tehran be able to enforce it amid escalating tensions with the US? Iran says it plans to establish a new restricted zone around the Strait of Hormuz, a global energy chokepoint, after Tehran and Washington traded attacks on ships in the crucial waterway in what expe…
+Trump administration has sought to isolate Tehran through a raft of measures meant to squeeze the country's economy. The United States has put forward a new package of sanctions targeting Irans aviation sector, as the administration of President Donald Trump seeks to ratchet up economic pressure on Tehran. On Tues…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/7/can-iran-enforce-a-restricted-zone-in-the-strait-of-hormuz)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/8/us-increases-pressure-on-iran-with-sanctions-targeting-aviation-sector)
 ---
 
-## Article 20: China’s Foreign Exchange Reserves Continue to Climb
-**Source:** The Wall Street Journal | **Sentiment Score:** `-0.4588`
+## Article 20: US warns Ford over ties with Chinese firms amid tensions
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.3612`
 
-China’s foreign-exchange reserves edged higher in August against the backdrop of a weaker dollar and a surging trade surplus, renewing concerns about the yua... Monday's data came as policymakers worldwide weighed actions against inexpensive Chinese exports they say benefit from unfair government subsidies. - Jason Lee/Reuters China's foreign-exchange reser…
+US officials criticise Ford’s partnerships with Chinese firms CATL, Geely, and BYD over security risks. The United States Department of Transportation has sent a letter to Ford Motor Company raising concerns about the carmakers partnerships with Chinese firms during ongoing trade tensions between Washi…
 
-[Read Original Article Here](https://www.wsj.com/economy/chinas-foreign-exchange-reserves-continue-to-climb-def2bb7d)
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/9/8/us-warns-ford-over-ties-with-chinese-firms-amid-tensions)
 ---
 
