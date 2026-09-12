@@ -1,167 +1,167 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-09-11 | **Status:** Automated
+**Date:** 2026-09-12 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: Israel will never stop me speaking up for Palestine
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.0516`
+## Article 1: Trump set to honor 9/11 victims and first responders at Pentagon and more top headlines
+**Source:** Fox News | **Sentiment Score:** `0.9086`
 
-Israel’s decision to bar British MPs exposes how far it will go to avoid scrutiny over its treatment of Palestinians. Over my lifetime, its been my privilege to visit Palestine on several different occasions. Ive witnessed what Palestinians endure on a daily basis. Endless checkpoints. Manned watchtowers. Arbitrary …
+Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox. Good morning and welcome to Fox News morning newsletter, Fox News First. And here's what you need to know to start your day ... TOP 3 1. Trump set to honor 9/11 victims and first responders at Pent…
 
-[Read Original Article Here](https://www.aljazeera.com/opinions/2026/9/10/israel-will-never-stop-me-speaking-up-for-palestine)
+[Read Original Article Here](https://www.foxnews.com/us/trump-set-honor-9-11-victims-first-responders-pentagon-more-top-headlines)
 ---
 
-## Article 2: House panel to probe foreign ‘Trojan horses’ as Singham scrutiny widens
-**Source:** Fox News | **Sentiment Score:** `0.6808`
+## Article 2: Ontario premier wants Republicans to lose House and Senate over Trump's trade war
+**Source:** Fox News | **Sentiment Score:** `-0.7964`
 
-House lawmakers will examine alleged foreign malign influence operations, including campaigns tied to China, Cuba and U.S. data centers. FIRST ON FOX: Congressional scrutiny of foreign influence operations in the United States is widening, with a powerful panel of lawmakers set to hold a hearing next week examining how nonprofits and …
+Ontario Premier Doug Ford says he hopes Republicans lose the House and Senate in the midterms to hold President Donald Trump accountable for the trade war with Canada. Ontario Premier Doug Ford said on Thursday that he hopes Republicans in the U.S. lose both the House and Senate in the upcoming midterm elections, suggesting that voters should punish President Donal…
 
-[Read Original Article Here](https://www.foxnews.com/politics/house-panel-probe-foreign-trojan-horses-singham-scrutiny-widens)
+[Read Original Article Here](https://www.foxnews.com/politics/ontario-premier-wants-republicans-lose-house-senate-trumps-trade-war)
 ---
 
-## Article 3: The Houthis are testing the limits of Saudi restraint
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.6249`
+## Article 3: The Hispanic vote is up for grabs in 2026. Candidates who ignore it will lose
+**Source:** Fox News | **Sentiment Score:** `-0.6808`
 
-Riyadh needs to restore deterrence without being pulled back into a prolonged Yemen war. The renewed escalation in Yemen is no longer simply a Yemeni battlefield development. For Saudi Arabia, it is becoming a direct test of national security, economic resilience and the kingdoms ability…
+Hispanic voters in battleground districts remain persuadable heading into 2026, with over half undecided and cost of living topping their concerns. Hispanic voters are sending both parties a message that should be impossible to ignore: stop assuming you already know where we stand. A record 36.2 million Hispanic Americans were eligible to vote …
 
-[Read Original Article Here](https://www.aljazeera.com/opinions/2026/9/10/the-houthis-are-testing-the-limits-of-saudi-restraint)
+[Read Original Article Here](https://www.foxnews.com/opinion/hispanic-vote-grabs-2026-candidates-ignore-lose)
 ---
 
-## Article 4: Let socialists rob from the rich 100% and you still won’t be able to pay the bills
-**Source:** Fox News | **Sentiment Score:** `0.9834`
+## Article 4: Trump issues blunt midterm warning, Vance greeted with ‘48’ chants: Top takeaways from GOP convention
+**Source:** Fox News | **Sentiment Score:** `-0.8910`
 
-Tax the rich sounds simple, but Cato Institute estimates show seizing all top 400 billionaires' wealth covers just 9% of the DSA's $71 trillion platform. "Tax the rich." It's one of the easiest political slogans in America. Need more money for government programs? Tax the rich. Want free college or groceries? Tax the rich. Want universal health car…
+President Donald Trump led the Dallas crowd in a voting pledge and warned supporters they'd "go to hell" if they skip the midterm elections this November. DALLAS, Texas Facing a brutal political environment as the GOP fights to hold control of Congress, President Donald Trump and Vice President JD Vance used their speeches on the concluding night of th…
 
-[Read Original Article Here](https://www.foxnews.com/opinion/let-socialists-rob-rich-100-percent-still-wont-able-pay-bills)
+[Read Original Article Here](https://www.foxnews.com/politics/trump-issues-blunt-midterm-warning-vance-greeted-48-chants-top-takeaways-gop-convention)
 ---
 
-## Article 5: How Ukraine’s deepest attack in Russia, on Arctic gas, signals new reach
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.3818`
+## Article 5: BRICS summit: Is the bloc truly challenging a Western-dominated world?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.2500`
 
-Long-range Ukrainian drones hit Russia's key gas plants, raising questions about the conflict's next phase. Ukraine launched its deepest-ever attack into Russia, targeting two Arctic gas condensate facilities more than 3,000km (1,865 miles) from its border, on Wednesday, signalling that Ukraine has further…
+Some experts say BRICS need not replace the West to succeed - only make Western dominance harder to exercise. A BRICS member has been under attack for months and has subsequently wielded attacks of its own against fellow members. This coming weekend, those countries will all be in the same room, making a th…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/10/how-ukraines-deepest-attack-in-russia-on-arctic-gas-signals-new-reach)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/11/bric-by-bric-has-brics-challenged-the-western-dominated-world)
 ---
 
-## Article 6: America's reddest state chases billion-dollar boom as others sour on massive emerging industry
-**Source:** Fox News | **Sentiment Score:** `0.8316`
+## Article 6: How 9/11 conspiracy theories moved into mainstream American politics
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.8519`
 
-Wyoming's vast land, affordable energy and fiber optic corridors could lure billions in data center investment as other states add new taxes. As Americans weigh the costs and benefits of massive data centers emerging in their towns to fuel the artificial intelligence (AI) boom, the country's reddest state could be poised to capitalize on b…
+Social media and distrust of government has helped disinformation reach increasingly large audiences. Type the words 9/11 conspiracy theories into the search bar of YouTube, and there is no shortage of people lining up to tell you what really happened. There are countless videos of commentators like…
 
-[Read Original Article Here](https://www.foxnews.com/politics/americas-reddest-state-chases-billion-dollar-boom-others-sour-massive-emerging-industry)
+[Read Original Article Here](https://www.aljazeera.com/news-analysis/2026/9/11/how-9-11-conspiracy-theories-moved-into-mainstream-american)
 ---
 
-## Article 7: [Thursday 5am] Trump puts himself back on the ballot: 5 takeaways from GOP midterm convention Night 1
-**Source:** Fox News | **Sentiment Score:** `-0.6249`
+## Article 7: Will Trump pay all US adults $5,000? Some Trump supporters are sceptical
+**Source:** Al Jazeera English | **Sentiment Score:** `0.3506`
 
-President Donald Trump unveiled a $5,000 dividend for every American adult at the GOP midterm convention in Dallas, with one major spending caveat. DALLAS Facing a difficult political environment as Republicans fight to hold their congressional majorities, President Donald Trump used his address at the first-ever GOP midterm convention to unveil…
+Observers on both sides of the political divide express concern about Trump's pledge to pay 'dividend' for midterm wins. Dallas, Texas United States President Donald Trump, a former reality television personality, is no stranger to game-show-style pledges. But on Wednesday, his remarks at the Republican National Conve…
 
-[Read Original Article Here](https://www.foxnews.com/politics/trump-puts-himself-back-ballot-5-takeaways-gop-midterm-convention-night-1)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/11/will-trump-pay-all-us-adults-5000-some-trump-supporters-are-sceptical)
 ---
 
-## Article 8: Europe’s far right: Putin’s best friend?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.6705`
+## Article 8: Israeli film on Gaza receives 25-minute ovation at Venice premiere
+**Source:** Al Jazeera English | **Sentiment Score:** `0.8402`
 
-Its gains threaten to deepen Europe’s divisions over Ukraine and Russia. Russian President Vladimir Putin had a good week. It kicked off with the Shanghai Cooperation Organisation (SCO) summit in Bishkek, Kyrgyzstan, an opportunity to rub shoulders with international heav…
+Venice Film Festival honours NAZA, an expose on Israel's use of AI systems in Gaza. A film documenting Israels use of AI-powered systems to target Palestinians in Gaza has received a 25-minute standing ovation at its premiere at the Venice Film Festival. The 80-minute film, NAZA, w…
 
-[Read Original Article Here](https://www.aljazeera.com/opinions/2026/9/10/europes-far-right-putins-best-friend)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/11/israeli-film-on-gaza-receives-25-minute-ovation-at-venice-premiere)
 ---
 
-## Article 9: This small island off Yemen is now a strategic prize in the widening Iran war | CNN
-**Source:** CNN | **Sentiment Score:** `0.4588`
+## Article 9: UN envoy warns Security Council Yemen’s war has entered ‘dangerous phase’
+**Source:** Al Jazeera English | **Sentiment Score:** `0.5584`
 
-Perim Island sits in the Bab al-Mandab Strait, a pinch-point that’s taken on outsized importance since the war with Iran effectively shuttered the Strait of Hormuz. Stepping on to the Yemeni island of Perim is to relive history. Its barren sand and rock moonscape feels for all the world like the land that time forgot. Its location, however, has put it at the he…
+Envoy for Yemen Hans Grundberg demands urgent steps to protect civilians and trade routes amid Houthi escalation. United Nations Special Envoy for Yemen Hans Grundberg said the country faces a new and more dangerous phase of war, as the countrys fragile four-year truce collapses. The United Nations Security Cou…
 
-[Read Original Article Here](https://www.cnn.com/2026/09/10/middleeast/yemen-perim-houthis-saudi-iran-war-intl)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/10/un-envoy-warns-security-council-yemens-war-has-entered-dangerous-phase)
 ---
 
-## Article 10: Trump makes stunning first-of-its-kind cash promise in bid to rally GOP voters at Dallas midterm convention
-**Source:** Fox News | **Sentiment Score:** `0.6597`
+## Article 10: A year after Charlie Kirk’s death, are young voters turning on Trump?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.2263`
 
-President Donald Trump promised a $5,000 "Trump dividend" to every adult citizen if Republicans keep Congress at the GOP midterm convention. DALLAS President Donald Trump delivered the keynote speech on day one of the GOP's inaugural midterm convention, alternating between touting his successes in office and rallying thousands of supporte…
+Turning Point USA has expanded its campus presence, even as Trump’s support among young men has fallen. One year after the assassination of right-wing influencer Charlie Kirk, the organisation he co-founded, Turning Point USA (TPUSA), has expanded its presence in schools across the United States, even …
 
-[Read Original Article Here](https://www.foxnews.com/politics/trump-makes-stunning-first-of-its-kind-cash-promise-bid-rally-gop-voters-dallas-midterm-convention)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/10/a-year-after-charlie-kirks-death-are-young-voters-turning-on-trump)
 ---
 
-## Article 11: Trump vows to be at centre of US midterms: Republican convention takeaways
-**Source:** Al Jazeera English | **Sentiment Score:** `0.4588`
+## Article 11: Trump officials scramble to manage fallout after his $5K check pledge to all Americans
+**Source:** CNN | **Sentiment Score:** `-0.2023`
 
-Trump says, 'Pretend I’m on the ballot,' as he rallies Republicans ahead of challenging midterm elections. Dallas, Texas United States President Donald Trump has delivered a keynote speech on the first night of the Republican midterm convention, putting himself at the centre of the November vote despite n…
+President Donald Trump blindsided many of his own administration officials and allies with his vow to pay all American adults $5,000 if Republicans keep cont... President Donald Trump blindsided many of his own administration officials and allies with his vow to pay all American adults $5,000 if Republicans keep control of Congress, prompting an internal scr…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/10/trump-vows-to-be-at-centre-of-us-midterms-republican-convention-takeaways)
+[Read Original Article Here](https://www.cnn.com/2026/09/10/politics/5000-checks-trump)
 ---
 
-## Article 12: Thousands protest in Ljubljana as Slovenia opens Israel’s first embassy
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.5994`
+## Article 12: Trump's $5,000 dividend checks would come with a major catch under GOP senator's plan
+**Source:** Fox News | **Sentiment Score:** `0.0000`
 
-Nationalist Prime Minister Janez Jansa resets ties with Israel, sparking protests and an impeachment bid. Thousands of people have rallied in Slovenias capital, Ljubljana, in protest against the opening of Israels first embassy in the European Union country. The protest on Wednesday came as Slovenias na…
+Trump's $5,000 tariff dividend plan could cost $1.2 trillion as Sen. Bernie Moreno pushes legislation to fund checks through market access fees. DALLAS Theres a push in the Senate to turn President Donald Trumps pitch of $5,000 checks for Americans into a reality, with a couple of caveats along the way. Sen. Bernie Moreno, R-Ohio, plans to i…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/10/thousands-protest-in-ljubljana-as-slovenia-opens-israels-first-embassy)
+[Read Original Article Here](https://www.foxnews.com/politics/trumps-5000-dividend-checks-would-come-major-catch-under-gop-senators-plan)
 ---
 
-## Article 13: Iran war looms over Trump at Republican midterm convention in Dallas
-**Source:** Al Jazeera English | **Sentiment Score:** `0.1779`
+## Article 13: Trump defends $5,000 dividend proposal, praises 'beautiful' tariffs on 'Ingraham Angle'
+**Source:** Fox News | **Sentiment Score:** `0.8658`
 
-Trump supporters say he can rally Republican voters despite concerns over the unpopular war and rising prices. Dallas, Texas The Republican midterm convention has represented a gambit for the party: centring US President Donald Trump in the final stretch of the midterm elections, even as the first two years o…
+President Donald Trump's $5,000 dividend promise hinges on Republicans winning both the House and Senate in midterm elections, funded by tariff revenue. President Donald Trump discussed his promise for economic payouts for every adult U.S. citizen in an interview with Fox News, promising that record trade revenue will build long-term national wealth.…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/9/iran-war-looms-over-trump-at-republican-midterm-convention-in-dallas)
+[Read Original Article Here](https://www.foxnews.com/media/trump-defends-waiting-5000-checks-praises-beautiful-tariffs-ingraham-angle)
 ---
 
-## Article 14: Potential Dem presidential contender crashes GOP convention, tries to snatch spotlight from Trump
-**Source:** Fox News | **Sentiment Score:** `-0.3612`
+## Article 14: The Trump-to-Mamdani voter is real. How does the trend affect the midterms?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.0258`
 
-Democratic Gov. JB Pritzker claims Republicans are trying to "rig" the 2026 midterm elections as the GOP kicks off its first-ever convention in Dallas. DALLAS - Democratic Gov. JB Pritzker of Illinois is urging voters to ignore the Republicans' first-ever midterm convention. "Voters can see through the BS that Republicans are spewing," Pritzker tol…
+Exit polls suggest 9 percent of Trump voters backed New York City Mayor Zohran Mamdani, despite ideological differences. A major factor for those crossover voters has traditionally been the economy. Micah Rasmussen, the director of the Rebovich Institute for New Jersey Politics at Rider University, said affordability-…
 
-[Read Original Article Here](https://www.foxnews.com/politics/potential-dem-presidential-contender-crashes-trumpalooza-tries-snatch-spotlight-trump)
+[Read Original Article Here](https://www.aljazeera.com/features/longform/2026/9/10/the-trump-to-mamdani-voter-is-real-how-does-the-trend-affect-the-midterms)
 ---
 
-## Article 15: Israel’s E1 plan explained: The Jerusalem-area corridor sparking international backlash
+## Article 15: Trump’s Iran war now has a midterm election problem
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.7935`
+
+Trump has tied the end of his war on Iran to the midterms. But with Iran holding firm, the political cost is mounting. United States President Donald Trump has claimed that the seven-month-long war with Iran will end immediately after the US midterm elections in November, framing the ongoing conflict as an attempt by…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/10/trumps-iran-war-now-has-a-midterm-election-problem)
+---
+
+## Article 16: Iran-backed Houthis capture key island in Bab al-Mandeb Strait | CNN
+**Source:** CNN | **Sentiment Score:** `-0.3818`
+
+Iran-backed rebels in Yemen captured the strategic Perim Island in the Bab al-Mandeb Strait on Friday, two Yemeni government sources told CNN, potentially expanding Tehran’s influence over another key global shipping route. Iran-backed rebels in Yemen captured the strategic Perim Island in the Bab al-Mandeb Strait on Friday, two Yemeni government sources told CNN, potentially expanding Tehrans influence over another key…
+
+[Read Original Article Here](https://www.cnn.com/2026/09/10/middleeast/houthis-capture-mocha-red-sea-strait-intl)
+---
+
+## Article 17: Oil jumps to $105, pushing up chances of a US interest rate increase
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.9062`
+
+Prices spiked as attacks on oil tankers escalated in the Middle East. Oil prices have increased by four percent, with benchmark Brent crude hitting $105 a barrel after the biggest rise in attacks on shipping since the Iran war began spurred trader concerns about furthe…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/9/10/oil-jumps-to-105-pushing-up-chances-of-a-us-interest-rate-increase)
+---
+
+## Article 18: Houthis capture Yemeni town of Mocha: Why it matters
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.7096`
+
+The Houthi seizure of Mocha threatens global trade routes, severs vital supply lines, and displaces thousands in Yemen. Houthi forces grabbed control of the Yemeni port city of Mocha on Thursday, in a major offensive that comes amid escalated fighting between the Iran-aligned movement and Yemens Saudi-backed governmen…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/10/houthis-capture-yemeni-town-of-mocha-why-it-matters)
+---
+
+## Article 19: Buffalo Bills' plan to feature Canadian anthem at stadium opener met with mixed reactions
 **Source:** Fox News | **Sentiment Score:** `0.4215`
 
-Israel says E1 construction in the West Bank falls under the Oslo Accords, but Britain imposed sanctions and 11 nations weigh trade restrictions on settlements. Israels move to advance construction in the strategically significant E1 area between Maale Adumim on the West Bank and Jerusalem has triggered growing backlash, with Britain announcing sanctions and…
+Buffalo Bills will play "O Canada" at the Highmark Stadium opener, sparking heated debate among fans amid ongoing U.S.-Canada tariff tensions. The Buffalo Bills adding "O Canada" to the pregame festivities at the Highmark Stadium opener has fans singing two different tunes. The team announced Wednesday that the Canadian national anthem wil…
 
-[Read Original Article Here](https://www.foxnews.com/world/israels-e1-plan-explained-jerusalem-area-corridor-sparking-international-backlash)
+[Read Original Article Here](https://www.foxnews.com/outkick-sports/buffalo-bills-plan-feature-canadian-anthem-stadium-opener-mixed-reactions)
 ---
 
-## Article 16: Why are borrowing costs rising across the world?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.0000`
+## Article 20: Trump promises $5,000 payouts if GOP wins midterms: Can the US afford it?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.8442`
 
-Rising bond yields are lifting borrowing costs for governments, businesses and households across the global economy. Rising bond yields are lifting borrowing costs for governments, businesses and households across the global economy.For more than a decade, governments got used to cheap borrowing. That era may now b…
+Trump's $1.3 trillion promise would heavily increase national debt, already at a historic $40 trillion. United States President Donald Trump has promised a $5,000 payout for every adult US citizen if the Republican Party holds onto its narrow control of both houses of Congress at the upcoming midterm e…
 
-[Read Original Article Here](https://www.aljazeera.com/video/counting-the-cost/2026/9/9/why-are-borrowing-costs-rising-across-the-world)
----
-
-## Article 17: How significant are new European sanctions on illegal Israeli settlements?
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.7269`
-
-Israel is accused of the ethnic cleansing of Palestinians. Israel is accused of the ethnic cleansing of Palestinians.Goods from illegal Israeli settlements in the occupied West Bank, worth billions of dollars, are now sanctioned. Led by the UK, several Euro…
-
-[Read Original Article Here](https://www.aljazeera.com/video/inside-story/2026/9/9/how-significant-are-new-european-sanctions-on-illegal-israeli-settlements)
----
-
-## Article 18: Last dance? Inside Lula’s strategy to win a fourth presidency in Brazil
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.0101`
-
-The left-wing trade union leader has won three presidential terms so far. Crime may be a hurdle to a fourth. But by drawing on his long history as a labour leader, Amaral said Lula is seeking to underscore qualities his closest competitor cannot: experience and longevity. Heading into October's election, L…
-
-[Read Original Article Here](https://www.aljazeera.com/features/longform/2026/9/9/last-dance-inside-lulas-strategy-to-win-a-fourth-presidency-in-brazil)
----
-
-## Article 19: Maine and Michigan Senate races are neck and neck, CNN polls find | CNN Politics
-**Source:** CNN | **Sentiment Score:** `-0.4215`
-
-The critical Senate contests in both Maine and Michigan feature tight races with no clear leader, according to new CNN polls conducted by SSRS. But voters in the two states see their choices through two very different lenses. The critical Senate contests in both Maine and Michigan feature tight races with no clear leader, according to new CNN polls conducted by SSRS. But voters in the two states see their choices through …
-
-[Read Original Article Here](https://www.cnn.com/2026/09/09/politics/cnn-polls-maine-senate-michigan-senate-abdul-el-sayed-susan-collins)
----
-
-## Article 20: As the UK sanctions Israeli settlements, is the two-state solution dead?
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.2023`
-
-Analysts say UK move far from enough to drive momentum for Palestinian statehood. British Foreign Secretary Ed Miliband has said the United Kingdom will sanction illegal Israeli settlements in the occupied West Bank, describing the move as overdue and necessary to salvage a two-st…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/9/as-the-uk-sanctions-israeli-settlements-is-the-two-state-solution-dead)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/10/trump-promises-5000-payouts-if-gop-wins-midterms-can-the-us-afford-it)
 ---
 
