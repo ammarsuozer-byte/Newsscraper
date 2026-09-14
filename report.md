@@ -1,11 +1,107 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-09-13 | **Status:** Automated
+**Date:** 2026-09-14 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: Sweden heads to the polls: What’s at stake in the knife-edge election?
+## Article 1: Iran-GCC summit: What’s behind the meeting, why is Bahrain not attending?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.7506`
+
+Iran says it plans to hold talks with Iraq and Gulf nations in Oman to help strengthen shared regional security. Iran says a meeting between Iraq and the Gulf countries will be held in Oman on Monday to discuss the Strait of Hormuz, which remains under Tehrans blockade amid the diplomatic deadlock with the Unit…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/13/iran-gcc-summit-whats-behind-the-meeting-why-is-bahrain-not-attending)
+---
+
+## Article 2: The Iran war reveals the limits of BRICS
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.3612`
+
+The bloc struggles to translate its economic weight into geopolitical sway. But there may be a silver lining to it. This years BRICS summit has wrapped up in New Delhi with the usual promises of deepened cooperation and expanding economic ties. But there was an important absence. Although the US-Israel war on Ira…
+
+[Read Original Article Here](https://www.aljazeera.com/opinions/2026/9/13/the-iran-war-reveals-the-limits-of)
+---
+
+## Article 3: The Houthis’ escalation in Yemen could flop
+**Source:** Al Jazeera English | **Sentiment Score:** `0.7351`
+
+The Houthis and Iran are seeking to gain leverage, but they may instead get a unified front in the Red Sea. The speed of the Houthi advance along the Red Sea coast has changed the strategic landscape. After capturing Mocha, Houthi forces moved into Dhubab and reached Mayyun, or Perim Island, at the narrowe…
+
+[Read Original Article Here](https://www.aljazeera.com/opinions/2026/9/13/the-houthis-escalation-in-yemen-could-flop)
+---
+
+## Article 4: BRICS summit 2026: What are the key takeaways?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.8481`
+
+The 11-nation bloc avoids condemning the US-Israel war on Iran, showing the divisions among the members. Leaders of the BRICS group of nations unanimously adopted a joint declaration on the first day of the two-day summit in the Indian capital, New Delhi, despite divisions among members over the wars in…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/13/brics-summit-2026-what-are-the-key-takeaways)
+---
+
+## Article 5: A dignified life is a ‘distant dream’ for many Iranian families amid US war
+**Source:** Al Jazeera English | **Sentiment Score:** `0.5106`
+
+With constant degredation and no real prospects of improvement in the foreseeable future, Iranians are losing hope. Tehran, Iran Iranians born in the 1980s have often considered themselves to be the burned generation, living in a period marked by the political and economic turbulence that followed Irans 1979 Islam…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/9/13/a-dignified-life-is-a-distant-dream-for-many-iranian-families-amid-us-war)
+---
+
+## Article 6: Sweden votes as migration, crime and economy dominate high-stakes election
+**Source:** Fox News | **Sentiment Score:** `-0.6369`
+
+Gun violence, asylum policy and welfare reform dominate Sweden's election as Ulf Kristersson's coalition battles Magdalena Andersson's Social Democrats. Swedes head to the polls Sunday as Prime Minister Ulf Kristerssons center-right party is slightly behind the center-left Social Democratic Party led by Sweden's former Prime Minister Magdalena Anders…
+
+[Read Original Article Here](https://www.foxnews.com/world/sweden-votes-migration-crime-economy-dominate-high-stakes-election)
+---
+
+## Article 7: Qantas is retiring its A380s. Is it time to say goodbye to the superjumbo? | CNN
+**Source:** CNN | **Sentiment Score:** `0.8462`
+
+The world’s largest passenger plane is nearing extinction as airlines sunset the popular but inefficient A380. But there’s life in the old superjumbo yet. Its enormous. Its adored by fans. Its clearly long past its prime. And its had more comebacks than Elvis. But, as Australias national airline Qantas prepares to retire its entire fleet of Airbus A38…
+
+[Read Original Article Here](https://www.cnn.com/2026/09/13/travel/qantas-a380-superjumbo-retirement-goodby)
+---
+
+## Article 8: Anthropic’s AI warning may weigh on chips, but trade seen intact
+**Source:** Bloomberg | **Sentiment Score:** `-0.4678`
+
+Investors including Gary Tan, a portfolio manager at Allspring Global Investments in Singapore, are doubtful the latest developments will have long-lasting effects on the industry. AI executives calls to slow development of the technology are likely to weigh on chipmaker and supply-chain stocks in the near term, but will probably have limited long-term impact as spending on com…
+
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-09-13/anthropic-s-ai-warning-may-weigh-on-chips-but-trade-seen-intact)
+---
+
+## Article 9: All eyes on Warsh as rate-hike fever spreads across G7 central banks
+**Source:** Bloomberg | **Sentiment Score:** `0.2023`
+
+Three decisions, starting with the US Federal Reserve on Wednesday and followed on successive days by peers in the UK and Japan, may recast the global monetary policy landscape for the rest of 2026 and beyond. Central banks from much of the Group of Seven face a pivotal week as mounting inflation risks heap pressure on them to raise interest rates. Three decisions, starting with the Federal Reserve on Wed…
+
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-09-12/all-eyes-on-warsh-as-rate-hike-fever-spreads-across-g7-central-banks)
+---
+
+## Article 10: An ambassador in Ljubljana, but not in London: Israel’s foreign policy shifts away from longstanding allies
+**Source:** CNN | **Sentiment Score:** `-0.6597`
+
+As traditional partners in Western Europe lose patience with the settlement expansion and surging violence in the West Bank, Israel is cultivating ties elsew... Gideon Saar smiled as he cut the blue ribbon outside the newly inaugurated embassy of Nauru in Jerusalem. Israel's foreign minister described the tiny Pacific island nation of some 12,000 people as "…
+
+[Read Original Article Here](https://www.cnn.com/2026/09/13/middleeast/israel-sanctions-allies-relations-intl)
+---
+
+## Article 11: The 9/11 firefighter whose death went uncounted
+**Source:** CNN | **Sentiment Score:** `-0.7184`
+
+The merciless ring of the wall-mounted telephone forced Arnold Roma out of the kind of heavy sleep that only his 12-hour hospital shifts could lull him into.... The merciless ring of the wall-mounted telephone forced Arnold Roma out of the kind of heavy sleep that only his 12-hour hospital shifts could lull him into. He'd only been home from work for five ho…
+
+[Read Original Article Here](https://www.cnn.com/2026/09/11/us/keith-roma-911-firefighter-nyc)
+---
+
+## Article 12: Abdul El-Sayed touts ‘whole a--’ medical credentials while defending sex changes for children
+**Source:** Fox News | **Sentiment Score:** `-0.2302`
+
+Abdul El-Sayed, a Michigan Democratic U.S. Senate candidate, argues 'whole a--' doctors should decide trans treatment without government interference. Michigan Democratic U.S. Senate candidate Abdul El-Sayed said the government should not restrict sex changes, arguing that "whole a--" doctors like himself should be allowed to make their own determi…
+
+[Read Original Article Here](https://www.foxnews.com/politics/abdul-el-sayed-touts-medical-credentials-while-defending-sex-changes-children)
+---
+
+## Article 13: Sweden heads to the polls: What’s at stake in the knife-edge election?
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.1280`
 
 Sweden votes on Sunday as voters weigh migration, crime, the economy and whether the far right will enter government. Stockholm, Sweden On Sunday, Swedes will vote in a knife-edge general election that could see it either usher in a left-wing coalition or take a step even further to the right and welcome the Sweden …
@@ -13,7 +109,7 @@ Sweden votes on Sunday as voters weigh migration, crime, the economy and whether
 [Read Original Article Here](https://www.aljazeera.com/news/2026/9/12/sweden-heads-to-the-polls-whats-at-stake-in-the-knife-edge-election)
 ---
 
-## Article 2: Trump may be BRICS’s best recruitment agent
+## Article 14: Trump may be BRICS’s best recruitment agent
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.8674`
 
 The US president wants to weaken BRICS, but he may end up doing the opposite. United States President Donald Trump has made no secret of his hostility towards BRICS. Last year, he threatened an additional 10 percent tariff on any country aligning itself with what he called th…
@@ -21,7 +117,7 @@ The US president wants to weaken BRICS, but he may end up doing the opposite. Un
 [Read Original Article Here](https://www.aljazeera.com/opinions/2026/9/12/trump-may-be-bricss-best-recruitment-agent)
 ---
 
-## Article 3: BRICS summit opens in New Delhi amid wars, global tensions, tariffs
+## Article 15: BRICS summit opens in New Delhi amid wars, global tensions, tariffs
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.4215`
 
 Tariffs and geopolitical rifts dominate discussions at a critical BRICS summit in India's capital. The annual BRICS summit has opened in New Delhi, with Chinas President Xi Jinping, Russias President Vladimir Putin and Irans President Masoud Pezeshkian among those attending. Indias Prime Minister…
@@ -29,7 +125,7 @@ Tariffs and geopolitical rifts dominate discussions at a critical BRICS summit i
 [Read Original Article Here](https://www.aljazeera.com/news/2026/9/12/brics-summit-opens-in-new-delhi-amid-wars-global-tensions-tariffs)
 ---
 
-## Article 4: BRICS meets in India: What’s on the agenda, why it matters
+## Article 16: BRICS meets in India: What’s on the agenda, why it matters
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.8176`
 
 This year's summit comes amid the US-Israel war on Iran, Russia's war on Ukraine and global economic challenges. Indias Prime Minister Narendra Modi is hosting the annual BRICS Summit beginning today in the Indian capital, New Delhi, which has been decked out in BRICS-themed signs and illuminated buildings and …
@@ -37,7 +133,7 @@ This year's summit comes amid the US-Israel war on Iran, Russia's war on Ukraine
 [Read Original Article Here](https://www.aljazeera.com/news/2026/9/12/brics-meets-in-india-whats-on-the-agenda-why-it-matters)
 ---
 
-## Article 5: Iran takes defiant stance as US war deepens its isolation
+## Article 17: Iran takes defiant stance as US war deepens its isolation
 **Source:** Bloomberg | **Sentiment Score:** `-0.8519`
 
 Iran, facing heavy US sanctions and ongoing attacks, is keen to position BRICS as a counterweight to the US-led economic and political order Iranian President Masoud Pezeshkian gave a defiant speech after arriving in India for a BRICS summit marked by deep divisions as the war involving Iran, the US and Israel enters a dangerous new phase…
@@ -45,7 +141,7 @@ Iran, facing heavy US sanctions and ongoing attacks, is keen to position BRICS a
 [Read Original Article Here](https://www.bloomberg.com/news/articles/2026-09-11/iran-turns-to-brics-summit-as-us-war-deepens-its-isolation)
 ---
 
-## Article 6: How Canadians are bracing for the impact of Trump’s trade war
+## Article 18: How Canadians are bracing for the impact of Trump’s trade war
 **Source:** Al Jazeera English | **Sentiment Score:** `0.7750`
 
 Canada’s buy-local movement remains strong, but new tariffs could test how much more shoppers are willing to pay. Toronto, Canada At a grocery store in downtown Toronto, small red maple leaves dot the aisles, appearing beside the prices of products. Theyre easy to miss, but shoppers like Mateus Gujrel are on th…
@@ -53,7 +149,7 @@ Canada’s buy-local movement remains strong, but new tariffs could test how muc
 [Read Original Article Here](https://www.aljazeera.com/economy/2026/9/12/how-canadians-are-bracing-for-the-impact-of-trumps-trade-war)
 ---
 
-## Article 7: Iran says will discuss Strait of Hormuz with Gulf states on Monday
+## Article 19: Iran says will discuss Strait of Hormuz with Gulf states on Monday
 **Source:** Al Jazeera English | **Sentiment Score:** `0.6705`
 
 Iran's Foreign Ministry says the meeting in Oman is to 'promote better understanding among the countries of the region'. Iran is expected to meet with Gulf states in Oman on Monday to discuss the Strait of Hormuz, the countrys Foreign Ministry announced. In a statement on Friday, the ministry said the meeting is inten…
@@ -61,107 +157,11 @@ Iran's Foreign Ministry says the meeting in Oman is to 'promote better understan
 [Read Original Article Here](https://www.aljazeera.com/news/2026/9/11/iran-says-will-discuss-strait-of-hormuz-with-gulf-states-on-monday)
 ---
 
-## Article 8: Rising petrol costs drive sharp inflation increase in US in August
+## Article 20: Rising petrol costs drive sharp inflation increase in US in August
 **Source:** Al Jazeera English | **Sentiment Score:** `0.8555`
 
 Petrol prices jumped 3.9 percent month-to-month, accounting for one-third of the overall inflation increase in August. United States consumer prices jumped in August, marking the largest monthly increase in four months, in advance of the Federal Reserves policy meeting as expectations for an interest rate hike contin…
 
 [Read Original Article Here](https://www.aljazeera.com/economy/2026/9/11/rising-petrol-costs-drive-sharp-inflation-increase-in-us-in-august)
----
-
-## Article 9: 9/11 widow Terry Strada accuses US of protecting Saudi Arabia 25 years after terror attacks, addresses Vance
-**Source:** Fox News | **Sentiment Score:** `-0.7717`
-
-Terry Strada accused the U.S. government of protecting Saudi Arabia and urged JD Vance to carry her message of accountability back to Trump. Terry Strada, whose husband was killed in the World Trade Center on Sept. 11, 2001, said Friday during the 25th anniversary ceremony at Ground Zero that Saudi Arabia continues to evade responsibility…
-
-[Read Original Article Here](https://www.foxnews.com/us/9-11-widow-terry-strada-accuses-us-protecting-saudi-arabia-25-years-after-terror-attacks-addresses-vance)
----
-
-## Article 10: Top House chairman warns Congress against 'complacency' 25 years after 9/11
-**Source:** Fox News | **Sentiment Score:** `-0.5859`
-
-House Homeland Security Committee Chairman Andrew Garbarino warns Congress must stop being reactive to prevent another World Trade Center attack. House Homeland Security Committee Chairman Andrew Garbarino, R-N.Y., remembers exactly where he was when the World Trade Center was attacked on Sept. 11, 2001. "I was a senior in high school. I was …
-
-[Read Original Article Here](https://www.foxnews.com/politics/top-house-chairman-warns-congress-complacency-25-years-after-9-11)
----
-
-## Article 11: ‘Majority do not welcome him’: Trump heads to Ireland amid fury over Gaza
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.8092`
-
-Protests set to erupt across Ireland, where President Connolly has long regarded the US as an untrustworthy power. Donald Trump is set to arrive in Ireland on Saturday, but most Irish people arent happy about it. A recent poll by the Sunday Independent and Ireland Thinks reported that 69 percent do not support t…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/11/majority-do-not-welcome-him-trump-heads-to-ireland-amid-fury-over-gaza)
----
-
-## Article 12: Putin, Xi and Iran's Pezeshkian descend on India for high-stakes BRICS summit amid escalating global tensions
-**Source:** Fox News | **Sentiment Score:** `-0.7579`
-
-Presidents of Iran, Russia, and China converge on New Delhi for the BRICS summit as India navigates competing interests amid Middle East and Ukraine wars. All eyes will be on New Delhi this weekend, as the presidents of Iran, Russia and China gather in India for the 18th BRICS summit. The meeting comes at a critical time as conflicts roil the Middle Ea…
-
-[Read Original Article Here](https://www.foxnews.com/world/putin-xi-irans-pezeshkian-descend-india-high-stakes-brics-summit-amid-escalating-global-tensions)
----
-
-## Article 13: Trump set to honor 9/11 victims and first responders at Pentagon and more top headlines
-**Source:** Fox News | **Sentiment Score:** `0.9086`
-
-Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox. Good morning and welcome to Fox News morning newsletter, Fox News First. And here's what you need to know to start your day ... TOP 3 1. Trump set to honor 9/11 victims and first responders at Pent…
-
-[Read Original Article Here](https://www.foxnews.com/us/trump-set-honor-9-11-victims-first-responders-pentagon-more-top-headlines)
----
-
-## Article 14: Ontario premier wants Republicans to lose House and Senate over Trump's trade war
-**Source:** Fox News | **Sentiment Score:** `-0.7964`
-
-Ontario Premier Doug Ford says he hopes Republicans lose the House and Senate in the midterms to hold President Donald Trump accountable for the trade war with Canada. Ontario Premier Doug Ford said on Thursday that he hopes Republicans in the U.S. lose both the House and Senate in the upcoming midterm elections, suggesting that voters should punish President Donal…
-
-[Read Original Article Here](https://www.foxnews.com/politics/ontario-premier-wants-republicans-lose-house-senate-trumps-trade-war)
----
-
-## Article 15: The Hispanic vote is up for grabs in 2026. Candidates who ignore it will lose
-**Source:** Fox News | **Sentiment Score:** `-0.6808`
-
-Hispanic voters in battleground districts remain persuadable heading into 2026, with over half undecided and cost of living topping their concerns. Hispanic voters are sending both parties a message that should be impossible to ignore: stop assuming you already know where we stand. A record 36.2 million Hispanic Americans were eligible to vote …
-
-[Read Original Article Here](https://www.foxnews.com/opinion/hispanic-vote-grabs-2026-candidates-ignore-lose)
----
-
-## Article 16: Trump issues blunt midterm warning, Vance greeted with ‘48’ chants: Top takeaways from GOP convention
-**Source:** Fox News | **Sentiment Score:** `-0.8910`
-
-President Donald Trump led the Dallas crowd in a voting pledge and warned supporters they'd "go to hell" if they skip the midterm elections this November. DALLAS, Texas Facing a brutal political environment as the GOP fights to hold control of Congress, President Donald Trump and Vice President JD Vance used their speeches on the concluding night of th…
-
-[Read Original Article Here](https://www.foxnews.com/politics/trump-issues-blunt-midterm-warning-vance-greeted-48-chants-top-takeaways-gop-convention)
----
-
-## Article 17: BRICS summit: Is the bloc truly challenging a Western-dominated world?
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.2500`
-
-Some experts say BRICS need not replace the West to succeed - only make Western dominance harder to exercise. A BRICS member has been under attack for months and has subsequently wielded attacks of its own against fellow members. This coming weekend, those countries will all be in the same room, making a th…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/11/bric-by-bric-has-brics-challenged-the-western-dominated-world)
----
-
-## Article 18: How 9/11 conspiracy theories moved into mainstream American politics
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.8519`
-
-Social media and distrust of government has helped disinformation reach increasingly large audiences. Type the words 9/11 conspiracy theories into the search bar of YouTube, and there is no shortage of people lining up to tell you what really happened. There are countless videos of commentators like…
-
-[Read Original Article Here](https://www.aljazeera.com/news-analysis/2026/9/11/how-9-11-conspiracy-theories-moved-into-mainstream-american)
----
-
-## Article 19: Will Trump pay all US adults $5,000? Some Trump supporters are sceptical
-**Source:** Al Jazeera English | **Sentiment Score:** `0.3506`
-
-Observers on both sides of the political divide express concern about Trump's pledge to pay 'dividend' for midterm wins. Dallas, Texas United States President Donald Trump, a former reality television personality, is no stranger to game-show-style pledges. But on Wednesday, his remarks at the Republican National Conve…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/11/will-trump-pay-all-us-adults-5000-some-trump-supporters-are-sceptical)
----
-
-## Article 20: Israeli film on Gaza receives 25-minute ovation at Venice premiere
-**Source:** Al Jazeera English | **Sentiment Score:** `0.8402`
-
-Venice Film Festival honours NAZA, an expose on Israel's use of AI systems in Gaza. A film documenting Israels use of AI-powered systems to target Palestinians in Gaza has received a 25-minute standing ovation at its premiere at the Venice Film Festival. The 80-minute film, NAZA, w…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/11/israeli-film-on-gaza-receives-25-minute-ovation-at-venice-premiere)
 ---
 
