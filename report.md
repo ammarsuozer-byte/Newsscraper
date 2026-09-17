@@ -1,167 +1,167 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-09-16 | **Status:** Automated
+**Date:** 2026-09-17 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: Benchmark US government bond yield hits 19-year peak as oil prices surge
+## Article 1: Trump’s beef import scheme wreaks havoc on fed-up red state cattle ranchers
+**Source:** Fox News | **Sentiment Score:** `-0.6369`
+
+Cattle ranchers in red states say Trump's 300,000 metric ton beef import plan has caused market volatility and cost them significant money per head. As the Trump administration desperately tries to cut costs for Americans ahead of November's midterm elections, one critical demographic to U.S. food supplies is becoming increasingly fed up. Presid…
+
+[Read Original Article Here](https://www.foxnews.com/politics/trumps-beef-import-scheme-wreaks-havoc-fed-up-red-state-cattle-ranchers)
+---
+
+## Article 2: Trump is fighting Iran with strategic clarity — and America is winning
+**Source:** Fox News | **Sentiment Score:** `-0.9735`
+
+Operation Epic Fury targets Iran's nuclear weapon sites, ballistic missiles, and proxy networks as unprecedented sanctions choke oil exports. Operation Epic Fury is the right war at the right time. And, informed by Bush and Obama/Biden Administration failures, it is being fought in the right way. Critics left and right make similar argume…
+
+[Read Original Article Here](https://www.foxnews.com/opinion/trump-fighting-iran-strategic-clarity-america-winning)
+---
+
+## Article 3: What is BRICS Pay, and can it rival the West’s SWIFT payments system?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.4215`
+
+BRICS Pay is a decentralised digital system for making international payments in currencies other than the dollar. The central theme of the BRICS bloc of nations is to push back against the global economic dominance of Western countries. That core value was very much at the centre of this years 18th BRICS Summit,…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/16/what-is-brics-pay-and-can-it-rival-the-wests-swift-payments-system)
+---
+
+## Article 4: Live updates: Fed raises interest rates for the first time since 2023 | CNN Business
+**Source:** CNN | **Sentiment Score:** `0.5859`
+
+Trump appointee Kevin Warsh was expected to lower interest rates. He just raised them. Follow for live updates. Stocks were slightly higher and bond yields were little changed after the Federal Reserve announced it rose interest rates by a quarter point, matching expectations. The Fed rate hike is the first s…
+
+[Read Original Article Here](https://www.cnn.com/2026/09/16/business/live-news/federal-reserve-interest-rate-september)
+---
+
+## Article 5: Eyes on Fed Decision After Bitcoin Trades Near 4-Week Low on Failed Clarity Vote
+**Source:** The Wall Street Journal | **Sentiment Score:** `-0.7845`
+
+Bitcoin traded at $75,877 in afternoon European trade, after falling around 4% a day earlier to as low as $75,026. A Fed rate hike could further weigh on cry... The digital currency fell Tuesday following the U.S. Senate's rejection of a crypto-friendly bill. - Tyrone Siu/Reuters Bitcoin was trading at a near four-week low Wednesday as investors await the F…
+
+[Read Original Article Here](https://www.wsj.com/finance/currencies/eyes-on-fed-decision-after-bitcoin-trades-near-4-week-low-on-failed-clarity-vote-2b8af150)
+---
+
+## Article 6: Norway faces backlash over 'deeply racist' proposal to jail citizens for West Bank business
+**Source:** Fox News | **Sentiment Score:** `-0.8834`
+
+Critics say Norway's proposed trade ban on Israeli settlements in Judea and Samaria effectively singles out Jews, calling the possible legislation racist. Critics are slamming Norway over new legislation that they say singles out Jews. The proposed law could send individuals to prison for up to three years for knowingly conducting certain forms of busi…
+
+[Read Original Article Here](https://www.foxnews.com/world/norway-faces-backlash-over-deeply-racist-proposal-jail-citizens-west-bank-business)
+---
+
+## Article 7: NEWT GINGRICH: Republicans can win the 2026 midterms — if they follow the plan
+**Source:** Fox News | **Sentiment Score:** `0.8462`
+
+A five-part strategic framework outlines how Republicans can expand the House majority, win Senate races, and build a broader coalition for 2026. Republicans can win the 2026 election. They can expand the House majority, win Senate races, strengthen Republican governors and state legislators, and build a much broader national majority. But v…
+
+[Read Original Article Here](https://www.foxnews.com/opinion/newt-gingrich-republicans-win-2026-midterms-follow-plan)
+---
+
+## Article 8: Bitcoin comes under renewed pressure as looming Fed hike adds to woes
+**Source:** Bloomberg | **Sentiment Score:** `-0.7184`
+
+Clarity Act, a crypto regulatory bill in the US, fails to progress in the Senate, disappointing investors who were banking on it to give the market direction Cryptocurrencies face renewed pressure after the US failed to advance a key regulatory bill, bruising industry sentiment just ahead of a potential interest-rate hike from the Federal Reserve. Bitcoi…
+
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-09-16/bitcoin-under-renewed-pressure-as-looming-fed-hike-adds-to-woes)
+---
+
+## Article 9: Stocks, bonds hold ground before Fed; oil slips: Markets wrap
+**Source:** Bloomberg | **Sentiment Score:** `0.4767`
+
+Some relief came as Brent dropped 0.6% to about $108.10 a barrel as a rally driven by supply disruptions left gains looking overdone, and a US industry report pointed to a rise in stockpiles Stocks and bonds posted modest moves as investors held back ahead of the Federal Reserves interest-rate decision, with markets expecting its first hike since 2023. Oils rally paused. MSCIs Asian equ…
+
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-09-15/asian-stocks-to-edge-higher-as-traders-await-fed-markets-wrap)
+---
+
+## Article 10: Attacks on Saudi oil expose Iraqi PM’s struggle to control armed factions
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.7506`
+
+A senior Iraqi source points to a resistance 'splinter' group for the September attack on the East-West pipeline. As black smoke billowed over Saudi Arabias East-West oil pipeline, the repercussions of the drone attack were already reaching across the border into Iraq. The strikes, launched from Iraqi territory…
+
+[Read Original Article Here](https://www.aljazeera.com/news-analysis/2026/9/16/attacks-on-saudi-oil-expose-iraqi-pms-struggle-to-control-armed-factions)
+---
+
+## Article 11: Argentina intensifies campaign against Falklands oil companies
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.5267`
+
+Government says new legal complaints to be filed against firms exploring for oil near the Falkland Islands. Argentina will file new legal complaints against companies exploring for oil near the Falkland Islands, intensifying its campaign against businesses operating in the British overseas territory. Gove…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/9/15/argentina-intensifies-campaign-against-falklands-oil-companies)
+---
+
+## Article 12: High-profile Democrat breaks with party, embraces key pieces of Trump agenda
+**Source:** Fox News | **Sentiment Score:** `0.4019`
+
+Haley Stevens backs Trump administration policies on critical minerals, data centers and public equity stakes in high-growth industries like Intel. DETROIT, MICHIGAN Rep. Haley Stevens, D-Mich., threw her support behind three of the Trump administrations signature economic policies in an interview with Fox News Digital. Collaboration between ra…
+
+[Read Original Article Here](https://www.foxnews.com/politics/high-profile-democrat-breaks-party-embraces-key-pieces-trump-agenda)
+---
+
+## Article 13: US Senate crypto bill collapses in blow to industry
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.1027`
+
+The defeat dealt a major blow to efforts to establish the first comprehensive federal framework for digital-asset market The United States Senate has failed to advance comprehensive cryptocurrency legislation backed by President Donald Trump in a major blow for digital-asset companies and Republicans who had championed…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/9/15/us-senate-crypto-bill-collapses-in-blow-to-industry)
+---
+
+## Article 14: What makes these midterms so pivotal?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.6808`
+
+The 2026 midterms could reshape Washington as voters weigh Trump, party divisions and the issues driving the election. Al Jazeeras Josh Rushing talks with United States journalists Krystal Ball and Jude Russo about why the 2026 congressional midterms matter and whats driving the political conversation. They look at …
+
+[Read Original Article Here](https://www.aljazeera.com/video/lets-focus/2026/9/15/what-makes-these-midterms-so-pivotal)
+---
+
+## Article 15: Global Bond Selloff Deepens as 10-Year Yields Hit Multiyear Highs
+**Source:** The Wall Street Journal | **Sentiment Score:** `0.8689`
+
+The 10-year U.S. Treasury yield hit its highest level since 2007 ahead of the U.S. Federal Reserve’s interest rate decision. The selloff in global bonds gained traction on Tuesday. - Brendan McDermid/Reuters The selloff in global bonds gained traction on Tuesday, pushing the 10-year U.S. Treasury yield to its highest leve…
+
+[Read Original Article Here](https://www.wsj.com/finance/investing/u-s-10-year-treasury-yield-rises-to-highest-since-2007-91d1e44f)
+---
+
+## Article 16: Can China play peacemaker as Iran’s foreign minister heads to Beijing?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.4404`
+
+Tehran and Beijing explore diplomatic paths amid escalating tensions between Iran and the United States. Tehran, Iran  When Irans Foreign Minister Abbas Araghchi last visited China in May, it came shortly before a trip by United States President Donald Trump to the same country. Araghchi is expected to…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/15/can-china-play-peacemaker-as-irans-foreign-minister-heads-to-beijing)
+---
+
+## Article 17: Carney visits Europe: Can Canada seek refuge with the EU amid US trade war?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.5994`
+
+Prime Minister Mark Carney is seeking a 'unique alliance' with Europe as transatlantic relations sour. Canadian Prime Minister Mark Carney is visiting Europe this week as his country seeks a closer strategic alliance with the European Union amid its bitter trade war with the United States. At the sam…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/15/carney-visits-europe-can-canada-seek-refuge-with-the-eu-amid-us-trade-war)
+---
+
+## Article 18: Oil squeeze tightens as Iran-backed attacks cripple Hormuz escape routes
+**Source:** Fox News | **Sentiment Score:** `-0.8873`
+
+A drone attack damaged Saudi Arabia's East-West Pipeline as Houthi rebels seize strategic islands near Bab el-Mandeb, squeezing oil routes beyond Hormuz. The U.S. is choking off Irans oil exports through the Strait of Hormuz. But the routes meant to shield other Gulf producers from that disruption are now coming under pressure themselves. A drone att…
+
+[Read Original Article Here](https://www.foxnews.com/politics/oil-squeeze-tightens-iran-backed-attacks-cripple-hormuz-escape-routes)
+---
+
+## Article 19: South Korea embraces Central Asian leaders, looking to boost regional clout
+**Source:** Al Jazeera English | **Sentiment Score:** `0.4588`
+
+Seoul is set to host its first presidential meeting with five Russia-allied states positioning themselves as a bloc. South Korea is set to welcome the heads of the five Central Asian states for the first-ever presidential summit between Seoul and the region, a meeting local media have dubbed historic. Wednesdays s…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/15/south-korea-embraces-central-asian-leaders-looking-to-boost-regional-clout)
+---
+
+## Article 20: Benchmark US government bond yield hits 19-year peak as oil prices surge
 **Source:** Al Jazeera English | **Sentiment Score:** `0.3612`
 
 The 10-year US Treasury yield hit 5.02 percent on Tuesday for the first time since the 2007 global financial crisis. The benchmark United States government bond rate has climbed to its highest level in 19 years as traders bet on a Federal Reserve interest rate hike following a new rise in oil prices. On Tuesday, t…
 
 [Read Original Article Here](https://www.aljazeera.com/economy/2026/9/15/benchmark-us-government-bond-yield-hits-19-year-peak-as-oil-prices-surge)
----
-
-## Article 2: Seven-figure blitz as GOP embraces push to compete with China in booming new tech space
-**Source:** Fox News | **Sentiment Score:** `0.9260`
-
-Alliance for a Better Future targets Bernie Sanders and AOC in new AI ads while praising three GOP lawmakers for balancing innovation and safeguards. FIRST ON FOX: Three sitting Republican lawmakers, all facing midterm elections for U.S. Senate in less than two months, are paving the way for a pro-artificial intelligence push as Washington looks t…
-
-[Read Original Article Here](https://www.foxnews.com/politics/seven-figure-blitz-gop-embraces-push-compete-china-booming-new-tech-space)
----
-
-## Article 3: AMB GORDON SONDLAND: Canada doesn't need Europe. It needs a new economic deal with America
-**Source:** Fox News | **Sentiment Score:** `0.7964`
-
-The United States and Canada need a new North American economic compact spanning energy, automotive manufacturing, banking, and critical minerals. The United States and Canada have spent the past several months behaving like two people in a bad marriage: each is convinced the other is taking advantage, each is speaking loudly enough for the nei…
-
-[Read Original Article Here](https://www.foxnews.com/opinion/amb-gordon-sondland-canada-doesnt-need-europe-needs-new-economic-deal-america)
----
-
-## Article 4: Indian bonds sink as RBI plans ₹1 lakh crore sales to drain liquidity
-**Source:** Bloomberg | **Sentiment Score:** `-0.7003`
-
-2031 yield jumps 16 bps; Citi sees 50-75 bps of rate hikes starting in October amid oil and inflation risks Indian bonds declined after the central bank said it would sell sovereign notes to drain cash from lenders, adding to the supply of debt in a year when the market is already under pressure from recor…
-
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-09-15/indian-bonds-fall-as-rbi-debt-sale-plan-worsens-supply-pressures)
----
-
-## Article 5: House Dems face Trump tariff dilemma as major Russia sanctions bill heads to floor
-**Source:** Fox News | **Sentiment Score:** `0.1027`
-
-The Lindsey Graham sanctions bill forces House Democrats to weigh Ukraine support against expanding Trump tariff authority they've long opposed. House Democrats will soon have to grapple with a decision over whether to give President Donald Trump more tariff authority or potentially block Congress from cracking down on Vladimir Putin's bloody…
-
-[Read Original Article Here](https://www.foxnews.com/politics/house-democrats-face-trump-tariff-dilemma-major-russia-sanctions-bill-heads-floor)
----
-
-## Article 6: Inside the Houthis’ expanding war economy in Yemen
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.1027`
-
-The Houthis have restructured Yemen's commercial sector, securing billions in revenue amid a humanitarian crisis. The rapid advance by Yemens Houthis down the countrys Red Sea coast has raised questions over whether the group could turn its territorial gains into new sources of revenue, adding to an already exte…
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/9/14/inside-the-houthis-expanding-war-economy-in-yemen)
----
-
-## Article 7: Iran’s proxy money machine: How the Houthis built a multibillion-dollar network despite US sanctions
-**Source:** Fox News | **Sentiment Score:** `0.5256`
-
-The Houthis' advance toward the Bab el-Mandeb Strait is fueled by a sprawling sanctions-evasion network spanning Iranian oil, crypto and Russia. The Houthis rapid advance toward one of the worlds most important shipping chokepoints is putting fresh scrutiny on the sprawling financial network that has helped transform the Iran-backed group fro…
-
-[Read Original Article Here](https://www.foxnews.com/world/irans-proxy-money-machine-houthis-built-multibillion-dollar-network-despite-us-sanctions)
----
-
-## Article 8: Syria fuel price hikes test public patience with economic recovery
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.9485`
-
-Anger rises in Syrian cities as fuel price hikes burden struggling households amid an ongoing cost-of-living crisis. The sight of protesters blocking roads and burning tyres on the streets of several Syrian cities and towns has highlighted popular anger over a government decision to increase fuel prices and a wider…
-
-[Read Original Article Here](https://www.aljazeera.com/features/2026/9/14/syria-fuel-price-hikes-test-public-patience-with-economic-recovery)
----
-
-## Article 9: Trump unloads on tech titans pushing for slowdown on emerging industry: ‘WHOEVER WINS AI, WINS!’
-**Source:** Fox News | **Sentiment Score:** `0.7695`
-
-President Donald Trump rejected calls for AI guardrails and singled out Dario Amodei, as David Sacks challenged the industry's push to pace the frontier. President Donald Trump on Monday rejected growing calls for implementing safeguards and restrictions on artificial intelligence (AI), declaring that the technology needs a "STRONG AND SMART" presiden…
-
-[Read Original Article Here](https://www.foxnews.com/politics/trump-unloads-tech-titans-pushing-slowdown-emerging-industry-whoever-wins-ai-wins)
----
-
-## Article 10: 10-year Treasury yield hits 5%, critical threshold for US economy and markets | CNN Business
-**Source:** CNN | **Sentiment Score:** `-0.1779`
-
-The rise in bond yields hit a critical threshold on Monday, with the 10-year Treasury yield rising to 5%, a level briefly touched in 2023 and otherwise not seen since 2007. The move in the key benchmark could mean higher costs for Americans who want to buy a … The rise in bond yields hit a critical threshold on Monday, with the 10-year Treasury yield rising to 5%, a level briefly touched in 2023 and otherwise not seen since 2007. The move in the key benchm…
-
-[Read Original Article Here](https://www.cnn.com/2026/09/14/investing/bond-yields-market-turmoil)
----
-
-## Article 11: Republicans need a Reagan-style vision to win the battle over America's future
-**Source:** Fox News | **Sentiment Score:** `0.9686`
-
-Trump economy shows strong jobs report and rising wages, but the GOP needs Reagan's optimism playbook to win the midterms, not just statistics. These midterm elections arent about the price of gas, or data centers, or even $5000 checks in the mail from the federal government. They will be about which political party offers a hopeful view of…
-
-[Read Original Article Here](https://www.foxnews.com/opinion/republicans-need-reagan-style-vision-win-battle-americas-future)
----
-
-## Article 12: China has a chokehold on your medicine cabinet. It’s a national security threat
-**Source:** Fox News | **Sentiment Score:** `0.6124`
-
-The United States produces just 3% of active pharmaceutical ingredients while China controls 45%, creating a dangerous drug supply chain crisis. The United States produces roughly 3% of the active pharmaceutical ingredients in the world. Meanwhile, China produces a whopping 45%. A Johns Hopkins study found that China supplies more than 60% of…
-
-[Read Original Article Here](https://www.foxnews.com/opinion/china-chokehold-medicine-cabinet-national-security-threat)
----
-
-## Article 13: Emerging market stocks decline on West Asia tensions
-**Source:** Bloomberg | **Sentiment Score:** `-0.8555`
-
-Brent crude rose 2.9% to $107.65 a barrel after Saudi Arabia closed its East-West pipeline, a key alternative to the Strait of Hormuz for its oil exports, following multiple attacks Emerging-market stocks fell as rising tensions in West Asia drove investors toward safer assets, while uncertainty over the global rate outlook added to the pressure. The MSCI gauge of developing-na…
-
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-09-14/emerging-market-stocks-decline-on-mideast-tensions-rate-risks)
----
-
-## Article 14: Trump pushes Fed to lower rates despite pressure for a hike
-**Source:** Bloomberg | **Sentiment Score:** `0.0258`
-
-Trump advocates for lower interest rates despite rising consumer prices, as pressure mounts on the Fed to increase borrowing costs. US President Donald Trump reiterated that the US should have the lowest interest rates in the world even as his handpicked chair for the Federal Reserve, Kevin Warsh, faces renewed pressure to raise …
-
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-09-13/trump-pushes-fed-to-lower-rates-despite-pressure-to-raise-them)
----
-
-## Article 15: Can a warming Arctic become an important commercial highway?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.0772`
-
-The conflict in the Middle East raises security concerns about traditional shipping routes. The conflict in the Middle East raises security concerns about traditional shipping routes.The conflict in the Middle East has raised security concerns about the shipping route through the Bab al-Man…
-
-[Read Original Article Here](https://www.aljazeera.com/video/inside-story/2026/9/13/can-a-warming-arctic-become-an-important-commercial-highway)
----
-
-## Article 16: US will scrap Irish whisky tariff, Trump says
-**Source:** Al Jazeera English | **Sentiment Score:** `0.0000`
-
-The announcement comes several months after the US decreased the tariff by 5 percent. While in Ireland attending a golf tournament at the golf course he owns in Doonbeg in County Clare, US President Donald Trump said the US will repeal a 10 percent tariff on Irish whisky, a duty that …
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/13/trump-says-he-plans-to-remove-a-15-tariff-on-irish-whisky)
----
-
-## Article 17: Trump says he’ll remove tariffs on Irish whiskey | CNN Politics
-**Source:** CNN | **Sentiment Score:** `0.8271`
-
-On foreign land but home turf, Donald Trump presented the Irish Open trophy to Shane Lowry at the president’s Doonbeg golf course. He also presented a parting gift: the elimination of tariffs on Irish whiskey. On foreign land but home turf, Donald Trump presented the Irish Open trophy to Shane Lowry at the presidents Doonbeg golf course. He also presented a farewell gift: the elimination of tariffs on Iris…
-
-[Read Original Article Here](https://www.cnn.com/2026/09/13/politics/trump-irish-open-whiskey-tariffs)
----
-
-## Article 18: Iran-GCC summit: What’s behind the meeting, why is Bahrain not attending?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.7506`
-
-Iran says it plans to hold talks with Iraq and Gulf nations in Oman to help strengthen shared regional security. Iran says a meeting between Iraq and the Gulf countries will be held in Oman on Monday to discuss the Strait of Hormuz, which remains under Tehrans blockade amid the diplomatic deadlock with the Unit…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/13/iran-gcc-summit-whats-behind-the-meeting-why-is-bahrain-not-attending)
----
-
-## Article 19: The Iran war reveals the limits of BRICS
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.3612`
-
-The bloc struggles to translate its economic weight into geopolitical sway. But there may be a silver lining to it. This years BRICS summit has wrapped up in New Delhi with the usual promises of deepened cooperation and expanding economic ties. But there was an important absence. Although the US-Israel war on Ira…
-
-[Read Original Article Here](https://www.aljazeera.com/opinions/2026/9/13/the-iran-war-reveals-the-limits-of)
----
-
-## Article 20: The Houthis’ escalation in Yemen could flop
-**Source:** Al Jazeera English | **Sentiment Score:** `0.7351`
-
-The Houthis and Iran are seeking to gain leverage, but they may instead get a unified front in the Red Sea. The speed of the Houthi advance along the Red Sea coast has changed the strategic landscape. After capturing Mocha, Houthi forces moved into Dhubab and reached Mayyun, or Perim Island, at the narrowe…
-
-[Read Original Article Here](https://www.aljazeera.com/opinions/2026/9/13/the-houthis-escalation-in-yemen-could-flop)
 ---
 
