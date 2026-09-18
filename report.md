@@ -1,167 +1,167 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-09-17 | **Status:** Automated
+**Date:** 2026-09-18 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: Trump’s beef import scheme wreaks havoc on fed-up red state cattle ranchers
-**Source:** Fox News | **Sentiment Score:** `-0.6369`
+## Article 1: Mark Carney: Canada-EU alliance isn’t meant to be a US rival with ‘better manners’
+**Source:** CNN | **Sentiment Score:** `0.5267`
 
-Cattle ranchers in red states say Trump's 300,000 metric ton beef import plan has caused market volatility and cost them significant money per head. As the Trump administration desperately tries to cut costs for Americans ahead of November's midterm elections, one critical demographic to U.S. food supplies is becoming increasingly fed up. Presid…
+Canadian Prime Minister Mark Carney took a veiled swipe at US President Donald Trump on Thursday, insisting that his proposal to deepen EU ties wasn’t aimed at creating a new, more polite geopolitical bloc. Canadian Prime Minister Mark Carney took a veiled swipe at US President Donald Trump on Thursday, insisting that his proposal to deepen ties with the European Union wasnt aimed at creating a new geop…
 
-[Read Original Article Here](https://www.foxnews.com/politics/trumps-beef-import-scheme-wreaks-havoc-fed-up-red-state-cattle-ranchers)
+[Read Original Article Here](https://www.cnn.com/2026/09/17/business/mark-carney-canada-us-intl)
 ---
 
-## Article 2: Trump is fighting Iran with strategic clarity — and America is winning
-**Source:** Fox News | **Sentiment Score:** `-0.9735`
+## Article 2: UK charities, protest groups condemn Israeli ban threat after sanctions
+**Source:** Al Jazeera English | **Sentiment Score:** `0.6369`
 
-Operation Epic Fury targets Iran's nuclear weapon sites, ballistic missiles, and proxy networks as unprecedented sanctions choke oil exports. Operation Epic Fury is the right war at the right time. And, informed by Bush and Obama/Biden Administration failures, it is being fought in the right way. Critics left and right make similar argume…
+Having warned London of 'consequences' for sanctions, Israel targets UK charities, campaign groups and Palestine Action. London, United Kingdom  British charities, Palestinian advocacy organisations and the proscribed Palestine Action group have condemned an official Israeli letter maligning their representatives and a…
 
-[Read Original Article Here](https://www.foxnews.com/opinion/trump-fighting-iran-strategic-clarity-america-winning)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/17/uk-charities-protest-groups-condemn-israeli-ban-threat-after-sanctions)
 ---
 
-## Article 3: What is BRICS Pay, and can it rival the West’s SWIFT payments system?
+## Article 3: The Fed just threw a wrench in Trump's midterm economic message
+**Source:** Fox News | **Sentiment Score:** `0.1531`
+
+Kevin Warsh's first rate hike as Fed chair defies President Donald Trump's repeated push for lower borrowing costs ahead of midterm elections. With the midterms looming, President Donald Trump wants lower interest rates to ease the squeeze on American families. Instead, the Federal Reserve raised rates on Wednesday. The decision is aimed a…
+
+[Read Original Article Here](https://www.foxnews.com/politics/fed-threw-wrench-trumps-midterm-economic-message)
+---
+
+## Article 4: Pernicious states: Towards a new grammar of international relations
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.2144`
+
+We have names for weak and failing states. We need one for superpowers that cause global harm. Injustice extends not only to people and states, but also to words and concepts. Perhaps nowhere is this more evident than in international relations, where power often prevails over wisdom and prude…
+
+[Read Original Article Here](https://www.aljazeera.com/opinions/2026/9/17/pernicious-states-towards-a-new-grammar-of-international-relations)
+---
+
+## Article 5: India warns new US tariffs over Russian oil could impact ties
+**Source:** Al Jazeera English | **Sentiment Score:** `0.8860`
+
+New Delhi says it has 'made clear' its determination to 'protect its trade and economic interests'. India has warned the United States that new measures to levy tariffs over the purchase of Russian oil could impact bilateral ties, hours after the US Congress approved a bill that would give Presiden…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/17/india-warns-new-us-tariffs-over-russian-oil-could-impact-ties)
+---
+
+## Article 6: Tata Board may ask Chandrasekaran to stay on amid RBI’s IPO push
+**Source:** Bloomberg | **Sentiment Score:** `0.6249`
+
+The Reserve Bank of India’s refusal to relax listing rules for Tata Sons Pvt. has turned what was meant to be a routine board meeting into a high-stakes discussion on the way forward The board of Tata Groups holding company will meet Thursday to discuss how to handle a listing mandated by Indias central bank, including if outgoing Chairman Natarajan Chandrasekaran should be asked…
+
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-09-16/tata-board-to-discuss-keeping-chandra-as-chair-post-rbi-ipo-push)
+---
+
+## Article 7: Morocco’s 2026 election: A test of political trust and engagement
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.0516`
+
+Youth unemployment, living costs and public services are key issues before the September 23 vote. Rabat, Morocco Moroccos parliamentary election campaign began on September 10, with 27 political parties competing for 395 seats in the House of Representatives. More than 15.8 million voters are reg…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/17/moroccos-2026-election-a-test-of-political-trust-and-engagement)
+---
+
+## Article 8: UK and Canada discuss AI risks and defence ties in first bilateral meeting
 **Source:** Al Jazeera English | **Sentiment Score:** `0.4215`
 
-BRICS Pay is a decentralised digital system for making international payments in currencies other than the dollar. The central theme of the BRICS bloc of nations is to push back against the global economic dominance of Western countries. That core value was very much at the centre of this years 18th BRICS Summit,…
+UK and Canada explore AI risks, defence cooperation and joint initiatives during a bilateral meeting in Liverpool. British Prime Minister Andy Burnham and Canadian Prime Minister Mark Carney held their first bilateral meeting to advance cooperation on defence and artificial intelligence, capped by an evening watc…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/16/what-is-brics-pay-and-can-it-rival-the-wests-swift-payments-system)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/17/uk-and-canada-discuss-ai-risks-and-defence-ties-in-first-bilateral-meeting)
 ---
 
-## Article 4: Live updates: Fed raises interest rates for the first time since 2023 | CNN Business
-**Source:** CNN | **Sentiment Score:** `0.5859`
+## Article 9: Trump says Canada becoming 'associate member' of EU could be a 'hostile act'
+**Source:** CNN | **Sentiment Score:** `-0.7003`
 
-Trump appointee Kevin Warsh was expected to lower interest rates. He just raised them. Follow for live updates. Stocks were slightly higher and bond yields were little changed after the Federal Reserve announced it rose interest rates by a quarter point, matching expectations. The Fed rate hike is the first s…
+Clipped From Video  European Commission President Ursula von der Leyen proposed Wednesday that Canada become the bloc’s first “associate member,” provoking a fresh tariff threat from US President Donald Trump. The move is aimed at shoring up their economies … European Commission President Ursula von der Leyen proposed Wednesday that Canada become the blocs first associate member, provoking a fresh tariff threat from US President Donald Trump. The move is…
 
-[Read Original Article Here](https://www.cnn.com/2026/09/16/business/live-news/federal-reserve-interest-rate-september)
+[Read Original Article Here](https://www.cnn.com/2026/09/15/americas/canada-mark-carney-eu-trump-hnk)
 ---
 
-## Article 5: Eyes on Fed Decision After Bitcoin Trades Near 4-Week Low on Failed Clarity Vote
-**Source:** The Wall Street Journal | **Sentiment Score:** `-0.7845`
+## Article 10: ‘People don’t have money’: Syrian fuel hikes deepen economic pain
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.4767`
 
-Bitcoin traded at $75,877 in afternoon European trade, after falling around 4% a day earlier to as low as $75,026. A Fed rate hike could further weigh on cry... The digital currency fell Tuesday following the U.S. Senate's rejection of a crypto-friendly bill. - Tyrone Siu/Reuters Bitcoin was trading at a near four-week low Wednesday as investors await the F…
+Higher diesel and petrol prices are pushing up transport and food costs across an already impoverished Syria. Damascus, Syria The fuel price hike hit at midnight on Sunday. By Monday morning, frustration had poured into the streets, sparking open defiance across Syria. A sudden government decree drove diese…
 
-[Read Original Article Here](https://www.wsj.com/finance/currencies/eyes-on-fed-decision-after-bitcoin-trades-near-4-week-low-on-failed-clarity-vote-2b8af150)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/16/people-dont-have-money-syrian-fuel-hikes-deepen-economic-pain)
 ---
 
-## Article 6: Norway faces backlash over 'deeply racist' proposal to jail citizens for West Bank business
-**Source:** Fox News | **Sentiment Score:** `-0.8834`
+## Article 11: What to know about US Federal Reserve’s first interest rate hike in 3 years
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.4939`
 
-Critics say Norway's proposed trade ban on Israeli settlements in Judea and Samaria effectively singles out Jews, calling the possible legislation racist. Critics are slamming Norway over new legislation that they say singles out Jews. The proposed law could send individuals to prison for up to three years for knowingly conducting certain forms of busi…
+The unanimous decision comes as prices have remained stubbornly high and despite Trump's demands for lower rates. For the first time in more than three years, the United States Federal Reserve has raised interest rates amid mounting inflationary pressures and consumer frustration. The unanimous decision on Wedn…
 
-[Read Original Article Here](https://www.foxnews.com/world/norway-faces-backlash-over-deeply-racist-proposal-jail-citizens-west-bank-business)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/16/what-to-know-about-us-federal-reserves-first-interest-rate-hike-in-3-years)
 ---
 
-## Article 7: NEWT GINGRICH: Republicans can win the 2026 midterms — if they follow the plan
-**Source:** Fox News | **Sentiment Score:** `0.8462`
+## Article 12: Fox News Poll: Squeezed by costs, frustrated voters turn to the Democrats
+**Source:** Fox News | **Sentiment Score:** `0.2732`
 
-A five-part strategic framework outlines how Republicans can expand the House majority, win Senate races, and build a broader coalition for 2026. Republicans can win the 2026 election. They can expand the House majority, win Senate races, strengthen Republican governors and state legislators, and build a much broader national majority. But v…
+Trump's 39% job approval and a 26-point endorsement gap could spell trouble for GOP candidates, a new Fox News survey finds before Election Day. Roughly three-quarters of voters have rated economic conditions negatively for the past year, and more than three times as many say they are falling behind financially as getting ahead, according to …
 
-[Read Original Article Here](https://www.foxnews.com/opinion/newt-gingrich-republicans-win-2026-midterms-follow-plan)
+[Read Original Article Here](https://www.foxnews.com/politics/fox-news-poll-squeezed-costs-frustrated-voters-turn-democrats)
 ---
 
-## Article 8: Bitcoin comes under renewed pressure as looming Fed hike adds to woes
-**Source:** Bloomberg | **Sentiment Score:** `-0.7184`
+## Article 13: Reporter's Notebook: House control could hinge on whether the old political rules still apply
+**Source:** Fox News | **Sentiment Score:** `0.2500`
 
-Clarity Act, a crypto regulatory bill in the US, fails to progress in the Senate, disappointing investors who were banking on it to give the market direction Cryptocurrencies face renewed pressure after the US failed to advance a key regulatory bill, bruising industry sentiment just ahead of a potential interest-rate hike from the Federal Reserve. Bitcoi…
+Trump's mid-thirties approval and high gas prices favor Democrats, but redistricting and turnout questions could keep House races razor-tight. Are we playing with the old playbook or a new playbook in the midterm elections this fall? Thats unclear. Its hard to determine, simply because weve seen so much thats "new" in politics lately. Nor…
 
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-09-16/bitcoin-under-renewed-pressure-as-looming-fed-hike-adds-to-woes)
+[Read Original Article Here](https://www.foxnews.com/politics/reporters-notebook-house-control-hinge-whether-old-political-rules-still-apply)
 ---
 
-## Article 9: Stocks, bonds hold ground before Fed; oil slips: Markets wrap
-**Source:** Bloomberg | **Sentiment Score:** `0.4767`
-
-Some relief came as Brent dropped 0.6% to about $108.10 a barrel as a rally driven by supply disruptions left gains looking overdone, and a US industry report pointed to a rise in stockpiles Stocks and bonds posted modest moves as investors held back ahead of the Federal Reserves interest-rate decision, with markets expecting its first hike since 2023. Oils rally paused. MSCIs Asian equ…
-
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-09-15/asian-stocks-to-edge-higher-as-traders-await-fed-markets-wrap)
----
-
-## Article 10: Attacks on Saudi oil expose Iraqi PM’s struggle to control armed factions
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.7506`
-
-A senior Iraqi source points to a resistance 'splinter' group for the September attack on the East-West pipeline. As black smoke billowed over Saudi Arabias East-West oil pipeline, the repercussions of the drone attack were already reaching across the border into Iraq. The strikes, launched from Iraqi territory…
-
-[Read Original Article Here](https://www.aljazeera.com/news-analysis/2026/9/16/attacks-on-saudi-oil-expose-iraqi-pms-struggle-to-control-armed-factions)
----
-
-## Article 11: Argentina intensifies campaign against Falklands oil companies
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.5267`
-
-Government says new legal complaints to be filed against firms exploring for oil near the Falkland Islands. Argentina will file new legal complaints against companies exploring for oil near the Falkland Islands, intensifying its campaign against businesses operating in the British overseas territory. Gove…
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/9/15/argentina-intensifies-campaign-against-falklands-oil-companies)
----
-
-## Article 12: High-profile Democrat breaks with party, embraces key pieces of Trump agenda
-**Source:** Fox News | **Sentiment Score:** `0.4019`
-
-Haley Stevens backs Trump administration policies on critical minerals, data centers and public equity stakes in high-growth industries like Intel. DETROIT, MICHIGAN Rep. Haley Stevens, D-Mich., threw her support behind three of the Trump administrations signature economic policies in an interview with Fox News Digital. Collaboration between ra…
-
-[Read Original Article Here](https://www.foxnews.com/politics/high-profile-democrat-breaks-party-embraces-key-pieces-trump-agenda)
----
-
-## Article 13: US Senate crypto bill collapses in blow to industry
+## Article 14: US Fed raises interest rates as inflation weighs on economy
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.1027`
 
-The defeat dealt a major blow to efforts to establish the first comprehensive federal framework for digital-asset market The United States Senate has failed to advance comprehensive cryptocurrency legislation backed by President Donald Trump in a major blow for digital-asset companies and Republicans who had championed…
+The 25 basis-point hike is the first raise in three years and comes ahead of critical midterm elections in the US. The United States Federal Reserve has said it will raise interest rates by a quarter of a percentage point as inflation, driven by soaring fuel prices amid the US-Iran war, continues to weigh on the …
 
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/9/15/us-senate-crypto-bill-collapses-in-blow-to-industry)
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/9/16/us-fed-raises-interest-rates-as-inflation-weighs-on-economy)
 ---
 
-## Article 14: What makes these midterms so pivotal?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.6808`
+## Article 15: Geopolitical divides fueling Security Council inaction, Guterres warns
+**Source:** Al Jazeera English | **Sentiment Score:** `0.6369`
 
-The 2026 midterms could reshape Washington as voters weigh Trump, party divisions and the issues driving the election. Al Jazeeras Josh Rushing talks with United States journalists Krystal Ball and Jude Russo about why the 2026 congressional midterms matter and whats driving the political conversation. They look at …
+Guterres calls for urgent Security Council reform, says geopolitical divides hindering action on global crises. United Nations Secretary-General Antonio Guterres has called for a reform of the Security Council, blaming the conduct of major powers for the bodys paralysis. Responding at a news conference on Wed…
 
-[Read Original Article Here](https://www.aljazeera.com/video/lets-focus/2026/9/15/what-makes-these-midterms-so-pivotal)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/16/geopolitical-divides-fueling-security-council-inaction-guterres-warns)
 ---
 
-## Article 15: Global Bond Selloff Deepens as 10-Year Yields Hit Multiyear Highs
-**Source:** The Wall Street Journal | **Sentiment Score:** `0.8689`
+## Article 16: UK trade unions back motion to boycott and sanction Israel
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.9531`
 
-The 10-year U.S. Treasury yield hit its highest level since 2007 ahead of the U.S. Federal Reserve’s interest rate decision. The selloff in global bonds gained traction on Tuesday. - Brendan McDermid/Reuters The selloff in global bonds gained traction on Tuesday, pushing the 10-year U.S. Treasury yield to its highest leve…
+Motion demands taking action to oppose the 'catastrophic destruction of Gaza' and Israeli settler violence. The umbrella organisation for trade unions in the United Kingdom has passed a motion calling for an end to complicity in Israels genocidal war on Gaza and settler violence in the occupied West Bank.…
 
-[Read Original Article Here](https://www.wsj.com/finance/investing/u-s-10-year-treasury-yield-rises-to-highest-since-2007-91d1e44f)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/16/uk-trade-unions-back-motion-to-boycott-and-sanction-israel)
 ---
 
-## Article 16: Can China play peacemaker as Iran’s foreign minister heads to Beijing?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.4404`
+## Article 17: Malaysia offers to invite Myanmar leader in Rohingya repatriation push
+**Source:** Al Jazeera English | **Sentiment Score:** `0.1531`
 
-Tehran and Beijing explore diplomatic paths amid escalating tensions between Iran and the United States. Tehran, Iran  When Irans Foreign Minister Abbas Araghchi last visited China in May, it came shortly before a trip by United States President Donald Trump to the same country. Araghchi is expected to…
+Malaysia has invited Myanmar’s military ruler for a visit to the country in a bid to expedite Rohingya repatriation. Malaysia is offering to invite Myanmars military ruler for an official visit to the country in a bid to expedite the repatriation of Rohingya refugees. Malaysias Prime Minister Anwar Ibrahim made th…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/15/can-china-play-peacemaker-as-irans-foreign-minister-heads-to-beijing)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/16/malaysia-offers-to-invite-myanmar-leader-in-rohingya-repatriation-push)
 ---
 
-## Article 17: Carney visits Europe: Can Canada seek refuge with the EU amid US trade war?
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.5994`
+## Article 18: 5 states could be the biggest losers in Trump's trade war with Canada, expert warns
+**Source:** Fox News | **Sentiment Score:** `-0.9231`
 
-Prime Minister Mark Carney is seeking a 'unique alliance' with Europe as transatlantic relations sour. Canadian Prime Minister Mark Carney is visiting Europe this week as his country seeks a closer strategic alliance with the European Union amid its bitter trade war with the United States. At the sam…
+President Donald Trump's trade war with Canada exposes $2.3 billion in Ohio exports to retaliatory tariffs ahead of the critical midterm elections. Americans' pocketbooks could take yet another hit ahead of the November election as President Donald Trump escalates his trade war with Canada with five key battleground states likely facing the most…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/15/carney-visits-europe-can-canada-seek-refuge-with-the-eu-amid-us-trade-war)
+[Read Original Article Here](https://www.foxnews.com/politics/5-states-biggest-losers-trumps-trade-war-canada-expert-warns)
 ---
 
-## Article 18: Oil squeeze tightens as Iran-backed attacks cripple Hormuz escape routes
-**Source:** Fox News | **Sentiment Score:** `-0.8873`
+## Article 19: Iran war has cost the US $38bn: How will it impact US economy, politics?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.7351`
 
-A drone attack damaged Saudi Arabia's East-West Pipeline as Houthi rebels seize strategic islands near Bab el-Mandeb, squeezing oil routes beyond Hormuz. The U.S. is choking off Irans oil exports through the Strait of Hormuz. But the routes meant to shield other Gulf producers from that disruption are now coming under pressure themselves. A drone att…
+High energy costs at the pump and strategic setback for US in the Iran war will likely cost Trump in the midterms. The United States war on Iran has cost the country $38bn so far, the Congressional Budget Office (CBO) said this week, adding that an estimated $3bn will be added every month if the conflict continue…
 
-[Read Original Article Here](https://www.foxnews.com/politics/oil-squeeze-tightens-iran-backed-attacks-cripple-hormuz-escape-routes)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/16/iran-war-has-cost-the-us-38bn-how-is-it-impacting-us-economy-politics)
 ---
 
-## Article 19: South Korea embraces Central Asian leaders, looking to boost regional clout
-**Source:** Al Jazeera English | **Sentiment Score:** `0.4588`
+## Article 20: The real reason why Donald Trump is so furiously against AI guardrails
+**Source:** CNN | **Sentiment Score:** `-0.9632`
 
-Seoul is set to host its first presidential meeting with five Russia-allied states positioning themselves as a bloc. South Korea is set to welcome the heads of the five Central Asian states for the first-ever presidential summit between Seoul and the region, a meeting local media have dubbed historic. Wednesdays s…
+Washington’s biggest question this week: Why is President Donald Trump is so furiously against an AI slowdown in the wake of apocalyptic warnings from some t... Washington's biggest question this week: Why is President Donald Trump so furiously against an AI slowdown in the wake of apocalyptic warnings from some top industry executives? The clue is in one w…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/15/south-korea-embraces-central-asian-leaders-looking-to-boost-regional-clout)
----
-
-## Article 20: Benchmark US government bond yield hits 19-year peak as oil prices surge
-**Source:** Al Jazeera English | **Sentiment Score:** `0.3612`
-
-The 10-year US Treasury yield hit 5.02 percent on Tuesday for the first time since the 2007 global financial crisis. The benchmark United States government bond rate has climbed to its highest level in 19 years as traders bet on a Federal Reserve interest rate hike following a new rise in oil prices. On Tuesday, t…
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/9/15/benchmark-us-government-bond-yield-hits-19-year-peak-as-oil-prices-surge)
+[Read Original Article Here](https://www.cnn.com/2026/09/16/politics/trump-ai-denial-hoax)
 ---
 
