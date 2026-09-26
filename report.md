@@ -1,11 +1,147 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-09-25 | **Status:** Automated
+**Date:** 2026-09-26 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: Americans lost over $20 billion to one type of crime. Here’s how we can fight it
+## Article 1: 'Castro's playbook': Ex-AG warns dozens of congressional bills are pushing socialist ideas
+**Source:** Fox News | **Sentiment Score:** `0.6249`
+
+Conservative free-market group flags 32 Capitol Hill bills proposing socialist policies "straight from Castro's playbook," as concerns mount over how radical mainstream Democrats are becoming. Federal guarantees for jobs and housing, the elimination of private health insurance, a massive Green New Deal expansion, and new taxes on unrealized wealth are among dozens of current congressional …
+
+[Read Original Article Here](https://www.foxnews.com/politics/castros-playbook-ex-ag-warns-dozens-congressional-bills-pushing-socialist-ideas)
+---
+
+## Article 2: GOP handed new lifeline on biggest pocketbook fight of midterms
+**Source:** Fox News | **Sentiment Score:** `0.6542`
+
+Club for Growth's memo urges Republicans to blame federal expansion for high cost of living and resist subsidies ahead of the November midterms. FIRST ON FOX: Republicans are being given a new playbook on an issue that is all but certain to be the biggest political lightning rod of the November midterms. Conservative group Club for Growth is…
+
+[Read Original Article Here](https://www.foxnews.com/politics/gop-handed-new-lifeline-biggest-pocketbook-fight-midterms)
+---
+
+## Article 3: Iran pitches seven-day roadmap to end conflict with US
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.7906`
+
+Tehran seeks rapid implementation failed ceasefire deal, offering to open Hormuz if regional conflicts halted. Iran has proposed a seven-day roadmap aimed at ending the war with the United States. Foreign Minister Abbas Araghchi outlined the plan to reporters in New York on Thursday, according to US media. T…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/25/iran-pitches-seven-day-roadmap-to-end-conflict-with-us)
+---
+
+## Article 4: From ‘cheats’ to ‘great friendship’: How Trump’s rhetoric on China changed
+**Source:** Al Jazeera English | **Sentiment Score:** `0.8744`
+
+Warmth on display in Washington contrasts significantly with the language Trump has used to characterise Beijing and Xi. When Chinese President Xi Jinping arrived in Washington on Wednesday evening, United States President Donald Trump rolled out a warm and unusually lavish welcome for his Chinese counterpart. Trump w…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/25/from-cheats-to-great-friendship-how-trumps-rhetoric-on-china-changed)
+---
+
+## Article 5: Switzerland’s neutrality vote is asking the wrong question
+**Source:** Al Jazeera English | **Sentiment Score:** `0.0000`
+
+The real question is what neutrality can still do for Switzerland. On September 27, Switzerland votes on whether to lock a stricter definition of neutrality into its constitution. The initiative would bar Switzerland from cooperating with a military alliance unless …
+
+[Read Original Article Here](https://www.aljazeera.com/opinions/2026/9/25/switzerlands-neutrality-vote-is-asking-the-wrong-question)
+---
+
+## Article 6: Cut the bull: The real reason beef costs so much — and what Trump is trying to do
+**Source:** Fox News | **Sentiment Score:** `-0.2732`
+
+Ground beef hit a record $6.92 per pound as the U.S. cattle herd falls to a 75-year low, and Trump signed executive orders targeting beef industry reform. Ground beef just hit a record $6.92 a pound, nearly 60% more than Americans were paying just five years ago. For millions of families, beef isn't a ribeye at a steakhouse; it's the largest source of…
+
+[Read Original Article Here](https://www.foxnews.com/opinion/cut-bull-real-reason-beef-costs-much-what-trump-trying-do)
+---
+
+## Article 7: Tata v Tata: What’s behind India’s big boardroom brawl?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.4404`
+
+India's most famous conglomerate is knee-deep in feuds over who gets to decide the Tata Group's future. New Delhi, India An unprecedented power struggle has erupted at the top of one of Indias largest conglomerates, pitting the board of its holding company Tata Sons against its majority shareholder Tat…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/25/tata-v-tata-whats-behind-indias-big-boardroom-brawl)
+---
+
+## Article 8: India Economic Adviser says ties with US in ‘uneasy equilibrium’
+**Source:** Bloomberg | **Sentiment Score:** `-0.8074`
+
+There is an unsettled relationship with the US, from tariff issues last year that are still ongoing, said Chief Economic Adviser V. Anantha Nageswaran Indias relationship with the US is in an uneasy equilibrium as trade disputes between the partners persist, a senior government official said. There is this issue of unsettled relationship with the …
+
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-09-24/india-economic-adviser-says-ties-with-us-in-uneasy-equilibrium)
+---
+
+## Article 9: UAE bars Iranian airlines as US sanctions squeeze Iran’s aviation sector
+**Source:** Al Jazeera English | **Sentiment Score:** `0.1531`
+
+UAE joins Oman, Iraq, Azerbaijan, Georgia and Turkmenistan in restricting access to Iranian airlines. The United Arab Emirates has halted flights operated by Iranian airlines, joining several other countries in adopting United States sanctions aimed at pressuring Tehrans aviation sector. On Thursday…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/9/25/uae-bars-iranian-airlines-as-us-sanctions-squeeze-irans-aviation-sector)
+---
+
+## Article 10: Argentina’s poverty rises to 32 percent under Milei with more pain forecast
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.8271`
+
+A 4.1-percentage-point rise in poverty in the first half of 2026 could be bad news for Milei's re-election bid. Argentinas poverty rate has risen, hitting 32.3 percent in the first half of 2026 under President Javier Milei, partly erasing the countrys earlier gains. According to figures released by the nation…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/25/argentinas-poverty-rises-to-32-percent-under-milei-with-more-pain-forecast)
+---
+
+## Article 11: Trump-Xi summit: Four key takeaways from the Washington, DC, meeting
+**Source:** Al Jazeera English | **Sentiment Score:** `0.3291`
+
+Trump, Xi seek stable US-China ties at the White House, but differences over Iran, Taiwan and trade remain unresolved. US President Donald Trump and his Chinese counterpart Xi Jinping seemed to put sources of tension between their countries to the side during the second day of Xis three-day visit to the United States…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/24/trump-xi-summit-four-key-takeaways-from-the-washington-dc-meeting)
+---
+
+## Article 12: Saudi foreign minister warns Houthi threat goes global as Trump holds fire
+**Source:** Fox News | **Sentiment Score:** `0.4278`
+
+Saudi Arabia intercepted six Houthi ballistic missiles as Prince Faisal bin Farhan Al Saud urged global action to protect Red Sea shipping routes. UNITED NATIONS Saudi Arabia's foreign minister warned Thursday that the growing threat from Yemen's Iran-backed Houthis extends far beyond his country's borders, calling for international cooperation…
+
+[Read Original Article Here](https://www.foxnews.com/world/saudi-foreign-minister-warns-houthi-threat-goes-global-trump-holds-fire)
+---
+
+## Article 13: Canadian PM Carney says he was prepared for Trump ordering invasion
+**Source:** Fox News | **Sentiment Score:** `-0.4404`
+
+Canadian Prime Minister Mark Carney says he weighed the possibility of a U.S. invasion after Trump began calling Canada the 51st state amid tariffs. Canadian Prime Minister Mark Carney says he prepared for the "extreme tail risk" that the U.S. would invade Canada amid recent trade tensions. Carney made the statement in an interview with the New …
+
+[Read Original Article Here](https://www.foxnews.com/politics/canadian-pm-carney-prepared-trump-ordering-invasion)
+---
+
+## Article 14: ‘Hostile, but hooked’: What’s behind the US-China trade truce extension?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.4404`
+
+Some analysts say extending the truce is pure optics - others say it's a useful step towards a more durable deal. The red carpet was rolled out, and a trade truce was extended. Yet, beneath the pomp and pageantry of Chinese President Xi Jinpings state visit with US leader Donald Trump on Thursday, Washington and…
+
+[Read Original Article Here](https://www.aljazeera.com/news-analysis/2026/9/24/hostile-but-hooked-whats-behind-the-us-china-trade-truce-extension)
+---
+
+## Article 15: ‘Hostile, but hooked’: What’s behind the US-China trade truce extension?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.4404`
+
+Some analysts say extending the truce is pure optics - others say it's a useful step towards a more durable deal. The red carpet was rolled out, and a trade truce was extended. Yet, beneath the pomp and pageantry of Chinese President Xi Jinpings state visit with US leader Donald Trump on Thursday, Washington and…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/9/24/hostile-but-hooked-whats-behind-the-us-china-trade-truce-extension)
+---
+
+## Article 16: Mortgage rates top 7%, dealing a further blow to the frozen housing market | CNN Business
+**Source:** CNN | **Sentiment Score:** `-0.6124`
+
+Mortgage rates reached a grim milestone this week, topping 7% for the first time since January 2025 and reaching their highest level during either of Donald Trump’s presidential terms. Mortgage rates reached a grim milestone this week, topping 7% for the first time since January 2025 and reaching their highest level during either of Donald Trumps presidential terms. The average 30…
+
+[Read Original Article Here](https://www.cnn.com/2026/09/24/economy/mortgage-rate-tops-7-percent)
+---
+
+## Article 17: Israel offers cash to firms hit by trade ban; Europe dithers on new rules
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.7783`
+
+Israel hopes to redirect goods from illegal Israeli settlements towards markets in Asia and South America. The Israeli government plans to pay companies in illegal settlements up to 200,000 shekels ($54,000) following a commitment by European countries to ban their goods amid escalating human rights abuse…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/24/israel-offers-cash-to-firms-hit-by-trade-ban-europe-dithers-on-new-rules)
+---
+
+## Article 18: Americans lost over $20 billion to one type of crime. Here’s how we can fight it
 **Source:** Fox News | **Sentiment Score:** `-0.9231`
 
 Americans lost a record $20.9 billion to internet scams in 2025, with social media fraud costs eight times higher than 2020, FBI data reveals. Almost all kinds of crime, from homicide to car theft, are down, according to the latest FBI data. Thats great news, but one type of less-reported crime is up way up. Americans reported losing $20.9…
@@ -13,7 +149,7 @@ Americans lost a record $20.9 billion to internet scams in 2025, with social med
 [Read Original Article Here](https://www.foxnews.com/opinion/americans-lost-20-billion-one-type-crime-heres-how-we-can-fight-it)
 ---
 
-## Article 2: Trump-Xi summit could hold key to lower gas prices, GOP chairman says
+## Article 19: Trump-Xi summit could hold key to lower gas prices, GOP chairman says
 **Source:** Fox News | **Sentiment Score:** `0.0516`
 
 Rep. Brian Mast says President Donald Trump can press Xi Jinping to stop arming Iran, potentially easing gas prices tied to Strait of Hormuz chaos. President Donald Trump has a prime opportunity to help lower costs for Americans in his meeting with Chinese President Xi Jinping, the top GOP lawmaker overseeing U.S. diplomacy told Fox News Digital…
@@ -21,147 +157,11 @@ Rep. Brian Mast says President Donald Trump can press Xi Jinping to stop arming 
 [Read Original Article Here](https://www.foxnews.com/politics/trump-xi-summit-could-hold-key-lower-gas-prices-gop-chairman-says)
 ---
 
-## Article 3: Senators press President Trump to release home heating oil reserves amid soaring prices
+## Article 20: Senators press President Trump to release home heating oil reserves amid soaring prices
 **Source:** Fox News | **Sentiment Score:** `0.4019`
 
 Maine's U.S. Sens. Susan Collins and Angus King, Jr., called upon President Donald Trump to release home heating oil reserves to drive prices down. Maine's two U.S. senators, Republican Sen. Susan Collins and Independent Sen. Angus King, Jr., have urged President Donald Trump to unleash home heating oil reserves in a bid to help alleviate elevat…
 
 [Read Original Article Here](https://www.foxnews.com/politics/senators-press-president-trump-release-home-heating-oil-reserves-amid-soaring-prices)
----
-
-## Article 4: Rand Paul: Politicians should stay out of college sports and let athletes compete freely
-**Source:** Fox News | **Sentiment Score:** `-0.1298`
-
-Sen. Rand Paul argues that politicians, not the NCAA, should decide college sports rules, athlete compensation, transfers and conference membership. The people who oversee the Post Office now want to run college sports ... what could go wrong? The United States Congress has been called upon during the most important moments in American history t…
-
-[Read Original Article Here](https://www.foxnews.com/outkick-sports/rand-paul-politicians-stay-out-college-sports-let-athletes-compete-freely)
----
-
-## Article 5: Trump-Xi reunion comes with unfinished business — and a bigger battle looming
-**Source:** Fox News | **Sentiment Score:** `0.7351`
-
-President Donald Trump hosts Xi Jinping to test whether China delivered on rare earths, AI and trade promises from their May breakthrough deal. Chinese President Xi Jinping arrived in Washington Wednesday evening for a summit with President Donald Trump, four months after the two leaders reached a sweeping agreement that included Chinese com…
-
-[Read Original Article Here](https://www.foxnews.com/politics/trump-xi-reunion-unfinished-business-bigger-battle-looming)
----
-
-## Article 6: Republicans face brutal midterm headwinds. Six forces could help them defy history.
-**Source:** Fox News | **Sentiment Score:** `0.0772`
-
-With six weeks until Election Day, rising gas prices, Trump's 39% approval rating, and redistricting wars will shape the 2026 midterm battle. With six weeks to go until Election Day, and early voting already underway in a handful of states, the conventional wisdom is that Republicans may be in for some setbacks in the midterms. As it defe…
-
-[Read Original Article Here](https://www.foxnews.com/politics/republicans-face-brutal-midterm-headwinds-six-forces-could-help-them-defy-history)
----
-
-## Article 7: Trump-Xi summit: Here’s what’s on the agenda, and why it matters
-**Source:** Al Jazeera English | **Sentiment Score:** `0.6486`
-
-The leaders of the US and China are expected to discuss trade, AI and Iran in their third in-person meeting in a year. Chinas leader Xi Jinping is expected to hold highly anticipated talks with United States President Donald Trump in Washington on Thursday, as both sides seek to ease trade tensionsand discuss increas…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/24/trump-xi-summit-whats-on-the-agenda-why-it-matters)
----
-
-## Article 8: Trump and Xi summit may just be a ‘horse and pony show’, experts say
-**Source:** Al Jazeera English | **Sentiment Score:** `0.9306`
-
-Trade, AI and security are on the agenda, but experts say rebuilding trust may take priority over major deals. As United States President Donald Trump rolled out the red carpet for Chinese President Xi Jinping with a rare personal welcome at the airport, to be followed by a state banquet and a military flyove…
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/9/24/trump-and-xi-summit-may-just-be-a-horse-and-pony-show-experts-say)
----
-
-## Article 9: Bessent reveals extension to Busan agreement with China until January
-**Source:** Fox News | **Sentiment Score:** `0.4588`
-
-Treasury Secretary Scott Bessent outlines three ways the Iran war could end while warning Tehran is a "cornered animal" running out of options. Treasury Secretary Scott Bessent announced that United States and Chinese officials agreed to extend their bilateral trade truce known as the "Busan agreement" Wednesday on Fox News. "We have agreed…
-
-[Read Original Article Here](https://www.foxnews.com/media/bessent-reveals-extension-busan-agreement-china-january)
----
-
-## Article 10: US aviation sanctions disrupt Iran flights, push travellers overland
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.6369`
-
-Travel disruptions intensify as Iranian airlines lose access to airspace, pushing civilians towards costly land routes. Tehran, Iran Travel is becoming increasingly difficult for Iranian civilians as United States sanctions shut domestic airlines out of much of the worlds airspace and international carriers continue t…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/23/us-aviation-sanctions-disrupt-iran-flights-push-travellers-overland)
----
-
-## Article 11: Inside GOP Senate hopeful's financial ties to controversial data center boom
-**Source:** Fox News | **Sentiment Score:** `0.2263`
-
-Michael Whatley holds up to $690,000 in energy investments tied to companies powering North Carolina's data center boom, raising conflict questions. Michael Whatley, the former chair of the Republican National Committee and the Republican nominee for U.S. Senate in North Carolina, and his family hold between $246,000 and $690,000 in energy invest…
-
-[Read Original Article Here](https://www.foxnews.com/politics/inside-gop-senate-hopefuls-financial-ties-controversial-data-center-boom)
----
-
-## Article 12: Trump's diesel idea could unleash a problem Americans never saw coming
-**Source:** Fox News | **Sentiment Score:** `-0.8934`
-
-The Trump administration has backed away from a potential diesel export ban after briefly weighing the idea, as experts warn the proposal could have had unintended consequences. The Trump administration has backed away from a potential diesel export ban that was floated as a way to lower prices at the pump, a proposal economists warned could have ultimately driven up costs f…
-
-[Read Original Article Here](https://www.foxnews.com/politics/trumps-diesel-idea-could-unleash-problem-americans-never-saw-coming)
----
-
-## Article 13: Ukraine’s Zelenskyy calls for sustained pressure to end ‘Putin’s crazy war’
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.8957`
-
-Ukrainian president urges world leaders to keep choking Russia's revenues to impede its war efforts. Ukrainian President Volodymyr Zelenskyy has singled out Russian President Vladimir Putin as the reason for the continuing war between the two neighbouring countries, urging world leaders to sustain e…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/23/zelenskyy-calls-for-sustained-pressure-on-patient-zero-putin-in-un-speech)
----
-
-## Article 14: Paxton’s estranged wife breaks silence on Texas Senate race after 'biblical grounds' divorce
-**Source:** Fox News | **Sentiment Score:** `0.4091`
-
-Angela Paxton urged GOP voters to back Ken Paxton's Texas Senate bid despite their divorce, saying the party seat matters more than personal grievances. After filing for divorce on "biblical grounds," Texas Republican Senate candidate Ken Paxtons estranged wife, state Sen. Angela Paxton, addressed whether she would support him this November. In an a…
-
-[Read Original Article Here](https://www.foxnews.com/politics/paxton-estranged-wife-breaks-silence-texas-senate-race-biblical-grounds-divorce)
----
-
-## Article 15: Iran’s Pezeshkian slams ‘terrorist’ US but extols diplomacy in UN speech
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.3612`
-
-Pezeshkian leaves door open for negotiations, while calling out US blockade against Iran in Strait of Hormuz. In a defiant speech at the United Nations General Assembly, Irans President Masoud Pezeshkian has delivered a sharp rebuke to a threat by US President Donald Trump from the same rostrum the previous …
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/23/irans-president-slams-trumps-bullying-in-defiant-unga-speech)
----
-
-## Article 16: US says it is open to talks with Cuba if it changes government
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.2023`
-
-Marco Rubio made comments after Trump called Cuba a 'failed state' at the UN, prompting Cuban delegation to walk out. The United States says it is open to speaking with Havana about how it can make a political transition towards new leadership and end a decades-old trade embargo imposed since former leader Fidel Cas…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/23/us-says-it-is-open-to-talks-with-cuba-if-it-changes-government)
----
-
-## Article 17: Trump-Xi summit should make sure American strength delivers American results
-**Source:** Fox News | **Sentiment Score:** `-0.1655`
-
-President Donald Trump meets Chinese President Xi Jinping in Washington with leverage on critical minerals, semiconductors and sanctions against Russia and Iran. It may not command the loudest headlines, but beneath the noise of the 24-hour news cycle, one of the most consequential foreign policy meetings of our time is taking shape as President Donald Trump …
-
-[Read Original Article Here](https://www.foxnews.com/opinion/trump-xi-summit-should-make-sure-american-strength-delivers-american-results)
----
-
-## Article 18: Trump pushes Russia-Ukraine ‘energy truce’: Can it work?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.4767`
-
-Talks of a possible halt in attacks on energy facilities come as strikes on such targets continue unabated. A proposal by US President Donald Trump for an energy ceasefire between Russia and Ukraine appeared to be gaining ground this week when Ukrainian President Volodymyr Zelenskyy said Kyiv was ready to …
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/23/trump-pushes-russia-ukraine-energy-truce-can-it-work)
----
-
-## Article 19: Moroccans head to polls amid economic uncertainty to decide next parliament
-**Source:** Al Jazeera English | **Sentiment Score:** `0.1280`
-
-Millions of Moroccans vote today for a 395-seat parliament amid new digital proxy and anti-fraud measures. Millions of voters went to polls in Morocco on Wednesday to determine the makeup of the House of Representatives, the parliaments lower house. Twenty-seven political parties are competing for 395 se…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/23/moroccans-head-to-polls-amid-economic-uncertainty-to-decide-next-parliament)
----
-
-## Article 20: SENS SHAHEEN, CURTIS: China is Putin’s arsenal and ATM. Shut both down
-**Source:** Fox News | **Sentiment Score:** `0.1280`
-
-China supplies over 90% of the technology fueling Vladimir Putin's war machine while buying billions in Russian oil under new U.S. sanctions scrutiny. When Russian missiles and kamikaze drones rain down on Ukrainian cities, the world rightly points the finger at Vladimir Putin. But examine the wreckage, and the truth is undeniable: the guts of thos…
-
-[Read Original Article Here](https://www.foxnews.com/opinion/sens-shaheen-curtis-china-putins-arsenal-atm-shut-down)
 ---
 
