@@ -1,11 +1,139 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-09-29 | **Status:** Automated
+**Date:** 2026-09-30 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: Far-left legal 'cartel' in the hot seat as Trump admin decides its law school gatekeeper status
+## Article 1: Republicans fear they ‘haven’t done a damn thing’ to lower prices ahead of midterm reckoning
+**Source:** Fox News | **Sentiment Score:** `0.1779`
+
+Senate Republicans spent weeks passing the Protect College Sports Act while Sen. Josh Hawley and others warn affordability concerns are being ignored. The key focus of this election, like many before it, is the economy, but the Senate has spent its waning weeks in Washington focusing on something else: college sports. And that has proven a stickin…
+
+[Read Original Article Here](https://www.foxnews.com/politics/republicans-fear-havent-done-damn-thing-lower-prices-ahead-midterm-reckoning)
+---
+
+## Article 2: Iran downplays possible role in Houthis’ recent Yemen victories
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.7876`
+
+Iran has long been accused of links with the Houthis in Yemen, but how far do these links go? Tehran, Iran Strategic military victories in Yemen by the Tehran-allied Ansar Allah, also known as Houthis, have directed attention towards Irans role in the war against the internationally recognise…
+
+[Read Original Article Here](https://www.aljazeera.com/news-analysis/2026/9/29/iran-downplays-their-possible-role-in-houthis-recent-yemen-victories)
+---
+
+## Article 3: Iranians stock up on food and medicine as fears of new US fighting grow
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.8020`
+
+Iran is struggling with shortages as sanctions and blockade strain food and medicine supply chains. Tehran, Iran Iranians are stocking up on food and medicines as fears grow that the country will face dire shortages as the United States tightens an embargo on the country. The Iranian government ha…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/9/29/iranians-stock-up-on-food-and-medicine-as-fears-of-new-us-fighting-grow)
+---
+
+## Article 4: Hormuz and Yemen: Iran offers de-escalation at a price others will pay
+**Source:** Al Jazeera English | **Sentiment Score:** `0.7968`
+
+Iran is using Hormuz to seek US concessions, relief for the Houthis and greater control over Gulf shipping. It was hardly surprising that Tehran chose the United Nations General Assembly (UNGA) in New York as the platform for its latest offer. After nearly seven months of war with the United States, Irania…
+
+[Read Original Article Here](https://www.aljazeera.com/opinions/2026/9/29/hormuz-and-yemen-iran-offers-de-escalation-at-a-price-others-will-pay)
+---
+
+## Article 5: Can Tajikistan’s economic boom survive its debt gamble?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.2500`
+
+Rapid growth masks Tajikistan’s reliance on remittances and risky state debt. Tajikistans gross domestic product grew by 8.2 percent year on year in the first half of 2026, while fixed-capital investment rose by 18.4 percent. On June 30, the World Bank approved a further $300m…
+
+[Read Original Article Here](https://www.aljazeera.com/opinions/2026/9/29/can-tajikistans-economic-boom-survive-its-debt-gamble)
+---
+
+## Article 6: Real winner of Xi summit revealed as Trump looks to usher in new era with China
+**Source:** Fox News | **Sentiment Score:** `-0.9217`
+
+Trump's red-carpet welcome for Xi Jinping yielded fentanyl and tariff progress, but critical minerals, cyber threats, and Taiwan remain unresolved. For years being "soft" on China was a political insult hurled across the aisle. Great-power competition ruled. Washington increasingly prepared for the possibility of war with Beijing as the national…
+
+[Read Original Article Here](https://www.foxnews.com/politics/real-winner-xi-summit-revealed-trump-looks-usher-new-era-china)
+---
+
+## Article 7: Palestine weekly: Israeli politicians vie to look toughest before election
+**Source:** Al Jazeera English | **Sentiment Score:** `0.1779`
+
+With Israelis voting on October 27, ministers are staging illegal settlement launches as campaign events. The final stretch before Israels election is unfolding in an increasingly charged political atmosphere, with parties and candidates keenly aware of how every move will play with voters. This week, m…
+
+[Read Original Article Here](https://www.aljazeera.com/features/2026/9/29/palestine-weekly-israeli-politicians-vie-to-look-toughest-before-election)
+---
+
+## Article 8: MORNING GLORY: President Trump and the American military have beaten Iran
+**Source:** Fox News | **Sentiment Score:** `0.3818`
+
+Strait of Hormuz control has shifted as ADNOC, Saudi Aramco, Kuwait, Qatar, and Iraq use a shuttle system to move oil via the Oman Lane under United States military protection. "Irans regime has lost control of the Strait of Hormuz," Swiss energy analyst and investor Alexander Stahel declared in his Monday morning investment letter The Commodity Compass. Stahel followed up…
+
+[Read Original Article Here](https://www.foxnews.com/opinion/morning-glory-president-trump-american-military-beaten-iran)
+---
+
+## Article 9: The AI revolution will go wherever there's electricity — and China knows it
+**Source:** Fox News | **Sentiment Score:** `0.8087`
+
+President Donald Trump's solar and battery storage push aims to secure energy dominance and fuel the AI data centers America needs to outpace China. Despite the recent surge in AI doomerism, President Donald Trump is right to maintain his strong support for data centers. As he notes: "China couldnt be happier" if we were to turn our backs on thes…
+
+[Read Original Article Here](https://www.foxnews.com/opinion/ai-revolution-will-go-wherever-theres-electricity-china-knows-it)
+---
+
+## Article 10: Australia raises interest rates to 15-year high
+**Source:** Al Jazeera English | **Sentiment Score:** `0.0772`
+
+Reserve Bank of Australia lifts benchmark rate to 4.6 percent amid stubborn inflation. Australias central bank has raised interest rates to a 15-year high, spelling higher mortgage payments for millions of Australian households. The Reserve Bank of Australia (RBA) on Tuesday lifted th…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/9/29/australia-raises-interest-rates-to-15-year-high)
+---
+
+## Article 11: Nothing debuts $399 ‘Pro’ headphones with glass, metal design
+**Source:** Bloomberg | **Sentiment Score:** `0.4019`
+
+Aimed at audio enthusiasts who want the most detailed and customizable listening experience, the new product’s biggest enhancements are performance-related Nothing Technologies Ltd., the consumer electronics startup known for its distinctive designs, introduced a high-end pair of wireless headphones priced at $399, its latest effort to peel market share…
+
+[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-09-29/nothing-debuts-399-metal-and-glass-pro-headphones-to-take-on-apple-bose-sony)
+---
+
+## Article 12: Italian court convicts three Egyptian agents for kidnap of Giulio Regeni
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.9287`
+
+Defendants were sentenced in absentia to 10 years in prison over the 2016 fatal abduction of the Cambridge scholar. An Italian court has convicted three Egyptian security officials for their involvement in the kidnapping of student Giulio Regeni, who was later found dead. The men were sentenced to 10 years in pri…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/9/28/italian-court-convicts-three-egyptian-agents-for-kidnap-of-giulio-regeni)
+---
+
+## Article 13: Trump made the right decision to reject Iran’s offer
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.8434`
+
+The US president has denied Tehran the opportunity to use the US midterm elections as a pressure point. The Strait of Hormuz remains the most perilous choke point on the global map as Iran continues to disrupt traffic by attacking vessels. A recent proposal by the Islamic Republic to open the waterway …
+
+[Read Original Article Here](https://www.aljazeera.com/opinions/2026/9/28/trump-made-the-right-decision-to-reject-irans-offer)
+---
+
+## Article 14: Arming an adversary: Why Trump’s offer to sell China weapons belies US policy
+**Source:** Al Jazeera English | **Sentiment Score:** `0.6270`
+
+Analysts dismissed Trump's proposal as lacking any strategic logic – but said it revealed how he views Beijing. In an offer that baffled most observers, United States President Donald Trump has made a pitch to his Chinese counterpart Xi Jinping that has seldom been made in modern history. Trumps suggestion th…
+
+[Read Original Article Here](https://www.aljazeera.com/news-analysis/2026/9/28/arming-an-adversary-why-trump-offer-to-sell-china-weapons-belies-us-policy)
+---
+
+## Article 15: Trump officials warn China is weaponizing rare-earth dominance as Beijing uses critical minerals for leverage
+**Source:** Fox News | **Sentiment Score:** `-0.6705`
+
+David Perdue says China has "weaponized" rare earths dominance, warning that U.S. supply chains face risks including arrest and asset seizures. U.S. Ambassador to China David Perdue is warning that Beijing has "weaponized" its dominance over critical minerals, saying China has expanded its rules to the point that efforts to diversify supply …
+
+[Read Original Article Here](https://www.foxnews.com/media/trump-officials-warn-china-weaponizing-rare-earth-dominance-beijing-uses-critical-minerals-leverage)
+---
+
+## Article 16: Largest-ever US steel plant is coming to a key red state as Trump unveils $15B investment
+**Source:** Fox News | **Sentiment Score:** `0.5267`
+
+Trump announces Mesabi Metallics' $15 billion Iowa steel plant, but the massive facility won't produce its first steel until 2030 at the earliest. President Donald Trump is unveiling Monday plans for a massive steel plant in Iowa that the White House says will be the largest in American history and promises will bring 1,750 permanent jobs to th…
+
+[Read Original Article Here](https://www.foxnews.com/politics/largest-ever-us-steel-plant-coming-key-red-state-trump-unveils-15b-investment)
+---
+
+## Article 17: Far-left legal 'cartel' in the hot seat as Trump admin decides its law school gatekeeper status
 **Source:** Fox News | **Sentiment Score:** `0.0000`
 
 The Trump Education Department now has 90 days to decide whether to strip the American Bar Association of its decades-long law school accreditation monopoly. The future of the nation's primary law school accreditor now rests in the hands of the Trump Education Department after a federal panel deadlocked 8-8 on whether to strip the American Bar Association…
@@ -13,7 +141,7 @@ The Trump Education Department now has 90 days to decide whether to strip the Am
 [Read Original Article Here](https://www.foxnews.com/politics/far-left-legal-cartel-hot-seat-trump-admin-decides-gatekeeper-status)
 ---
 
-## Article 2: Cattle to feed: Why a global meat crisis is looming
+## Article 18: Cattle to feed: Why a global meat crisis is looming
 **Source:** Al Jazeera English | **Sentiment Score:** `0.4215`
 
 World's top three beef producers witness a decline in cattle stocks because of rising input costs, droughts and biology. Beef prices are soaring in China. Across the Pacific Ocean in the United States, cattle farmers are complaining that their businesses are becoming increasingly unsustainable. And in India, poultry re…
@@ -21,7 +149,7 @@ World's top three beef producers witness a decline in cattle stocks because of r
 [Read Original Article Here](https://www.aljazeera.com/news/2026/9/28/cattle-to-feed-why-a-global-meat-crisis-is-looming)
 ---
 
-## Article 3: We need to talk about Bandung
+## Article 19: We need to talk about Bandung
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.6597`
 
 In today’s turbulent times, the 1955 conference offers important lessons on global cooperation. In a world torn apart by geopolitical bullying and geoeconomic warfare, great-power conflict and inequality that concentrates wealth and statecraft in the hands of a few, the Bandung Conference is ga…
@@ -29,139 +157,11 @@ In today’s turbulent times, the 1955 conference offers important lessons on gl
 [Read Original Article Here](https://www.aljazeera.com/opinions/2026/9/28/we-need-to-talk-about-bandung)
 ---
 
-## Article 4: Our closing argument: The midterms are a referendum on who runs your life
+## Article 20: Our closing argument: The midterms are a referendum on who runs your life
 **Source:** Fox News | **Sentiment Score:** `0.5423`
 
 House Republicans frame the 2026 midterms as a stark fight between individual liberty and democratic socialism's push for government control. The coming midterms lay bare a divide that runs deeper than policy and older than any party platform. Beneath every debate sits a single question, and it is the question on which this election turns:…
 
 [Read Original Article Here](https://www.foxnews.com/opinion/closing-argument-midterms-referendum-who-runs-your-life)
----
-
-## Article 5: Woke megachurch pastor, Dem nominee called on congregation to repent for driving, eating beef
-**Source:** Fox News | **Sentiment Score:** `0.0000`
-
-Adam Hamilton, the Democrat seeking to be the first Kansans sent to the Senate in nearly a century, once asked his church congregation to repent for eating beef. FIRST ON FOX: In Kansas, cows are king, but a Democrat trying to seize power once told his congregation to repent for eating beef and raising cattle. Adam Hamilton, the Democratic nominee running to…
-
-[Read Original Article Here](https://www.foxnews.com/politics/woke-megachurch-pastor-dem-nominee-called-congregation-repent-driving-eating-beef)
----
-
-## Article 6: Oil prices surge after Trump rejects Iran’s plan to reopen Strait of Hormuz
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.9042`
-
-Brent crude rises more than 3 percent to top $107 a barrel as Washington dismisses Tehran's proposal to end war. Oil prices have risen sharply following United States President Donald Trumps rejection of an Iranian proposal to reopen the Strait of Hormuz within seven days. Brent crude, the international benchm…
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/9/28/oil-prices-surge-after-trump-rejects-irans-plan-to-reopen-strait-of-hormuz)
----
-
-## Article 7: 'Is it really worth it to keep going on?' Economic pain hits America's farm belt.
-**Source:** CNN | **Sentiment Score:** `0.3612`
-
-John Yeley is the seventh generation to run his family's farm in Illinois. - Courtesy John Yeley  John Yeley has spent the last 26 years working on his farm, which his family has owned since 1852. Yeley is the seventh generation to run his farm in Illinois, … John Yeley has spent the last 26 years working on his farm, which his family has owned since 1852. Yeley is the seventh generation to run his farm in Illinois, just over the state line from Indiana.…
-
-[Read Original Article Here](https://www.cnn.com/2026/09/28/business/american-farmers-economic-pain-diesel)
----
-
-## Article 8: Data centers could be the sleeper issue of the 2026 midterm elections
-**Source:** Fox News | **Sentiment Score:** `-0.5574`
-
-Data centers may be the sleeper issue of the midterms as a Gallup survey found 70% of Americans oppose new AI facilities in their communities. Data centers may be the sleeper issue of the midterm elections. Fox News reported that Senate candidates are confronting growing voter anger over the electricity costs, water consumption, and sprawl…
-
-[Read Original Article Here](https://www.foxnews.com/opinion/data-centers-sleeper-issue-2026-midterm-elections)
----
-
-## Article 9: US, China list goods recommended for tariff cuts following Trump-Xi summit
-**Source:** Al Jazeera English | **Sentiment Score:** `0.7783`
-
-Washington and Beijing announce details of agreement to reduce tariffs on $60bn of trade. The United States and China have unveiled a list of goods recommended for reduced tariffs following last weeks summit between Presidents Donald Trump and Xi Jinping. The release of the list on Sunda…
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/9/28/us-china-list-goods-recommended-for-tariff-cuts-following-trump-xi-summit)
----
-
-## Article 10: Trump says US is ‘very seriously’ considering diesel export ban to tackle high prices
-**Source:** Bloomberg | **Sentiment Score:** `-0.8360`
-
-Trump says the US is seriously considering a diesel export ban as fuel prices hit a record, while officials weigh alternatives and industry seeks tax relief. President Donald Trump said he is still looking very seriously at implementing a US ban on diesel exports to combat high prices, even as others in his administration continue to focus on other possib…
-
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-09-27/trump-says-he-s-very-seriously-looking-at-diesel-export-ban)
----
-
-## Article 11: Serbian President Aleksandar Vucic resigns amid prolonged protests
-**Source:** Al Jazeera English | **Sentiment Score:** `0.0648`
-
-Despite student-led protests and political unrest challenging his rule, Vucic intends to run in the snap elections. Serbian President Aleksandar Vucic has resigned to seek the prime ministers post in a snap parliamentary election on October 25, as a student-led movement mounts the most serious challenge to his rul…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/27/serbian-president-aleksandar-vucic-resigns-amid-prolonged-protests)
----
-
-## Article 12: Israel revokes Dutch diplomats’ status over sanctions on settlements
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.5574`
-
-Israel escalates retaliatory measures as Western sanctions target illegal West Bank settlements. Israel has revoked the diplomatic status of Dutch diplomats at the Netherlands Representative Office in Ramallah, Israels Foreign Ministry has said. The countermeasure announced on Sunday comes in r…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/27/israel-revokes-dutch-diplomats-status-over-sanctions-on-settlements)
----
-
-## Article 13: Mike Waltz: US offered to sell Iran uranium for civilian programme
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.2500`
-
-US ambassador says Iran refused to agree to an arrangement where uranium would be supplied by Washington. As part of previous negotiations aimed at ending its war on Iran, the United States offered to sell Tehran uranium for use in a civilian programme, but Iran refused, a top US official said on Sunday.…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/27/mike-waltz-us-offered-to-sell-iran-uranium-for-civilian-programme)
----
-
-## Article 14: Texas voters have plenty to say about whether Lone Star State could turn blue
-**Source:** Fox News | **Sentiment Score:** `-0.2023`
-
-Texas voters at the State Fair of Texas reveal how inflation and economic frustration are shaping the Greg Abbott and Ken Paxton races this fall. DALLAS Everything is bigger in Texas, including the political stakes this November. Texas voters head to the polls Nov. 3 in an election that could reshape the state's political landscape, with majo…
-
-[Read Original Article Here](https://www.foxnews.com/politics/texas-voters-plenty-say-lone-star-state-turn-blue)
----
-
-## Article 15: Giant pandas arrive in Atlanta as part of 10-year US-China agreement
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.8020`
-
-The two pandas, Ping Ping and Fu Shuang, arrived from southwestern China. Two giant pandas, Ping Ping and Fu Shuang, have arrived in the US state of Georgia on a 10-year loan as a soft-power gesture from China. A new agreement between Zoo Atlanta and the China Wildlife Co…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/27/giant-pandas-arrive-in-atlanta-as-part-of-10-year-us-china-agreement)
----
-
-## Article 16: For Libya, the Hormuz crisis can be a trap or an opportunity
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.8442`
-
-Libyan hydrocarbons are increasingly sought after. To take full advantage, the country needs a new economic strategy. Amid the worsening global energy crisis triggered by the US-Israel war on Iran, European countries, desperate for alternative energy supplies, trade routes and partnerships, have looked across the Me…
-
-[Read Original Article Here](https://www.aljazeera.com/opinions/2026/9/27/for-libya-the-hormuz-crisis-can-be-a-trap-or-an-opportunity)
----
-
-## Article 17: ‘Better deal’: What’s behind Trump’s rejection of Iran’s truce offer?
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.7982`
-
-Experts say Trump sees economic sanctions as key to extracting more concessions but he risks losing leverage. Donald Trump has rejected Irans latest proposal to end the war and reopen the Strait of Hormuz as experts say the United States president believes Washington has more to gain by waiting than by accep…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/9/27/better-deal-whats-behind-trumps-rejection-of-irans-truce-offer)
----
-
-## Article 18: ‘It’s devastating’: The US-Canada trade war is putting protein on the menu | CNN Business
-**Source:** CNN | **Sentiment Score:** `-0.4939`
-
-Attention, protein maxers: One of your highly coveted ingredients is taking center stage in the escalating trade war between the United States and Canada. Attention, protein maxers: One of your highly coveted ingredients is taking center stage in the escalating trade war between the United States and Canada. Whey, the workhorse ingredient behind prote…
-
-[Read Original Article Here](https://www.cnn.com/2026/09/27/business/whey-protein-trade-war)
----
-
-## Article 19: GOP is running 2026 like it’s 2006, repeating George W. Bush’s Iraq War election failure
-**Source:** Fox News | **Sentiment Score:** `-0.8442`
-
-Republicans risk repeating their 2006 Iraq War midterm losses in 2026 without a forward-looking plan on housing, Social Security and AI safety. The 2026 midterm election is bearing down on Republicans. How it will turn out will be determined, in part, by whom history says controlled the narrative. Sadly, Republicans are losing that battle ju…
-
-[Read Original Article Here](https://www.foxnews.com/opinion/gop-running-2026-like-2006-repeating-george-w-bush-iraq-war-election-failure)
----
-
-## Article 20: Iran ‘miscalculating’ by betting on midterms after 3-hour talks, Trump officials warn
-**Source:** Fox News | **Sentiment Score:** `-0.1406`
-
-President Donald Trump says Iran is waiting on midterm elections to cut a deal, but Marco Rubio warns Tehran misreads U.S. presidential powers. NEW YORK Trump officials say Iran is miscalculating if it believes rising prices and the midterm elections will weaken President Donald Trump's hand in negotiations to end the nearly seven-month conf…
-
-[Read Original Article Here](https://www.foxnews.com/politics/iran-miscalculating-betting-midterms-after-3-hour-talks-trump-officials-warn)
 ---
 
