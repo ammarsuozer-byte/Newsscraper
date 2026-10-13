@@ -1,11 +1,91 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-10-12 | **Status:** Automated
+**Date:** 2026-10-13 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: Hormuz attacks intensify as efforts to end war on Iran stall
+## Article 1: Will Ukraine survive the winter?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.7184`
+
+Washington's position on Ukraine remains ambivalent while losses mount and an energy crisis deepens. As winter approaches, Russia has lifted its ban on exports of diesel and is preparing to sell hundreds of thousands of tonnes to the United States and other countries. The move is part of a deal nego…
+
+[Read Original Article Here](https://www.aljazeera.com/opinions/2026/10/12/will-ukraine-survive-the-winter)
+---
+
+## Article 2: Iran sets crosshairs on ‘US-UAE’ oil shuttle out of Strait of Hormuz
+**Source:** Al Jazeera English | **Sentiment Score:** `0.1263`
+
+The IRGC is hitting more ships allegedly part of a shuttle operation to move crude oil beyond the Strait of Hormuz. Tehran, Iran Iranian authorities have signalled they intend to disrupt an Arab-operated and United States-assisted shuttle system that has enabled more energy exports through the Strait of Hormuz dur…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/10/12/iran-sets-crosshairs-on-us-uae-oil-shuttle-out-of-strait-of-hormuz)
+---
+
+## Article 3: Nobel economics prize awarded to Robert Hall and Michael ⁠Woodford
+**Source:** Al Jazeera English | **Sentiment Score:** `0.8271`
+
+The Swedish academy says the academics' models are 'now used by central banks and ​governments around the world'. The 2026 Nobel Prize in Economic Sciences has been awarded to US academics Robert Hall and Michael Woodford for their work on how monetary and fiscal policy can help stabilise fluctuations in the eco…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/10/12/nobel-economics-prize-awarded-to-robert-hall-and-michael-%e2%81%a0woodford)
+---
+
+## Article 4: Far right surges as crises threaten Sanchez: Could Vox lead Spain?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.4951`
+
+Snap vote could bring PP, Vox to power as polls show falling support for Sanchez, one of Europe's last leftist leaders. Madrid, Spain What I really hate about [Prime Minister Pedro] Sanchez is how keen he is to allow more migrants into our country, said Alberto Munoz, who wears the red and gold wristband of Vox party …
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/10/12/far-right-surges-as-crises-threaten-sanchez-could-vox-lead-spain)
+---
+
+## Article 5: ‘Energy ceasefire’: What’s behind Trump’s love-hate ties to Russian oil?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.4939`
+
+Trump's energy truce sparks criticism over aiding Russia's war finances amid diesel shortages and rising consumer costs. US President Donald Trump has announced an immediate energy ceasefire between Russia and Ukraine, days after easing sanctions on Russian fuel to tackle soaring domestic and global fuel prices. The e…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/10/12/energy-ceasefire-whats-behind-trumps-love-hate-ties-to-russian-oil)
+---
+
+## Article 6: Blue-state governor’s race defies expectations as Republican closes in: Power Rankings
+**Source:** Fox News | **Sentiment Score:** `0.2263`
+
+Christine Drazan aims to end Oregon's four-decade GOP losing streak in a tight rematch with Democratic Gov. Tina Kotek over local issues. Republicans are gaining ground in blue-leaning Oregon, where Fox News Power Rankings have shifted the governor's race toward the GOP as Democratic Gov. Tina Kotek faces a competitive rematch with Rep…
+
+[Read Original Article Here](https://www.foxnews.com/politics/blue-state-governors-race-defies-expectations-republican-closes-in-power-rankings)
+---
+
+## Article 7: Buying a home seems impossible. Here’s what Boomers just don’t understand
+**Source:** Fox News | **Sentiment Score:** `-0.6300`
+
+A $429,100 median home price at 7.40% mortgage rates tells only part of the story when down payments now equal nearly a full year's household income. Whenever someone complains about today's mortgage rates, somebody inevitably says: "You think 7.5% is bad? I paid 14% in the 1980s!" They're right about the interest rate. But they're missing the b…
+
+[Read Original Article Here](https://www.foxnews.com/opinion/buying-home-seems-impossible-heres-what-boomers-dont-understand)
+---
+
+## Article 8: If Netanyahu goes, does anything really change for Palestinians?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.7506`
+
+Analysts say opposition win in polls may bring only marginal change and no fundamental shift on Gaza, West Bank. Four rival Israeli political movements have agreed to work together in a bid to unseat Israels longest serving prime minister, Benjamin Netanyahu. The factions the Yashar party, the Democrats, the Y…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/10/12/if-netanyahu-goes-does-anything-really-change-for-palestinians)
+---
+
+## Article 9: Republican senator says Trump diesel agreement with Russia may be illegal
+**Source:** Al Jazeera English | **Sentiment Score:** `0.5267`
+
+US President Trump's bid to bring down diesel prices by easing sanctions on Russia prompts rare Republican criticism. United States Senator Thom Tillis has questioned the legality of President Donald Trumps decision to temporarily relax sanctions on Russian diesel, in an effort to bring down record-high fuel prices …
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/10/11/republican-senator-says-trump-diesel-agreement-with-russia-may-be-illegal)
+---
+
+## Article 10: War and high debt to dominate IMF-World Bank meetings in Bangkok
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.7783`
+
+The US-Israel war on Iran and its inflationary impact will dominate the agenda. Finance officials from around the world will gather in Bangkok this week under the shadow of a widening war in the Middle East, the biggest-ever energy supply shock and rising interest rates that tog…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/10/11/war-and-high-debt-to-dominate-imf-world-bank-meetings-in-bangkok)
+---
+
+## Article 11: Hormuz attacks intensify as efforts to end war on Iran stall
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.7964`
 
 IRGC warns against ignoring waterway's 'security and rules' as CENTCOM says US disabled vessel trying to run blockade. Tehran, Iran Strikes around the strategic Strait of Hormuz have picked up again as mediated efforts to end the US-Israel war on Iran remain deadlocked. The Islamic Revolutionary Guard Corps (IRGC) N…
@@ -13,7 +93,7 @@ IRGC warns against ignoring waterway's 'security and rules' as CENTCOM says US d
 [Read Original Article Here](https://www.aljazeera.com/news/2026/10/11/hormuz-attacks-intensify-as-efforts-to-end-war-on-iran-stall)
 ---
 
-## Article 2: India’s crackdown on youth protesters: What next?
+## Article 12: India’s crackdown on youth protesters: What next?
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.6705`
 
 India's 'cockroach' movement and student groups have said protests will continue despite detentions. Indias capital is bracing for a second day of protests after thousands of people, including the leaders of the cockroach youth movement and opposition politicians, were detained amid a major crackdow…
@@ -21,7 +101,7 @@ India's 'cockroach' movement and student groups have said protests will continue
 [Read Original Article Here](https://www.aljazeera.com/news/2026/10/11/indias-crackdown-on-youth-protesters-what-next)
 ---
 
-## Article 3: What the Iran war has done to the world’s energy supply, in charts
+## Article 13: What the Iran war has done to the world’s energy supply, in charts
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.5493`
 
 Fossil fuels produce 81 percent of global energy. We look at Middle East’s role and what happens when supplies are cut. A major energy conference is going ahead in Riyadh from Sunday despite a Houthi attack on the citys King Khalid International Airport that killed 12 people and injured 309, according to Saudi Arabias…
@@ -29,7 +109,7 @@ Fossil fuels produce 81 percent of global energy. We look at Middle East’s rol
 [Read Original Article Here](https://www.aljazeera.com/news/2026/10/11/what-the-iran-war-has-done-to-the-worlds-energy-supply-in-charts)
 ---
 
-## Article 4: Wall Street’s rate shock spreads beneath AI-fueled market rally
+## Article 14: Wall Street’s rate shock spreads beneath AI-fueled market rally
 **Source:** Bloomberg | **Sentiment Score:** `-0.0772`
 
 Bonds surge as rates spike and oil stays high, testing AI-driven stock resilience amid widening market risks. The AI-fueled resilience of the worlds most-watched stock indexes is masking a widening retreat across financial markets, as elevated oil prices and borrowing costs take their toll. Yields on 10-yea…
@@ -37,7 +117,7 @@ Bonds surge as rates spike and oil stays high, testing AI-driven stock resilienc
 [Read Original Article Here](https://www.bloomberg.com/news/articles/2026-10-09/wall-street-s-rate-shock-spreads-beneath-ai-fueled-market-rally)
 ---
 
-## Article 5: Key American industry seeing blue-collar jobs boom as Trump's re-shoring policies pay off
+## Article 15: Key American industry seeing blue-collar jobs boom as Trump's re-shoring policies pay off
 **Source:** Fox News | **Sentiment Score:** `-0.3182`
 
 First on Fox: A CEA report says 72,000 manufacturing jobs were added in 2026 as reshoring and tariff policies reversed Biden-era offshoring. FIRST ON FOX: Critical blue collar manufacturing jobs in the U.S. are making inroads after years of Biden-era offshoring hollowed out the workforce, according to a new economic report. A Council of …
@@ -45,7 +125,7 @@ First on Fox: A CEA report says 72,000 manufacturing jobs were added in 2026 as 
 [Read Original Article Here](https://www.foxnews.com/politics/key-american-industry-seeing-blue-collar-jobs-boom-trump-reshoring-policies-pay)
 ---
 
-## Article 6: High silver prices threaten Lucknow’s famed bridal nagra craft
+## Article 16: High silver prices threaten Lucknow’s famed bridal nagra craft
 **Source:** Al Jazeera English | **Sentiment Score:** `0.0387`
 
 War-driven prices for silver are threatening nagra makers in northern India. War-driven price rises Prices for precious metals actually began rising with Russias invasion of Ukraine back in early 2022, but economists say prices surged significantly with the US and Israeli at…
@@ -53,7 +133,7 @@ War-driven prices for silver are threatening nagra makers in northern India. War
 [Read Original Article Here](https://www.aljazeera.com/features/longform/2026/10/10/high-silver-prices-threaten-lucknows-famed-bridal-nagra-craft)
 ---
 
-## Article 7: India’s ‘Cockroach’ leaders detained; New Delhi in lockdown
+## Article 17: India’s ‘Cockroach’ leaders detained; New Delhi in lockdown
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.6872`
 
 Indian police crackdown appears to have prevented mass protests against the country's election chief from taking place. Police in Indias capital New Delhi have detained more than 1,000 protesters, opposition politicians, journalists, student union leaders, lawyers and the founders of the Cockroach youth movement in an…
@@ -61,7 +141,7 @@ Indian police crackdown appears to have prevented mass protests against the coun
 [Read Original Article Here](https://www.aljazeera.com/news/2026/10/10/indias-cockroach-leaders-detained-new-delhi-in-lockdown)
 ---
 
-## Article 8: Why is US turning to Russia for diesel despite sanctions?
+## Article 18: Why is US turning to Russia for diesel despite sanctions?
 **Source:** Al Jazeera English | **Sentiment Score:** `0.7096`
 
 President Donald Trump's deal with Putin comes amid surging fuel prices and looming US midterm elections. United States President Donald Trump says he has agreed a deal to release stocks of diesel fuel from Russia to try to ease high fuel costs in the US before Novembers midterm elections. However analy…
@@ -69,7 +149,7 @@ President Donald Trump's deal with Putin comes amid surging fuel prices and loom
 [Read Original Article Here](https://www.aljazeera.com/news/2026/10/10/why-is-us-turning-to-russia-for-diesel-despite-sanctions)
 ---
 
-## Article 9: America's truckers issue dire warning as soaring diesel costs threaten 'domino effect'
+## Article 19: America's truckers issue dire warning as soaring diesel costs threaten 'domino effect'
 **Source:** Fox News | **Sentiment Score:** `-0.7845`
 
 Truckers say diesel at $6.32 per gallon is slashing profits and cutting routes, warning of a domino effect that could ripple through the supply chain. American truckers are warning that sky-high diesel prices are eating into their profits and putting pressure on trucking companies to cut routes, raising concerns that some drivers could be forced of…
@@ -77,91 +157,11 @@ Truckers say diesel at $6.32 per gallon is slashing profits and cutting routes, 
 [Read Original Article Here](https://www.foxnews.com/politics/americas-truckers-issue-dire-warning-soaring-diesel-costs-threaten-domino-effect)
 ---
 
-## Article 10: Israel’s economy prospers despite years of war, but prices worry voters
+## Article 20: Israel’s economy prospers despite years of war, but prices worry voters
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.9136`
 
 Tech is driving the economy, and investments are flowing in. But food costs are rising and debt is growing. After three years of Israels multi-front war in the Middle East, it would be no surprise if this months Knesset elections were taking place against the backdrop of an economy in dire straits. Instea…
 
 [Read Original Article Here](https://www.aljazeera.com/economy/2026/10/10/israels-economy-prospers-despite-years-of-war-but-prices-worry-voters)
----
-
-## Article 11: ‘A Ceuta-style surge is possible’: Border tensions on NATO’s eastern flank
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.6124`
-
-Belarus-linked incidents trouble Latvia and Lithuania, where experts warn of security challenges. Masked and armed men attempted to breach Latvias border from Belarus alongside 20 undocumented migrants this week. The (masked) escorts of the illegal migrants, who were located on the Belarusian si…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/10/9/a-ceuta-style-surge-is-possible-border-tensions-on-natos-eastern-flank)
----
-
-## Article 12: Trump launches probe into Federal Reserve Governor Lisa Cook
-**Source:** Al Jazeera English | **Sentiment Score:** `0.2500`
-
-Trump began efforts to remove Cook as one of the governors on the US Fed Reserve Board in 2025 and litigation is on. United States President Donald Trump has announced a committee to investigate Federal Reserve Governor Lisa Cook and whether alleged false statements on mortgage documents constitute grounds for her …
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/10/9/trump-launches-probe-into-federal-reserve-governor-lisa-cook)
----
-
-## Article 13: Bangladesh’s mango diplomacy with India has reached its limits
-**Source:** Al Jazeera English | **Sentiment Score:** `0.3919`
-
-Cultural gestures have kept relations from collapsing, but repairing ties with India will require tough negotiations. For two years, Dhaka has deployed a soft diplomatic arsenal of prized Haribhanga mangoes, hilsa fish, jamdani fabrics, and Tangail sarees to keep its relationship with New Delhi from freezing into pe…
-
-[Read Original Article Here](https://www.aljazeera.com/opinions/2026/10/9/bangladeshs-mango-diplomacy-with-india-has-reached-its-limits)
----
-
-## Article 14: Is Trump signalling a return to war with Iran after the midterms?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.7500`
-
-US media reports suggest he may be weighing strikes before the vote, but the president has ruled that out. United States President Donald Trump has said that he does not intend to bomb Iran again until the November midterm elections, even though several US media outlets have reported that the Pentagon has…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/10/9/is-trump-signalling-a-return-to-war-with-iran-after-the-midterms)
----
-
-## Article 15: Afghanistan’s emerald miners struggle with tools but attract global buyers
-**Source:** Al Jazeera English | **Sentiment Score:** `0.3400`
-
-Afghan miners endure harsh conditions, relying on basic tools to extract precious emeralds in Panjshir's steep valleys. Panjshir, Afghanistan  At a packed hall in the offices of the Panjshir provincial government, an auction is under way and the bidding is brisk. The buyers, many from Kabul and some from overseas, ha…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/10/9/afghanistans-emerald-miners-struggle-with-tools-but-attract-global-buyers)
----
-
-## Article 16: How October 7 changed Lebanon and Hezbollah’s political reality
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.7906`
-
-Analysts say Hezbollah's decision on October 8 to join a 'war of support' for Gaza changed Lebanon's political reality. Beirut, Lebanon A day after the October 7, 2023, attack on Israel and the beginning of Israels genocidal war on Gaza, Hezbollah made the decision to join the war, in what it said was support of the P…
-
-[Read Original Article Here](https://www.aljazeera.com/news-analysis/2026/10/9/how-october-7-changed-lebanon-and-hezbollahs-political-reality)
----
-
-## Article 17: Airtel Money to debut after London’s biggest IPO in five years
-**Source:** Bloomberg | **Sentiment Score:** `0.2960`
-
-Majority owner Airtel Africa Plc and Mastercard Inc. may sell an additional 27 million shares through an overallotment option after the stock debuts in London under the ticker symbol “AMC” Mobile payments firm Airtel Money is set to start trading on the London Stock Exchange later on Friday, a listing that may mark the largest initial public offering for the bourse in five years. Exis…
-
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-10-09/airtel-money-to-debut-after-london-s-biggest-ipo-in-five-years)
----
-
-## Article 18: Key takeaways from US Senate debate in Michigan between El-Sayed, Rogers
-**Source:** Al Jazeera English | **Sentiment Score:** `0.4215`
-
-The race between Democrat Abdul El-Sayed and Republican Mike Rogers is considered a toss-up in push to control Senate. The leading candidates in Michigans heated Senate race have faced off in their first televised debate, with less than a month remaining before the United States midterm elections. Thursdays hour-lon…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/10/9/key-takeaways-from-us-senate-debate-in-michigan-between-el-sayed-rogers)
----
-
-## Article 19: Protests, debate follow death of Maricarmen, 87, Spain protest symbol
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.6808`
-
-Thousands of protesters honour Maricarmen Abascal's life, while tributes in Spanish parliament spark debate. Thousands of Spaniards protested outside Spains parliament after the death of Maria del Carmen Abascal, the 87-year-old woman whose eviction ignited nationwide protests and sparked a snap general ele…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/10/9/protests-debate-follow-death-of-maricarmen-87-spain-protest-symbol)
----
-
-## Article 20: Will Ethiopia’s neighbours intervene as Tigray war escalates?
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.8658`
-
-Tigray’s renewed war is testing Ethiopia’s already strained regional ties. Addis Ababa, Ethiopia  After nearly two weeks of fierce fighting, Ethiopian federal forces entered the Tigrayan capital of Mekelle as forces from an alliance of rebel groups, including the Tigray Peo…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/10/9/will-ethiopias-neighbours-intervene-as-tigray-war-escalates)
 ---
 
