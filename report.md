@@ -1,11 +1,131 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-10-16 | **Status:** Automated
+**Date:** 2026-10-17 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: Why corporate America needs one playbook for a divided Washington after November
+## Article 1: Trump's Capitol Hill whisperer reveals secrets to president's dealmaking as he heads for exit
+**Source:** Fox News | **Sentiment Score:** `0.6166`
+
+James Braid spoke with Fox News Digital about his work the last two years on his way out of the Trump administration. EXCLUSIVE: There are few people in the United States who have more significantly shaped the course of American history over the last two years, while remaining as little-known as James Braid. Millio…
+
+[Read Original Article Here](https://www.foxnews.com/politics/trumps-capitol-hill-whisperer-reveals-secrets-presidents-deal-making-he-heads-exit)
+---
+
+## Article 2: ‘Trying to dominate’: In Cyprus, some fear Israel’s growing influence
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.7579`
+
+Israel now reaches into Cyprus’s water, gas, health and defence and many Cypriots fear their island is losing control. Nicosia and Limassol, Cyprus Heavily bearded and wearing a loose shirt collar, Christos Achniotis speaks about the history and demographics of Cyprus and runs off dates from memory. He was 16 when T…
+
+[Read Original Article Here](https://www.aljazeera.com/features/2026/10/16/an-easy-target-how-israel-is-embedding-itself-in-the-cypriot-state)
+---
+
+## Article 3: Why is China buying up gold?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.4404`
+
+Beijing’s gold purchases reflect a shift away from reliance on US dollar assets, experts say. China is increasing its gold reserves in a bid to reduce its dependence on US dollar assets and protect against financial and geopolitical risks, analysts say, while households are turning to the pre…
+
+[Read Original Article Here](https://www.aljazeera.com/news-analysis/2026/10/16/why-is-china-buying-up-gold)
+---
+
+## Article 4: China-North Korea border bridge may do little to spur trade, experts say
+**Source:** Al Jazeera English | **Sentiment Score:** `0.3612`
+
+Sanctions and a North Korean leadership that prioritises security dim prospects for trade, analysts say. As China and North Korea cut the ribbon on New Yalu River Bridge this week, officials described the new border crossing in momentous terms. Chinese Premier Li Qiang said the 3km (1.9-mile) bridge, w…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/10/16/china-north-korea-border-bridge-may-do-little-to-spur-trade-experts-say)
+---
+
+## Article 5: America depends too much on China for essential minerals. We need to dig our future
+**Source:** Fox News | **Sentiment Score:** `0.5423`
+
+Graphite Creek in Alaska holds the largest known U.S. graphite deposit, yet China still dominates the critical mineral supply chain America depends on. For decades, Americans have thought about national security primarily in terms of military strength the aircraft we build, the ships we deploy and the men and women who defend our country. Today, na…
+
+[Read Original Article Here](https://www.foxnews.com/opinion/america-depends-too-much-china-essential-minerals-need-dig-future)
+---
+
+## Article 6: US sanctions leave Iranians facing flight cancellations and soaring costs
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.2263`
+
+New US aviation sanctions force Iranians to take longer, costlier journeys as international flight routes disappear. In late September, travellers could still fly directly from Tehran to Dubai in less than three hours, with a ticket costing between $100 and $200. Less than a month later, it can take up to 18 hours…
+
+[Read Original Article Here](https://www.aljazeera.com/news-analysis/2026/10/16/us-sanctions-leave-iranians-facing-flight-cancellations-and-soaring-costs)
+---
+
+## Article 7: Democrat's debate 'cue cards' steal spotlight in high-stakes Senate clash
+**Source:** Fox News | **Sentiment Score:** `-0.7096`
+
+Mary Peltola's apparent use of cue cards during her Alaska Senate debate with Dan Sullivan sparked a wave of GOP mockery and a pointed on-stage exchange. Alaska Democratic Senate hopeful Mary Peltola faced ridicule Thursday night after her use of notecards during a debate with Republican Sen. Dan Sullivan drew mocking responses from GOP critics includ…
+
+[Read Original Article Here](https://www.foxnews.com/politics/democrats-debate-cue-cards-steal-spotlight-high-stakes-senate-clash)
+---
+
+## Article 8: Myanmar’s coup leader-turned-president wins back neighbours despite war
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.5267`
+
+ASEAN leaders are embracing Min Aung Hlaing, but critics warn it emboldens a military still bombing civilians. Yangon, Myanmar When Malaysia invited Myanmars coup leader-turned-president Min Aung Hlaing for a visit in September, it insisted the trip did not amount to recognition. The purpose, an official said…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/10/16/as-war-rages-myanmars-coup-leader-turned-president-wins-back-neighbours)
+---
+
+## Article 9: 'Oh, shut up!': Democrat snaps at Collins after heckler drives Maine Senate debate off the rails
+**Source:** Fox News | **Sentiment Score:** `-0.3818`
+
+A protester yelling about AI data centers sparked a fiery clash between Republican Sen. Susan Collins and Democratic challenger Troy Jackson. Bangor, Maine A protester interrupted the final debate between Republican Sen. Susan Collins and Democratic challenger Troy Jackson in Maine, triggering a heated exchange after Collins suggested the …
+
+[Read Original Article Here](https://www.foxnews.com/politics/shut-democrat-snaps-collins-heckler-drives-maine-senate-debate-rails)
+---
+
+## Article 10: Can Zimbabwe’s ZiG win trust and replace the US dollar?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.0000`
+
+After repeated currency crises, Zimbabweans remain wary of the ZiG. Harare, Zimbabwe The government is trying to persuade citizens to use its own currency more widely, with the longer-term aim of reducing reliance on the US dollar. But after years of currency instabi…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/10/16/can-zimbabwes-zig-win-trust-and-replace-the-us-dollar)
+---
+
+## Article 11: Iraq parliament approves al-Zaidi’s cabinet amid growing economic concerns
+**Source:** Al Jazeera English | **Sentiment Score:** `0.4215`
+
+Iraq's parliament has finalised key minister appointments five months after al-Zaidi's government took office. Iraqs parliament has completed the formation of Prime Minister Ali al-Zaidis government after lawmakers approved previously vacant cabinet posts and three deputy prime ministers, including one who is…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/10/16/iraq-parliament-approves-al-zaidis-cabinet-amid-growing-economic-concerns)
+---
+
+## Article 12: Northern Ireland ex-DUP leader Donaldson sentenced to 15 years for child sex crimes
+**Source:** Al Jazeera English | **Sentiment Score:** `0.5523`
+
+Judge says Jeffrey Donaldson never apologised to victims as politician seeks to appeal his convictions. The former leader of Northern Irelands largest unionist party has been sentenced to 15 years in jail for child sex offences. Jeffrey Donaldson, who led the Democratic Unionist Party (DUP), stared st…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/10/15/northern-ireland-ex-dup-leader-donaldson-sentenced-to-15-years-for-child-sex-crimes)
+---
+
+## Article 13: Ahead of US midterms, voters are frustrated with Trump, want change: Poll
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.6369`
+
+Widespread voter disillusionment and pocketbook anxieties set a volatile stage for the GOP weeks before election night. Voter sentiment across the United States is increasingly negative towards US President Donald Trumps domestic and foreign policies, according to a new Associated Press-NORC Center for Public Affairs …
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/10/15/ahead-of-us-midterms-voters-are-frustrated-with-trump-want-change-poll)
+---
+
+## Article 14: ‘Big Condiment’ warning gets Warren roasted online over progressive's economic priorities
+**Source:** Fox News | **Sentiment Score:** `-0.5994`
+
+Elizabeth Warren's warning about the $45 billion McCormick-Unilever merger sparked online mockery, with users joking about "Big Condiment" prices. A post made by Sen. Elizabeth Warren, D-Mass., this week quickly became a punchline online after she warned that a proposed $45 billion deal bringing some of Americas best-known condiment and food br…
+
+[Read Original Article Here](https://www.foxnews.com/politics/big-condiment-warning-gets-warren-roasted-online-over-progressives-economic-priorities)
+---
+
+## Article 15: US teen held over Hindu temple attack plot: Is anti-Indian racism rising?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.9118`
+
+Illinois teen who allegedly said he 'couldn’t wait' to kill Indians is arrested over a Hindu temple attack plot. A 19-year-old American who expressed white supremacist views has been arrested on the day United States police believe he tried to attack a Hindu place of worship. Police in the state of Illinois sa…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/10/15/us-teen-held-over-hindu-temple-attack-plot-is-anti-indian-racism-rising)
+---
+
+## Article 16: Why corporate America needs one playbook for a divided Washington after November
 **Source:** Fox News | **Sentiment Score:** `-0.4215`
 
 Trump's post-2018 playbook proves a Democratic Congress won't sideline his regulatory power, and data center fights are the clearest warning. Data center companies learned the hard way that winning Washington isn't the same as winning the country. They had the permits, the agencies and a president who warned that towns rejecting them would…
@@ -13,7 +133,7 @@ Trump's post-2018 playbook proves a Democratic Congress won't sideline his regul
 [Read Original Article Here](https://www.foxnews.com/opinion/why-corporate-america-needs-one-playbook-divided-washington-after-november)
 ---
 
-## Article 2: The ‘Good News’ For The GOP As Election Day Nears
+## Article 17: The ‘Good News’ For The GOP As Election Day Nears
 **Source:** Fox News | **Sentiment Score:** `0.5719`
 
 With just weeks until the midterm elections, both parties continue fighting for control of Congress as Republicans face historical headwinds and a shrinking House majority. While Democrats appear to have momentum, Republicans are betting on strong candidates … With just weeks until the midterm elections, both parties continue fighting for control of Congress as Republicans face historical headwinds and a shrinking House majority. While Democrats appear to …
@@ -21,7 +141,7 @@ With just weeks until the midterm elections, both parties continue fighting for 
 [Read Original Article Here](https://radio.foxnews.com/2026/10/15/the-good-news-for-the-gop-as-election-day-nears/)
 ---
 
-## Article 3: MARK HALPERIN: Republicans are bracing for a wipeout. Here's who they'll blame if it happens
+## Article 18: MARK HALPERIN: Republicans are bracing for a wipeout. Here's who they'll blame if it happens
 **Source:** Fox News | **Sentiment Score:** `0.9214`
 
 Political strategists on both sides are already rehearsing recriminations weeks before Election Day, preparing to win the argument about why it was lost. The political strategists I have known in my career are among the smartest, most interesting, most knowledgeable, and most impressive people I have ever met. They are also capable of more white-hot …
@@ -29,7 +149,7 @@ Political strategists on both sides are already rehearsing recriminations weeks 
 [Read Original Article Here](https://www.foxnews.com/opinion/mark-halperin-republicans-bracing-wipeout-heres-who-theyll-blame-happens)
 ---
 
-## Article 4: Iraq devalues dinar to ease cash crunch, leaving traders in limbo
+## Article 19: Iraq devalues dinar to ease cash crunch, leaving traders in limbo
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.5927`
 
 The government hopes a weaker dinar will help pay salaries, but traders face rising import costs and uncertainty. Baghdad, Iraq Sitting anxiously in his small office in Jameela market, one of Baghdads main wholesale markets, food trader Hamza al-Rudayni is waiting to see what the coming days will bring. A decis…
@@ -37,131 +157,11 @@ The government hopes a weaker dinar will help pay salaries, but traders face ris
 [Read Original Article Here](https://www.aljazeera.com/economy/2026/10/15/iraq-devalues-dinar-to-ease-cash-crunch-leaving-traders-in-limbo)
 ---
 
-## Article 5: Fairfax’s ₹52,878 crore bank deal signals zest for India assets
+## Article 20: Fairfax’s ₹52,878 crore bank deal signals zest for India assets
 **Source:** Bloomberg | **Sentiment Score:** `0.8910`
 
 The interest suggests robust appetite for financial services assets as the population of wealthy citizens expands and earnings of the middle class rise Indias sale of a controlling stake in IDBI Bank Ltd. to Canadas Fairfax Financial Holdings Ltd. for 52,878 crore helps jump-start the South Asian countrys push to reform its banking sector and shows …
 
 [Read Original Article Here](https://www.bloomberg.com/news/articles/2026-10-15/fairfax-s-6-billion-bank-deal-signals-zest-for-indian-assets)
----
-
-## Article 6: India may need rate hikes, tax cuts to buoy rupee, analysts say
-**Source:** Bloomberg | **Sentiment Score:** `0.5423`
-
-The RBI can raise its emergency lending rate for banks, making funds more expensive and tightening liquidity to support the rupee Indias central bank has mounted its strongest defense of the rupee in more than a decade, and said its not done yet. The Reserve Bank of Indias measures helped the currency rebound from a near recor…
-
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-10-15/india-may-need-rate-hikes-tax-cuts-to-buoy-rupee-analysts-say)
----
-
-## Article 7: G20 finance ministers, central bankers gather amid fallout from Iran war
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.8271`
-
-Officials meet in Thailand as conflict drives energy prices higher and casts uncertainty over global economy. The G20 finance ministers and central bank governors are gathering in Bangkok, Thailand, on Thursday amid an uncertain global outlook shaped by the US-Israel war on Iran. The meetings are being held…
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/10/15/g20-finance-ministers-central-bankers-gather-amid-fallout-from-iran-war)
----
-
-## Article 8: Restoring nature is key to a more resilient future
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.8793`
-
-At COP17 and COP31, governments must accelerate positive tipping points in energy, food and finance. Nature is humanitys life-support system, but it is being depleted at an alarming rate, leaving our world increasingly vulnerable. From deadly heatwaves and raging wildfires to catastrophic floods and…
-
-[Read Original Article Here](https://www.aljazeera.com/opinions/2026/10/15/restoring-nature-is-key-to-a-more-resilient-future)
----
-
-## Article 9: OpenAI vows not to use trade secrets allegedly taken from Apple
-**Source:** Bloomberg | **Sentiment Score:** `-0.4215`
-
-OpenAI agrees not to use Apple trade secrets amid a high-stakes legal clash over alleged misappropriation by defectors and forensic device inspections. OpenAI agreed not to use trade secrets that Apple Inc. claims were stolen by employees who defected from the iPhone maker to the artificial intelligence start-up while a legal fight between the compa…
-
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-10-14/apple-openai-head-to-court-in-high-stakes-ai-trade-secret-fight)
----
-
-## Article 10: Tunisia: What has Kais Saied achieved economically in seven years?
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.4215`
-
-Rising prices, unemployment and public debt test Saied’s economic promises. For Tunisian taxi driver Houssam Oueslati, inflation has a price tag: The cost of keeping his car on the road. In 2018, he paid about 35 Tunisian dinars ($13) for engine oil. Today, the same purchas…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/10/15/tunisia-what-has-kais-saied-achieved-economically-in-seven-years)
----
-
-## Article 11: Trump was trying to force prices lower ahead of the midterms. But Iran gets a vote, too | CNN Business
-**Source:** CNN | **Sentiment Score:** `-0.8519`
-
-President Donald Trump and Republicans just got the worst news on inflation ahead of the midterms: Prices rose more than expected in September. President Donald Trump and Republicans just got the worst news on inflation ahead of the midterms: Prices rose more than expected in September. The news came as no surprise to American voters. Polls…
-
-[Read Original Article Here](https://www.cnn.com/2026/10/14/economy/prices-inflation-iran-midterms)
----
-
-## Article 12: Fox News Poll: Cost-of-living concerns weigh on GOP in midterms
-**Source:** Fox News | **Sentiment Score:** `0.4767`
-
-A Fox News survey finds Trump's approval on inflation hitting a new low of 22% as six in 10 voters say cost of living is their top economic worry. When voters rate the economy and the president negatively just weeks before Election Day, the incumbent party is vulnerable, and thats certainly the case in the latest Fox News survey. The economic …
-
-[Read Original Article Here](https://www.foxnews.com/politics/fox-news-poll-cost-living-concerns-weigh-gop-midterms)
----
-
-## Article 13: Colombia opposition groups launch protest against de la Espriella’s cuts
-**Source:** Al Jazeera English | **Sentiment Score:** `0.6808`
-
-Former President Gustavo Petro joined thousands of demonstrators in Bogota in march against austerity, Israel ties. A coalition of opposition parties, trade unions, indigenous groups and social movements has protested in Colombia against a series of economic and security policies advanced under right-wing Presiden…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/10/14/colombia-opposition-groups-launch-protest-against-de-la-espriellas-cuts)
----
-
-## Article 14: Vance takes aim at soft-on-crime Dems as GOP faces uphill midterm battle: ‘Lost their minds’
-**Source:** Fox News | **Sentiment Score:** `-0.6968`
-
-JD Vance rallied for Ken Paxton in Tyler, Texas, while taking aim at Democrats over Somali gang violence in Minnesota and spiking gas prices. EXCLUSIVE: TYLER, Texas Faced with an uphill battle in November's midterms as costs soar for Americans, Vice President JD Vance is making a pitch that the alternative is not better and argued that De…
-
-[Read Original Article Here](https://www.foxnews.com/politics/vance-takes-aim-soft-crime-dems-gop-faces-uphill-midterm-battle-lost-their-minds)
----
-
-## Article 15: US inflation rises before midterm elections, fuelling rate hike fears
-**Source:** Al Jazeera English | **Sentiment Score:** `0.5994`
-
-Economists divided on Fed rate hike as inflation creates uncertainty before US midterm elections in a tense market. United States consumer prices jumped in September in the final inflation report before the midterm elections, increasing chances of an interest rate hike later this month. Annual inflation accelerat…
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/10/14/us-inflation-rises-before-midterm-elections-fuelling-rate-hike-fears)
----
-
-## Article 16: Law of the Sea comes to life in the hunt for sanctioned Russian oil
-**Source:** Al Jazeera English | **Sentiment Score:** `0.0000`
-
-Ukraine's Western allies are using maritime law to inspect Russian shadow tankers. Until US President Donald Trump reversed the thrust of his sanctions policy of Russian oil on Friday, Ukraines Western allies had been ramping up the use of international law. Countries sanctioning …
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/10/14/law-of-the-sea-comes-to-life-in-the-hunt-for-sanctioned-russian-oil)
----
-
-## Article 17: What is potash, and why is the US importing it from Belarus?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.0258`
-
-US reliance on Canadian potash, a key fertiliser mineral, adds to farmers' cost concerns amid trade tensions. The United States is preparing to receive its first shipment of Belarusian potash in four years, as President Donald Trump seeks cheaper fertiliser for American farmers amid rising costs linked to th…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/10/14/what-is-potash-and-why-is-the-us-importing-it-from-belarus)
----
-
-## Article 18: AMB GORDON SONDLAND: Threading the needle on Ukraine, Russia and China
-**Source:** Fox News | **Sentiment Score:** `-0.8965`
-
-Trump's Ukraine strategy aims to reshape the global chessboard against China, but Volodymyr Zelensky must adapt his approach to survive it. Lets get the preliminaries out of the way. Ukraine has corruption problems and political dysfunction of its own. But, in this war, Ukraine is unequivocally the good guy. Russias invasion was unprovok…
-
-[Read Original Article Here](https://www.foxnews.com/opinion/amb-gordon-sondland-threading-needle-ukraine-russia-china)
----
-
-## Article 19: Iran steps up Hormuz surveillance: Attacks soar, oil flows crash again
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.9217`
-
-Ships in the Strait of Hormuz have been experiencing the worst spate of attacks since the start of the war. Irans military said it has expanded its surveillance of the Strait of Hormuz by deploying new units to target ships, amid a desperate tussle between Tehran and Washington to control the waterway, amo…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/10/14/iran-steps-up-hormuz-surveillance-attacks-soar-oil-flows-crash-again)
----
-
-## Article 20: Russia’s arrest of Japanese journalist: Why are tensions rising?
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.7269`
-
-Japanese journalist Imai Yuki arrested on Sakhalin for allegedly spying on Russian defence capabilities, says the FSB. Russia has arrested a Japanese journalist from Sakhalin Island after accusing him of spying and gathering information on its defence capabilities. On Tuesday, Russian news agencies reported that the…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/10/14/russias-arrest-of-japanese-journalist-why-are-tensions-rising)
 ---
 
