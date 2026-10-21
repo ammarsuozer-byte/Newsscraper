@@ -1,167 +1,167 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-10-20 | **Status:** Automated
+**Date:** 2026-10-21 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: Russia’s Lavrov to discuss US war and regional security during Tehran visit
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.3182`
+## Article 1: Fox News Power Rankings: Trump country at a crossroads
+**Source:** Fox News | **Sentiment Score:** `-0.2382`
 
-GCC states have pressed Moscow to help halt Iranian attacks and reopen the Strait of Hormuz. Tehran, Iran Russias Foreign Minister Sergey Lavrov is due to meet with senior Iranian officials in Tehran to discuss the war with the United States and efforts to end it. Lavrov landed in the Irani…
+Rural voters are wavering on the GOP as cost of living, unemployment and AI data centers reshape the political landscape in heartland states. Republicans have had their share of good and bad election nights this century, but theyve usually been able to count on the heartland. Once evenly divided, rural voters have become substantially mor…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/10/19/russias-lavrov-to-discuss-us-war-and-regional-security-during-tehran-visit)
+[Read Original Article Here](https://www.foxnews.com/politics/fox-news-power-rankings-trump-country-crossroads)
 ---
 
-## Article 2: On Iran, Israel’s opposition is even more hawkish than Netanyahu
-**Source:** Al Jazeera English | **Sentiment Score:** `0.1456`
+## Article 2: Why Rubio is visiting Reliance’s oil refinery in India, the world’s largest
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.5267`
 
-In rest of the world, the Israeli PM is often blamed for the Iran war. His opponents say he hasn't been tough enough. When Israel launched a sweeping military assault on Iran with the United States in February, the Israeli government enjoyed overwhelming support from the Jewish Israeli public. Opposition parties le…
+Reliance is central to Washington’s efforts to punish Russian energy buyers and contain oil prices amid the war on Iran. New Delhi, India United States Secretary of State Marco Rubio has arrived in India for a two-day visit, during which he is set to tour the Jamnagar refinery complex in Gujarat, owned by billionaire M…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/10/19/on-iran-israels-opposition-is-even-more-hawkish-than-netanyahu)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/10/20/why-rubio-is-visiting-reliances-oil-refinery-in-india-the-worlds-largest)
 ---
 
-## Article 3: SCHOEN, COOPERMAN: Democrats could be riding a midterm wave. These numbers should terrify the GOP
-**Source:** Fox News | **Sentiment Score:** `0.7876`
+## Article 3: Iran denies collapse is close as US claims IRGC running out of money
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.3129`
 
-Trump's approval below 40% and inflation concerns fuel Democratic momentum, but Republicans retain cash advantages ahead of the 2026 midterm elections. With an 8-point lead on the generic congressional ballot among their highest of the cycle Democrats could well be on the cusp of a major wave election. We say this based on historical trends and the…
+Iranian authorities defiant despite financial strain, saying they want to lift US blockade and pressure on their terms. Tehran, Iran Iranian authorities have rejected claims that Iran is unable to support its regional allies, but acknowledged that the United States sanctions and the war have created financial challeng…
 
-[Read Original Article Here](https://www.foxnews.com/opinion/schoen-cooperman-democrats-riding-midterm-wave-numbers-terrify-gop)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/10/20/iran-denies-collapse-is-close-as-us-claims-irgc-running-out-of-money)
 ---
 
-## Article 4: Losing Cuba, the global trickster
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.2023`
+## Article 4: Masoud Pezeshkian: Peace, Not Surrender
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.8176`
 
-The Cuban Revolution, with all its contradictions, has given plenty to the world. Its fall will be a major loss. Cuba is once again in the United Statess crosshairs. Washingtons operation in Venezuela at the start of the year is largely seen to have paved the way for a similar undertaking on the Caribbean islan…
+Iranian President Masoud Pezeshkian on sanctions, regional conflict, US-Israel tensions and his call for Muslim unity. Iranian President Masoud Pezeshkian on sanctions, regional conflict, US-Israel tensions and his call for Muslim unity. Read moreAn exclusive Al Jazeera interview with Iranian President Masoud Pezesh…
 
-[Read Original Article Here](https://www.aljazeera.com/opinions/2026/10/19/losing-cuba-the-global-trickster)
+[Read Original Article Here](https://www.aljazeera.com/video/al-jazeera-world/2026/10/20/masoud-pezeshkian-peace-not-surrender)
 ---
 
-## Article 5: Kinship and surveillance: The return of Somali piracy
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.0900`
+## Article 5: Midwest pro-Trump state could hold key to Republicans' midterm hopes
+**Source:** Fox News | **Sentiment Score:** `0.8176`
 
-Somalia’s piracy crackdown leaves coastal fishermen struggling to survive. Mogadishu, Somalia The fishing town of Bander Beyla, on Somalias Puntland coast, has become a focal point of the renewed piracy crisis. But beyond the hijackings and international security operations…
+Tom Emmer warns Iowa GOP supporters that turnout will decide whether House Republicans keep their majority as three districts face tough races. DES MOINES, Iowa House Republicans are pinning hopes of keeping their majority on a state that President Donald Trump won by roughly 13 points in November 2024. And while Iowa has leaned red in rece…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/10/19/kinship-and-surveillance-the-return-of-somali-piracy)
+[Read Original Article Here](https://www.foxnews.com/politics/midwest-pro-trump-state-could-hold-key-republicans-midterm-hopes)
 ---
 
-## Article 6: Hackers could already be inside American utilities, cyber experts warn of 'Trojan Horse' threat
-**Source:** Fox News | **Sentiment Score:** `-0.8555`
+## Article 6: France’s growing debt woes: How bond markets set countries’ borrowing costs
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.6310`
 
-Cybersecurity experts told Fox News Digital that a cyberattack on French supermarket freezers should warn the U.S. about critical infrastructure gaps. The cyberattack targeting French supermarket freezers and causing millions of dollars in losses last week should be an ominous warning to American businesses, cybersecurity experts told Fox News Digi…
+France's rising debt is unnerving investors, but countries such as the US and Japan owe even greater sums. Frances borrowing costs have surged amid the worst social unrest in the country in decades. Yields on French bonds have risen to their highest levels in nearly a quarter of a century as investors de…
 
-[Read Original Article Here](https://www.foxnews.com/tech/hackers-already-inside-american-utilities-cyber-experts-warn-trojan-horse-threat)
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/10/20/frances-growing-debt-woes-how-bond-markets-set-countries-borrowing-costs)
 ---
 
-## Article 7: Alberta independence referendum: Will separatists survive a loss?
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.7072`
+## Article 7: Trump’s approval ratings plummet: what that means for the US midterms
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.9376`
 
-Alberta’s independence movement faces likely defeat, but history suggests losing a referendum may not end the fight. Cory Morgan has spent more than 25 years fighting for Canadas oil-rich province of Alberta to become an independent country. On Monday, Albertans will head to the polls to vote on the issue for the v…
+Sitting presidents usually see a dip in approval ratings before midterms, but Trump's ratings are at a historic low. United States President Donald Trumps approval ratings have fallen to a record low, a sign that Americans angry about rising living costs amid the deeply unpopular US-Israel war on Iran could punish …
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/10/18/alberta-independence-referendum-will-separatists-survive-a-loss)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/10/20/trumps-approval-ratings-plummet-what-that-means-for-the-us-midterms)
 ---
 
-## Article 8: Russia’s war on Ukraine ‘must be brought to an end’, Zelenskyy says
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.7351`
+## Article 8: Voters prepare to weigh-in on Trump's economy as costs continue to surge
+**Source:** Fox News | **Sentiment Score:** `0.0258`
 
-Ukraine's president says communication between Washington and Kyiv 'virtually nonstop', despite a spat with Trump. Ukraines President Volodymyr Zelenskyy has said that the war with Russia must be brought to an end and that his country is preparing for the next steps of diplomacy to end the conflict. Zelenskyy sa…
+Gas prices surged 9.1% in September as consumer prices rose 3.7% annually, putting Trump's promise to lower costs to the test before midterms. While Americans prepare to cast their ballots for who should control Congress and their local governments, the cost of filling a gas tank, paying rent and buying a home is becoming a defining test of…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/10/18/russias-war-on-ukraine-must-be-brought-to-an-end-zelenskyy-says)
+[Read Original Article Here](https://www.foxnews.com/politics/voters-prepare-weigh-trumps-economy-costs-continue-surge-2-weeks-before-midterms)
 ---
 
-## Article 9: Why have France’s school protests become a wider political crisis?
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.9088`
+## Article 9: LIZ PEEK: Guaranteed — Democrat midterm win would deliver chaos not 'affordability'
+**Source:** Fox News | **Sentiment Score:** `-0.8633`
 
-The demonstrations have united students and ‘yellow vest’ supporters, exposing deeper anger over living standards. Protests are sweeping France as anger over conditions in schools meets frustration with high living costs and a government accused of doing little to address problems facing people. About 550,000 pe…
+Democrats campaign on affordability but can't agree on Medicare for all, housing or energy after Joe Biden's costly spending drove debt to $40 trillion. Have Americans got such short memories that theyve forgotten the damage done by Joe Biden and his fellow Democrats just two-plus years ago? Do they really want to go down the path of open borders, hi…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/10/18/why-have-frances-school-protests-become-a-wider-political-crisis)
+[Read Original Article Here](https://www.foxnews.com/opinion/liz-peek-guaranteed-democrat-midterm-win-would-deliver-chaos-not-affordability)
 ---
 
-## Article 10: Trump tries different approach with Russia to bring Americans relief amid ongoing war with Ukraine
-**Source:** Fox News | **Sentiment Score:** `0.8934`
+## Article 10: Top Trump ally warns Republican Party 'dead' if it loses key voting bloc ahead of midterms
+**Source:** Fox News | **Sentiment Score:** `-0.7717`
 
-Trump's Russian diesel deal faces bipartisan pushback as analysts question whether easing sanctions on Vladimir Putin will lower prices or aid peace. President Donald Trump is easing some of the economic pressure on Russia in hopes of bringing Vladimir Putin closer to a peace deal a gamble that will test whether economic incentives can move Moscow…
+A top Senate Republican warns the GOP could be "dead as a party" if working-class voters abandon Republicans over economy and gas price woes. A top Senate Republican warned that the same voting bloc that has propelled the GOP to power over the last decade is at risk of turning its back on the party during this election cycle. For decades,…
 
-[Read Original Article Here](https://www.foxnews.com/politics/trump-tries-different-approach-russia-bring-americans-relief-amid-ongoing-war-ukraine)
+[Read Original Article Here](https://www.foxnews.com/politics/top-trump-ally-warns-republican-party-dead-loses-key-voting-bloc-ahead-midterms)
 ---
 
-## Article 11: Ukrainian drone attack on Russia’s St Petersburg kills 1, hits energy sites
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.9501`
+## Article 11: Alberta voters reject separation from Canada, early results show
+**Source:** Al Jazeera English | **Sentiment Score:** `0.7269`
 
-Zelenskyy says Russian attacks on Ukraine overnight kill two people, adding that Moscow continues to break energy ceasefire. A massive Ukrainian drone attack on St Petersburg in Russia has killed at least one person and injured five others, the citys governor said on Sunday. Alexandre Beglov said firefighters were battlin…
+With more than one million votes counted, about 76 percent supported remaining in Canada. Alberta residents have voted to remain part of Canada in the provinces first-ever referendum on separation, in a much-needed win for Prime Minister Mark Carney as he attempts to unify the country ami…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/10/18/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/10/20/alberta-voters-reject-separation-from-canada-early-results-show)
 ---
 
-## Article 12: Liberal-city resident hesitates when pressed on beliefs: 'I hadn't really thought about socialism that way'
-**Source:** Fox News | **Sentiment Score:** `0.7003`
+## Article 12: Oscar winner shares the math ‘the parties pray you never do’ before midterms
+**Source:** Fox News | **Sentiment Score:** `0.5423`
 
-Fox News Digital hit the streets of Portland, Maine, where residents offered sharply divided views on socialism, wealth inequality and capitalism. PORTLAND, Maine Americans who were asked for their opinions of socialism by Fox News Digital offered sharply different interpretations of the ideology, with some embracing its promises of economic eq…
+Critics accused the actor of promoting a 'privileged perspective' while supporters said he was making 'too much sense' Matthew McConaughey’s call to rethink America’s two-party political system has sparked a heated debate on social media, with some critics accusing the Oscar-winning actor of promoting a “privileged p…
 
-[Read Original Article Here](https://www.foxnews.com/politics/liberal-city-resident-hesitates-when-pressed-beliefs-i-hadnt-really-thought-about-socialism-way)
+[Read Original Article Here](https://www.foxnews.com/entertainment/matthew-mcconaughey-divides-fans-over-independent-voting-plea-ahead-midterms%20)
 ---
 
-## Article 13: Israel’s ties with Europe are fraying. Can its election change that?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.7852`
+## Article 13: Rogers warns Michigan voters against El-Sayed’s ‘extreme’ agenda ahead of election
+**Source:** Fox News | **Sentiment Score:** `-0.6369`
 
-European condemnation is mounting, but Israel’s election offers little prospect of a material change for Palestinians. While marking Israels 75th anniversary, Ursula von der Leyen offered solidarity. Europe and Israel are bound to be friends and allies, the European Commission president said on April 23, 2023. list…
+Mike Rogers warned Michigan voters against Abdul El-Sayed’s agenda while touting his campaign’s momentum during a town hall with Sean Hannity. Republican Michigan Senate candidate Mike Rogers took aim at Democratic opponent Abdul El-Sayed during a town hall with Fox News host Sean Hannity on Monday, warning voters that his rival's policies …
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/10/18/israels-ties-with-europe-are-fraying-can-its-election-change-that)
+[Read Original Article Here](https://www.foxnews.com/politics/rogers-warns-michigan-voters-against-el-sayeds-extreme-agenda-ahead-election)
 ---
 
-## Article 14: Why Marco Rubio’s visit to Mumbai has ruffled feathers in India
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.1154`
+## Article 14: Beyond money: Why young Tunisians are considering emigration
+**Source:** Al Jazeera English | **Sentiment Score:** `0.6486`
 
-US secretary of state is skipping New Delhi, and opposition leaders complain his arrangements are humiliating. United States Secretary of State Marco Rubio is to visit India in the coming week, but he will not set foot in the capital, New Delhi. Instead, on Monday, Rubio will hold talks with Indian External …
+For many young Tunisians, the question is no longer simply how to make a living, but where they can build a future. Tunis, Tunisia For Maher Qassem, the phrase beyond money sums up why he is considering leaving his country. After years of working in the media and trying to secure a stable life for his family, he …
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/10/18/why-marco-rubios-visit-to-mumbai-has-ruffled-feathers-in-india)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/10/20/beyond-money-why-young-tunisians-are-considering-emigration)
 ---
 
-## Article 15: AI trade reversal pierces Asia’s star picks-and-shovels stocks
-**Source:** Bloomberg | **Sentiment Score:** `-0.6808`
+## Article 15: Matthew McConaughey divides fans over independent voting plea ahead of midterms
+**Source:** Fox News | **Sentiment Score:** `0.3612`
 
-The pressure intensified last week as oil surged to $110 a barrel for the first time since May, stoking inflation concerns, and investors turned their attention to the trillions of dollars being borrowed to build AI infrastructure A deepening selloff in US technology stocks is exposing a new vulnerability in Asias artificial intelligence trade: mounting financing costs could choke off the spending needed to sustain the boom, t…
+Matthew McConaughey's video urging Americans to rethink the two-party system drew fierce social media backlash ahead of the 2026 midterm elections. Matthew McConaughey's call to rethink America's two-party political system has sparked a heated debate on social media, with some critics accusing the Oscar-winning actor of promoting a "privileged p…
 
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-10-18/ai-trade-reversal-pierces-asia-s-star-picks-and-shovels-stocks)
+[Read Original Article Here](https://www.foxnews.com/entertainment/matthew-mcconaughey-divides-fans-over-independent-voting-plea-ahead-midterms)
 ---
 
-## Article 16: Tunisia’s economic crisis deepens as the promise of a better life fades
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.6908`
+## Article 16: Beleaguered Macron cites US-Iran war as factor in protests amid Trump, Vance criticism
+**Source:** Fox News | **Sentiment Score:** `-0.9643`
 
-Joblessness, failing services and rising costs deepen hardship across the country. Tunis, Tunisia Like many Tunisian university graduates, Cherine Ghanmi believed a degree would offer her family a way out of poverty. Growing up in the marginalised town of al-Mazzunah, in the centr…
+French President Emmanuel Macron cited the Iran war and its impact on fuel and living costs while addressing the ongoing protests and unrest across France. The embattled French President Emmanuel Macron on Sunday pinned some of the blame on the U.S. war against the terrorist regime in Iran for the widespread riots and looting unfolding across France. T…
 
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/10/18/tunisias-economic-crisis-deepens-as-the-promise-of-a-better-life-fades)
+[Read Original Article Here](https://www.foxnews.com/world/beleaguered-macron-cites-us-iran-war-factor-protests-amid-trump-vance-criticism)
 ---
 
-## Article 17: From handyman to House history: HVAC mogul Joe Strada pushes trade schools, business mindset in Florida race
-**Source:** Fox News | **Sentiment Score:** `0.7579`
+## Article 17: Egyptian parliament delays vote on military support for Saudi Arabia
+**Source:** Al Jazeera English | **Sentiment Score:** `0.2500`
 
-From humbling beginnings, Joe Strada built a half-billion dollar a year HVAC business; now he wants to bring his hard work, no-nonsense approach to Washington DC. If Republican Joe Strada wins Florida's eleventh congressional district in three weeks, he will likely be the wealthiest individual to ever hold a seat in the US House of Representatives. It's an im…
+Lawmakers adjourn session as opposition party tells members to abstain over unclear commitment. Egypts parliament has delayed a vote on authorising its armed forces to support Saudi Arabia, which has come under increasing attack from the Iran-aligned Houthis in Yemen. The vote has been adjourn…
 
-[Read Original Article Here](https://www.foxnews.com/politics/from-handyman-house-history-hvac-mogul-joe-strada-pushes-trade-schools-business-mindset-florida-race)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/10/19/egyptian-parliament-delays-vote-on-military-support-for-saudi-arabia)
 ---
 
-## Article 18: Protests spread across France as ‘yellow vests’ set to join
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.3612`
+## Article 18: Brig. Gen. E. John Teichert Tells Why There Is “One Way This War Stops” Between Russia and Ukraine
+**Source:** Fox News | **Sentiment Score:** `0.9633`
 
-Demonstrations began in mid-September at schools and have expanded, tapping into wider grievances. Paris, France Saturday is a day of many unknowns. That was how the French newspaper Le Monde described it as France braced for possible nationwide demonstrations bringing together high school student…
+Listen here: Full Transcript: Guy Benson: Let’s welcome in Brigadier General (Ret.) John Teichert of the U.S. Air Force. You can check out his book, In God I Trust: Making Our National Motto My Personal Declaration. General, great to have you back on the show… Listen here: Full Transcript: Guy Benson: Let’s welcome in Brigadier General (Ret.) John Teichert of the U.S. Air Force. You can check out his book, In God I Trust: Making Our National Motto My Per…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/10/17/france-braces-for-nationwide-protests-with-yellow-vest-members-set-to-join)
+[Read Original Article Here](https://radio.foxnews.com/2026/10/19/brig-gen-e-john-teichert-tells-why-there-is-one-way-this-war-stops-between-russia-and-ukraine/)
 ---
 
-## Article 19: Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.8316`
+## Article 19: Trump approval hits record-low 31 percent, polls show Republican struggles
+**Source:** Al Jazeera English | **Sentiment Score:** `0.3182`
 
-Analysts say Russia will benefit most from US sanctions waiver. United States President Donald Trump has signed an executive order waiving newly-passed Russia sanctions, claiming the move is in the USs national interest. Earlier this month, Trump also announced …
+Reuters/Ipsos poll shows Democrats leading by 12 points in generic US congressional ballot surveys against Republicans. United States President Donald Trumps approval rating has fallen to 31 percent another record low in his political career, according to a new Reuters/Ipsos poll. The same poll found Trumps Republica…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/10/17/trump-eases-russia-oil-sanctions-but-is-europe-still-buying-moscows-gas)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/10/19/trump-approval-hits-record-low-31-percent-polls-show-republican-struggles)
 ---
 
-## Article 20: Rubio’s Uzbekistan trip underlines Central Asia’s hunt for diverse partners
-**Source:** Al Jazeera English | **Sentiment Score:** `0.6808`
+## Article 20: Trump renews push to rename New Mexico ‘New America,’ touts higher home values and incomes
+**Source:** Fox News | **Sentiment Score:** `0.9274`
 
-Can the United States reassert influence with pragmatic, transactional approach to Central Asia? United States Secretary of State Marco Rubio is arriving in Samarkand, the fabled Silk Road city in what is now central Uzbekistan, for talks with key regional ministers on Saturday. The C5+1 Centra…
+President Trump urged New Mexico to rename itself "New America," claiming the change would boost home values and incomes, while taking a swipe at state elections. President Donald Trump is giving New Mexico another branding pitch, urging the state to swap "Mexico" for "America" and suggesting the change could boost everything from home values to state pride. …
 
-[Read Original Article Here](https://www.aljazeera.com/news-analysis/2026/10/17/rubios-uzbekistan-trip-underlines-central-asias-hunt-for-diverse-partners)
+[Read Original Article Here](https://www.foxnews.com/politics/trump-renews-push-rename-new-mexico-new-america-touts-higher-home-values-incomes)
 ---
 
