@@ -1,11 +1,139 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-10-30 | **Status:** Automated
+**Date:** 2026-10-31 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: As US midterms approach, farmers decide what to plant and how to vote
+## Article 1: BRIAN HARRELL: America’s AI revolution can’t charge forward without lots of energy
+**Source:** Fox News | **Sentiment Score:** `0.9520`
+
+Data centers demand massive electricity for AI, but who pays for the infrastructure? Why ratepayer protection and energy dominance matter now. The race for artificial intelligence (AI), or superintelligence, will be won not just by technology companies, but by the nation that can deliver reliable, affordable and secure electricity. America …
+
+[Read Original Article Here](https://www.foxnews.com/opinion/brian-harrell-americas-ai-revolution-cant-charge-forward-without-lots-energy)
+---
+
+## Article 2: Binance says $6.3bn stolen in biggest crypto heist in history: What we know
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.4939`
+
+The world’s largest crypto exchange halts withdrawals as the theft is linked to North Korean hackers. Binance, the worlds largest cryptocurrency exchange, says hackers have stolen about $6.3bn in what appears to have been the biggest crypto heist on record. The company, which was co-founded by the C…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/10/30/binance-says-6-3bn-stolen-in-biggest-crypto-heist-in-history-what-we-know)
+---
+
+## Article 3: What can a global strike of dockworkers achieve for Gaza?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.2263`
+
+More than 25 dockworkers' trade unions in over 110 ports in 22 countries are going on strike on October 30 . Dock and port workers have long had a tradition of solidarity with the oppressed, upheld by strong labour unions and workers rights. In February 2025, nearly a year and a half into Israels genocidal…
+
+[Read Original Article Here](https://www.aljazeera.com/features/2026/10/30/what-can-a-global-strike-of-dockworkers-achieve-for-gaza)
+---
+
+## Article 4: ‘Your kids are the target’: College drug deaths, alleged coke ring expose lethal threat, warns retired cop
+**Source:** Fox News | **Sentiment Score:** `-0.8957`
+
+From FIT's fentanyl poisoning to Penn State's cocaine ring, campus drug deaths reveal how organized crime networks are targeting college students. "There is a panoply of drugs out there that will destroy your kids," says retired NYPD inspector and Fox News contributor Paul Mauro. Following recent college deaths and allegations around a campus …
+
+[Read Original Article Here](https://www.foxnews.com/us/your-kids-are-target-college-drug-deaths-alleged-coke-ring-expose-lethal-threat-warns-retired-cop)
+---
+
+## Article 5: JOHN KOUFOS: Trump’s ‘Shield of the Americas’ could help defend us from cartels
+**Source:** Fox News | **Sentiment Score:** `-0.5994`
+
+Brazil's refusal to join the Trump's 'Shield of the Americas' leaves an important gap in the hemispheric fight against the powerful and deadly drug cartels In my first career, I stood in courtrooms as a defense attorney dealing intimately with the fallout of organized crime and gang violence. I have cross-examined operatives, analyzed thousands of pages…
+
+[Read Original Article Here](https://www.foxnews.com/opinion/john-koufos-trumps-shield-americas-could-help-defend-us-from-cartels)
+---
+
+## Article 6: ARTHUR HERMAN: Musk and others prove that this election cash is king. Will it be enough?
+**Source:** Fox News | **Sentiment Score:** `-0.3400`
+
+SpaceX CEO Elon Musk has given over $445 million to Republican causes this cycle, including an estimated $189 million for Ken Paxton in Texas. What lit a fire under billionaire SpaceX CEO Elon Musk this midterm cycle? Hes given more than $445 million to Republican candidates and causes this year, making him the single biggest disclosed don…
+
+[Read Original Article Here](https://www.foxnews.com/opinion/arthur-herman-musk-others-prove-election-cash-king-enough)
+---
+
+## Article 7: AI’s real bottleneck is electricity. Who will pay for it?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.6486`
+
+Big Tech’s nuclear power deals raise urgent questions about who will bear the cost of AI’s growing energy demands. Within a week, two of the three largest cloud computing companies in the world signed 20-year contracts for nuclear electricity. Amazon has taken 690 megawatts from Constellations Calvert Cliffs plan…
+
+[Read Original Article Here](https://www.aljazeera.com/opinions/2026/10/30/ais-real-bottleneck-is-electricity-who-will-pay-for-it)
+---
+
+## Article 8: Britain must sanction Israel, not just its settlers
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.9022`
+
+Israeli forces detained our parliamentary delegation and barred us from the West Bank. The violence is state policy. This week I tried to enter the illegally occupied West Bank, along with two other British parliamentarians and an international delegation of observers. We were all interrogated and detained by Israe…
+
+[Read Original Article Here](https://www.aljazeera.com/opinions/2026/10/30/britain-must-sanction-israel-not-just-its-settlers)
+---
+
+## Article 9: US midterms: 4 days to go – What the polls say as Trump cancels two rallies
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.0516`
+
+Trump cancels Kansas and Iowa rallies, opting for telephone events across nearly 20 states over the weekend. With four days to go before the United States midterm elections, Democrats are leading in national polls as both parties make their final push for votes. Meanwhile, a legal dispute threatens to dela…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/10/30/us-midterms-4-days-to-go-what-the-polls-say-as-trump-cancels-two-rallies)
+---
+
+## Article 10: What does bourbon have to do with the US midterms?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.9217`
+
+The US-Canada trade war is hurting Kentucky’s bourbon industry, which generates billions of dollars annually. The US-Canada trade war is hurting Kentuckys bourbon industry, which generates billions of dollars annually in this historically Republican state. Al Jazeeras Heidi Zhou-Castro talks to Kentucky vote…
+
+[Read Original Article Here](https://www.aljazeera.com/video/newsfeed/2026/10/30/what-does-bourbon-have-to-do-with-the-us-midterms)
+---
+
+## Article 11: Gov. Greg Abbott: “This Is A Race Between Common Sense And Crazy”
+**Source:** Fox News | **Sentiment Score:** `0.9799`
+
+Listen Here: Full Transcript: Guy Benson: Joining us now is the governor of the great state of Texas, Republican Greg Abbott. Governor, welcome back to the show. Gov. Greg Abbott: Great to be back with you guys. Thanks. Guy Benson: All right, so I want to tal… Listen Here: Full Transcript: Guy Benson: Joining us now is the governor of the great state of Texas, Republican Greg Abbott. Governor, welcome back to the show. Gov. Greg Abbott: Great to be back…
+
+[Read Original Article Here](https://radio.foxnews.com/2026/10/29/gov-greg-abbott-this-is-a-race-between-common-sense-and-crazy/)
+---
+
+## Article 12: Trump says won’t ‘take sides’ in Brazil election, but calls it a ‘disgrace’
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.6059`
+
+Comments come after Trump ally Flavio Bolsonaro fled to Miami in US and claimed, without evidence, that vote was stolen. United States President Donald Trump declined to say if he agreed with the outcome of Sundays presidential elections in Brazil, but said he thought the contest was a disgrace. I thought the election…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/10/29/trump-says-wont-take-sides-in-brazil-election-but-calls-it-a-disgrace)
+---
+
+## Article 13: Finland launches criminal probe of suspected environmental damage by Google
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.3612`
+
+The US tech giant is investing $15bn in a huge new data centre project in northern Finland. Finnish police have launched a criminal investigation into suspected breaches of environmental law at the construction site of a planned Google data centre in northern Finland. The project is part o…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/10/29/finland-launches-criminal-probe-of-suspected-environmental-damage-by-google)
+---
+
+## Article 14: ASRA NOMANI: 106 far-left groups in 'red-green' alliance target global ports
+**Source:** Fox News | **Sentiment Score:** `-0.0516`
+
+Communist parties, Palestinian solidarity groups and socialist activists are coordinating strikes at 113 ports across five continents on Oct. 30. Communist revolutionaries, socialist activists and pro-Palestinian agitators from a network of 106 organizations are preparing to stage a carefully choreographed spectacle of global unrest Friday at …
+
+[Read Original Article Here](https://www.foxnews.com/world/asra-nomani-106-far-left-groups-red-green-alliance-target-global-ports)
+---
+
+## Article 15: Sky-high gas prices aren't shaking Trump's MAGA faithful in oil country as supporters warn of bigger threat
+**Source:** Fox News | **Sentiment Score:** `-0.1311`
+
+Donald Trump rallied supporters in Texas who say rising costs haven't shaken their loyalty, warning socialism and progressive policies threaten America. TEXAS Gas prices are soaring ahead of the midterm elections, but President Donald Trump's supporters at campaign rallies in Texas say the rising costs aren't shaking their loyalty to the president, w…
+
+[Read Original Article Here](https://www.foxnews.com/politics/sky-high-gas-prices-arent-shaking-trumps-maga-faithful-oil-country-supporters-warn-bigger-threat)
+---
+
+## Article 16: European Central Bank President Lagarde to step down early
+**Source:** Al Jazeera English | **Sentiment Score:** `0.4588`
+
+Christine Lagarde will leave the post in February, nine months before the end of her eight-year term. European Central Bank (ECB) President Christine Lagarde will step down months before her term ends, kicking off a race to succeed her against a turbulent backdrop in the eurozone. Lagarde announced …
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/10/29/european-central-bank-president-lagarde-to-step-down-early)
+---
+
+## Article 17: As US midterms approach, farmers decide what to plant and how to vote
 **Source:** Al Jazeera English | **Sentiment Score:** `0.5106`
 
 In Arkansas, rising costs spurred farmer Hallie Shoffner’s long-shot Senate campaign. Will farmers back her? When Paul McKinney, a farmer in northeast Arkansas, thinks of his sons childhood, he remembers a small boy playing in vast fields. To a child, a flooded rice field is like a giant, 40-acre swimming …
@@ -13,7 +141,7 @@ In Arkansas, rising costs spurred farmer Hallie Shoffner’s long-shot Senate ca
 [Read Original Article Here](https://www.aljazeera.com/economy/2026/10/29/as-us-midterms-approach-farmers-decide-what-to-plant-and-how-to-vote)
 ---
 
-## Article 2: CA POST EDITORIAL BOARD: Vote Hilton for California governor over establishment hack Becerra for real change
+## Article 18: CA POST EDITORIAL BOARD: Vote Hilton for California governor over establishment hack Becerra for real change
 **Source:** Fox News | **Sentiment Score:** `0.9274`
 
 Steve Hilton's bold campaign promises no taxes on income up to $150,000 and lower gas taxes, challenging Xavier Becerra for California governor. The California Post endorses Hilton. The California Post endorses Steve Hilton for governor. Hilton has run an impressive and bold campaign. The Republican has introduced new ideas that even some Democrats have embraced, like allowing…
@@ -21,7 +149,7 @@ Steve Hilton's bold campaign promises no taxes on income up to $150,000 and lowe
 [Read Original Article Here](https://www.foxnews.com/opinion/ca-post-editorial-board-vote-hilton-california-governor-establishment-hack-becerra-real-change)
 ---
 
-## Article 3: Why is Russia sending fighter jets and air defences to Ethiopia?
+## Article 19: Why is Russia sending fighter jets and air defences to Ethiopia?
 **Source:** Al Jazeera English | **Sentiment Score:** `0.6124`
 
 Experts say Moscow is seeking arms revenue and further diplomatic influence. Ethiopia has received 12 Russian Su-35 fighter jets and will acquire four S-400 air defence batteries, in a deal experts say strengthens Moscows foothold in the Horn of Africa while bolstering Addis …
@@ -29,139 +157,11 @@ Experts say Moscow is seeking arms revenue and further diplomatic influence. Eth
 [Read Original Article Here](https://www.aljazeera.com/news/2026/10/29/why-is-russia-sending-fighter-jets-and-air-defences-to-ethiopia)
 ---
 
-## Article 4: Bolsonaro declares himself 'leader' of Brazil after fleeing country, arriving in Miami
+## Article 20: Bolsonaro declares himself 'leader' of Brazil after fleeing country, arriving in Miami
 **Source:** Fox News | **Sentiment Score:** `0.8555`
 
 Brazilian Sen. Flávio Bolsonaro fled to Florida through Argentina after a Supreme Court justice ordered his passport seizure minutes after Lula won. Sen. Flávio Bolsonaro, who lost Brazil's presidential election to leftist incumbent Luiz Inácio Lula da Silva on Sunday, declared himself the country's leader after arriving in Florida on Wednesday.…
 
 [Read Original Article Here](https://www.foxnews.com/politics/brazils-bolsonaro-arrives-miami-following-exodus-passport-seizure-order-investigation)
----
-
-## Article 5: Pentagon says Iran war has cost US taxpayers $47bn: What that means
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.7184`
-
-With five days to go before the US midterms, analysts say the war could affect how people vote. The Pentagon has told lawmakers in the United States that the war on Iran has cost American taxpayers at least $47.1bn so far. The estimate, disclosed last week, comes just days before the November …
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/10/29/pentagon-says-iran-war-has-cost-us-taxpayers-47bn-what-that-means)
----
-
-## Article 6: Obama and Trump spar at rallies in Georgia and Ohio: Key takeaways
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.8934`
-
-Obama and Trump traded barbs over the Iran war, tariffs and the White House ballroom ahead of the US midterm elections. Former US President Barack Obama and President Donald Trump held rival campaign rallies in Georgia and Ohio on Wednesday, trading criticism over the war in Iran, tariffs and the economy just five day…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/10/29/obama-and-trump-rally-in-georgia-and-ohio-key-takeaways)
----
-
-## Article 7: HUGH HEWITT: The hidden advantage that could turn Senate toss-ups into GOP wins
-**Source:** Fox News | **Sentiment Score:** `0.7650`
-
-Susan Collins' seniority advantage and key Senate races from Ohio to Minnesota could determine GOP control as Trump campaigns across the country. Which candidates for Senate are in a better position to help their state and, by extension, their citizens in the six years ahead? This is the question voters in every state with a contested Senate …
-
-[Read Original Article Here](https://www.foxnews.com/opinion/hugh-hewitt-hidden-advantage-turn-senate-toss-ups-gop-wins)
----
-
-## Article 8: ‘Economic incentives are limited’: What does Russia really offer Africa?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.4588`
-
-African nations weigh political incentives as Moscow offers limited economic benefits compared with China and the West. In 2019, I travelled to Berengo Palace, outside Bangui, to interview Russian mercenaries. Once the home of Jean-Bedel Bokassa, the Central African Republics self-crowned emperor, it was now occupied…
-
-[Read Original Article Here](https://www.aljazeera.com/features/2026/10/29/wagners-shadow-looms-as-russia-reshapes-african-military-alliances)
----
-
-## Article 9: Why a Democratic win in US midterms could adversely affect Europe
-**Source:** Al Jazeera English | **Sentiment Score:** `0.0772`
-
-Complacency about rising far-right movements and renewed pressure on Ukraine could be the result. The United States midterm elections appear stacked against the ruling Republicans, with polls suggesting the Democrats average an eight-point lead in the House of Representatives and the Senate. But …
-
-[Read Original Article Here](https://www.aljazeera.com/features/2026/10/29/why-a-democratic-win-in-us-midterms-could-adversely-affect-europe)
----
-
-## Article 10: El-Sayed rallygoers urge 'major change,' cash handouts to fight cost crisis
-**Source:** Fox News | **Sentiment Score:** `0.9517`
-
-Supporters of Michigan Democratic U.S. Senate candidate Abdul El-Sayed praised his Medicare for All and other progressive platforms at a Detroit rally. DETROIT Supporters of Michigan Democratic U.S. Senate candidate Abdul El-Sayed told Fox News Digital the Great Lake State is due for a progressive champion and person of color in statewide office. "…
-
-[Read Original Article Here](https://www.foxnews.com/media/el-sayed-rallygoers-urge-major-change-cash-handouts-fight-cost-crisis)
----
-
-## Article 11: Dem AG’s ‘too many golf courses’ remark goes viral as critics tee off
-**Source:** Fox News | **Sentiment Score:** `-0.2023`
-
-Arizona Senate president Warren Petersen slammed Kris Mayes after she said the state has "too many golf courses" during a water conservation debate. Arizonas Senate president took aim at viral comments about the future of golf from the states Democratic attorney general as their battle to be the states top law enforcement officer entered its fina…
-
-[Read Original Article Here](https://www.foxnews.com/politics/dem-ag-too-many-golf-courses-remark-goes-viral-critics-tee-off)
----
-
-## Article 12: Bank of Canada raises interest rates for the first time in three years
-**Source:** Al Jazeera English | **Sentiment Score:** `0.7430`
-
-The central bank increased the key rate by a quarter point as soaring energy prices pushed up inflation. The Bank of Canada (BoC) has raised its key interest rate for the first time in more than three years and warned that further increases might be needed to prevent soaring energy costs from fueling br…
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/10/28/bank-of-canada-raises-interest-rates-for-the-first-time-in-three-years)
----
-
-## Article 13: Ethiopia receives 12 Russian Su-35 jets, plans S-400 acquisition
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.1531`
-
-PM Abiy Ahmed makes announcement during a Moscow summit as Ethiopia battles armed groups in Tigray and Amhara. Ethiopia has received 12 Russian Su-35 fighter jets and will also acquire four S-400 air defence batteries, Prime Minister Abiy Ahmed has announced. Abiy made the announcement on X on Wednesday duri…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/10/28/ethiopia-receives-12-russian-su-35-jets-plans-s-400-acquisition)
----
-
-## Article 14: Democrat's 2-word answer on a possible presidential run draws cheers from Maine crowd
-**Source:** Fox News | **Sentiment Score:** `0.2960`
-
-Mark Kelly responded "we'll see" when an audience member shouted "president" during a stump speech, fueling 2028 presidential election speculation. Sen. Mark Kelly, D-Ariz., appeared to leave the door open for a presidential run in 2028 while giving a stump speech on Tuesday for Troy Jackson, the Democratic nominee for Senate in Maine. Kelly wa…
-
-[Read Original Article Here](https://www.foxnews.com/politics/democrats-2-word-answer-possible-presidential-run-draws-cheers-maine-crowd)
----
-
-## Article 15: Mike Collins drops Election Day gas price prediction in heated Georgia Senate race
-**Source:** Fox News | **Sentiment Score:** `0.3034`
-
-Republican Rep. Mike Collins details his private conversation with President Trump after the Perry rally and his role in landing Audi's $4.2 billion deal. EXCLUSIVE Republican Rep. Mike Collins offered a behind-the-scenes look at his latest conversation with President Donald Trump and detailed his role in preparing Georgia's infrastructure for a multib…
-
-[Read Original Article Here](https://www.foxnews.com/politics/mike-collins-drops-election-day-gas-price-prediction-heated-georgia-senate-race)
----
-
-## Article 16: LEE CARTER: America is angry at everyone — but who will actually vote?
-**Source:** Fox News | **Sentiment Score:** `-0.9538`
-
-Democrats lead midterm election polls, but the gap narrows sharply among voters certain to participate, making voter turnout the key factor. America is furious. Democrats are furious at Trump. Republicans are furious at Democrats. Independents are furious at just about everyone. At last, something we can agree on. INDEPENDENT VOTERS AR…
-
-[Read Original Article Here](https://www.foxnews.com/opinion/lee-carter-america-angry-everyone-who-will-actually-vote)
----
-
-## Article 17: Russia-Africa Summit: What is on the agenda, and why does it matter?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.7269`
-
-Moscow aims to strengthen economic and security ties with African leaders during the two-day gathering. Trade and security are expected to be on the agenda as delegations and leaders from dozens of African countries gather in Moscow for a two-day summit with Russia. The third instalment of the Russia-…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/10/28/russia-africa-summit-what-is-on-the-agenda-and-why-does-it-matter)
----
-
-## Article 18: ‘Russia is already part of who I am’: African students in Moscow
-**Source:** Al Jazeera English | **Sentiment Score:** `0.8555`
-
-As the Russia-Africa Summit gets under way, students in the capital say education is helping to build ties. Moscow, Russia Moscows Patrice Lumumba Peoples Friendship University better known as RUDN offers a view of a relationship often discussed in the language of diplomacy, trade and security. On the eve…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/10/28/russia-is-already-part-of-who-i-am-african-students-in-moscow)
----
-
-## Article 19: Deep in Trump country, a new generation reveals the divide behind Texas' tight Senate race
-**Source:** Fox News | **Sentiment Score:** `0.3919`
-
-Three Texas Tech roommates reveal how abortion rights, oil and gas policy, and cost of living shape their votes in the Paxton-Talarico race. LUBBOCK, Texas They share a roof, split the bills and attend the same university. But as Texas' unexpectedly competitive Senate race takes center stage in West Texas, three college roommates have ver…
-
-[Read Original Article Here](https://www.foxnews.com/politics/deep-trump-country-new-generation-reveals-divide-behind-texas-tight-senate-race)
----
-
-## Article 20: Israel’s stock market drops as exit polls show no clear election winner
-**Source:** Al Jazeera English | **Sentiment Score:** `0.0772`
-
-Benchmark Tel Aviv 125 index falls more than 2 percent amid uncertainty over who will lead the next government. Israels stock market has fallen sharply amid exit polls showing no clear winner in the countrys parliamentary elections. The benchmark Tel Aviv 125 index dropped as much as 3.5 percent in early trad…
-
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/10/28/israels-stock-market-drops-as-exit-polls-show-no-clear-election-winner)
 ---
 
