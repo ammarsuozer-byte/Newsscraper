@@ -1,167 +1,167 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-11-03 | **Status:** Automated
+**Date:** 2026-11-04 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: Lobster industry caught in Maine’s political headwinds before midterms
-**Source:** Al Jazeera English | **Sentiment Score:** `0.1280`
+## Article 1: In Pictures: US midterm elections in 20 photos
+**Source:** Al Jazeera English | **Sentiment Score:** `0.0000`
 
-Senator Susan Collins and Democratic challenger Troy Jackson clash over tariffs and their impact on Maine's economy. David Horner lives for lobster. For half a century, day after day, he has taken his boat and headed into the cold waters of the North Atlantic off the coast of the US state of Maine, hauling the cru…
+Voters, parents, and campaigners share the spotlight in a crucial election set to reshape US political direction. Americans head to the polls on Tuesday in midterm elections that will decide control of Congress and determine how much pressure President Donald Trump faces for the rest of his term. After two year…
 
-[Read Original Article Here](https://www.aljazeera.com/economy/2026/11/2/lobster-industry-caught-in-maines-political-headwinds-before-midterms)
+[Read Original Article Here](https://www.aljazeera.com/gallery/2026/11/3/in-pictures-us-midterm-elections-in-20-photos)
 ---
 
-## Article 2: How US oil firms profit $130bn from Iran war as household bills surge
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.0772`
+## Article 2: How US midterms have cost a record $12bn as cost of living soars
+**Source:** Al Jazeera English | **Sentiment Score:** `0.5994`
 
-As energy from the Gulf and Russia take a hit, American oil and gas firms are the big gainers. United States oil companies have earned more than $130bn in profits during the war on Iran, even as consumers pay much higher prices for key commodities, amid fears that US President Donald Trump may…
+Candidates, donors and super PACs are spending more than ever on political campaigns. The US midterm elections are on track to be the most expensive for candidates and political donors in history. According to OpenSecrets, a research group that tracks money in US politics, close to a …
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/11/2/how-us-oil-firms-profit-130bn-from-iran-war-as-household-bills-surge)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/11/3/how-us-midterms-have-cost-a-record-12bn-as-cost-of-living-soars)
 ---
 
-## Article 3: Haley Stevens' Democratic allies turn on her after surprise GOP endorsement
-**Source:** CNN | **Sentiment Score:** `0.8807`
+## Article 3: From Italy to Canada, how the UK’s Palestine Action group went global
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.3612`
 
-Rep. Haley Stevens, D-Michigan, speaks alongside Michigan Republican Senate candidate Mike Rogers after a church service at Perfecting Church, in Detroit on Sunday, November 1, 2026. - Jose Juarez/AP  As recently as Saturday night, the prospect of Democrat H… As recently as Saturday night, the prospect of Democrat Haley Stevens endorsing Republican Mike Rogers in Michigans Senate race had seemed implausible. Stevens issued a statement praising Democratic…
+The banned UK group, which targets Israel's war machine, has inspired activists in Europe and beyond. London, United Kingdom In November 2023, protesters spray painted the Rome headquarters of Leonardo, an Italian weapons manufacturer with ongoing contracts with Israel. The group was inspired by a P…
 
-[Read Original Article Here](https://www.cnn.com/2026/11/01/politics/haley-stevens-abdul-el-sayed-mike-rogers-michigan-primary-what-happened)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/11/3/from-italy-to-canada-how-the-uks-palestine-action-group-went-global)
 ---
 
-## Article 4: LEE CARTER: The 5 words that explain this election better than any commercial
-**Source:** Fox News | **Sentiment Score:** `0.4404`
+## Article 4: Very cold war: Who’s attacking Europe’s supermarket freezers?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.7650`
 
-Affordability, socialism, corruption, Trump, and turnout: five words a researcher says explain the 2026 midterms better than $11 billion in ads. Eleven billion dollars. Actually, more than that. Political advertising spending and reservations have now exceeded $11.6 billion, making this the most expensive election cycle for political adverti…
+Cold stores in supermarkets across Europe have been targeted in a cyberattack with no clear culprit. Supermarket refrigerators and freezers across Europe have been targeted by a cyberattack that raised the temperature of internet-linked units, destroying and damaging large quantities of food. On Mo…
 
-[Read Original Article Here](https://www.foxnews.com/opinion/lee-carter-5-words-explain-election-better-than-any-commercial)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/11/3/very-cold-war-whos-attacking-europes-supermarket-freezers)
 ---
 
-## Article 5: Poll flashes warning signs for Republicans in 7 battleground Senate races
-**Source:** Fox News | **Sentiment Score:** `0.4404`
+## Article 5: The economy is on the ballot. 3 charts reveal the reality voters face as they head to the polls
+**Source:** Fox News | **Sentiment Score:** `0.6908`
 
-Senate polls show Democrats leading in Texas, Kansas, Ohio, Maine and Alaska, with Trump's approval at just 38% across the seven battlegrounds. Republicans are trailing Democrats in seven key Senate battlegrounds, including longtime GOP strongholds Texas and Kansas, according to a poll released Sunday, just days before the midterm elections.…
+Inflation outpacing wages, gas prices above $4, and mortgage rates past 7% are squeezing voters even as the S&P 500 surges over 26% under Trump. Voters who have already cast ballots and those heading to the polls on Tuesday are weighing an economy shaped by rising everyday costs, surging home prices and strong gains in the stock market. Pres…
 
-[Read Original Article Here](https://www.foxnews.com/politics/poll-flashes-warning-signs-republicans-7-battleground-senate-races)
+[Read Original Article Here](https://www.foxnews.com/politics/economy-ballot-3-charts-reveal-reality-voters-face-head-polls)
 ---
 
-## Article 6: SCHOEN, COOPERMAN: Democrats close in as Republicans scramble to hold Congress
-**Source:** Fox News | **Sentiment Score:** `-0.2732`
+## Article 6: Iran commander sets out five conditions for regional security
+**Source:** Al Jazeera English | **Sentiment Score:** `0.8402`
 
-Polls, forecasts, and prediction markets flash alarm bells for Republicans as Democrats eye their largest House majority since 2009 in the midterms. In the closing days of the 2026 midterm cycle, all available evidence suggests that the trends are moving in Democrats favor. Polls, forecasts, and prediction markets are now ringing alarm bells for …
+Mediator Qatar says US and Iran are studying proposals to resume negotiations and that it was 'hopeful' of an agreement. The chief of staff of Irans armed forces has laid out five conditions for what he calls a roadmap to lasting security, as Qatar said it was hopeful that Tehran and Washington could reach a deal pavin…
 
-[Read Original Article Here](https://www.foxnews.com/opinion/schoen-cooperman-democrats-close-republicans-scramble-hold-congress)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/11/3/iran-commander-sets-out-five-conditions-for-regional-security)
 ---
 
-## Article 7: REP BRIAN MAST: We are protecting our troops from having our own tech used against them
-**Source:** Fox News | **Sentiment Score:** `-0.8588`
+## Article 7: What's at stake on Election Day in the battle for Congress and more top headlines
+**Source:** Fox News | **Sentiment Score:** `0.8371`
 
-Trump's proposed rules target American investments flowing to the Chinese Communist Party's military-industrial base in AI and semiconductors. The key objective in economic warfare is to do more harm to your enemy than you do to yourself, and President Donald Trump is doing what every American president should do: putting America first and …
+Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox. Good morning and welcome to Fox News' morning newsletter, Fox News First. And here's what you need to know to start your day ... TOP 3 1. What's at stake on Election Day in the battle for Congress …
 
-[Read Original Article Here](https://www.foxnews.com/opinion/rep-brian-mast-protecting-troops-own-tech-used-against-them)
+[Read Original Article Here](https://www.foxnews.com/us/whats-stake-election-day-battle-congress-more-top-headlines)
 ---
 
-## Article 8: How to watch critical 2026 midterm election races in TX, OH, MI, WI, GA, IA, NV, ME and FL
-**Source:** Fox News | **Sentiment Score:** `-0.4019`
+## Article 8: Alaska Senate candidates trade accusations ahead of election
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.2023`
 
-Nine battleground states hold the key to control of Congress as Republicans defend majorities and Democrats eye Senate pickups in the 2026 midterms. Control of Congress is on the line Tuesday as voters decide pivotal Senate and House races across the country, while closely watched contests for governor will shape the political landscape in key st…
+Alaska Senate candidates trade accusations ahead of election Republican US Senator Dan Sullivan and Democratic challenger Mary Peltola made their final appeals to voters in Alaska hours before polls open in the US midterm elections.
 
-[Read Original Article Here](https://www.foxnews.com/politics/how-watch-critical-2026-midterm-election-races-tx-oh-mi-wi-ga-ia-nv-me-fl)
+[Read Original Article Here](https://www.aljazeera.com/video/newsfeed/2026/11/3/alaska-senate-candidates-trade-accusations-ahead-of-election)
 ---
 
-## Article 9: Hugh Hewitt on Midterm Showdowns, Volatile Polls, and 2028 Predictions
-**Source:** Fox News | **Sentiment Score:** `0.0000`
+## Article 9: Lebanon cuts power to public bodies as electricity crisis deepens
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.8074`
 
-With the midterms in the final stretch, radio host and political analyst Hugh Hewitt joins Jessica Rosenthal on The FOX News Rundown: Extra to break down the electorate. Hewitt discusses why voters should look past volatile polling data, where campaign money … With the midterms in the final stretch, radio host and political analyst Hugh Hewitt joins Jessica Rosenthal on The FOX News Rundown: Extra to break down the electorate. Hewitt discusses why voters s…
+Political disputes and war worsen Lebanon's electricity crisis, as experts say deeper reforms are necessary. Beirut, Lebanon Lebanons Ministry of Energy and Water has begun shutting down the supply of electricity to approximately 100 public institutions that have outstanding bill payments, according to loca…
 
-[Read Original Article Here](https://radio.foxnews.com/2026/11/01/hugh-hewitt-on-midterm-showdowns-volatile-polls-and-2028-predictions/)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/11/3/lebanon-cuts-power-to-public-bodies-as-electricity-crisis-deepens)
 ---
 
-## Article 10: Wall Street braces for more wild days in stocks after tech rout
-**Source:** Bloomberg | **Sentiment Score:** `-0.0258`
+## Article 10: HUGH HEWITT: The ghosts of 2006 are stirring — but will they catch the GOP?
+**Source:** Fox News | **Sentiment Score:** `0.4588`
 
-Bloomberg: Traders are bracing for more shocks from the US midterms and Nvidia earnings. This looks more like a bullish rotation with a derating at its core than the beginning of a broad market deterioration, said Florian Ielpo, head of macro research at Lombard Odier Investment Manageme…
+A 2026 midterm analysis compares Trump's position to Bush's 2006 losses, weighing GDP growth, inflation and the Iran conflict against historical patterns. As the past is often prologue, much of the GOP is thinking today about the pounding the party took in 2006, the last time a Republican president led his party into the midterms for the second time. O…
 
-[Read Original Article Here](https://www.bloomberg.com/news/articles/2026-11-01/wall-street-braces-for-more-wild-days-in-stocks-after-tech-rout)
+[Read Original Article Here](https://www.foxnews.com/opinion/hugh-hewitt-ghosts-2006-stirring-catch-gop)
 ---
 
-## Article 11: Carney signals progress on Canada-US trade deal talks as midterms loom
-**Source:** Al Jazeera English | **Sentiment Score:** `0.8720`
+## Article 11: Palestine weekly: Election deadlock meets West Bank sieges, Gaza killings
+**Source:** Al Jazeera English | **Sentiment Score:** `0.2263`
 
-Canadian PM Mark Carney announces progress in Canada-US trade deal talks ahead of Tuesday's US midterm elections. Canadian Prime Minister Mark Carney has announced progress towards a future trade deal with the United States, which could help ease tensions between the two North American neighbours. The Sunday an…
+As Israel grapples with an inconclusive election, Palestinians face West Bank closures and Gaza killings. The election night highs for Palestinian citizens of Israel Arab-led parties won a record 19 seats turned into a week of delegitimising rhetoric from Israeli politicians. Nearly 840,000 people voted…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/11/1/carney-signals-progress-on-canada-us-trade-deal-talks-as-midterms-loom)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/11/3/palestine-weekly-election-deadlock-meets-west-bank-sieges-gaza-killings)
 ---
 
-## Article 12: Will Democrats block the stock trading ban again after the midterm elections?
-**Source:** Fox News | **Sentiment Score:** `-0.8766`
+## Article 12: 2026 Midterm Election Results Live: Democrats take the House
+**Source:** CNN | **Sentiment Score:** `0.8074`
 
-Senate Democrats voted against a bill that would have banned Congress stock trading. A new poll shows political corruption is voters' top concern. Americans do not agree on much these days, but they certainly agree on this: Members of Congress should not get rich trading stocks while writing the very laws that move those stocks. The failure to…
+Democrat Annie Andrews will win the US Senate race in South Carolina, CNN’s Decision Desk projects, defeating Sen. Darline Graham and flipping a seat that Republicans have held for nearly three decades.  Follow for the latest updates. Wall Street investors were recalibrating Tuesday night as early election results point to a potentially huge win for Democrats. Dow futures fell 400 points, or 0.8%. S&amp;P 500 futures were down 1%…
 
-[Read Original Article Here](https://www.foxnews.com/opinion/will-democrats-block-stock-trading-ban-again-after-midterm-elections)
+[Read Original Article Here](https://www.cnn.com/2026/11/03/politics/live-news/midterm-election-congress)
 ---
 
-## Article 13: Iran and US explore diplomacy amid rising threats of war
-**Source:** Al Jazeera English | **Sentiment Score:** `0.7906`
+## Article 13: US midterms present a test for Republican redistricting in Texas and beyond
+**Source:** Al Jazeera English | **Sentiment Score:** `0.0000`
 
-Iran says could reopen Hormuz in shorter period if conditions met, as Trump says US still has targets to 'take care of'. Tehran, Iran Ongoing contacts through mediators have provided a potential diplomatic opening between Iran and the United States, even as both sides express readiness for renewed military escalation.…
+Partisan redistricting has transformed elections for Black voters in Houston as Democrats seek new pathways to victory. Houston, Texas The gospel music from Mount Hebron Missionary Baptist Church spills into the streets of Sunnyside, a predominantly Black neighbourhood in southern Houston. It is a familiar scene on a…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/11/1/iran-and-us-explore-diplomacy-amid-rising-threats-of-war)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/11/3/us-midterms-present-a-test-for-republican-redistricting-in-texas-and-beyond)
 ---
 
-## Article 14: From railway tragedy to gov’t change: Serbia’s two-year fight for justice
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.9571`
+## Article 14: War, tariffs and China: What the US midterms mean for the Asia-Pacific
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.7650`
 
-A timeline of events since the deadly train station collapse in Novi Sad, which led to a change of government in Serbia. Sunday marks two years since 16 people were killed when a train station canopy collapsed in the Serbian city of Novi Sad. The accident prompted student-led protests which swiftly evolved into a wide…
+Hit hard by Trump's tariffs and the war on Iran, countries in the Asia-Pacific want 'enormous changes' in US policies. Kuala Lumpur, Malaysia Across the Asia-Pacific region, governments and businesses reeling from the energy shock of the United States and Israels war on Iran are watching Tuesdays US midterm elections…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/11/1/from-railway-tragedy-to-govt-change-serbias-two-year-fight-for-justice)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/11/2/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific)
 ---
 
-## Article 15: Colombia's 'El Tigre' takes fight to cartels as Trump alliance takes shape
-**Source:** Fox News | **Sentiment Score:** `-0.7783`
+## Article 15: Sec. Scott Bessent On Iran: “We’ve Started The Greatest Economic Isolation Of Any Nation In History.”
+**Source:** Fox News | **Sentiment Score:** `0.9287`
 
-Abelardo de la Espriella claims over 32,000 arrests in ten weeks as Colombia joins Trump's anti-cartel coalition, pivoting away from predecessor's policies. President Abelardo de la Espriella means business when it comes to his war against the cartels. Colombia's new president, known by the nickname of El Tigre, was voted in on a law and order ticket and…
+Full Interview: Full Transcript: Guy Benson: Joining us now is the Treasury Secretary under the Trump administration, Scott Bessent. Mr. Secretary, welcome to the show. Sec. Scott Bessent: Good to be with you, Guy. Guy Benson: I want to start with just a big … Full Interview: Full Transcript: Guy Benson: Joining us now is the Treasury Secretary under the Trump administration, Scott Bessent. Mr. Secretary, welcome to the show. Sec. Scott Bessent: Good to…
 
-[Read Original Article Here](https://www.foxnews.com/world/colombias-el-tigre-takes-fight-cartels-trump-alliance-takes-shape)
+[Read Original Article Here](https://radio.foxnews.com/2026/11/02/sec-scott-bessent-on-iran-weve-started-the-greatest-economic-isolation-of-any-nation-in-history/)
 ---
 
-## Article 16: Midterm voters reveal what's driving them to the polls — but what they're voting against may matter more
-**Source:** Fox News | **Sentiment Score:** `-0.5423`
+## Article 16: US midterms 2026: What polls reveal about Democratic, Republican voters
+**Source:** Al Jazeera English | **Sentiment Score:** `0.4404`
 
-Voters reveal frustration with Trump's administration and opposition to socialism as the key factors driving their midterm election decisions. With just two days until Americans head to the polls, voters from across the country revealed that their midterm decisions may be driven more by frustration with what they oppose than by support for …
+From the economy and cost of living to immigration, polls suggest where American voters agree and disagree. Americans will vote in the US midterm elections on Tuesday, with the economy, the cost of living, and immigration among the top issues. While Democrats and Republicans share concerns about the rising…
 
-[Read Original Article Here](https://www.foxnews.com/politics/midterm-voters-reveal-whats-driving-them-polls-what-theyre-voting-against-may-matter-more)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/11/2/us-midterms-2026-what-polls-reveal-about-democratic-republican-voters)
 ---
 
-## Article 17: US midterms: 2 days to go – what polls say as Trump, El-Sayed hit the trail
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.4767`
+## Article 17: Mamdani’s progressive allies vie for seats in Congress
+**Source:** Al Jazeera English | **Sentiment Score:** `0.9136`
 
-Democrats remain ahead in national polls as Trump and candidates make their final push in the days before polling day. With two days to the United States midterm elections, Democratic and Republican leaders are making last-ditch efforts to woo voters, with the cost-of-living crisis, exacerbated by the US-Israel war o…
+Three New York City progressive Democrats are expected to win their midterm congressional races in Tuesday's election. In June, New York City Mayor Zohran Mamdani stood before a packed house of voters, rallying support for a new wave of candidates hoping to build on his progressive momentum by winning seats in Congre…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/11/1/us-midterms-2-days-to-go-what-polls-say-as-trump-el-sayed-hit-the-trail)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/11/2/mamdanis-progressive-allies-vie-for-seats-in-congress)
 ---
 
-## Article 18: CodePink leader adds muscle to well-funded fight to ban restaurant delicacy
-**Source:** Fox News | **Sentiment Score:** `0.3182`
+## Article 18: I'm Mike Rogers. This is why I want Michigan's vote for Senate
+**Source:** Fox News | **Sentiment Score:** `-0.8658`
 
-An Oregon-based group poured nearly $475,000 into D.C.'s foie gras ban as part of a strategy to "storm the nation" with local ballot campaigns. WASHINGTON, D.C. CodePink D.C. Coordinator Olivia DiNucci last month posted a TikTok video of herself in a home supporting an issue far afield from her usual battles supporting the Communist Party of…
+Abdul El-Sayed's Green New Deal policies and gas-powered car ban could raise utility rates and kill Michigan manufacturing jobs, his opponent warns. When my wife Kristi and I decided to enter this race over a year and a half ago, we knew that the stakes in this election were high. The Michigan we both grew up in our home was barely recognizable. …
 
-[Read Original Article Here](https://www.foxnews.com/politics/codepink-leader-adds-muscle-well-funded-fight-ban-restaurant-delicacy)
+[Read Original Article Here](https://www.foxnews.com/opinion/mike-rogers-michigans-vote-senate)
 ---
 
-## Article 19: Iran warns of unfettered retaliation if attacked as mediators try for peace
-**Source:** Al Jazeera English | **Sentiment Score:** `0.7707`
+## Article 19: I'm Dr. Abdul El-Sayed. This is why I want Michigan's vote for Senate
+**Source:** Fox News | **Sentiment Score:** `0.7269`
 
-Iran’s supreme leader says Tehran’s potential response will not be restricted by geography. Tehran, Iran Supreme Leader Mojtaba Khamenei has issued a strongly worded message to the Iranian armed forces, as mediators continue to try to prevent a new breakout of war between Iran and the Unite…
+Democrat Abdul El-Sayed makes his case against Republican Mike Rogers in the Michigan Senate race, citing tariffs, gas prices, and healthcare as key campaign issues. Earlier this month, our campaign kicked off a week-long town hall tour in Northern Michigan and the Upper Peninsula. Many of our stops were in towns Trump won by thirty points. Pundits laughed in ou…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/10/31/iran-warns-of-unfettered-retaliation-if-attacked-as-mediators-try-for-peace)
+[Read Original Article Here](https://www.foxnews.com/opinion/dr-abdul-el-sayed-why-want-michigans-vote-senate)
 ---
 
-## Article 20: TIM GRAHAM: Three-to-one negative coverage tells the story of network bias
-**Source:** Fox News | **Sentiment Score:** `-0.6796`
+## Article 20: What Wall Street Wants from the 2026 Midterm Results
+**Source:** Fox News | **Sentiment Score:** `-0.2500`
 
-Watching the broadcast news networks in 2026 shows a three-to-one ratio of negative Republican coverage versus Democrats, a new study found. Watching the broadcast news networks report on campaigns makes you think theyre not creating news as much as theyre trying to make the political weather. On every day, in every way, they labor to pla…
+Millions of Americans will head to the polls on Election Day as pocketbook pressures and everyday affordability remain top concerns for voters. As Washington, D.C. braces for a potential shift in the balance of power, what is Wall Street watching when results… Millions of Americans will head to the polls on Election Day as pocketbook pressures and everyday affordability remain top concerns for voters. As Washington, D.C. braces for a potential shift in the…
 
-[Read Original Article Here](https://www.foxnews.com/opinion/tim-graham-three-to-one-negative-coverage-tells-story-network-bias)
+[Read Original Article Here](https://radio.foxnews.com/2026/11/02/what-wall-street-wants-from-the-2026-midterm-results/)
 ---
 
