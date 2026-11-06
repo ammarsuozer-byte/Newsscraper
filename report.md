@@ -1,167 +1,167 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-11-05 | **Status:** Automated
+**Date:** 2026-11-06 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: Fox News Voter Poll: 2026 midterm elections usher in a blue wave as Democrats win control of Congress
-**Source:** Fox News | **Sentiment Score:** `-0.6908`
+## Article 1: ‘Healthcare not bombs’: How Gaza shaped Adam Hamawy’s path to US Congress
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.8885`
 
-President Donald hTrump's job approval sank to 38% as inflation, tariffs and the Iran war drove a historic Democratic sweep of the House and the Senate. In a historic midterm election, Democrats swept both the House and Senate, riding a blue wave spurred by widespread voter discontent. The economy, government corruption, war in Iran and increasingly …
+Former army surgeon and Gaza volunteer Hamawy is the first Muslim American elected to the US Congress from New Jersey. Adam Hamawy has seen death, devastation and the effects of hate on others for decades as a first responder after the September 11 attacks, while serving in Iraq as a United States military surgeon, a…
 
-[Read Original Article Here](https://www.foxnews.com/politics/voter-poll-2026-midterm-elections-usher-blue-wave-democrats-win-control-congress)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/11/5/healthcare-not-bombs-how-gaza-shaped-adam-hamawys-path-to-us-congress)
 ---
 
-## Article 2: Majority of Americans broadly reject socialist ideology even as far left surges to power
-**Source:** Fox News | **Sentiment Score:** `-0.4144`
+## Article 2: Could the US midterms further isolate Israel in Washington?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.8126`
 
-The Fox News Voter Poll finds 54% view socialism unfavorably, yet 69% say the economy favors the wealthy, revealing a striking political tension. Most Americans have a negative view of socialism, according to the Fox News Voter Poll, even as left-wing candidates across the country notched resounding victories on Election Day. Of the 100,000 r…
+The midterms showed that challenging support for Israel can win votes. But changing US foreign policy may be harder. As the midterm votes trickled in on Tuesday and Democrats locked up majorities in both chambers of the United States Congress, Republicans began pointing fingers at the Trump administrations increasi…
 
-[Read Original Article Here](https://www.foxnews.com/politics/majority-americans-broadly-reject-socialist-ideology-far-left-surges-power)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/11/5/could-the-us-midterms-further-isolate-israel-in-washington)
 ---
 
-## Article 3: No regrets: Trump says Iran war justified despite polls drubbing
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.4588`
+## Article 3: GOP lawmaker says more qualified officials should lead Pentagon, questions Hegseth's 'moral compass'
+**Source:** Fox News | **Sentiment Score:** `-0.7964`
 
-Trump acknowledges Iran war played role in defeats but says he would launch it again. President Donald Trump has acknowledged the impact of the United States attack on Iran and a sharp rise in prices on stunning Republican losses in midterm elections on Tuesday, but said the move was …
+Rep. Don Bacon alleges Pete Hegseth lacks a "moral compass" and says the war secretary "doesn't have a lot of friends on the Hill" today. FIRST ON FOX: Rep. Don Bacon, R-Neb., told Fox News Digital that the Department of War should not be led by Secretary of Defense Pete Hegseth, criticizing his leadership and questioning his judgment.…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/11/4/no-regrets-trump-says-iran-war-justified-despite-polls-drubbing)
+[Read Original Article Here](https://www.foxnews.com/politics/gop-lawmaker-says-more-qualified-officials-should-lead-pentagon-questions-hegseths-moral-compass)
 ---
 
-## Article 4: Iranian leaders welcome US midterms, but Trump may still attack
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.9042`
+## Article 4: Why more investment is not making housing affordable in Ghana
+**Source:** Al Jazeera English | **Sentiment Score:** `0.1027`
 
-Tehran views midterm results as a rejection of Trump's 'war on Iran', signalling US frustration with foreign policy. Tehran, Iran Iranian authorities are painting the sweeping midterm election defeats for United States President Donald Trumps Republican Party as a repudiation by the American public of the war on Ir…
+High costs, limited financing and rising demand keep homes out of reach. Accra, Ghana  Ghana needs more than 1.8 million additional housing units, but attracting investment to build them is only half the challenge. For millions of people, the deeper problem is that the ho…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/11/4/iranian-leaders-welcome-us-midterms-but-trump-may-still-attack)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/11/5/why-more-investment-is-not-making-housing-affordable-in-ghana)
 ---
 
-## Article 5: Can Democrats stop Iran war, reverse Trump’s tariffs after midterms win?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.3182`
+## Article 5: ‘Knives out’: Will Congress impeach Pete Hegseth after GOP midterms loss?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.2023`
 
-Democrats can block Trump's legislative agenda, launch investigations but don't have the numbers to override his veto. Democrats have taken control of the United States House of Representatives and Senate in Tuesdays midterm elections in a scathing defeat for US President Donald Trumps Republican Party.   The Congre…
+Democrats can adopt the impeachment articles in the House but will need Republican backing in the Senate. The Republican Partys stunning defeat in the United States midterm elections on Tuesday has prompted calls from within the Trump administration and from its critics for accountability over a focus of…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/11/4/tariffs-to-iran-war-can-democrats-reverse-trump-policy-with-midterms-win)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/11/5/knives-out-will-congress-impeach-pete-hegseth-after-gop-midterms-loss)
 ---
 
-## Article 6: America is heading for two years of constitutional brinkmanship
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.4588`
+## Article 6: MARTHA MACCALLUM: These American heroes show us what true valor really means
+**Source:** Fox News | **Sentiment Score:** `0.8865`
 
-An unlikely mix of political bargains and constitutional confrontation will define the next two years. To understand the coming collision between President Donald Trump and a Democratic Congress, one must first discard the textbook formulas of US governance. The United States is about to witness a pol…
+The "Book of Valor" by Martha MacCallum traces American heroism from the Mayflower to Afghanistan through voices of those who lived it, including Medal of Honor recipients. What is valor? Defined by Websters Dictionary: <ol><li>Great courage in the face of danger, especially in battle. "The medals are awarded for acts of valor."</li><li>Strength of mind or spirit that…
 
-[Read Original Article Here](https://www.aljazeera.com/opinions/2026/11/4/america-is-heading-for-two-years-of-constitutional-brinkmanship)
+[Read Original Article Here](https://www.foxnews.com/opinion/martha-maccallum-american-heroes-show-true-valor-means)
 ---
 
-## Article 7: ‘Call me senator’: How Abdul El-Sayed beat Trump’s hate to create history
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.7184`
+## Article 7: 2026 Midterm Election Results Live: Democrats flip 4 more seats in the House, CNN projects
+**Source:** CNN | **Sentiment Score:** `0.6808`
 
-The 42-year-old Democrat has defeated Republican Mike Rogers to become the first Muslim senator in the US. Abdul El-Sayed had an uncomfortable message for US President Donald Trump and Vice President JD Vance as he celebrated his historic election victory in Michigan. They had used a range of racist labe…
+Democrats flipped four additional seats in the House, CNN projects and could win their largest House majority since the early 1990s. Follow for live updates. Democrats are walking a fine line on their intent to investigate the Trump administration. On election night, the incoming chairman of the House Oversight Committee, Democratic Rep. Robert Garcia of…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/11/4/call-me-senator-how-abdul-el-sayed-beat-trumps-hate-to-create-history)
+[Read Original Article Here](https://www.cnn.com/2026/11/05/politics/live-news/midterm-election-congress)
 ---
 
-## Article 8: ‘Seismic shift’: World reacts to US midterm election results
-**Source:** Al Jazeera English | **Sentiment Score:** `0.7430`
+## Article 8: New Zealand braces for knife-edge election: What you need to know
+**Source:** Al Jazeera English | **Sentiment Score:** `0.8720`
 
-Iran's top negotiator says US voters sent a “NO TO WAR” message, as Trump's Democratic opponents take Congress. Democrats in the United States have scored a major victory in midterm elections, taking control of both chambers of Congress in a stinging rebuke of President Donald Trump and his Republican Party. …
+Smaller parties hold the key, with major contenders expected to fall short of the majority needed to govern alone. Days ahead of New Zealands election, polls show the governing centre-right National Party and the opposition centre-left Labour Party neck and neck, with neither on course to win enough seats to gove…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/11/4/seismic-shift-world-reacts-to-us-midterm-election-results)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/11/5/new-zealand-braces-for-knife-edge-election-what-you-need-to-know)
 ---
 
-## Article 9: Can Russia compete with the US, China and the EU in Africa?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.1531`
+## Article 9: Ted Cruz says 'blue tsunami' took over Texas after Democrats swept statewide races
+**Source:** Fox News | **Sentiment Score:** `-0.7783`
 
-Moscow pledges more trade and investment in Africa, where leaders want local industries, technology and jobs. Moscow pledges more trade and investment in Africa, where leaders want local industries, technology and jobs.Russias forces are on the ground in several African countries. Its businesses, far less so…
+Sen. Ted Cruz called the 2026 midterms a "blue tsunami" after James Talarico defeated Ken Paxton and Gina Hinojosa unseated Greg Abbott in Texas. Sen. Ted Cruz, R-Texas, delivered a scathing assessment on Wednesday of Republicans' sweeping midterm election losses, describing the results as a "blue tsunami" and warning that his party had lost t…
 
-[Read Original Article Here](https://www.aljazeera.com/video/counting-the-cost/2026/11/4/can-russia-compete-with-the-us-china-and-the-eu-in-africa)
+[Read Original Article Here](https://www.foxnews.com/politics/ted-cruz-says-blue-tsunami-took-over-texas-after-democrats-swept-statewide-races)
 ---
 
-## Article 10: America saw the blue wave coming — but drastically underestimated the extent of the Dem tsunami
-**Source:** Fox News | **Sentiment Score:** `0.3159`
+## Article 10: Pat McAfee INFURIATES “Morning Joe” Scarborough + Richie Incognito: The NFL Trench Revolution & Playing with an Edge
+**Source:** Fox News | **Sentiment Score:** `-0.9300`
 
-James Talarico toppled Ken Paxton, and Gina Hinojosa unseated Greg Abbott as Texas delivered historic Democratic upsets in the 2026 midterms. Polling and election analysts pointed to Democratic gains in the 2026 midterms, but the results brought wider margins and bigger upsets that even some of the most ambitious predictions didn't see com…
+Cable news host Joe Scarborough threw an on-air tantrum claiming he’s “had enough of Pat McAfee ruining College GameDay”–and Dan Dakich is not letting it slide. With Election Day wrapping up, international turmoil, and economic chaos across the country, Scarb… Cable news host Joe Scarborough threw an on-air tantrum claiming he’s “had enough of Pat McAfee ruining College GameDay”–and Dan Dakich is not letting it slide. With Election Day wrapping up, interna…
 
-[Read Original Article Here](https://www.foxnews.com/politics/america-saw-blue-wave-coming-drastically-underestimated-extent-dem-tsunami)
+[Read Original Article Here](https://radio.foxnews.com/2026/11/04/pat-mcafee-infuriates-morning-joe-scarborough-richie-incognito-the-nfl-trench-revolution-playing-with-an-edge/)
 ---
 
-## Article 11: ‘Rejecting hate’: Abdul El-Sayed wins Senate seat despite racist attacks
-**Source:** Al Jazeera English | **Sentiment Score:** `0.7184`
+## Article 11: Democrats won Congress. But can they deliver on their promises?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.7351`
 
-The Democrat defeats Republican Mike Rogers to win Michigan seat to become first Muslim senator-elect in US history. Detroit, Michigan Democratic candidate Abdul El-Sayed has defeated his Republican opponent, Mike Rogers, to win the United States Senate seat in Michigan, overcoming a campaign of anti-Muslim attacks…
+Despite their midterm election victories, Democrats face major obstacles to reining in Trump on Iran, tariffs and more. Democrats rode a blue wave to victory in the United States midterm elections, winning control of both chambers of Congress. Now comes the question of whether they can deliver on their promises. The …
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/11/4/rejecting-hate-abdul-el-sayed-wins-senate-seat-despite-racist-attacks)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/11/5/democrats-won-congress-but-can-they-deliver-on-their-promises)
 ---
 
-## Article 12: El-Sayed mocks Trump, Vance and Rogers in gloating victory speech signaling combative tone in Senate
-**Source:** Fox News | **Sentiment Score:** `-0.9337`
+## Article 12: DSA accused of ‘elevating’ antisemitic, pro-terror rhetoric after Hasan Piker hosts election stream
+**Source:** Fox News | **Sentiment Score:** `-0.4588`
 
-Abdul El-Sayed mocked Trump and JD Vance in a combative victory speech after defeating Mike Rogers, calling his opponents "the bad guys" who lost. Senator-elect Abdul El-Sayed mocked President Donald Trump and his opponent in a combative victory speech Tuesday night in Michigan. El-Sayed, who defeated Republican Mike Rogers, said his opponents…
+ADL CEO Jonathan Greenblatt accused the DSA of elevating antisemitism by choosing Hasan Piker to host its official election night livestream. The Democratic Socialists of America (DSA) chose controversial Twitch streamer Hasan Piker to host its official election night livestream, drawing a blunt response from Anti-Defamation League (ADL) C…
 
-[Read Original Article Here](https://www.foxnews.com/politics/el-sayed-mocks-trump-vance-rogers-gloating-victory-speech-signaling-combative-tone-senate)
+[Read Original Article Here](https://www.foxnews.com/media/dsa-accused-elevating-antisemitic-pro-terror-rhetoric-hasan-piker-hosts-election-stream)
 ---
 
-## Article 13: Dem AG pulls off upset of sitting Republican governor after blistering campaign in key swing state
-**Source:** Fox News | **Sentiment Score:** `0.3818`
+## Article 13: Tom Bevan Breaks Down What Went Wrong For Republicans
+**Source:** Fox News | **Sentiment Score:** `0.9559`
 
-Attorney General Aaron Ford ousts Gov. Joe Lombardo to become Nevada's first Black governor, handing Democrats unified control of state government. Nevada Democratic Attorney General Aaron Ford has successfully ousted Republican Gov. Joe Lombardo in Nevada, a significant pickup for Democrats in the critical battleground state, The Associated Pre…
+Listen Here: Full Transcript: Guy Benson: Our final guest today is Tom Bevan, co-founder and executive editor at RealClearPolitics. Tom, good to have you back. Tom Bevan: Great to be with you, Guy. Guy Benson: All right. Well, this feels like a worst-case sce… Listen Here: Full Transcript: Guy Benson: Our final guest today is Tom Bevan, co-founder and executive editor at RealClearPolitics. Tom, good to have you back. Tom Bevan: Great to be with you, Guy…
 
-[Read Original Article Here](https://www.foxnews.com/politics/dem-ag-pulls-off-upset-sitting-republican-governor-blistering-campaign-key-swing-state)
+[Read Original Article Here](https://radio.foxnews.com/2026/11/04/tom-bevan-breaks-down-what-went-wrong-for-republicans/)
 ---
 
-## Article 14: LAURA INGRAHAM: Richer, safer and stronger: Why the Trump agenda deserves to keep going
-**Source:** Fox News | **Sentiment Score:** `-0.8039`
+## Article 14: Erika Kirk channels Charlie with blunt message to conservatives after GOP midterm losses
+**Source:** Fox News | **Sentiment Score:** `0.1027`
 
-Critics keep declaring Trumpism dead, but Laura Ingraham argues that the economic, geopolitical, and cultural record tells a very different story about MAGA's durability. "This is the end of Trumpism!" "Conservative Populism, RIP." "Goodbye, MAGA!" If these pronouncements sound familiar, its because they are. The same people predicting this now in op-eds, online and …
+Erika Kirk invoked her late husband Charlie Kirk's words, urging conservatives to stay positive and avoid infighting after election setbacks. Erika Kirk had a message for conservatives reeling from Republican election setbacks, and she turned to her late husband Charlies words to deliver it. "I miss Charlie so much every single day, but e…
 
-[Read Original Article Here](https://www.foxnews.com/opinion/laura-ingraham-richer-safer-stronger-why-trump-agenda-deserves-keep-going)
+[Read Original Article Here](https://www.foxnews.com/politics/erika-kirk-channels-charlie-blunt-message-conservatives-after-gop-midterm-losses)
 ---
 
-## Article 15: Washington state voters appear to pass first-ever ballot measure separating boys and girls sports
-**Source:** Fox News | **Sentiment Score:** `0.9161`
+## Article 15: Sudan factories struggle to restart after devastating wartime losses
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.6428`
 
-Frances Staudt celebrated as Washington's Initiative 638 held a commanding lead in a historic vote to protect girls sports across K-12 athletics. REDMOND, WA There was a good chance there were going to be tears either way, but these were the joyful kind. For years, Tumwater High (WA) student Frances Staudt has been fighting for the separation …
+War has left Sudanese workers jobless and consumers facing higher prices as factories struggle to reopen. Khartoum, Sudan Mansour Gailys factory in Khartoum produced sweets for local consumers and provided employment for workers. But when fighting erupted between the Sudanese Armed Forces (SAF) and the …
 
-[Read Original Article Here](https://www.foxnews.com/outkick-sports/washington-transgender-athletes-girls-sports-ballot-measure)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/11/4/sudan-factories-struggle-to-restart-after-devastating-wartime-losses)
 ---
 
-## Article 16: Democrats deliver a historic routing to Republicans in US midterms
-**Source:** Al Jazeera English | **Sentiment Score:** `0.4019`
+## Article 16: Fox News/NORC Study: Voters look to 2028 focused on the economy
+**Source:** Fox News | **Sentiment Score:** `0.2023`
 
-For the first time in nearly 30 years, a Democrat will now represent South Carolina in the US Senate. Voters in the United States have delivered a stunning rebuke of President Donald Trump, ushering in a new era of Democratic power that will transform not just the remainder of his presidency, but pol…
+As the 2028 race for the White House looms, grocery prices, gas costs and healthcare top what voters want newly elected officials to tackle first. After the midterm elections, attention will turn to the 2028 race for the White House. What is on voters minds as they look ahead to the next presidential election? Most Republicans want the next pr…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/11/4/democrats-deliver-a-historic-routing-to-republicans-in-us-midterms)
+[Read Original Article Here](https://www.foxnews.com/politics/fox-news-norc-study-voters-look-2028-focused-economy)
 ---
 
-## Article 17: Democrats win Congress: How they did it, and what it means
-**Source:** Al Jazeera English | **Sentiment Score:** `0.9169`
+## Article 17: JUSTIN HASKINS: 3 huge reasons Republicans lost. Here’s what they need to win in 2028
+**Source:** Fox News | **Sentiment Score:** `-0.9517`
 
-With control of Congress, Democrats can challenge Trump’s agenda through subpoenas, confirmation votes. The Democratic Party has pulled off a stunning upset in the United States midterm elections, flipping multiple bellwether seats to win comfortable control of the Senate and the House of Representativ…
+The 2026 midterm elections exposed three critical Republican failures, from the affordability crisis to the Iran war, that could reshape the 2028 race. The 2026 midterm elections are over, and Republicans have some serious questions to answer. Political strategists and pundits will undoubtedly spend weeks debating what went wrong, who deserves the b…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/11/4/democrats-win-the-us-senate-what-does-this-mean)
+[Read Original Article Here](https://www.foxnews.com/opinion/justin-haskins-3-huge-reasons-republicans-lost-heres-what-they-need-win-2028)
 ---
 
-## Article 18: Democrat Troy Jackson wins Maine US Senate seat in blow to Republicans
-**Source:** Al Jazeera English | **Sentiment Score:** `0.7227`
+## Article 18: Democratic progressive wing notches win in California Central Valley
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.1280`
 
-Longtime Republican Senator Susan Collins had held the seat for three decades, but was swept away in the blue wave. Democrat Troy Jackson, a former Maine Senate president and labour organiser who entered the race in July, has won the Senate race in Maine, flipping a seat held by the Republicans for 30 years. Long…
+Campaign focused on cost of living issues and backlash over ICE raids pays dividends for progressive Randy Villegas. Democratic candidate Randy Villegas has defeated Republican incumbent David Valadao in the race for Californias 22nd congressional district, clinching one of the states most closely watched congressi…
 
-[Read Original Article Here](https://www.aljazeera.com/news/2026/11/4/democrat-troy-jackson-wins-maine-us-senate-seat-in-blow-to-republicans)
+[Read Original Article Here](https://www.aljazeera.com/news/2026/11/4/democratic-progressive-wing-notches-win-in-california-central-valley)
 ---
 
-## Article 19: Abdul El-Sayed delivers major blow to GOP in Michigan after bruising Senate race
-**Source:** Fox News | **Sentiment Score:** `0.4019`
+## Article 19: NFL WAG mocks the terrible refs with a vicious costume, college football's awful rankings & Anna Paulina Luna!
+**Source:** Fox News | **Sentiment Score:** `-0.2500`
 
-Abdul El-Sayed toppled Mike Rogers to become the first Muslim U.S. senator, overcoming Trump's attacks on his faith and alleged foreign ties. Michigan is staying blue as Republicans hopes of flipping the state and gaining some breathing room in their thin majority were crushed. Abdul El-Sayed, who became the veritable face of this midterm…
+Jordan Love and wife Ronika mocked terrible NFL refs with their Halloween costume as officiating controversies continue to plague the league. 'Nightcaps' is a daily column that catches you up on the biggest sports, news and culture stories you may have missed while pretending to do work at your desk. It runs Monday-Friday on OutKick.com. …
 
-[Read Original Article Here](https://www.foxnews.com/politics/abdul-el-sayed-delivers-major-blow-gop-michigan-after-bruising-senate-race)
+[Read Original Article Here](https://www.foxnews.com/outkick-sports/nfl-wag-mocks-terrible-refs-vicious-costume-college-footballs-awful-rankings-anna-paulina-luna)
 ---
 
-## Article 20: Lula’s victory is a stress test for the Global South
-**Source:** Al Jazeera English | **Sentiment Score:** `0.4215`
+## Article 20: GOP's midterm defeat sparks bold claims from foreign leaders who've clashed with Trump
+**Source:** Fox News | **Sentiment Score:** `0.0258`
 
-Trump can still punish Brazil for pursuing an independent course. Can China offer lasting alternatives to US dominance? It looked like another rigged election, Donald Trump said after Luiz Inacio Lula da Silva won Brazils presidential vote. His administration granted United States visas to Lulas defeated rival, Flavio…
+Pedro Sánchez says Americans voted against hate and climate denial as European leaders react to the Democratic Party's 2026 midterm victories. The GOP's sweeping midterm losses are drawing a positive response from several foreign leaders who have clashed with President Donald Trump, with some expressing hope that Democrats' victories could …
 
-[Read Original Article Here](https://www.aljazeera.com/opinions/2026/11/4/lulas-victory-is-a-stress-test-for-the-global-south)
+[Read Original Article Here](https://www.foxnews.com/politics/gops-midterm-defeat-sparks-bold-claims-from-foreign-leaders-whove-clashed-trump)
 ---
 
