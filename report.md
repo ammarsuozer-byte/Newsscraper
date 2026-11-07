@@ -1,11 +1,139 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-11-06 | **Status:** Automated
+**Date:** 2026-11-07 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: ‘Healthcare not bombs’: How Gaza shaped Adam Hamawy’s path to US Congress
+## Article 1: Bitter Fetterman-El-Sayed feud threatens to complicate Schumer's Senate unity push
+**Source:** Fox News | **Sentiment Score:** `-0.7184`
+
+Senate Minority Leader Chuck Schumer's Party unity push faces an early test as John Fetterman and Abdul El-Sayed trade insults over U.S. aid to Israel. Senate Minority Leader Chuck Schumer called for Democratic Party unity Wednesday following the midterm elections, but a bitter feud between Sen. John Fetterman and Sen.-elect Abdul El-Sayed could com…
+
+[Read Original Article Here](https://www.foxnews.com/politics/bitter-fetterman-el-sayed-feud-threatens-complicate-schumers-senate-unity-push)
+---
+
+## Article 2: Woke 3.0 is off to a hot start as singer waves Pride flag while performing national anthem during NBA game
+**Source:** Fox News | **Sentiment Score:** `0.8622`
+
+A singer waved a small Pride flag while performing the national anthem during Golden State Warriors Pride Night, sparking fierce backlash online. What a week for the left. When you're hot, you're hot! First, they absolutely wiped the floor with Republicans in the midterm elections. Just a bloodbath. I'm pretty sure Democrats now own every sin…
+
+[Read Original Article Here](https://www.foxnews.com/outkick-sports/woke-3-0-hot-start-singer-waves-pride-flag-performing-national-anthem-nba-game)
+---
+
+## Article 3: James Carville cautions Democrats to stay away from DEI policies after midterm victories
+**Source:** Fox News | **Sentiment Score:** `-0.9118`
+
+James Carville warns Democrats against reviving DEI and woke politics after their historic midterm victory, saying the country simply "hated it." Veteran Democratic strategist James Carville warned Democrats against reviving DEI and woke policies after dominating the midterms, arguing these policies hurt the party. Carville spoke with a panel…
+
+[Read Original Article Here](https://www.foxnews.com/media/james-carville-cautions-democrats-stay-away-from-dei-policies-after-midterm-victories)
+---
+
+## Article 4: Rocket launcher deal illustrates deepening Russia-Iran relations
+**Source:** Al Jazeera English | **Sentiment Score:** `0.8074`
+
+Report of deal comes as top Iranian security official Mohsen Rezaei discusses developing cooperation treaty with Putin. Russia has supplied Iran with 90 advanced missile launchers, reports have said, as Moscow confirmed its close relations with Tehran. Russia agreed a deal in 2024 to supply Iran with 90 advanced miss…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/11/6/rocket-launcher-deal-illustrates-deepening-russia-iran-relations)
+---
+
+## Article 5: One industry faces multi-trillion-dollar reckoning after historic midterm election reshuffle
+**Source:** Fox News | **Sentiment Score:** `0.2023`
+
+Donald Trump backed AI data centers, but Texas Democrats' historic midterm sweep now threatens billions in planned projects across the state. President Donald Trump has thrown the federal government's weight behind massive data centers build-outs needed to power the country's artificial intelligence (AI) boom. But a historic Democratic swe…
+
+[Read Original Article Here](https://www.foxnews.com/politics/one-industry-faces-multi-trillion-dollar-reckoning-after-historic-midterm-election-reshuffle)
+---
+
+## Article 6: TED JENKIN: Democrats took Congress. Don’t let your emotions make bad money moves
+**Source:** Fox News | **Sentiment Score:** `0.1531`
+
+Your 401(k) doesn't have a political affiliation, and history shows why making emotional investment decisions after midterm elections can backfire. Democrats have taken control of the House and Senate. President Donald Trump remains in the White House. Republicans are furious. Democrats are celebrating. And millions of Americans are staring at …
+
+[Read Original Article Here](https://www.foxnews.com/opinion/ted-jenkin-democrats-took-congress-dont-let-emotions-make-bad-money-moves)
+---
+
+## Article 7: Oil-rich UAE makes massive AI bet as Sam Altman unveils ambitious plan to transform energy industry
+**Source:** Fox News | **Sentiment Score:** `0.9100`
+
+OpenAI's Sam Altman named energy as his biggest challenge at ADIPEC 2026, where Abu Dhabi unveiled ambitious AI partnerships with ADNOC and G42. ABU DHABI, United Arab Emirates At the opening of the world's largest energy conference in Abu Dhabi, artificial intelligence took center stage alongside oil and gas as OpenAI CEO Sam Altman joined s…
+
+[Read Original Article Here](https://www.foxnews.com/world/oil-rich-uae-makes-massive-ai-bet-sam-altman-unveils-ambitious-plan-transform-energy-industry)
+---
+
+## Article 8: UK jailing of Indian sailor over Russia sanctions sets off ‘perfect storm’
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.0772`
+
+Captain Ajay Pant was in international waters when his allegedly 'shadow' tanker was captured by British soldiers. Ritu Pant always made sure that her merchant navy officer husband told her two things before departing on an assignment. I always noted the details and the name of his ship and his emergency contact…
+
+[Read Original Article Here](https://www.aljazeera.com/features/2026/11/6/uk-jailing-of-indian-sailor-over-russia-sanctions-sets-off-perfect-storm)
+---
+
+## Article 9: Indonesia names fourth wiretapping suspect as political intrigue deepens
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.6597`
+
+Scandal is driving divisions between President Prabowo Subianto and predecessor Joko Widodo. Indonesian police have named a fourth suspect in a scandal focused on the alleged wiretapping of President Prabowo Subianto. At a news conference late on Thursday, police named a senior law enforcem…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/11/6/indonesia-names-fourth-wiretapping-suspect-as-political-intrigue-deepens)
+---
+
+## Article 10: Why is Iran exempting India, China, Qatar, Iraq from Hormuz restrictions?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.4854`
+
+Tehran says ships from four countries can cross Hormuz freely, but analysts say the deals carry political risks. Iran has exempted ships from India, China, Iraq and Qatar from its Strait of Hormuz restrictions, a senior Iranian lawmaker said on Tuesday. Ships from these countries pass freely, and the Americans…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/11/6/why-is-iran-exempting-india-china-qatar-iraq-from-hormuz-restrictions)
+---
+
+## Article 11: Iran’s security chief meets Putin, delivers message from Khamenei
+**Source:** Al Jazeera English | **Sentiment Score:** `0.8074`
+
+Putin meets Iran's top security official to discuss regional security and receives a letter from Mojtaba Khamenei. Russias President Vladimir Putin has met Irans security chief Mohsen Rezaei in Moscow to discuss regional security as diplomatic efforts gather pace to end the United States and Israels war on Iran.…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/11/6/irans-security-chief-meets-putin-delivers-message-from-khamenei)
+---
+
+## Article 12: Sophie Cunningham dishes out some brutal honesty for her WNBA peers & coach high school football for $180K!
+**Source:** Fox News | **Sentiment Score:** `-0.5267`
+
+Sophie Cunningham calls out the WNBA's missed layups, Curt Cignetti takes aim at SEC bias, and the Dothan Wolves seek a $180K football coach. 'Nightcaps' is a daily column that catches you up on the biggest sports, news and culture stories you may have missed while pretending to do work at your desk. It runs Monday-Friday on OutKick.com. …
+
+[Read Original Article Here](https://www.foxnews.com/outkick-sports/sophie-cunningham-dishes-brutal-honesty-wnba-peers-coach-high-school-football-180k)
+---
+
+## Article 13: Crenshaw, Raskin shout each other down in heated post-midterm debate
+**Source:** Fox News | **Sentiment Score:** `0.0772`
+
+Texas Republican Rep. Dan Crenshaw and Democratic Maryland Rep. Jamie Raskin clashed in a fiery CNN exchange on Wednesday after the midterm elections. Rep. Dan Crenshaw, R-Texas, and Rep. Jamie Raskin, D-Md., engaged in a heated exchange on CNN Wednesday over the results of the midterm elections. The midterm elections dealt a major setback to Pres…
+
+[Read Original Article Here](https://www.foxnews.com/media/crenshaw-raskin-shout-each-other-down-heated-post-midterm-debate)
+---
+
+## Article 14: AI stocks plunge after election, driving down US markets
+**Source:** Al Jazeera English | **Sentiment Score:** `0.3818`
+
+Tech stocks lead US market slide as investors weigh impact of midterm election results on AI industry. United States markets slid on Thursday, with losses in US chip and data centre-related stocks fuelling pressure on the technology sector following Democrats sweeping midterm election wins. The tech-…
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/11/5/ai-stocks-plunge-after-election-driving-down-us-markets)
+---
+
+## Article 15: Ohio's most popular midterm Republican says election results hold a warning for Dems
+**Source:** Fox News | **Sentiment Score:** `0.9336`
+
+Frank LaRose says the Republican Party must refocus on human freedom and free market principles after GOP candidates struggled on Election Day. Ohio's most popular midterm Republican says his party needs to refocus its message into a constructive appeal to voters if the GOP hopes to regain the ground it lost on Election Day. Ohio Secretary …
+
+[Read Original Article Here](https://www.foxnews.com/politics/ohios-popular-midterm-republican-says-election-results-hold-warning-dems)
+---
+
+## Article 16: Vance eyes 2028 reset, as Republicans mull pivot after US midterms drubbing
+**Source:** Al Jazeera English | **Sentiment Score:** `0.4939`
+
+A Democratic 'blue tsunami' in the US midterms shines a light on emerging distaste for Trump's brand among Republicans. Hours after results confirmed that the Republican Party had lost control of both the Senate and the House of Representatives in the United States Congress in the midterm elections this week, senior R…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/11/5/vance-eyes-2028-reset-as-republicans-mull-pivot-after-us-midterms-drubbing)
+---
+
+## Article 17: ‘Healthcare not bombs’: How Gaza shaped Adam Hamawy’s path to US Congress
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.8885`
 
 Former army surgeon and Gaza volunteer Hamawy is the first Muslim American elected to the US Congress from New Jersey. Adam Hamawy has seen death, devastation and the effects of hate on others for decades as a first responder after the September 11 attacks, while serving in Iraq as a United States military surgeon, a…
@@ -13,7 +141,7 @@ Former army surgeon and Gaza volunteer Hamawy is the first Muslim American elect
 [Read Original Article Here](https://www.aljazeera.com/news/2026/11/5/healthcare-not-bombs-how-gaza-shaped-adam-hamawys-path-to-us-congress)
 ---
 
-## Article 2: Could the US midterms further isolate Israel in Washington?
+## Article 18: Could the US midterms further isolate Israel in Washington?
 **Source:** Al Jazeera English | **Sentiment Score:** `0.8126`
 
 The midterms showed that challenging support for Israel can win votes. But changing US foreign policy may be harder. As the midterm votes trickled in on Tuesday and Democrats locked up majorities in both chambers of the United States Congress, Republicans began pointing fingers at the Trump administrations increasi…
@@ -21,7 +149,7 @@ The midterms showed that challenging support for Israel can win votes. But chang
 [Read Original Article Here](https://www.aljazeera.com/news/2026/11/5/could-the-us-midterms-further-isolate-israel-in-washington)
 ---
 
-## Article 3: GOP lawmaker says more qualified officials should lead Pentagon, questions Hegseth's 'moral compass'
+## Article 19: GOP lawmaker says more qualified officials should lead Pentagon, questions Hegseth's 'moral compass'
 **Source:** Fox News | **Sentiment Score:** `-0.7964`
 
 Rep. Don Bacon alleges Pete Hegseth lacks a "moral compass" and says the war secretary "doesn't have a lot of friends on the Hill" today. FIRST ON FOX: Rep. Don Bacon, R-Neb., told Fox News Digital that the Department of War should not be led by Secretary of Defense Pete Hegseth, criticizing his leadership and questioning his judgment.…
@@ -29,139 +157,11 @@ Rep. Don Bacon alleges Pete Hegseth lacks a "moral compass" and says the war sec
 [Read Original Article Here](https://www.foxnews.com/politics/gop-lawmaker-says-more-qualified-officials-should-lead-pentagon-questions-hegseths-moral-compass)
 ---
 
-## Article 4: Why more investment is not making housing affordable in Ghana
+## Article 20: Why more investment is not making housing affordable in Ghana
 **Source:** Al Jazeera English | **Sentiment Score:** `0.1027`
 
 High costs, limited financing and rising demand keep homes out of reach. Accra, Ghana  Ghana needs more than 1.8 million additional housing units, but attracting investment to build them is only half the challenge. For millions of people, the deeper problem is that the ho…
 
 [Read Original Article Here](https://www.aljazeera.com/news/2026/11/5/why-more-investment-is-not-making-housing-affordable-in-ghana)
----
-
-## Article 5: ‘Knives out’: Will Congress impeach Pete Hegseth after GOP midterms loss?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.2023`
-
-Democrats can adopt the impeachment articles in the House but will need Republican backing in the Senate. The Republican Partys stunning defeat in the United States midterm elections on Tuesday has prompted calls from within the Trump administration and from its critics for accountability over a focus of…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/11/5/knives-out-will-congress-impeach-pete-hegseth-after-gop-midterms-loss)
----
-
-## Article 6: MARTHA MACCALLUM: These American heroes show us what true valor really means
-**Source:** Fox News | **Sentiment Score:** `0.8865`
-
-The "Book of Valor" by Martha MacCallum traces American heroism from the Mayflower to Afghanistan through voices of those who lived it, including Medal of Honor recipients. What is valor? Defined by Websters Dictionary: <ol><li>Great courage in the face of danger, especially in battle. "The medals are awarded for acts of valor."</li><li>Strength of mind or spirit that…
-
-[Read Original Article Here](https://www.foxnews.com/opinion/martha-maccallum-american-heroes-show-true-valor-means)
----
-
-## Article 7: 2026 Midterm Election Results Live: Democrats flip 4 more seats in the House, CNN projects
-**Source:** CNN | **Sentiment Score:** `0.6808`
-
-Democrats flipped four additional seats in the House, CNN projects and could win their largest House majority since the early 1990s. Follow for live updates. Democrats are walking a fine line on their intent to investigate the Trump administration. On election night, the incoming chairman of the House Oversight Committee, Democratic Rep. Robert Garcia of…
-
-[Read Original Article Here](https://www.cnn.com/2026/11/05/politics/live-news/midterm-election-congress)
----
-
-## Article 8: New Zealand braces for knife-edge election: What you need to know
-**Source:** Al Jazeera English | **Sentiment Score:** `0.8720`
-
-Smaller parties hold the key, with major contenders expected to fall short of the majority needed to govern alone. Days ahead of New Zealands election, polls show the governing centre-right National Party and the opposition centre-left Labour Party neck and neck, with neither on course to win enough seats to gove…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/11/5/new-zealand-braces-for-knife-edge-election-what-you-need-to-know)
----
-
-## Article 9: Ted Cruz says 'blue tsunami' took over Texas after Democrats swept statewide races
-**Source:** Fox News | **Sentiment Score:** `-0.7783`
-
-Sen. Ted Cruz called the 2026 midterms a "blue tsunami" after James Talarico defeated Ken Paxton and Gina Hinojosa unseated Greg Abbott in Texas. Sen. Ted Cruz, R-Texas, delivered a scathing assessment on Wednesday of Republicans' sweeping midterm election losses, describing the results as a "blue tsunami" and warning that his party had lost t…
-
-[Read Original Article Here](https://www.foxnews.com/politics/ted-cruz-says-blue-tsunami-took-over-texas-after-democrats-swept-statewide-races)
----
-
-## Article 10: Pat McAfee INFURIATES “Morning Joe” Scarborough + Richie Incognito: The NFL Trench Revolution & Playing with an Edge
-**Source:** Fox News | **Sentiment Score:** `-0.9300`
-
-Cable news host Joe Scarborough threw an on-air tantrum claiming he’s “had enough of Pat McAfee ruining College GameDay”–and Dan Dakich is not letting it slide. With Election Day wrapping up, international turmoil, and economic chaos across the country, Scarb… Cable news host Joe Scarborough threw an on-air tantrum claiming he’s “had enough of Pat McAfee ruining College GameDay”–and Dan Dakich is not letting it slide. With Election Day wrapping up, interna…
-
-[Read Original Article Here](https://radio.foxnews.com/2026/11/04/pat-mcafee-infuriates-morning-joe-scarborough-richie-incognito-the-nfl-trench-revolution-playing-with-an-edge/)
----
-
-## Article 11: Democrats won Congress. But can they deliver on their promises?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.7351`
-
-Despite their midterm election victories, Democrats face major obstacles to reining in Trump on Iran, tariffs and more. Democrats rode a blue wave to victory in the United States midterm elections, winning control of both chambers of Congress. Now comes the question of whether they can deliver on their promises. The …
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/11/5/democrats-won-congress-but-can-they-deliver-on-their-promises)
----
-
-## Article 12: DSA accused of ‘elevating’ antisemitic, pro-terror rhetoric after Hasan Piker hosts election stream
-**Source:** Fox News | **Sentiment Score:** `-0.4588`
-
-ADL CEO Jonathan Greenblatt accused the DSA of elevating antisemitism by choosing Hasan Piker to host its official election night livestream. The Democratic Socialists of America (DSA) chose controversial Twitch streamer Hasan Piker to host its official election night livestream, drawing a blunt response from Anti-Defamation League (ADL) C…
-
-[Read Original Article Here](https://www.foxnews.com/media/dsa-accused-elevating-antisemitic-pro-terror-rhetoric-hasan-piker-hosts-election-stream)
----
-
-## Article 13: Tom Bevan Breaks Down What Went Wrong For Republicans
-**Source:** Fox News | **Sentiment Score:** `0.9559`
-
-Listen Here: Full Transcript: Guy Benson: Our final guest today is Tom Bevan, co-founder and executive editor at RealClearPolitics. Tom, good to have you back. Tom Bevan: Great to be with you, Guy. Guy Benson: All right. Well, this feels like a worst-case sce… Listen Here: Full Transcript: Guy Benson: Our final guest today is Tom Bevan, co-founder and executive editor at RealClearPolitics. Tom, good to have you back. Tom Bevan: Great to be with you, Guy…
-
-[Read Original Article Here](https://radio.foxnews.com/2026/11/04/tom-bevan-breaks-down-what-went-wrong-for-republicans/)
----
-
-## Article 14: Erika Kirk channels Charlie with blunt message to conservatives after GOP midterm losses
-**Source:** Fox News | **Sentiment Score:** `0.1027`
-
-Erika Kirk invoked her late husband Charlie Kirk's words, urging conservatives to stay positive and avoid infighting after election setbacks. Erika Kirk had a message for conservatives reeling from Republican election setbacks, and she turned to her late husband Charlies words to deliver it. "I miss Charlie so much every single day, but e…
-
-[Read Original Article Here](https://www.foxnews.com/politics/erika-kirk-channels-charlie-blunt-message-conservatives-after-gop-midterm-losses)
----
-
-## Article 15: Sudan factories struggle to restart after devastating wartime losses
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.6428`
-
-War has left Sudanese workers jobless and consumers facing higher prices as factories struggle to reopen. Khartoum, Sudan Mansour Gailys factory in Khartoum produced sweets for local consumers and provided employment for workers. But when fighting erupted between the Sudanese Armed Forces (SAF) and the …
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/11/4/sudan-factories-struggle-to-restart-after-devastating-wartime-losses)
----
-
-## Article 16: Fox News/NORC Study: Voters look to 2028 focused on the economy
-**Source:** Fox News | **Sentiment Score:** `0.2023`
-
-As the 2028 race for the White House looms, grocery prices, gas costs and healthcare top what voters want newly elected officials to tackle first. After the midterm elections, attention will turn to the 2028 race for the White House. What is on voters minds as they look ahead to the next presidential election? Most Republicans want the next pr…
-
-[Read Original Article Here](https://www.foxnews.com/politics/fox-news-norc-study-voters-look-2028-focused-economy)
----
-
-## Article 17: JUSTIN HASKINS: 3 huge reasons Republicans lost. Here’s what they need to win in 2028
-**Source:** Fox News | **Sentiment Score:** `-0.9517`
-
-The 2026 midterm elections exposed three critical Republican failures, from the affordability crisis to the Iran war, that could reshape the 2028 race. The 2026 midterm elections are over, and Republicans have some serious questions to answer. Political strategists and pundits will undoubtedly spend weeks debating what went wrong, who deserves the b…
-
-[Read Original Article Here](https://www.foxnews.com/opinion/justin-haskins-3-huge-reasons-republicans-lost-heres-what-they-need-win-2028)
----
-
-## Article 18: Democratic progressive wing notches win in California Central Valley
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.1280`
-
-Campaign focused on cost of living issues and backlash over ICE raids pays dividends for progressive Randy Villegas. Democratic candidate Randy Villegas has defeated Republican incumbent David Valadao in the race for Californias 22nd congressional district, clinching one of the states most closely watched congressi…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/11/4/democratic-progressive-wing-notches-win-in-california-central-valley)
----
-
-## Article 19: NFL WAG mocks the terrible refs with a vicious costume, college football's awful rankings & Anna Paulina Luna!
-**Source:** Fox News | **Sentiment Score:** `-0.2500`
-
-Jordan Love and wife Ronika mocked terrible NFL refs with their Halloween costume as officiating controversies continue to plague the league. 'Nightcaps' is a daily column that catches you up on the biggest sports, news and culture stories you may have missed while pretending to do work at your desk. It runs Monday-Friday on OutKick.com. …
-
-[Read Original Article Here](https://www.foxnews.com/outkick-sports/nfl-wag-mocks-terrible-refs-vicious-costume-college-footballs-awful-rankings-anna-paulina-luna)
----
-
-## Article 20: GOP's midterm defeat sparks bold claims from foreign leaders who've clashed with Trump
-**Source:** Fox News | **Sentiment Score:** `0.0258`
-
-Pedro Sánchez says Americans voted against hate and climate denial as European leaders react to the Democratic Party's 2026 midterm victories. The GOP's sweeping midterm losses are drawing a positive response from several foreign leaders who have clashed with President Donald Trump, with some expressing hope that Democrats' victories could …
-
-[Read Original Article Here](https://www.foxnews.com/politics/gops-midterm-defeat-sparks-bold-claims-from-foreign-leaders-whove-clashed-trump)
 ---
 
