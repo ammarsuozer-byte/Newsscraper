@@ -1,11 +1,99 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-11-08 | **Status:** Automated
+**Date:** 2026-11-09 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: ‘Radical’ or ‘hero’?: France debates leftist candidate Jean-Luc Melenchon
+## Article 1: Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.7717`
+
+Protesters seek stricter trade restrictions on Israel and a halt to all arms sales. More than 200,000 people have taken to the streets of Amsterdam in the Netherlands, demanding government action against Israels genocidal war on Gaza, according to the Dutch branch of Amnesty Interna…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam)
+---
+
+## Article 2: Trump ‘holds all the cards’ in war against Iran’s regime, White House says
+**Source:** Fox News | **Sentiment Score:** `0.8020`
+
+Supreme Leader Ayatollah Mojtaba Khamenei taunts America after midterms, but the White House says Trump holds all the cards on the Strait of Hormuz. JERUSALEM With Irans missing-in-action Supreme Leader Ayatollah Mojtaba Khamenei taunting Americans about the "collapse" of the U.S. after the midterm elections, the White House and Middle East exper…
+
+[Read Original Article Here](https://www.foxnews.com/opinion/trump-holds-all-cards-war-against-irans-regime-white-house-says)
+---
+
+## Article 3: Trump ‘holds all the cards’ in war against Iran’s regime, White House says
+**Source:** Fox News | **Sentiment Score:** `0.8020`
+
+Supreme Leader Ayatollah Mojtaba Khamenei taunts America after midterms, but the White House says Trump holds all the cards on the Strait of Hormuz. JERUSALEM With Irans missing-in-action Supreme Leader Ayatollah Mojtaba Khamenei taunting Americans about the "collapse" of the U.S. after the midterm elections, the White House and Middle East exper…
+
+[Read Original Article Here](https://www.foxnews.com/politics/trump-holds-all-cards-war-against-irans-regime-white-house-says)
+---
+
+## Article 4: US task force to cut off Iran’s transport of advanced weapons: What we know
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.9274`
+
+As fears of an escalation grow, Washington announces 'Task Force Iron Gate'. As the threat of renewed war grows, Washington is expanding efforts to choke Tehrans military supply networks, including through Task Force Iron Gate  a unit targeting land routes and the Caspian Sea…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/11/8/us-task-force-to-cut-off-irans-transport-of-advanced-weapons-what-we-know)
+---
+
+## Article 5: ELAINE PARKER: Democrat win is a wake-up call for Republicans, not a vote for socialism
+**Source:** Fox News | **Sentiment Score:** `-0.1406`
+
+Midterm elections sent a clear message on affordability, but Democrats would be wrong to interpret their victories as a mandate for socialism. The American people sent a clear message in Tuesday's midterm elections. But Democrats would be making a serious mistake if they interpreted their victories as an endorsement of socialism. Voters we…
+
+[Read Original Article Here](https://www.foxnews.com/opinion/elaine-parker-democrat-win-wake-up-call-republicans-not-vote-socialism)
+---
+
+## Article 6: MAGA voters reveal who they want to see lead GOP in 2028
+**Source:** Fox News | **Sentiment Score:** `0.5994`
+
+MAGA voters at a Trump rally name JD Vance and Marco Rubio as early 2028 presidential election favorites after Democrats swept the midterms. With Democrats taking control of Congress in the midterm elections, MAGA voters are already sizing up potential successors to President Donald Trump in 2028 with Vice President JD Vance and Secretary…
+
+[Read Original Article Here](https://www.foxnews.com/politics/maga-voters-reveal-who-they-want-see-lead-gop-2028)
+---
+
+## Article 7: Will Eisenkot be able to form Israel’s next gov’t amid divided opposition?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.5106`
+
+Israel's former military chief has been given the opportunity to form a government after an inconclusive election. Israeli opposition leader Gadi Eisenkot has been given the opportunity to form a new government after Prime Minister Benjamin Netanyahus ruling coalition lost its parliamentary majority in the Octobe…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/11/8/will-eisenkot-be-able-to-form-israels-next-govt-amid-divided-opposition)
+---
+
+## Article 8: Abdul El-Sayed slams Trump’s tariff war with Canada
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.9186`
+
+Michigan Senator-elect Abdul El-Sayed has criticised Trump’s trade war with Canada. Michigan Senator-elect Abdul El-Sayed has criticised Trumps trade war with Canada, warning that US consumers pay the price through higher costs on Canadian goods. Speaking on Pod Save America, he moc…
+
+[Read Original Article Here](https://www.aljazeera.com/video/newsfeed/2026/11/7/abdul-el-sayed-slams-trumps-tariff-war-with-canada)
+---
+
+## Article 9: More than 140,000 rally as new protests against rising costs sweep France
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.7717`
+
+Tear gas fired in Paris and Lyon as interior minister warns authorities are 'ready and waiting' for rioters and looters. Tens of thousands of people have protested across France for a fourth consecutive weekend, in another show of anger against the government. About 146,000 people rallied across the country to protest…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/11/7/more-than-140000-rally-as-new-protests-against-rising-costs-sweep-france)
+---
+
+## Article 10: Bill Maher warns Democrats that some on far-left want 'communism' after midterm sweep
+**Source:** Fox News | **Sentiment Score:** `0.7717`
+
+Bill Maher told his "Real Time" audience that far-left Democrats "want communism" and urged moderates to use their midterm wins to reclaim the party. Comedian Bill Maher doubled down on his criticism of democratic socialists Friday, telling his "Real Time" audience that "these people want communism" and urging moderates to reclaim control of the p…
+
+[Read Original Article Here](https://www.foxnews.com/media/bill-maher-warns-democrats-some-far-left-want-communism-after-midterm-sweep)
+---
+
+## Article 11: Iran’s IRGC says building underground sites for weapons production, storage
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.2500`
+
+IRGC says underground military complexes allow missile production to continue even under heavy bombardment. Iran is building underground military complexes able to sustain weapons production and storage even under heavy bombardment, according to the countrys Islamic Revolutionary Guards Corps (IRGC). IRGC…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage)
+---
+
+## Article 12: ‘Radical’ or ‘hero’?: France debates leftist candidate Jean-Luc Melenchon
 **Source:** Al Jazeera English | **Sentiment Score:** `0.6249`
 
 The hard-left leader has transformed into a real contender in next year presidential elections. Hard-left French leader Jean-Luc Melenchon has been described as a radical by right-wing opponents, a despot by former allies and a hero by some of the students who have taken to the streets in natio…
@@ -13,7 +101,7 @@ The hard-left leader has transformed into a real contender in next year presiden
 [Read Original Article Here](https://www.aljazeera.com/news/2026/11/7/radical-or-hero-france-debates-leftist-candidate-jean-luc-melenchon)
 ---
 
-## Article 2: Why are oil traders refusing to buy Russian diesel after Trump-Putin deal?
+## Article 13: Why are oil traders refusing to buy Russian diesel after Trump-Putin deal?
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.2500`
 
 Zero Russian diesel has reached the US as tankers divert and buyers fear legal action. At least three tankers carrying Russian diesel to the United States have changed course, casting doubt over US President Donald Trumps October deal with his Russian counterpart, Vladimir Putin. Near…
@@ -21,7 +109,7 @@ Zero Russian diesel has reached the US as tankers divert and buyers fear legal a
 [Read Original Article Here](https://www.aljazeera.com/news/2026/11/7/why-are-oil-traders-refusing-to-buy-russian-diesel-after-trump-putin-deal)
 ---
 
-## Article 3: GOP eyes Senate comeback after Democratic bloodbath, but another political nightmare could await
+## Article 14: GOP eyes Senate comeback after Democratic bloodbath, but another political nightmare could await
 **Source:** Fox News | **Sentiment Score:** `0.8402`
 
 Democrats won at least 54 Senate seats Tuesday, but Republicans could flip the chamber in 2028 by sweeping six competitive states and holding the VP. Republican control of the Senate could return as soon as the 2028 general election, but only if the party can pull off a series of crucial victories in competitive races, a possibility that seems dis…
@@ -29,7 +117,7 @@ Democrats won at least 54 Senate seats Tuesday, but Republicans could flip the c
 [Read Original Article Here](https://www.foxnews.com/politics/gop-eyes-senate-comeback-after-democratic-bloodbath-another-political-nightmare-could-await)
 ---
 
-## Article 4: Top Gulf official offers glimmer of hope on Trump-Iran nuclear talks as threat of war hangs over region
+## Article 15: Top Gulf official offers glimmer of hope on Trump-Iran nuclear talks as threat of war hangs over region
 **Source:** Fox News | **Sentiment Score:** `0.9764`
 
 A senior United Arab Emirates official says he is cautiously optimistic about U.S.-Iran nuclear talks through Qatari mediation but won't rule out war. DUBAI, United Arab Emirates A senior United Arab Emirates official says he is cautiously optimistic about negotiations between the United States and Iran, citing progress through Qatari mediation ove…
@@ -37,7 +125,7 @@ A senior United Arab Emirates official says he is cautiously optimistic about U.
 [Read Original Article Here](https://www.foxnews.com/world/gulf-official-glimmer-hope-trump-iran-nuclear-talks-threat-war-hangs-region)
 ---
 
-## Article 5: How the Iran war helped Democrats win the midterms
+## Article 16: How the Iran war helped Democrats win the midterms
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.9062`
 
 Tehran brought the costs of war into American homes, fuelling the backlash against Trump's party. This week, Irans response to the US-Israeli attacks led to one of the most dramatic political turnarounds in modern American history. Trumps failed war on its own, however, is not why the Democrats p…
@@ -45,7 +133,7 @@ Tehran brought the costs of war into American homes, fuelling the backlash again
 [Read Original Article Here](https://www.aljazeera.com/opinions/2026/11/7/how-the-iran-war-helped-democrats-win-the-midterms)
 ---
 
-## Article 6: US Treasury sanctions eight Canadian money exchange firms over Iran ties
+## Article 17: US Treasury sanctions eight Canadian money exchange firms over Iran ties
 **Source:** Al Jazeera English | **Sentiment Score:** `0.6249`
 
 US Treasury claims firms helped sanctioned Iranian entities and handled funds linked to alleged drug trafficking boss. The United States has imposed sanctions on eight Canadian currency-exchange businesses accused of helping Iranian entities circumvent financial sanctions. The US Department of the Treasury announced…
@@ -53,7 +141,7 @@ US Treasury claims firms helped sanctioned Iranian entities and handled funds li
 [Read Original Article Here](https://www.aljazeera.com/economy/2026/11/7/us-treasury-sanctions-eight-canadian-money-exchange-firms-over-iran-ties)
 ---
 
-## Article 7: How the US midterm elections reflected resistance to data centres
+## Article 18: How the US midterm elections reflected resistance to data centres
 **Source:** Al Jazeera English | **Sentiment Score:** `0.6705`
 
 Voters rejected data centre development in all but one of the 41 measures addressing the issue in Tuesday's midterms. In September, a poll found that 70 percent of Democrats and 57 percent of Republicans supported limiting the construction of new data centres in the United States. But that opposition was tested in …
@@ -61,7 +149,7 @@ Voters rejected data centre development in all but one of the 41 measures addres
 [Read Original Article Here](https://www.aljazeera.com/economy/2026/11/7/how-the-us-midterm-elections-reflected-resistance-to-data-centres)
 ---
 
-## Article 8: New Zealanders head to polls on final day of voting
+## Article 19: New Zealanders head to polls on final day of voting
 **Source:** Al Jazeera English | **Sentiment Score:** `0.0000`
 
 More than half of New Zealand’s voters cast early ballots in the tightly contested race. Polls have opened on the final day of voting in New Zealand against a backdrop of concerns over the rising cost of living and the broader state of the economy. Polling stations opened at 9am on Satu…
@@ -69,99 +157,11 @@ More than half of New Zealand’s voters cast early ballots in the tightly conte
 [Read Original Article Here](https://www.aljazeera.com/news/2026/11/6/new-zealanders-head-to-polls-on-final-day-of-voting)
 ---
 
-## Article 9: US urges China to honour Busan trade deal commitments
+## Article 20: US urges China to honour Busan trade deal commitments
 **Source:** Al Jazeera English | **Sentiment Score:** `0.8720`
 
 Trump-Xi Busan deal aimed to ease tariffs and tech restrictions; progress hinges on China's fulfilment of commitments. United States Treasury Secretary Scott Bessent and US Trade Representative Jamieson Greer met Chinese Vice Premier He Lifeng to urge Beijing to immediately implement commitments under the Busan trade…
 
 [Read Original Article Here](https://www.aljazeera.com/economy/2026/11/6/us-urges-china-to-honour-busan-trade-deal-commitments)
----
-
-## Article 10: Trump's move from Wiles to Miller signals major tactical shift for governing without Congress
-**Source:** Fox News | **Sentiment Score:** `0.4939`
-
-Stephen Miller and Russ Vought have been identifying policies Trump can enact by executive order on immigration, tariffs and government spending. President Donald Trump tapped Stephen Miller to succeed Susie Wiles as White House chief of staff, elevating an adviser who reportedly helped develop plans to advance his agenda without congressional…
-
-[Read Original Article Here](https://www.foxnews.com/politics/trumps-move-wiles-miller-signals-major-tactical-shift-governing-without-congress)
----
-
-## Article 11: Russia’s land gains in Ukraine dwindle as its diesel reportedly goes unsold
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.8225`
-
-Moscow is suffering losses on the battlefield as US traders reportedly refuse to honour Trump's diesel deal with Putin. Russias battlefield gains in Ukraine have fallen to almost nothing this year, according to the latest figures from independent observers and Kyivs military. Territory seized by Russian forces in the…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/11/6/in-ukraine-russias-territorial-gains-dwindle-as-its-diesel-goes-unsold)
----
-
-## Article 12: Dems pivot from ‘affordability’ pitch to DHS probe threats after midterm wins
-**Source:** Fox News | **Sentiment Score:** `0.8201`
-
-Robert Garcia and other Democrats campaigned on affordability but pivoted to subpoenas and Trump investigations after winning, Fox News Digital found. Several prominent Democrats who ran on an "affordability" message were largely silent when pressed by Fox News Digital on their sudden pivot to foreshadowing investigations into the Trump administrat…
-
-[Read Original Article Here](https://www.foxnews.com/politics/dems-pivot-affordability-pitch-dhs-probe-threats-midterm-wins)
----
-
-## Article 13: Bitter Fetterman-El-Sayed feud threatens to complicate Schumer's Senate unity push
-**Source:** Fox News | **Sentiment Score:** `-0.7184`
-
-Senate Minority Leader Chuck Schumer's Party unity push faces an early test as John Fetterman and Abdul El-Sayed trade insults over U.S. aid to Israel. Senate Minority Leader Chuck Schumer called for Democratic Party unity Wednesday following the midterm elections, but a bitter feud between Sen. John Fetterman and Sen.-elect Abdul El-Sayed could com…
-
-[Read Original Article Here](https://www.foxnews.com/politics/bitter-fetterman-el-sayed-feud-threatens-complicate-schumers-senate-unity-push)
----
-
-## Article 14: Woke 3.0 is off to a hot start as singer waves Pride flag while performing national anthem during NBA game
-**Source:** Fox News | **Sentiment Score:** `0.8622`
-
-A singer waved a small Pride flag while performing the national anthem during Golden State Warriors Pride Night, sparking fierce backlash online. What a week for the left. When you're hot, you're hot! First, they absolutely wiped the floor with Republicans in the midterm elections. Just a bloodbath. I'm pretty sure Democrats now own every sin…
-
-[Read Original Article Here](https://www.foxnews.com/outkick-sports/woke-3-0-hot-start-singer-waves-pride-flag-performing-national-anthem-nba-game)
----
-
-## Article 15: James Carville cautions Democrats to stay away from DEI policies after midterm victories
-**Source:** Fox News | **Sentiment Score:** `-0.9118`
-
-James Carville warns Democrats against reviving DEI and woke politics after their historic midterm victory, saying the country simply "hated it." Veteran Democratic strategist James Carville warned Democrats against reviving DEI and woke policies after dominating the midterms, arguing these policies hurt the party. Carville spoke with a panel…
-
-[Read Original Article Here](https://www.foxnews.com/media/james-carville-cautions-democrats-stay-away-from-dei-policies-after-midterm-victories)
----
-
-## Article 16: Rocket launcher deal illustrates deepening Russia-Iran relations
-**Source:** Al Jazeera English | **Sentiment Score:** `0.8074`
-
-Report of deal comes as top Iranian security official Mohsen Rezaei discusses developing cooperation treaty with Putin. Russia has supplied Iran with 90 advanced missile launchers, reports have said, as Moscow confirmed its close relations with Tehran. Russia agreed a deal in 2024 to supply Iran with 90 advanced miss…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/11/6/rocket-launcher-deal-illustrates-deepening-russia-iran-relations)
----
-
-## Article 17: One industry faces multi-trillion-dollar reckoning after historic midterm election reshuffle
-**Source:** Fox News | **Sentiment Score:** `0.2023`
-
-Donald Trump backed AI data centers, but Texas Democrats' historic midterm sweep now threatens billions in planned projects across the state. President Donald Trump has thrown the federal government's weight behind massive data centers build-outs needed to power the country's artificial intelligence (AI) boom. But a historic Democratic swe…
-
-[Read Original Article Here](https://www.foxnews.com/politics/one-industry-faces-multi-trillion-dollar-reckoning-after-historic-midterm-election-reshuffle)
----
-
-## Article 18: TED JENKIN: Democrats took Congress. Don’t let your emotions make bad money moves
-**Source:** Fox News | **Sentiment Score:** `0.1531`
-
-Your 401(k) doesn't have a political affiliation, and history shows why making emotional investment decisions after midterm elections can backfire. Democrats have taken control of the House and Senate. President Donald Trump remains in the White House. Republicans are furious. Democrats are celebrating. And millions of Americans are staring at …
-
-[Read Original Article Here](https://www.foxnews.com/opinion/ted-jenkin-democrats-took-congress-dont-let-emotions-make-bad-money-moves)
----
-
-## Article 19: Oil-rich UAE makes massive AI bet as Sam Altman unveils ambitious plan to transform energy industry
-**Source:** Fox News | **Sentiment Score:** `0.9100`
-
-OpenAI's Sam Altman named energy as his biggest challenge at ADIPEC 2026, where Abu Dhabi unveiled ambitious AI partnerships with ADNOC and G42. ABU DHABI, United Arab Emirates At the opening of the world's largest energy conference in Abu Dhabi, artificial intelligence took center stage alongside oil and gas as OpenAI CEO Sam Altman joined s…
-
-[Read Original Article Here](https://www.foxnews.com/world/oil-rich-uae-makes-massive-ai-bet-sam-altman-unveils-ambitious-plan-transform-energy-industry)
----
-
-## Article 20: UK jailing of Indian sailor over Russia sanctions sets off ‘perfect storm’
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.0772`
-
-Captain Ajay Pant was in international waters when his allegedly 'shadow' tanker was captured by British soldiers. Ritu Pant always made sure that her merchant navy officer husband told her two things before departing on an assignment. I always noted the details and the name of his ship and his emergency contact…
-
-[Read Original Article Here](https://www.aljazeera.com/features/2026/11/6/uk-jailing-of-indian-sailor-over-russia-sanctions-sets-off-perfect-storm)
 ---
 
