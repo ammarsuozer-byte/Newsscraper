@@ -1,11 +1,115 @@
 # 🌍 Daily Geopolitical & Macro Risk Report
-**Date:** 2026-11-10 | **Status:** Automated
+**Date:** 2026-11-11 | **Status:** Automated
 
 > **INSTRUCTION FOR AI:** Analyze the articles below to identify top 3 short-term market risks (Negative Sentiment) and top 3 investment opportunities (Positive Sentiment).
 
 ---
 
-## Article 1: Trump says Iran is sealed off. But can new US task force stop weapons flow?
+## Article 1: ‘Positive momentum’: Is the US war on Iran about to end?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.2617`
+
+Domestic pressures are injecting new life into stalled diplomatic talks, but analysts say peace still hangs by a thread. Diplomatic efforts to end the United States-Israel war on Iran have gathered pace, potentially reducing the chance of another round of intense conflict. US President Donald Trump and Qatars Prime Mi…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/11/10/positive-momentum-is-the-us-war-on-iran-about-to-end)
+---
+
+## Article 2: GOP wipeout goes from bad to worse as Dems quietly score another major win with big ramifications
+**Source:** Fox News | **Sentiment Score:** `-0.1280`
+
+Democrats flipped legislative chambers in Wisconsin, Michigan, Arizona and other battleground states, creating trifectas that could reshape redistricting. In addition to taking control of the House of Representatives, the Senate, and the majority of governorships on Tuesday, Democrats have also assumed control of the majority of state legislatures acro…
+
+[Read Original Article Here](https://www.foxnews.com/politics/gop-wipeout-goes-bad-worse-dems-quietly-score-another-major-win-big-ramifications)
+---
+
+## Article 3: GOP lawmaker ousts fellow Republican in gerrymandered California district
+**Source:** Fox News | **Sentiment Score:** `-0.8934`
+
+Republican Rep. Ken Calvert defeated Rep. Young Kim in a rare GOP vs. GOP battle forced by California Gov. Gavin Newsom's redistricting in the midterms. Gov. Gavin Newsom-signed California redistricting has scored at least a 2-for-1 consolidation of House Republicans. Rep. Ken Calvert, R-Calif., is projected to defeat fellow Rep. Young Kim, R-Calif.…
+
+[Read Original Article Here](https://www.foxnews.com/politics/gop-lawmaker-ousts-fellow-republican-gerrymandered-california-district)
+---
+
+## Article 4: Trump says Israel, Gulf allies must repay Iran war cost: What does it mean?
+**Source:** Al Jazeera English | **Sentiment Score:** `0.1280`
+
+Analysts say Trump’s comments are more likely to be political posturing than a reflection of serious policy priorities. United States President Donald Trump has said the US plans to seek compensation from countries it protected during its war on Iran. In an interview with CBS News correspondent Ross Douthat that aire…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/11/10/trump-says-israel-gulf-allies-must-repay-iran-war-cost-what-does-it-mean)
+---
+
+## Article 5: “Honey Pot” Espionage? NVIDIA Scandal Raises Questions About National Security”
+**Source:** Fox News | **Sentiment Score:** `0.1531`
+
+Reports indicate U.S. business leaders face serious vulnerability as Chinese intelligence services target major tech firms in an aggressive espionage campaign. Fox News Contributor and former CIA Station Chief Dan Hoffman explains how honey traps and compromi… Reports indicate U.S. business leaders face serious vulnerability as Chinese intelligence services target major tech firms in an aggressive espionage campaign. Fox News Contributor and former CIA Sta…
+
+[Read Original Article Here](https://radio.foxnews.com/2026/11/10/honey-pot-espionage-nvidia-scandal-raises-questions-about-national-security/)
+---
+
+## Article 6: Nvidia spy scandal fuels debate over chip exports to China
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.0516`
+
+US lawmakers call for tighter restrictions on chip sales amid inquiry into Nvidia CEO's relationship with alleged spy. Nvidia CEO Jensen Huangs intimate relationship with a woman accused of being a Chinese spy has highlighted divisions in Washington over the export of advanced chips to China. Huang, the head of one …
+
+[Read Original Article Here](https://www.aljazeera.com/economy/2026/11/10/nvidia-spy-scandal-fuels-debate-over-chip-exports-to-china)
+---
+
+## Article 7: Texas governor-elect's plan to freeze electricity prices raises questions over legal authority
+**Source:** Fox News | **Sentiment Score:** `-0.7269`
+
+Texas Democratic Governor-elect Gina Hinojosa plans to freeze electricity rates on Day One, but experts warn the move could trigger energy shortages. On her first day in office, Texas Democratic Gov.-elect Gina Hinojosa plans to freeze residential electricity rates in response to what she described as an affordability crisis. "On Day One as gover…
+
+[Read Original Article Here](https://www.foxnews.com/politics/texas-governor-elect-plan-freeze-electricity-prices-raises-questions-legal-authority)
+---
+
+## Article 8: Red counties with data center projects swung away from GOP in midterms, analysis finds
+**Source:** Fox News | **Sentiment Score:** `0.3400`
+
+Humans First's Amy Kremer warns data centers are driving voters away from Republicans as local control and property rights fuel community backlash. FIRST ON FOX: A new analysis from a conservative AI safety group found that deep-red counties with large data centers or proposed projects shifted further toward Democrats in last week's midterm elec…
+
+[Read Original Article Here](https://www.foxnews.com/politics/red-counties-data-center-projects-swung-away-gop-midterms-analysis-finds)
+---
+
+## Article 9: Can the Republican Party survive Trump?
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.5647`
+
+The party faces a battle for its future after the midterms, but Democrats may ultimately determine whether it recovers. There is a saying in politics: Every election is fundamentally about the next one. On November 3, the Republican Party suffered what some have labelled a near extinction-level loss in the 2026 midter…
+
+[Read Original Article Here](https://www.aljazeera.com/opinions/2026/11/10/can-the-republican-party-survive-trump)
+---
+
+## Article 10: Firms tied to West Bank settlements win $15m UK deals despite sanctions
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.3182`
+
+Former Labour leader Jeremy Corbyn called the findings ‘outrageous and frankly insulting to the public’. The United Kingdom awarded 10.7 million pounds ($14.4m) in new public contracts to firms with links to illegal Israeli settlements in the occupied West Bank, despite British government pledges to pun…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/11/10/firms-tied-to-west-bank-settlements-win-15m-uk-deals-despite-sanctions)
+---
+
+## Article 11: China set for record trade surplus as AI boom pushes it past $1 trillion in just 10 months
+**Source:** CNN | **Sentiment Score:** `-0.6486`
+
+China’s trade surplus surged past $1 trillion in the first 10 months as a global race to build AI infrastructure buoyed sales of high-tech products and helped offset weak domestic demand, a dynamic likely to sharpen tensions with major trading partners. Chinas trade surplus surged past $1 trillion in the first 10 months as a global race to build AI infrastructure buoyed sales of high-tech products and helped offset weak domestic demand, a dynamic li…
+
+[Read Original Article Here](https://www.cnn.com/2026/11/09/business/china-trade-surplus-1-trillion-intl-hnk)
+---
+
+## Article 12: “Imagine Saying That After We Were Attacked On 9/11” Michael McFaul Reacts to President Trumps 60 Minutes Interview
+**Source:** Fox News | **Sentiment Score:** `0.7351`
+
+Full Interview: Full Transcript: Guy Benson: Well, joining us again is former Ambassador Michael McFaul. He was President Obama’s ambassador to Russia. He is now a senior fellow here at Hoover, also a professor at Stanford. Mr. Ambassador, welcome back. Ambas… Full Interview: Full Transcript: Guy Benson: Well, joining us again is former Ambassador Michael McFaul. He was President Obama’s ambassador to Russia. He is now a senior fellow here at Hoover, als…
+
+[Read Original Article Here](https://radio.foxnews.com/2026/11/09/imagine-saying-that-after-we-were-attacked-on-9-11-michael-mcfaul-reacts-to-president-trumps-60-minutes-interview/)
+---
+
+## Article 13: France accelerates minimum wage hike in bid to quell protest
+**Source:** Al Jazeera English | **Sentiment Score:** `-0.2960`
+
+Unions slam the increase as insufficient, as the government seeks to defuse the unrest ahead of upcoming elections. The French government has announced it will move a planned rise in the minimum wage forward by a month as it seeks to quell mass protests over the cost of living. French Prime Minister Sebastien Lec…
+
+[Read Original Article Here](https://www.aljazeera.com/news/2026/11/9/france-accelerates-minimum-wage-hike-in-bid-to-quell-protest)
+---
+
+## Article 14: Trump says Iran is sealed off. But can new US task force stop weapons flow?
 **Source:** Al Jazeera English | **Sentiment Score:** `0.3400`
 
 Analysts say a small intelligence-focused unit cannot seal Iran’s borders, and others warn it could expand the war. It was another bold statement from United States President Donald Trump: An edict in his usual inflated style, claiming that the US had almost sealed Iran off from the rest of the world. Very little…
@@ -13,7 +117,7 @@ Analysts say a small intelligence-focused unit cannot seal Iran’s borders, and
 [Read Original Article Here](https://www.aljazeera.com/news-analysis/2026/11/9/trump-says-iran-is-sealed-off-but-can-new-us-task-force-stop-weapons-flow)
 ---
 
-## Article 2: Los Angeles mayoral race points to growing sway of democratic socialists
+## Article 15: Los Angeles mayoral race points to growing sway of democratic socialists
 **Source:** Al Jazeera English | **Sentiment Score:** `0.2263`
 
 Nithya Raman taps into frustration with economic and political status quo to become mayor of the second-largest US city. Los Angeles, United States On November 5, Los Angeles City Council member Nithya Raman was declared the winner of the local mayoral race, defeating the incumbent, Karen Bass, with nearly 53 percent o…
@@ -21,7 +125,7 @@ Nithya Raman taps into frustration with economic and political status quo to bec
 [Read Original Article Here](https://www.aljazeera.com/news/2026/11/9/los-angeles-mayoral-race-points-to-growing-sway-of-democratic-socialists)
 ---
 
-## Article 3: Iran stands by demands to end the war as US ramps up military pressure
+## Article 16: Iran stands by demands to end the war as US ramps up military pressure
 **Source:** Al Jazeera English | **Sentiment Score:** `-0.8859`
 
 Talks aimed at preventing new major fighting between the US and Iran are ongoing. Tehran, Iran The Iranian government has reported more strikes by the United States but insists this pressure will not impact its demands to end the war. Ahmad Nafisi, deputy governor for Hormozgan, …
@@ -29,7 +133,7 @@ Talks aimed at preventing new major fighting between the US and Iran are ongoing
 [Read Original Article Here](https://www.aljazeera.com/news/2026/11/9/iran-stands-by-demands-to-end-the-war-as-us-ramps-up-military-pressure)
 ---
 
-## Article 4: What ‘catastrophic’ South Africa local election results mean for ANC
+## Article 17: What ‘catastrophic’ South Africa local election results mean for ANC
 **Source:** Al Jazeera English | **Sentiment Score:** `0.5423`
 
 The country is transitioning away from the era of ANC electoral dominance towards a more fragmented political system. South Africas African National Congress (ANC) has recorded its worst-ever result in local elections, more than three decades after the party of Nelson Mandela led the country out of apartheid and int…
@@ -37,7 +141,7 @@ The country is transitioning away from the era of ANC electoral dominance toward
 [Read Original Article Here](https://www.aljazeera.com/news/2026/11/9/what-catastrophic-south-africa-local-election-results-mean-for-anc)
 ---
 
-## Article 5: Rubio defends Trump's Iran war as not 'necessarily popular, but necessary'
+## Article 18: Rubio defends Trump's Iran war as not 'necessarily popular, but necessary'
 **Source:** Fox News | **Sentiment Score:** `-0.9231`
 
 Secretary of State Marco Rubio defended Trump's Iran war as "necessary" to prevent a nuclear weapon, even as he ties it to Republican midterm losses. Secretary of State Marco Rubio defended President Donald Trump's decision to launch the war in Iran, saying it was "necessary" to prevent Tehran from obtaining a nuclear weapon. Rubio admitted that …
@@ -45,7 +149,7 @@ Secretary of State Marco Rubio defended Trump's Iran war as "necessary" to preve
 [Read Original Article Here](https://www.foxnews.com/politics/rubio-defends-trumps-iran-war-not-necessarily-popular-necessary)
 ---
 
-## Article 6: PAUL TELLER: Foreign investors are milking US taxpayers. Congress should stop them
+## Article 19: PAUL TELLER: Foreign investors are milking US taxpayers. Congress should stop them
 **Source:** Fox News | **Sentiment Score:** `0.1027`
 
 Foreign investors are financing American lawsuits and paying zero tax on their winnings, a loophole Treasury Secretary Scott Bessent calls "a malignancy." America has become too litigious. Even the slightest wrong seems to yield a lawsuit these days, lining the pockets of trial attorneys who profit from pitting Americans against Americans. But did you …
@@ -53,115 +157,11 @@ Foreign investors are financing American lawsuits and paying zero tax on their w
 [Read Original Article Here](https://www.foxnews.com/opinion/paul-teller-foreign-investors-milking-us-taxpayers-congress-should-stop-them)
 ---
 
-## Article 7: RILEY GAINES: Voters sent two midterm messages, and Democrats will only hear one
+## Article 20: RILEY GAINES: Voters sent two midterm messages, and Democrats will only hear one
 **Source:** Fox News | **Sentiment Score:** `-0.7556`
 
 Voters in Arizona, Colorado, Nebraska and Washington backed women's sports protections even while electing Democrats in the midterm election. Ill admit it. Tuesday night was disappointing. I expected Republicans to lose more seats than they flipped. History suggested as much. But I certainly didnt expect the results to be quite that bad.…
 
 [Read Original Article Here](https://www.foxnews.com/opinion/riley-gaines-voters-sent-two-midterm-messages-democrats-will-only-hear-one)
----
-
-## Article 8: What is next for Israel?
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.7430`
-
-The message of the vote is that the violent Israeli policies within occupied territory and the region will continue. There are two ways to read the results of the Israeli elections. One way would be to see them as a defeat for the government of Prime Minister Benjamin Netanyahu. From holding a solid majority in the…
-
-[Read Original Article Here](https://www.aljazeera.com/opinions/2026/11/9/what-is-next-for-israel)
----
-
-## Article 9: Bernie Sanders warns Democrats not to spend all their time investigating Trump
-**Source:** Fox News | **Sentiment Score:** `0.2960`
-
-Sen. Bernie Sanders warned Democrats not to spend all their time investigating the Trump administration, urging the party to prioritize affordability and working-class families. Sen. Bernie Sanders said Democrats should hold President Donald Trump accountable after taking control of the House and Senate in January, but warned the party not to spend too much time on probing t…
-
-[Read Original Article Here](https://www.foxnews.com/politics/bernie-sanders-warns-democrats-not-spend-all-time-investigating-trump)
----
-
-## Article 10: US chipmaker Nvidia investigates CEO Jensen Huang over affair
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.1531`
-
-Jensen Huang confirmed to staff reports he had been having an affair with a woman accused of spying for China. United States-based chipmaker Nvidia is investigating its chief executive officer, billionaire Jensen Huang, after he confirmed he had an intimate relationship with a woman accused of working for Chi…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair)
----
-
-## Article 11: After the midterms, where does the Republican Party stand?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.6254`
-
-GOP suffered a loss, but it is hardly a historic one. A party in power has always been held to account in the midterms. On Tuesday, the United States held midterm elections. Every one of the 435 seats in the US House of Representatives was up for election and 35 of the 100 US Senate seats were on the ballot. The resu…
-
-[Read Original Article Here](https://www.aljazeera.com/opinions/2026/11/8/after-the-midterms-where-does-the-republican-party-stand)
----
-
-## Article 12: Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.7717`
-
-Protesters seek stricter trade restrictions on Israel and a halt to all arms sales. More than 200,000 people have taken to the streets of Amsterdam in the Netherlands, demanding government action against Israels genocidal war on Gaza, according to the Dutch branch of Amnesty Interna…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam)
----
-
-## Article 13: Trump ‘holds all the cards’ in war against Iran’s regime, White House says
-**Source:** Fox News | **Sentiment Score:** `0.8020`
-
-Supreme Leader Ayatollah Mojtaba Khamenei taunts America after midterms, but the White House says Trump holds all the cards on the Strait of Hormuz. JERUSALEM With Irans missing-in-action Supreme Leader Ayatollah Mojtaba Khamenei taunting Americans about the "collapse" of the U.S. after the midterm elections, the White House and Middle East exper…
-
-[Read Original Article Here](https://www.foxnews.com/opinion/trump-holds-all-cards-war-against-irans-regime-white-house-says)
----
-
-## Article 14: Trump ‘holds all the cards’ in war against Iran’s regime, White House says
-**Source:** Fox News | **Sentiment Score:** `0.8020`
-
-Supreme Leader Ayatollah Mojtaba Khamenei taunts America after midterms, but the White House says Trump holds all the cards on the Strait of Hormuz. JERUSALEM With Irans missing-in-action Supreme Leader Ayatollah Mojtaba Khamenei taunting Americans about the "collapse" of the U.S. after the midterm elections, the White House and Middle East exper…
-
-[Read Original Article Here](https://www.foxnews.com/politics/trump-holds-all-cards-war-against-irans-regime-white-house-says)
----
-
-## Article 15: US task force to cut off Iran’s transport of advanced weapons: What we know
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.9274`
-
-As fears of an escalation grow, Washington announces 'Task Force Iron Gate'. As the threat of renewed war grows, Washington is expanding efforts to choke Tehrans military supply networks, including through Task Force Iron Gate  a unit targeting land routes and the Caspian Sea…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/11/8/us-task-force-to-cut-off-irans-transport-of-advanced-weapons-what-we-know)
----
-
-## Article 16: ELAINE PARKER: Democrat win is a wake-up call for Republicans, not a vote for socialism
-**Source:** Fox News | **Sentiment Score:** `-0.1406`
-
-Midterm elections sent a clear message on affordability, but Democrats would be wrong to interpret their victories as a mandate for socialism. The American people sent a clear message in Tuesday's midterm elections. But Democrats would be making a serious mistake if they interpreted their victories as an endorsement of socialism. Voters we…
-
-[Read Original Article Here](https://www.foxnews.com/opinion/elaine-parker-democrat-win-wake-up-call-republicans-not-vote-socialism)
----
-
-## Article 17: MAGA voters reveal who they want to see lead GOP in 2028
-**Source:** Fox News | **Sentiment Score:** `0.5994`
-
-MAGA voters at a Trump rally name JD Vance and Marco Rubio as early 2028 presidential election favorites after Democrats swept the midterms. With Democrats taking control of Congress in the midterm elections, MAGA voters are already sizing up potential successors to President Donald Trump in 2028 with Vice President JD Vance and Secretary…
-
-[Read Original Article Here](https://www.foxnews.com/politics/maga-voters-reveal-who-they-want-see-lead-gop-2028)
----
-
-## Article 18: Will Eisenkot be able to form Israel’s next gov’t amid divided opposition?
-**Source:** Al Jazeera English | **Sentiment Score:** `0.5106`
-
-Israel's former military chief has been given the opportunity to form a government after an inconclusive election. Israeli opposition leader Gadi Eisenkot has been given the opportunity to form a new government after Prime Minister Benjamin Netanyahus ruling coalition lost its parliamentary majority in the Octobe…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/11/8/will-eisenkot-be-able-to-form-israels-next-govt-amid-divided-opposition)
----
-
-## Article 19: Abdul El-Sayed slams Trump’s tariff war with Canada
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.9186`
-
-Michigan Senator-elect Abdul El-Sayed has criticised Trump’s trade war with Canada. Michigan Senator-elect Abdul El-Sayed has criticised Trumps trade war with Canada, warning that US consumers pay the price through higher costs on Canadian goods. Speaking on Pod Save America, he moc…
-
-[Read Original Article Here](https://www.aljazeera.com/video/newsfeed/2026/11/7/abdul-el-sayed-slams-trumps-tariff-war-with-canada)
----
-
-## Article 20: More than 140,000 rally as new protests against rising costs sweep France
-**Source:** Al Jazeera English | **Sentiment Score:** `-0.7717`
-
-Tear gas fired in Paris and Lyon as interior minister warns authorities are 'ready and waiting' for rioters and looters. Tens of thousands of people have protested across France for a fourth consecutive weekend, in another show of anger against the government. About 146,000 people rallied across the country to protest…
-
-[Read Original Article Here](https://www.aljazeera.com/news/2026/11/7/more-than-140000-rally-as-new-protests-against-rising-costs-sweep-france)
 ---
 
